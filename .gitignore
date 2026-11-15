@@ -6,7 +6,8 @@
 01_Structured_and_Renamed_Inputs/06_Cardiology_24h_Holter_ECG/Extracted_Pages/
 00_Raw_Backup_Archive/
 
-# Python / OS caches
+# Python / OS / Netlify local state
+.netlify/
 __pycache__/
 *.pyc
 .DS_Store
