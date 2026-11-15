@@ -888,8 +888,8 @@ def build_executive_summary_html() -> str:
   <thead><tr><th style="width:20%">Clinical Dilemma</th><th style="width:42%">Integrated Pathophysiological Mechanism</th><th style="width:38%">MDT Consensus Decision</th></tr></thead>
   <tbody>
     <tr><td><strong>1. Left Pulsatile Tinnitus &amp; DSA Debate</strong></td><td>Turbulent flow across attenuated Lt Transverse-Sigmoid-IJV (<code>L/R 0.48</code>) + mastoid emissary vein, amplified by <strong>3.2 cm³ flaccid Lt eardrum</strong> &amp; nocturnal supine CVP rise. Firm posterior pressure collapses BOTH venous &amp; occipital artery!</td><td><strong>Defer direct DSA.</strong> Step 1: Light anterior IJV vs pinpoint occipital compression + auscultation -&gt; Step 2A Medical/sinus/BP trial (if venous) or Step 2B <strong>4D-MRA / Temporal HRCT+CTA/CTV</strong> (eGFR check + 48h Metformin hold) -&gt; Step 3 Conditional DSA only if positive.</td></tr>
-    <tr><td><strong>2. White Matter &amp; Tremor Conflict</strong></td><td><strong>CSVD Fazekas 1–2</strong> (NOT MS; 2017 McDonald DIS negative). Tremor = <strong>Essential Tremor + Head Titubation</strong> (Dr. Galhom; 9 EEG epochs = EMG artifact only) + <strong>BG lacunar</strong> vulnerability + <strong>80 IU/d insulin AM surges</strong>.</td><td>No lumbar puncture/MS workup. Run formal <strong>MDS-UPDRS off/on Sinemet test</strong> before tapering Levodopa; start <strong>14-day CGM</strong>; replace risky unmonitored Propranolol/Ginkgo regimen safely.</td></tr>
-    <tr><td><strong>3. Disabling "4-Hit" Vertigo</strong></td><td>Hit 1: Lt labyrinthine micro-infarct; Hit 2: <strong>Bilateral Legal Blindness (&lt;1/60)</strong>; Hit 3: CSVD + neuropathy + <strong>Meclizine suppression</strong>; Hit 4: PVCs / -2.1 mm ST / BP &amp; glucose dips.</td><td><strong>STOP Meclizine</strong> immediately (unlock compensation); perform <strong>Blindness-Adapted VNG</strong> (dark positional + bithermal calorics only); begin <strong>Non-Visual Somatosensory VRT</strong>.</td></tr>
+    <tr><td><strong>2. White Matter &amp; Tremor Conflict</strong></td><td><strong>CSVD Fazekas 1–2</strong> (NOT MS; 2017 McDonald DIS negative, echoed by 12-yr <strong>2014 Optovue baseline</strong>). Tremor = <strong>ET + Titubation</strong> (Dr. Galhom) + BG lacune + <strong>80 IU/d AM dips</strong>.</td><td>No lumbar puncture/MS workup. Run formal <strong>MDS-UPDRS off/on Sinemet</strong> (freed from Cetrovit L-Tyrosine LAT1 competition) + <strong>14d CGM</strong>; keep <strong>Brain-Ox/Ginkgo/Escitalopram STOPPED</strong>.</td></tr>
+    <tr><td><strong>3. Disabling "4-Hit" Vertigo</strong></td><td>Hit 1: Lt labyrinthine micro-infarct; Hit 2: <strong>Bilateral Legal Blindness (&lt;1/60)</strong>; Hit 3: CSVD + neuropathy (prior <strong>Meclizine</strong> STOPPED); Hit 4: PVCs / -2.1 mm ST / BP &amp; glucose dips.</td><td>Keep <strong>Meclizine DISCONTINUED</strong> (unlock VRT); continue active <strong>Nasonex</strong>; perform <strong>Dark-Only VNG</strong> (positional + calorics only); start <strong>Non-Visual VRT</strong>.</td></tr>
     <tr><td><strong>4. Auditory / Type Ad Paradox</strong></td><td>Non-progressive prior cochlear end-artery infarct spared CN VIII (<code>WRS 76%</code>) + historical Metz (<code>45 dB SL</code>). Left monomeric drum laxity (<code>3.2 cm³</code>) &amp; Rt <code>1.5 cm³</code> refutes hand-noted <code>'Rt As'</code> (0 dB ABG).</td><td>Fit <strong>Bilateral Open-Fit WDRC RIC Hearing Aids</strong> (soft vented domes; avoid occlusion!) with strict <strong>OSPL90 &lt;= 95–100 dB SPL</strong> on Left Ear + binaural navigation safety.</td></tr>
   </tbody>
 </table>
@@ -930,7 +930,7 @@ def build_executive_summary_html() -> str:
   <div class="card">
     <div class="card-title"><span class="badge b-green">Priority 2</span> ENT, Neurotology &amp; Audiology</div>
     <ul>
-      <li><strong>Deprescribe &amp; Sinus Care:</strong> <strong>STOP Meclizine</strong> &amp; <strong>Cetrovit Ginkgo</strong> immediately. Treat bilateral ethmoidal sinusitis with <strong>Mometasone 50 mcg nasal spray</strong> + isotonic saline x 6–8 wks + elevate head of bed 30 deg.</li>
+      <li><strong>Med Cleanup &amp; Sinus Care:</strong> Keep <strong>Meclizine</strong>, <strong>Cetrovit Ginkgo</strong>, <strong>Brain-Ox</strong> &amp; <strong>Escitalopram</strong> <strong>STOPPED</strong> (sub <strong>pure Citicoline 500 + Vit B1/B6/B12</strong>). <strong>Continue active Nasonex (Mometasone 50 mcg)</strong> + saline (IOP check 4–6w) + 30 deg head elevation.</li>
       <li><strong>Blindness-Adapted VNG &amp; VRT:</strong> Skip saccade/pursuit/OPK; run <strong>dark Dix-Hallpike + bithermal calorics</strong>. Start supervised <strong>non-visual somatosensory VRT</strong> &amp; home fall-proofing.</li>
       <li><strong>Binaural Hearing Aids &amp; Eye Guardrails (C6/C7):</strong> Bilateral <strong>Open-Fit WDRC RIC</strong> (vented domes, Lt <code>OSPL90 &lt;= 95–100 dB</code>). Order <strong>2026 B-Scan OU + IOP</strong>; topical drops ONLY (<strong>NEVER oral Cidamex</strong> atop HCTZ!); keep <code>BP &gt;= 115/70</code> for <code>40 &micro;m</code> nerve &amp; focus low-vision care on <strong>OD</strong>.</li>
     </ul>
@@ -942,8 +942,8 @@ def build_executive_summary_html() -> str:
   <thead><tr><th style="width:20%">Drug / Regimen Audited</th><th style="width:14%">Severity</th><th style="width:33%">Specific Physiological / Pharmacological Hazard</th><th style="width:33%">Modified MDT Action &amp; Monitoring</th></tr></thead>
   <tbody>
     <tr><td><strong>Angiopress Comp</strong> (Captopril 50/HCTZ 25 OD) + <strong>Cidamex</strong></td><td><span class="badge b-red">CONTRAINDICATED</span></td><td>Dual renal K+ wasting -&gt; severe <strong>hypokalemia triggering PVCs/V-runs</strong>; short Captopril t1/2 causes nocturnal BP rebound.</td><td><strong>STOP HCTZ &amp; AVOID Cidamex.</strong> Replace with <strong>Perindopril 5 mg</strong> (or Telmisartan) + <strong>Bisoprolol 2.5–5 mg</strong> after K+/eGFR check.</td></tr>
-    <tr><td><strong>Aggrex 75</strong> + <strong>Cetrovit Ginkgo</strong> + <strong>Ciprapro 10</strong></td><td><span class="badge b-red">HIGH BLEED RISK</span></td><td>Triple antiplatelet/PAF/5-HT inhibition -&gt; major GI &amp; CSVD cerebral microbleed hazard without proven ENT benefit.</td><td><strong>STOP Cetrovit Ginkgo</strong> immediately. Keep <strong>Aspirin 75–81 mg OD</strong>; reassess necessity of <code>Ciprapro 10 mg</code>.</td></tr>
-    <tr><td><strong>Meclizine</strong> (qPM x 1 mo) &amp; <strong>Brain-Ox</strong> (Vincamine 30)</td><td><span class="badge b-red">STOP BOTH</span></td><td>Meclizine blocks vestibular compensation &amp; adds anticholinergic fall risk in blind patient; Vincamine risks additive hypotension.</td><td><strong>STOP regular Meclizine</strong> (only &lt;48h for acute spinning) and <strong>deprescribe Brain-Ox</strong>; start <strong>Non-Visual VRT + Mometasone</strong>.</td></tr>
+    <tr><td><strong>Aggrex 75</strong> + <strong>Cetrovit Ginkgo</strong> (10-ingred. 2-cap label) + <strong>Escitalopram</strong></td><td><span class="badge b-red">STOPPED</span></td><td>L-Tyrosine 250mg competes w/ Sinemet @ LAT1 + spikes PVCs/BP; Ginkgo 60mg + Aspirin bleeds; SSRI+HCTZ drops Na+/QT.</td><td><strong>STOP Cetrovit Ginkgo &amp; Escitalopram</strong>; keep <strong>Aggrex 75</strong>; sub <strong>pure Citicoline 500 + B1/B6/B12</strong>.</td></tr>
+    <tr><td><strong>Meclizine</strong> &amp; <strong>Brain-Ox</strong> (Vincamine 30) | <strong>Nasonex (Active)</strong></td><td><span class="badge b-red">STOP / ACTIVE</span></td><td>Meclizine blocks VRT &amp; increases falls; Brain-Ox adds QT/PVC risk (-2.1mm/HCTZ) + nocturnal optic steal; Nasonex treats ethmoiditis.</td><td><strong>STOP Meclizine &amp; Brain-Ox</strong> (use Statin + Aggrex + Citicoline 500); <strong>continue active Nasonex</strong> (+ 4–6w IOP check).</td></tr>
     <tr><td><strong>Inderal 10 mg BID</strong> + <strong>Toujeo 30U + Apidra 50U</strong></td><td><span class="badge b-amber">HIGH CAUTION</span></td><td>Propranolol eases ET/tinnitus/PVCs, <strong>but β2 blockade masks insulin hypoglycemia</strong> &amp; impairs hepatic recovery!</td><td><strong>Verify CGM first</strong>; consider switching to cardioselective <strong>Bisoprolol</strong> (or keep Propranolol LA strictly with active CGM alarms).</td></tr>
     <tr><td><strong>Zatorva 20 mg</strong> + <strong>Gliptus Plus</strong> (Metformin) + <strong>Sinemet</strong></td><td><span class="badge b-blue">OPTIMIZE</span></td><td>Statin dose too weak for <code>5 mm</code> bulb plaque + CAD; Metformin risks MALA if contrast given without 48h hold.</td><td><strong>Atorvastatin 40–80 mg nocte</strong>; verify eGFR &amp; hold Metformin 48h for CTA/DSA; continue <strong>Cobal F</strong> if B12 low; test Sinemet before taper.</td></tr>
   </tbody>
@@ -960,7 +960,7 @@ def build_executive_summary_html() -> str:
   </div>
   <div class="arabic-box" dir="rtl" lang="ar" style="margin:0;">
     <div class="ar-title">خطة التنفيذ وتعديل الأدوية العاجل (الورقة 2)</div>
-    <strong>الأولوية القصوى:</strong> (1) <strong>أوقف فوراً</strong> <bdi dir="ltr">Meclizine</bdi> و <bdi dir="ltr">Cetrovit Ginkgo</bdi> و <bdi dir="ltr">Brain-Ox</bdi> وامنع <bdi dir="ltr">Cidamex</bdi>. (2) حلل <bdi dir="ltr">K+, Mg2+, Cr/eGFR, CBC, TSH, HbA1c, B12</bdi> وركب سنسور سكر (<bdi dir="ltr">CGM</bdi>). (3) بعد تقييم القلب (<bdi dir="ltr">Echo + Dobutamine/SPECT</bdi>)، استبدل <bdi dir="ltr">Angiopress Comp</bdi> بـ <bdi dir="ltr">Perindopril/Telmisartan</bdi> + <bdi dir="ltr">Bisoprolol</bdi> (أو تثبيت الإندرال تحت حماية <bdi dir="ltr">CGM</bdi>) وارفع <bdi dir="ltr">Atorvastatin</bdi> لـ <bdi dir="ltr">40–80 mg</bdi>. (4) بخاخ <bdi dir="ltr">Mometasone</bdi> للجيوب، رفع الرأس <bdi dir="ltr">30°</bdi>، تأهيل اتزان لا بصري، وسماعتين <bdi dir="ltr">Open-Fit WDRC (&lt;= 100 dB)</bdi>، وسونار عيون <bdi dir="ltr">2026 + IOP</bdi> مع حماية تروية اليمين وقطرات موضعية عند اللزوم فقط.
+    <strong>الأولوية القصوى:</strong> (1) <strong>تأكيد الإيقاف النهائي لـ</strong> <bdi dir="ltr">Brain-Ox</bdi> و <bdi dir="ltr">Cetrovit Ginkgo</bdi> (<bdi dir="ltr">L-Tyrosine + Ginkgo</bdi>) و <bdi dir="ltr">Meclizine</bdi> و <bdi dir="ltr">Escitalopram</bdi> مع حظر <bdi dir="ltr">Cidamex</bdi> والاستعاضة بـ <bdi dir="ltr">Citicoline 500 mg + B1/B6/B12</bdi>. (2) تحاليل <bdi dir="ltr">K+, Mg2+, Cr/eGFR, CBC, TSH, HbA1c, B12</bdi> وسنسور <bdi dir="ltr">CGM</bdi>. (3) تحويل <bdi dir="ltr">Angiopress</bdi> بعد فحص القلب لـ <bdi dir="ltr">Perindopril + Bisoprolol</bdi> و<bdi dir="ltr">Atorvastatin 40–80 mg</bdi>. (4) <strong>الاستمرار على بخاخ <bdi dir="ltr">Nasonex</bdi> النشط</strong> + <bdi dir="ltr">30°</bdi> + <bdi dir="ltr">VRT</bdi> + سماعتي <bdi dir="ltr">Open-Fit (&lt;= 100 dB)</bdi> وسونار <bdi dir="ltr">2026 + IOP</bdi>.
   </div>
 </div>
 
@@ -973,11 +973,20 @@ def build_consultant_compendium_html() -> str:
     audit_files = [
         ("Consultant 1 — Diagnostic Head, Neck & Neuroradiology", AUDITS_DIR / "Consultant_1_Diagnostic_Head_Neck_Neuroradiology.md", ["ROI1a_MRV_Left_Transverse_Sigmoid_IJV_CLAHE_Zoom.png", "ROI1b_MRA_3D_TOF_SourceSlices_SkullBase_Mastoid_Occipital_CLAHE.png", "ROI1c_Left_Mastoid_Sigmoid_Occipital_MicroZoom_dAVF_Audit.png"]),
         ("Consultant 2 — Multiple Sclerosis (MS) & White Matter Disorders", AUDITS_DIR / "Consultant_2_MS_and_White_Matter_Disorders.md", ["ROI3_BasalGanglia_WhiteMatter_LacunarInfarcts_CLAHE.png"]),
-        ("Consultant 3 — Medical Neurology, Vascular & Movement Disorders", AUDITS_DIR / "Consultant_3_Medical_Neurology_Vascular_and_Movement_Disorders.md", ["ROI4_Clinical_Handwriting_and_Holter_KeyStrips_Zoom.png", "ROI5b_2024_CT_Brain_and_ProlongedEEG_TremorArtifacts.png", VASC_LL_DIR / "VASC_2011-06-21_LowerLimb_ColorDoppler_Report_DrHelmyRashad_LtCalfPerforatorIncompetence.png"]),
+        ("Consultant 3 — Medical Neurology, Vascular & Movement Disorders", AUDITS_DIR / "Consultant_3_Medical_Neurology_Vascular_and_Movement_Disorders.md", [
+            "ROI4_Clinical_Handwriting_and_Holter_KeyStrips_Zoom.png",
+            "ROI5b_2024_CT_Brain_and_ProlongedEEG_TremorArtifacts.png",
+            VASC_LL_DIR / "VASC_2011-06-21_LowerLimb_ColorDoppler_Report_DrHelmyRashad_LtCalfPerforatorIncompetence.png",
+            OPHTH_DIR / "2014_04_23_Historical_Optovue_OCT" / "OPHTH_2014-04-23_Optovue_MaculaMap_EMM5_OU_RPE_Disruption_OD280_OS100_HISTORICAL.png",
+            OPHTH_DIR / "2014_04_23_Historical_Optovue_OCT" / "OPHTH_2014-04-23_Optovue_OpticNerve_OS_RNFL78.36um_CDVert0.83_HISTORICAL.png",
+        ]),
         ("Consultant 4 — Senior Consultant in Neurosurgery", AUDITS_DIR / "Consultant_4_Neurosurgery.md", []),
         ("Consultant 5 — Neuro-Interventional Radiology (DSA Decision Resolution)", AUDITS_DIR / "Consultant_5_Neuro_Interventional_Radiology.md", []),
         ("Consultant 6 — ENT, Neurotology & Clinical Audiology", AUDITS_DIR / "Consultant_6_ENT_Neurotology_and_Clinical_Audiology.md", ["ROI2_NeuroOtological_IAC_CPA_Orbits_Ethmoid_CLAHE.png", "ROI5a_Audiology_2026-11-03_MaskedPTA_and_GSI39_Tymp_Zoom.png"]),
         ("Consultant 7 — Ophthalmology (Vitreoretinal & Neuro-Ophthalmology)", AUDITS_DIR / "Consultant_7_Ophthalmology_Vitreoretinal_and_NeuroOphthalmology.md", [
+            OPHTH_DIR / "2014_04_23_Historical_Optovue_OCT" / "OPHTH_2014-04-23_Optovue_Macula_OD_CystoidEdema_RPEDisruption_HISTORICAL.png",
+            OPHTH_DIR / "2014_04_23_Historical_Optovue_OCT" / "OPHTH_2014-04-23_Optovue_MaculaMap_EMM5_OU_RPE_Disruption_OD280_OS100_HISTORICAL.png",
+            OPHTH_DIR / "2014_04_23_Historical_Optovue_OCT" / "OPHTH_2014-04-23_Optovue_OpticNerve_OS_RNFL78.36um_CDVert0.83_HISTORICAL.png",
             OPHTH_DIR / "2026_06_Topcon_OCT_and_VisualField" / "OPHTH_2026-06-01_Topcon_OCT_OpticNerve_3DDisc_OD_RNFL40um_SevereAtrophy_Qual9.png",
             OPHTH_DIR / "2026_06_Topcon_OCT_and_VisualField" / "OPHTH_2026-06-01_Topcon_OCT_OpticNerve_3DDisc_OS_Qual2_MediaArtifact.png",
             OPHTH_DIR / "2026_06_Topcon_OCT_and_VisualField" / "OPHTH_2026-06-27_Zeiss_VisualField_HFA_VFI18pct_UnreliableTest_DrAlaaKhaled.png",
@@ -1002,13 +1011,17 @@ def build_consultant_compendium_html() -> str:
         for rname in roi_names:
             rpath = rname if isinstance(rname, Path) else (ROI_DIR / rname)
             rlabel = rpath.name
+            is_2014 = "2014-04-23" in rlabel
             is_hist = ("HISTORICAL" in rlabel) or rlabel.startswith("VASC_2011") or rlabel.startswith("ROI5b_2024")
-            box_style = ' style="border:2px solid #f59e0b;background:#fffbeb;"' if is_hist else ""
-            cap_prefix = (
-                '<span class="badge b-amber">HISTORICAL / OLD EXAM (2011–2024)</span> '
-                if is_hist
-                else '<span class="badge b-blue">CURRENT 2026 EVIDENCE PLATE</span> '
-            )
+            if is_2014:
+                box_style = ' style="border:2px solid #F59E0B;background:rgba(245,158,11,0.12);"'
+                cap_prefix = '<span class="badge b-amber">⚠️ HISTORICAL RECORD — 2014 BASELINE (PRE-RETINAL DETACHMENT / 12 YEARS OLD)</span> '
+            elif is_hist:
+                box_style = ' style="border:2px solid #f59e0b;background:#fffbeb;"'
+                cap_prefix = '<span class="badge b-amber">HISTORICAL / OLD EXAM (2011–2024)</span> '
+            else:
+                box_style = ""
+                cap_prefix = '<span class="badge b-blue">CURRENT 2026 EVIDENCE PLATE</span> '
             if rpath.exists():
                 b64 = img_to_data_uri(rpath)
                 roi_blocks.append(
@@ -1045,11 +1058,11 @@ def build_consultant_compendium_html() -> str:
   <tbody>
     <tr><td><strong>1. Diagnostic Neuroradiology</strong></td><td>CSVD (Fazekas 1–2) + chronic BG/subcortical lacunes; Rt-dominant MRV; attenuated Lt TS/Sigmoid/IJV (0.48); clear mastoids; intact IACs; no high-flow dAVF.</td><td>Official Rology PDF omitted <strong>Left Intraocular Silicone Oil (2.59x)</strong> persisting since <strong>2024-07-27 CT</strong> &amp; optic atrophy; MRVFilm06 markers verified (PA R-on-right).</td><td>If arterial/bony lesion suspected -&gt; <strong>Temporal Bone HRCT + CTA/CTV</strong> or <strong>4D-MRA</strong>.</td></tr>
     <tr><td><strong>2. MS &amp; White Matter</strong></td><td><strong>MS &amp; CNS Vasculitis EXCLUDED.</strong> Hypertensive-Diabetic CSVD Fazekas 1–2 (0 Dawson fingers, spared corpus callosum/U-fibers/brainstem).</td><td>Prior concern over white matter foci + optic atrophy explained by retinal/vascular retinopathy, NOT demyelination; Holter ST/PVCs accelerate CSVD.</td><td>No LP/oligoclonal bands; aggressive vascular &amp; cardiac rhythm risk factor control is sole white matter DMD.</td></tr>
-    <tr><td><strong>3. Medical Neurology &amp; Movement</strong></td><td>Mixed Tremor: <strong>Essential Tremor + Head Titubation</strong> (Dr. Galhom) + Vascular BG vulnerability + <strong>06–09 AM insulin adrenergic dips</strong> (<code>36.29%</code> PVC cluster).</td><td>Prior PD/Sinemet clashed with Dr. Galhom's Rx (<code>Essential tremor, Titubation, لا lower</code>); <strong>2024-07-17 2h EEG (9 epochs)</strong> proved 9 Hz alpha + EMG tremor bursts only (0 spikes); <strong>Inderal masks hypoglycemia</strong>.</td><td>Formal off/on Sinemet <strong>MDS-UPDRS</strong> + 14d CGM; stop Ginkgo; switch Captopril/HCTZ; Atorvastatin 40–80 mg.</td></tr>
+    <tr><td><strong>3. Medical Neurology &amp; Movement</strong></td><td>Mixed Tremor: <strong>ET + Titubation</strong> (Dr. Galhom) + BG lacune + <strong>06–09 AM insulin dips</strong> (<code>36.29%</code> PVC); <strong>2014 Optovue baseline</strong> links &gt;12y microangiopathy to CSVD.</td><td>2024 2h EEG = 9 Hz alpha (0 spikes); <strong>Brain-Ox</strong> (QT/steal), <strong>Cetrovit</strong> (L-Tyrosine LAT1/Ginkgo 60) &amp; <strong>Escitalopram</strong> (Na+/QT) STOPPED.</td><td>Off/on Sinemet <strong>MDS-UPDRS</strong> + 14d CGM; sub <strong>Citicoline 500 + B1/B6/B12</strong>; Atorvastatin 40–80 mg; active Nasonex.</td></tr>
     <tr><td><strong>4. Neurosurgery</strong></td><td>Zero tumor, aneurysm, Chiari, hydrocephalus, or high-grade Cognard IIb–IV dAVF with cortical venous reflux across 2024 CT and 2026 MRI.</td><td>Validates referring surgeon's dAVF vigilance while proving immediate surgical/hemorrhage urgency is absent; 2024 EEG confirms non-epileptic movement.</td><td>Defer invasive DSA to avoid crossing <code>5 mm</code> bulb plaque; preserve dominant Rt Transverse-Sigmoid-IJV.</td></tr>
     <tr><td><strong>5. Neuro-Interventional Radiology</strong></td><td>Resolves DSA controversy: 1.5T TOF can miss Cognard I, but blind DSA carries high thromboembolic/CA-AKI/cardiac risk.</td><td><code>5 mm</code> Lt Carotid Bulb plaque sits directly in left ECA catheter path + pending eGFR on Metformin + <code>-2.1 mm</code> ST ischemia &amp; <code>3.78%</code> AM PVC burden.</td><td>Enforce <strong>3-Step Gatekeeper</strong> (Bedside selective IJV vs Occipital -&gt; 4D-MRA/CTA after eGFR -&gt; Conditional DSA).</td></tr>
-    <tr><td><strong>6. ENT, Neurotology &amp; Audiology</strong></td><td>Definitive <strong>2026-11-03 Baseline</strong>: Stable pure SNHL (0 dB ABG, Rt WRS 84%, Lt WRS 76%) + <strong>Extreme Lt Type Ad (3.2 cm³)</strong> + <strong>4-Hit Vertigo</strong>.</td><td><strong>Rt 1.5 cm³ Type A refutes handwritten 'Rt As'</strong>; Lt 3.2 cm³ amplifies venous tinnitus/PVCs; <strong>&lt;1/60 blindness invalidates optical VNG</strong>.</td><td><strong>STOP Meclizine</strong>; dark-only VNG; non-visual VRT; bilateral <strong>Open-Fit WDRC RIC (&lt;= 95–100 dB SPL)</strong>.</td></tr>
-    <tr><td><strong>7. Ophthalmology (Vitreoretinal &amp; Neuro-Ophth)</strong></td><td>12-yr diabetic/glaucomatous progression (2014–2021 oil OU): <strong>OD Qual 10 clear (40 &micro;m RNFL)</strong>; <strong>OS Qual 2 trap &amp; ERG OPs 0.74 &micro;V</strong>, yet <strong>VEP present OU (10.29 / 7.99 &micro;V)</strong>.</td><td>Functional OS reading recovery very unlikely &amp; ~7-yr oil removal hazardous; yet preserved VEP + normal MRI chiasm require IOP &amp; perfusion protection!</td><td>Urgent <strong>2026 B-Scan OU + IOP + Gonioscopy</strong>; topical drops ONLY (NO oral Cidamex!); <code>BP &gt;= 115/70</code>; OD low-vision aids.</td></tr>
+    <tr><td><strong>6. ENT, Neurotology &amp; Audiology</strong></td><td>Definitive <strong>2026-11-03 Baseline</strong>: Stable pure SNHL (0 dB ABG, Rt WRS 84%, Lt WRS 76%) + <strong>Extreme Lt Type Ad (3.2 cm³)</strong> + <strong>4-Hit Vertigo</strong>.</td><td><strong>Rt 1.5 cm³ Type A refutes handwritten 'Rt As'</strong>; Lt 3.2 cm³ amplifies venous tinnitus/PVCs; <strong>&lt;1/60 blindness invalidates optical VNG</strong>.</td><td>Keep <strong>Meclizine/Ginkgo/Brain-Ox STOPPED</strong>; continue active <strong>Nasonex</strong>; dark VNG + non-visual VRT; <strong>Open-Fit WDRC RIC (&lt;= 100 dB)</strong>.</td></tr>
+    <tr><td><strong>7. Ophthalmology (Vitreoretinal &amp; Neuro-Ophth)</strong></td><td>12-yr progression [<strong>2014 BASELINE</strong> RNFL 78.36 &amp; OD CME 280 -&gt; 2019 64 &micro;m -&gt; oil OU]: <strong>OD Qual 10 (40 &micro;m)</strong>; <strong>OS OPs 0.74 &micro;V</strong>, yet <strong>VEP OU (10.29 / 7.99 &micro;V)</strong>!</td><td>Co-audited w/ Neurology C3 (no standalone 2014 fundus camera JPG uploaded); functional OS recovery unlikely &amp; ~7y oil removal risky; yet VEP + chiasm intact!</td><td>Urgent <strong>2026 B-Scan OU + IOP</strong>; topical drops ONLY (NO oral Cidamex!); check IOP 4–6w on active <strong>Nasonex</strong>; <code>BP &gt;= 115/70</code>.</td></tr>
   </tbody>
 </table>
 
@@ -1057,7 +1070,7 @@ def build_consultant_compendium_html() -> str:
 
 <div class="arabic-box" dir="rtl" lang="ar" style="margin:5px 0 0 0;padding:6px 10px;font-size:8.7pt;line-height:1.45;">
   <div class="ar-title" style="margin-bottom:2px;font-size:9.3pt;">خلاصة اجتماع اللجنة الطبية السباعية (<bdi dir="ltr">7-Consultant MDT Board</bdi>) — إجمالي 69 ملفاً موثقاً</div>
-  تم تجميع الآراء العلمية المستقلة للاستشاريين الستة بالكامل في الصفحات التالية مع لوحات الزوم الميكروسكوبية (<bdi dir="ltr">CLAHE &amp; ROI Panels</bdi>) لتقديم مرجع تخصصي موثق يغطي الأشعة العصبية، التصلب المتعدد، الأعصاب والحركة، جراحة المخ، القسطرة التداخلية، والأنف والأذن والسمعيات.
+  تم تجميع الآراء العلمية المستقلة للاستشاريين السبعة بالكامل في الصفحات التالية مع لوحات الزوم الميكروسكوبية (<bdi dir="ltr">CLAHE &amp; ROI Panels</bdi>) وفحوصات <bdi dir="ltr">2014</bdi> التاريخية الموثقة بين الأعصاب والعيون لتقديم مرجع تخصصي متكامل ومحدّث دوائياً حتى <bdi dir="ltr">15-11-2026</bdi>.
 </div>
 """
 
@@ -1101,15 +1114,24 @@ def build_full_case_study_html() -> str:
         ("Plate K [CURRENT 2026-06-01 & 06-27] — Topcon OS Qual 2 Artifact ('90 um' Noise Trap)", OPHTH_DIR / "2026_06_Topcon_OCT_and_VisualField" / "OPHTH_2026-06-01_Topcon_OCT_OpticNerve_3DDisc_OS_Qual2_MediaArtifact.png"),
         ("Plate L [CURRENT 2026-07-08] — CSO ERG Oscillatory Potentials OS Collapse (0.74 vs 10.0 uV OD)", OPHTH_DIR / "2026_07_CSO_VEP_and_ERG" / "OPHTH_2026-07-08_CSO_ERG_OscillatoryPotentials_OD10.0uV_OS0.74uV_SevereOSIschemia.png"),
         ("Plate M [CURRENT 2026-07-08] — CSO Flash VEP OS Preserved Conduction (7.99 uV, P2 132.4 ms)", OPHTH_DIR / "2026_07_CSO_VEP_and_ERG" / "OPHTH_2026-07-08_CSO_Flash_VEP_OS_Present_N1P1_7.99uV_P2_132.42ms.png"),
-        ("Plate N [HISTORICAL — 2019-08-20] — Optopol OS Severe RNFL Thinning (64 um Red, Pre-Op)", OPHTH_DIR / "2019_Historical_OCT_Referral_BScan" / "OPHTH_2019-08-20_Optopol_OCT_OS_SevereRNFLThinning_MeanTSNIT64_HISTORICAL.png"),
+        ("Plate N0 [⚠️ HISTORICAL RECORD — 2014 BASELINE (PRE-RETINAL DETACHMENT / 12 YEARS OLD)] — Optovue OD CME / RPE Disruption (Dual Neuro & Ophth)", OPHTH_DIR / "2014_04_23_Historical_Optovue_OCT" / "OPHTH_2014-04-23_Optovue_Macula_OD_CystoidEdema_RPEDisruption_HISTORICAL.png"),
+        ("Plate N1 [⚠️ HISTORICAL RECORD — 2014 BASELINE (PRE-RETINAL DETACHMENT / 12 YEARS OLD)] — Optovue EMM5 Macula Map OD 280 / OS 100", OPHTH_DIR / "2014_04_23_Historical_Optovue_OCT" / "OPHTH_2014-04-23_Optovue_MaculaMap_EMM5_OU_RPE_Disruption_OD280_OS100_HISTORICAL.png"),
+        ("Plate N2 [⚠️ HISTORICAL RECORD — 2014 BASELINE (PRE-RETINAL DETACHMENT / 12 YEARS OLD)] — Optovue OS RNFL 78.36 um / Vert C/D 0.83", OPHTH_DIR / "2014_04_23_Historical_Optovue_OCT" / "OPHTH_2014-04-23_Optovue_OpticNerve_OS_RNFL78.36um_CDVert0.83_HISTORICAL.png"),
+        ("Plate N3 [HISTORICAL — 2019-08-20] — Optopol OS Severe RNFL Thinning (64 um Red, Pre-Op)", OPHTH_DIR / "2019_Historical_OCT_Referral_BScan" / "OPHTH_2019-08-20_Optopol_OCT_OS_SevereRNFLThinning_MeanTSNIT64_HISTORICAL.png"),
         ("Plate O [HISTORICAL — 2011-06-21] — Lower Limb Color Doppler Report (PAD/DVT Excluded)", VASC_LL_DIR / "VASC_2011-06-21_LowerLimb_ColorDoppler_Report_DrHelmyRashad_LtCalfPerforatorIncompetence.png"),
     ]
     plates_html: list[str] = []
     for caption, ppath in plate_specs:
         if ppath.exists():
             b64 = img_to_data_uri(ppath)
-            is_hist = "[HISTORICAL" in caption
-            box_style = ' style="border:2px solid #f59e0b;background:#fffbeb;"' if is_hist else ""
+            is_2014 = "2014 BASELINE" in caption
+            is_hist = is_2014 or ("[HISTORICAL" in caption)
+            if is_2014:
+                box_style = ' style="border:2px solid #F59E0B;background:rgba(245,158,11,0.12);"'
+            elif is_hist:
+                box_style = ' style="border:2px solid #f59e0b;background:#fffbeb;"'
+            else:
+                box_style = ""
             plates_html.append(
                 f'<div class="figure-box"{box_style}><img src="{b64}" alt="{html.escape(caption)}">'
                 f'<div class="figure-caption"><strong>{html.escape(caption)}</strong> — Source: <code>{html.escape(ppath.name)}</code></div></div>'

@@ -97,7 +97,7 @@ NEW_CLINICAL_CATALOG: list[dict] = [
         "rotate_ccw": 0,
         "summary": "Lower Limb Color Doppler thermal strip 4/4 (Altadamon Hospital, 2011-06-21 10:16 AM): proximal venous Doppler spectrum + Dr. Helmy Rashad stamp.",
     },
-    # --- 2014-04-23 Optovue OCT Macula & Optic Nerve (HISTORICAL_OLD) ---
+    # --- 2014-04-23 Optovue OCT Macula & Optic Nerve (HISTORICAL_OLD — 12 Years Old Pre-RD Baseline) ---
     {
         "raw_name": "photo_2026-11-15_18-26-47.jpg",
         "new_name": "OPHTH_2014-04-23_Optovue_Macula_OD_CystoidEdema_RPEDisruption_HISTORICAL.png",
@@ -105,7 +105,8 @@ NEW_CLINICAL_CATALOG: list[dict] = [
         "category": "OPHTH",
         "test_date": "2014-04-23",
         "rotate_ccw": 0,
-        "summary": "HISTORICAL Optovue OCT OD (2014-04-23, PortSaid Lasik Center): right eye macular cross-sections + en-face reference showing chronic intraretinal cystoid spaces and RPE irregularity/disruption.",
+        "paper_only_trim": True,
+        "summary": "HISTORICAL 2014 BASELINE (12y Pre-RD) Optovue OCT + En-Face Reference OD (2014-04-23, PortSaid Lasik Center): right eye macular cross-sections + en-face reference showing chronic diabetic intraretinal cystoid edema and RPE breakdown predating 2019–2021 RD/silicone oil & corroborating 12+ yr microvascular chronicity with brain CSVD.",
     },
     {
         "raw_name": "photo_2026-11-15_18-26-49.jpg",
@@ -114,7 +115,8 @@ NEW_CLINICAL_CATALOG: list[dict] = [
         "category": "OPHTH",
         "test_date": "2014-04-23",
         "rotate_ccw": 0,
-        "summary": "HISTORICAL Optovue Macula EMM5 Map OU (2014-04-23): OD SSI 35.8 Global RPE/Choroid Disruption 280 (central 208 um); OS SSI 37.1 Global Disruption 100 (central 207 um).",
+        "paper_only_trim": True,
+        "summary": "HISTORICAL 2014 BASELINE (12y Pre-RD) Optovue Macula EMM5 + En-Face Reference OU (2014-04-23): OD SSI 35.8 Global RPE/Choroid Disruption 280 (central 208 um); OS SSI 37.1 Global Disruption 100 (central 207 um) — anchors Neurology & Ophthalmology 12+ year diabetic-hypertensive microangiopathy timeline.",
     },
     {
         "raw_name": "photo_2026-11-15_18-40-00.jpg",
@@ -123,7 +125,8 @@ NEW_CLINICAL_CATALOG: list[dict] = [
         "category": "OPHTH",
         "test_date": "2014-04-23",
         "rotate_ccw": 0,
-        "summary": "HISTORICAL Optovue ONH/RNFL OS (2014-04-23): pre-existing glaucomatous optic neuropathy years before RD! SSI 46.5, Disc Area 1.61 mm2, Rim Area 0.38 mm2, Vertical C/D 0.83, RNFL Avg 78.36 um (NL 58, IT 77 borderline/thin).",
+        "paper_only_trim": True,
+        "summary": "HISTORICAL 2014 BASELINE (12y Pre-RD) Optovue ONH/RNFL OS (2014-04-23): pre-existing glaucomatous/ischemic optic neuropathy years before RD! SSI 46.5, Disc Area 1.61 mm2, Rim Area 0.38 mm2, Vertical C/D 0.83, RNFL Avg 78.36 um (NL 58, IT 77 borderline/thin).",
     },
     # --- 2016-02-16 Optovue ONH OS (HISTORICAL_OLD) ---
     {
@@ -189,7 +192,7 @@ NEW_CLINICAL_CATALOG: list[dict] = [
         "category": "OPHTH",
         "test_date": "2019-09-11",
         "rotate_ccw": 0,
-        "summary": "HISTORICAL Ocular B-Scan OS (2019-09-11, Dr. Omaima Sharara, Gain 90 dB): vitreous hemorrhage floaters with intact retina ('لا رسوم شبكي'), 3 months before OS silicone oil PPV.",
+        "summary": "HISTORICAL Ocular B-Scan OS (2019-09-11, Dr. Omaima Sharara, Gain 90 dB): vitreous hemorrhage floaters with intact retina (no retinal detachment), 3 months before OS silicone oil PPV.",
     },
     {
         "raw_name": "photo_2026-11-15_18-26-55.jpg",
@@ -363,6 +366,11 @@ def file_hashes(path: Path) -> tuple[str, str]:
 
 def temporal_metadata(test_date: str) -> dict:
     year = int(str(test_date)[:4])
+    if year == 2014:
+        return {
+            "temporal_status": "HISTORICAL_OLD",
+            "warning_badge": "⚠️ HISTORICAL RECORD — 2014 BASELINE (PRE-RETINAL DETACHMENT / 12 YEARS OLD)",
+        }
     if year < 2026:
         return {"temporal_status": "HISTORICAL_OLD", "warning_badge": HIST_BADGE}
     return {"temporal_status": "CURRENT_2026", "warning_badge": None}
@@ -388,7 +396,9 @@ def _contiguous_central_span(profile: np.ndarray, thresh: float = 0.28) -> tuple
     return int(best_s), int(best_e)
 
 
-def detect_document_crop_box(bgr: np.ndarray, margin: int = SAFE_MARGIN_PX) -> tuple[int, int, int, int]:
+def detect_document_crop_box(
+    bgr: np.ndarray, margin: int = SAFE_MARGIN_PX, paper_only_trim: bool = False
+) -> tuple[int, int, int, int]:
     """
     Precision document & ultrasound box detector:
     Uses CIE LAB neutral-white paper identification + small-gap connected-component
@@ -448,27 +458,42 @@ def detect_document_crop_box(bgr: np.ndarray, margin: int = SAFE_MARGIN_PX) -> t
     y0, y1 = int(ys.min()), int(ys.max()) + 1
 
     # Step 3: Trim any residual narrow bridge tail via 1D contiguous occupancy profile
-    # Include both bright neutral paper AND dark neutral ultrasound boxes inside the span so black Doppler frames never break the span!
-    dark_neutral = ((L < 95.0) & (chroma <= 18.0)).astype(np.float32)
-    doc_mask = np.maximum((sheet_mask > 0).astype(np.float32), dark_neutral * 0.8)
-    rx0, rx1 = _contiguous_central_span(doc_mask[y0:y1, :].mean(axis=0), thresh=0.22)
-    ry0, ry1 = _contiguous_central_span(doc_mask[:, rx0:rx1].mean(axis=1), thresh=0.22)
-    x0, x1 = max(x0, rx0), min(x1, rx1)
-    y0, y1 = max(y0, ry0), min(y1, ry1)
+    if paper_only_trim:
+        # For A4 white clinical printouts on dark cloth (e.g. 2014 Optovue sheets where internal wide OCT panels span mid-page),
+        # keep outer span enclosing all rows/cols with >= 35% pure neutral paper so mid-page dark OCT plots are NEVER split off!
+        pure_paper = ((L >= 140.0) & (chroma <= 16.0)).astype(np.float32)
+        col_prof = pure_paper[y0:y1, :].mean(axis=0)
+        vx = np.where(col_prof >= 0.35)[0]
+        if len(vx):
+            rx0, rx1 = int(vx[0]), int(vx[-1]) + 1
+            x0, x1 = max(x0, rx0), min(x1, rx1)
+        row_prof = pure_paper[:, x0:x1].mean(axis=1)
+        vy = np.where(row_prof >= 0.35)[0]
+        if len(vy):
+            ry0, ry1 = int(vy[0]), int(vy[-1]) + 1
+            y0, y1 = max(y0, ry0), min(y1, ry1)
+    else:
+        # Include both bright neutral paper AND dark neutral ultrasound boxes inside the span so black Doppler frames never break the span!
+        dark_neutral = ((L < 95.0) & (chroma <= 18.0)).astype(np.float32)
+        doc_mask = np.maximum((sheet_mask > 0).astype(np.float32), dark_neutral * 0.8)
+        rx0, rx1 = _contiguous_central_span(doc_mask[y0:y1, :].mean(axis=0), thresh=0.22)
+        ry0, ry1 = _contiguous_central_span(doc_mask[:, rx0:rx1].mean(axis=1), thresh=0.22)
+        x0, x1 = max(x0, rx0), min(x1, rx1)
+        y0, y1 = max(y0, ry0), min(y1, ry1)
 
-    # Step 4: Explicitly union any dark printed ultrasound / OCT boxes overlapping [x0..x1] or within [x0..x1] vertically/horizontally
-    dark_us = ((L < 95.0) & (chroma < 20.0)).astype(np.uint8) * 255
-    dark_us = cv2.morphologyEx(dark_us, cv2.MORPH_OPEN, np.ones((11, 11), np.uint8))
-    dark_us = cv2.morphologyEx(dark_us, cv2.MORPH_CLOSE, np.ones((19, 19), np.uint8))
-    us_contours, _ = cv2.findContours(dark_us, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
-    for c in us_contours:
-        ux, uy, uw, uh = cv2.boundingRect(c)
-        x_ov = max(0, min(x1, ux + uw) - max(x0, ux))
-        if uh >= 40 and uw >= 0.25 * (x1 - x0) and x_ov >= 0.35 * min(uw, x1 - x0):
-            x0 = min(x0, ux)
-            x1 = max(x1, ux + uw)
-            y0 = min(y0, uy)
-            y1 = max(y1, uy + uh)
+        # Step 4: Explicitly union any dark printed ultrasound / OCT boxes overlapping [x0..x1] or within [x0..x1] vertically/horizontally
+        dark_us = ((L < 95.0) & (chroma < 20.0)).astype(np.uint8) * 255
+        dark_us = cv2.morphologyEx(dark_us, cv2.MORPH_OPEN, np.ones((11, 11), np.uint8))
+        dark_us = cv2.morphologyEx(dark_us, cv2.MORPH_CLOSE, np.ones((19, 19), np.uint8))
+        us_contours, _ = cv2.findContours(dark_us, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+        for c in us_contours:
+            ux, uy, uw, uh = cv2.boundingRect(c)
+            x_ov = max(0, min(x1, ux + uw) - max(x0, ux))
+            if uh >= 40 and uw >= 0.25 * (x1 - x0) and x_ov >= 0.35 * min(uw, x1 - x0):
+                x0 = min(x0, ux)
+                x1 = max(x1, ux + uw)
+                y0 = min(y0, uy)
+                y1 = max(y1, uy + uh)
 
     # Apply safe 15-px margin
     x0 = max(0, x0 - margin)
@@ -565,7 +590,9 @@ def run_crop_and_organize(unlink_root_raws: bool = False, verify_dir: Path | Non
         # Auto-crop & upright transform
         bgr = load_upright_bgr(backup_dst, item.get("rotate_ccw", 0))
         H, W = bgr.shape[:2]
-        x0, y0, x1, y1 = detect_document_crop_box(bgr, SAFE_MARGIN_PX)
+        x0, y0, x1, y1 = detect_document_crop_box(
+            bgr, SAFE_MARGIN_PX, paper_only_trim=bool(item.get("paper_only_trim", False))
+        )
         cropped = bgr[y0:y1, x0:x1]
 
         out_folder = INPUTS_DIR / item["folder"]
@@ -612,6 +639,9 @@ def run_crop_and_organize(unlink_root_raws: bool = False, verify_dir: Path | Non
             "cropped_dimensions": f"{x1 - x0}x{y1 - y0}",
             "one_line_clinical_summary": item["summary"],
         }
+        if item["test_date"].startswith("2014"):
+            entry["historical_age_years"] = 12
+            entry["dual_specialty_correlation"] = ["Neurology", "Ophthalmology"]
         if dups:
             entry["exact_duplicate_raw_backups"] = dups
         if item.get("is_secondary_take"):
@@ -640,6 +670,34 @@ def run_crop_and_organize(unlink_root_raws: bool = False, verify_dir: Path | Non
     manifest["definitive_ophthalmology_dates"] = ["2026-06-01", "2026-06-27", "2026-07-08"]
     manifest["historical_cutoff_year"] = 2026
     manifest["files"] = all_files
+    manifest["reconciled_supplement_facts"] = {
+        "cetrovit_ginkgo_label": {
+            "product_name": "Cetrovit Ginkgo",
+            "serving_size": "2 Capsules",
+            "status": "STOPPED / DISCONTINUED",
+            "source_status": "Text-verified from clinician/user Supplement Facts label reconciliation (no standalone box JPG photo uploaded in workspace)",
+            "active_ingredients_per_2_capsules": [
+                {"ingredient": "Citicoline", "amount": "250 mg"},
+                {"ingredient": "L-Glutamine", "amount": "250 mg"},
+                {"ingredient": "L-Tyrosine", "amount": "250 mg", "mdt_alert": "Competes with Sinemet (L-DOPA) at BBB LAT1 & raises catecholamines -> worsens tremor/BP/857 PVCs"},
+                {"ingredient": "L-Theanine", "amount": "200 mg"},
+                {"ingredient": "Ginkgo Biloba Leaf Extract", "amount": "60 mg", "mdt_alert": "Antiplatelet/PAF antagonism -> stacks bleed risk with Aggrex 75 mg, Lt silicone retina & DSA"},
+                {"ingredient": "Vitamin B3 (Niacinamide)", "amount": "20 mg"},
+                {"ingredient": "Vitamin B1 (Thiamine)", "amount": "15 mg"},
+                {"ingredient": "Vitamin B2 (Riboflavin)", "amount": "17 mg"},
+                {"ingredient": "Vitamin B12 (Cyanocobalamin)", "amount": "60 mcg"},
+                {"ingredient": "Sodium", "amount": "20 mcg"},
+            ],
+            "smart_therapeutic_substitution": "Pure Citicoline 500 mg standalone + clean Vitamin B1/B6/B12 (eliminating L-Tyrosine & Ginkgo Biloba hazards)",
+        }
+    }
+    manifest["medication_reconciliation_updates_2026_11_15"] = {
+        "Brain_Ox_30mg_Vincamine": "STOPPED / DISCONTINUED",
+        "Cetrovit_Ginkgo": "STOPPED / DISCONTINUED",
+        "Mometasone_Furoate_Nasal_Spray_Nasonex": "ACTIVE / ALREADY STARTED — Continue current Nasonex regimen",
+        "Meclizine_25mg": "DISCONTINUED / STOPPED",
+        "Escitalopram_Ciprapra_10mg_half_tab": "DISCONTINUED / STOPPED",
+    }
 
     MANIFEST_PATH.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 

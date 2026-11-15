@@ -5,7 +5,7 @@
   "national_id": "26304090300188",
   "definitive_audiology_baseline_date": "2026-11-03",
   "definitive_holter_date": "2026-11-05",
-  "generated_at": "2026-11-15T19:01:53.578395",
+  "generated_at": "2026-11-15T20:17:10.863247",
   "total_raw_files_organized": 69,
   "files": [
     {
@@ -644,19 +644,24 @@
       "category_code": "OPHTH",
       "date_of_test": "2014-04-23",
       "temporal_status": "HISTORICAL_OLD",
-      "warning_badge": "⚠️ HISTORICAL RECORD — DO NOT CONFUSE WITH CURRENT STATUS",
-      "size_bytes": 889127,
-      "md5": "6bac30e2dbd39c511ab2bd0522993532",
-      "sha256": "7f3890c7baf32f0779ccd3dbe6b89eae9cd712daabcf0805a3b5e35121bc7e5d",
+      "warning_badge": "⚠️ HISTORICAL RECORD — 2014 BASELINE (PRE-RETINAL DETACHMENT / 12 YEARS OLD)",
+      "size_bytes": 687777,
+      "md5": "3db8cd3be68461d51c7f163a2315d98b",
+      "sha256": "bb86923efd655d972bd5de287d4faceb437fc3106c603b510d5b71a72d2c417a",
       "raw_source_md5": "771eab0701bd14a1d005cdeb1f07e74f",
       "auto_crop_box_xyxy": [
         0,
-        0,
+        134,
         720,
-        1280
+        1207
       ],
-      "cropped_dimensions": "720x1280",
-      "one_line_clinical_summary": "HISTORICAL Optovue OCT OD (2014-04-23, PortSaid Lasik Center): right eye macular cross-sections + en-face reference showing chronic intraretinal cystoid spaces and RPE irregularity/disruption."
+      "cropped_dimensions": "720x1073",
+      "one_line_clinical_summary": "HISTORICAL 2014 BASELINE (12y Pre-RD) Optovue OCT + En-Face Reference OD (2014-04-23, PortSaid Lasik Center): right eye macular cross-sections + en-face reference showing chronic diabetic intraretinal cystoid edema and RPE breakdown predating 2019–2021 RD/silicone oil & corroborating 12+ yr microvascular chronicity with brain CSVD.",
+      "historical_age_years": 12,
+      "dual_specialty_correlation": [
+        "Neurology",
+        "Ophthalmology"
+      ]
     },
     {
       "original_raw_filename": "photo_2026-11-15_18-26-49.jpg",
@@ -666,19 +671,24 @@
       "category_code": "OPHTH",
       "date_of_test": "2014-04-23",
       "temporal_status": "HISTORICAL_OLD",
-      "warning_badge": "⚠️ HISTORICAL RECORD — DO NOT CONFUSE WITH CURRENT STATUS",
-      "size_bytes": 717546,
-      "md5": "144eaf96bcb0f783bec1f02b233006e5",
-      "sha256": "cedf1159e2613c67129ee531cf266389c05af62e62ff40662ef72681b81588a3",
+      "warning_badge": "⚠️ HISTORICAL RECORD — 2014 BASELINE (PRE-RETINAL DETACHMENT / 12 YEARS OLD)",
+      "size_bytes": 714215,
+      "md5": "1d9126e4184fb26be3d13d75a858ae9d",
+      "sha256": "a290950ef58d3edafd7b4bc78a4ebad1d8a64e8b69f7d15e5d862606ea09c0aa",
       "raw_source_md5": "6d195a027f782c7f22c90e5f048dfd08",
       "auto_crop_box_xyxy": [
         0,
         0,
         720,
-        1280
+        1274
       ],
-      "cropped_dimensions": "720x1280",
-      "one_line_clinical_summary": "HISTORICAL Optovue Macula EMM5 Map OU (2014-04-23): OD SSI 35.8 Global RPE/Choroid Disruption 280 (central 208 um); OS SSI 37.1 Global Disruption 100 (central 207 um)."
+      "cropped_dimensions": "720x1274",
+      "one_line_clinical_summary": "HISTORICAL 2014 BASELINE (12y Pre-RD) Optovue Macula EMM5 + En-Face Reference OU (2014-04-23): OD SSI 35.8 Global RPE/Choroid Disruption 280 (central 208 um); OS SSI 37.1 Global Disruption 100 (central 207 um) — anchors Neurology & Ophthalmology 12+ year diabetic-hypertensive microangiopathy timeline.",
+      "historical_age_years": 12,
+      "dual_specialty_correlation": [
+        "Neurology",
+        "Ophthalmology"
+      ]
     },
     {
       "original_raw_filename": "photo_2026-11-15_18-40-00.jpg",
@@ -688,19 +698,24 @@
       "category_code": "OPHTH",
       "date_of_test": "2014-04-23",
       "temporal_status": "HISTORICAL_OLD",
-      "warning_badge": "⚠️ HISTORICAL RECORD — DO NOT CONFUSE WITH CURRENT STATUS",
-      "size_bytes": 668228,
-      "md5": "e64e1ad74a6491c046f749fa30ef56c2",
-      "sha256": "ca4fe35063f313a7297034cc244e5b0e0d656ee655f820db034fd586eeb504d3",
+      "warning_badge": "⚠️ HISTORICAL RECORD — 2014 BASELINE (PRE-RETINAL DETACHMENT / 12 YEARS OLD)",
+      "size_bytes": 664823,
+      "md5": "93c463f4789abb91a44366533fcf2547",
+      "sha256": "1c4f743406129d543638464bb5e8d6302a60a9a5557d4b950f3cdadf4cd4a5c3",
       "raw_source_md5": "0b9a86bce50196c17b5345047d60008a",
       "auto_crop_box_xyxy": [
         0,
-        0,
+        69,
         720,
-        1136
+        1163
       ],
-      "cropped_dimensions": "720x1136",
-      "one_line_clinical_summary": "HISTORICAL Optovue ONH/RNFL OS (2014-04-23): pre-existing glaucomatous optic neuropathy years before RD! SSI 46.5, Disc Area 1.61 mm2, Rim Area 0.38 mm2, Vertical C/D 0.83, RNFL Avg 78.36 um (NL 58, IT 77 borderline/thin)."
+      "cropped_dimensions": "720x1094",
+      "one_line_clinical_summary": "HISTORICAL 2014 BASELINE (12y Pre-RD) Optovue ONH/RNFL OS (2014-04-23): pre-existing glaucomatous/ischemic optic neuropathy years before RD! SSI 46.5, Disc Area 1.61 mm2, Rim Area 0.38 mm2, Vertical C/D 0.83, RNFL Avg 78.36 um (NL 58, IT 77 borderline/thin).",
+      "historical_age_years": 12,
+      "dual_specialty_correlation": [
+        "Neurology",
+        "Ophthalmology"
+      ]
     },
     {
       "original_raw_filename": "photo_2026-11-15_18-26-48.jpg",
@@ -861,7 +876,7 @@
         1280
       ],
       "cropped_dimensions": "720x1280",
-      "one_line_clinical_summary": "HISTORICAL Ocular B-Scan OS (2019-09-11, Dr. Omaima Sharara, Gain 90 dB): vitreous hemorrhage floaters with intact retina (note: no retinal detachment), 3 months before OS silicone oil PPV."
+      "one_line_clinical_summary": "HISTORICAL Ocular B-Scan OS (2019-09-11, Dr. Omaima Sharara, Gain 90 dB): vitreous hemorrhage floaters with intact retina (no retinal detachment), 3 months before OS silicone oil PPV."
     },
     {
       "original_raw_filename": "photo_2026-11-15_18-26-55.jpg",
@@ -1280,5 +1295,65 @@
     "2026-06-27",
     "2026-07-08"
   ],
-  "historical_cutoff_year": 2026
+  "historical_cutoff_year": 2026,
+  "reconciled_supplement_facts": {
+    "cetrovit_ginkgo_label": {
+      "product_name": "Cetrovit Ginkgo",
+      "serving_size": "2 Capsules",
+      "status": "STOPPED / DISCONTINUED",
+      "source_status": "Text-verified from clinician/user Supplement Facts label reconciliation (no standalone box JPG photo uploaded in workspace)",
+      "active_ingredients_per_2_capsules": [
+        {
+          "ingredient": "Citicoline",
+          "amount": "250 mg"
+        },
+        {
+          "ingredient": "L-Glutamine",
+          "amount": "250 mg"
+        },
+        {
+          "ingredient": "L-Tyrosine",
+          "amount": "250 mg",
+          "mdt_alert": "Competes with Sinemet (L-DOPA) at BBB LAT1 & raises catecholamines -> worsens tremor/BP/857 PVCs"
+        },
+        {
+          "ingredient": "L-Theanine",
+          "amount": "200 mg"
+        },
+        {
+          "ingredient": "Ginkgo Biloba Leaf Extract",
+          "amount": "60 mg",
+          "mdt_alert": "Antiplatelet/PAF antagonism -> stacks bleed risk with Aggrex 75 mg, Lt silicone retina & DSA"
+        },
+        {
+          "ingredient": "Vitamin B3 (Niacinamide)",
+          "amount": "20 mg"
+        },
+        {
+          "ingredient": "Vitamin B1 (Thiamine)",
+          "amount": "15 mg"
+        },
+        {
+          "ingredient": "Vitamin B2 (Riboflavin)",
+          "amount": "17 mg"
+        },
+        {
+          "ingredient": "Vitamin B12 (Cyanocobalamin)",
+          "amount": "60 mcg"
+        },
+        {
+          "ingredient": "Sodium",
+          "amount": "20 mcg"
+        }
+      ],
+      "smart_therapeutic_substitution": "Pure Citicoline 500 mg standalone + clean Vitamin B1/B6/B12 (eliminating L-Tyrosine & Ginkgo Biloba hazards)"
+    }
+  },
+  "medication_reconciliation_updates_2026_11_15": {
+    "Brain_Ox_30mg_Vincamine": "STOPPED / DISCONTINUED",
+    "Cetrovit_Ginkgo": "STOPPED / DISCONTINUED",
+    "Mometasone_Furoate_Nasal_Spray_Nasonex": "ACTIVE / ALREADY STARTED — Continue current Nasonex regimen",
+    "Meclizine_25mg": "DISCONTINUED / STOPPED",
+    "Escitalopram_Ciprapra_10mg_half_tab": "DISCONTINUED / STOPPED"
+  }
 }

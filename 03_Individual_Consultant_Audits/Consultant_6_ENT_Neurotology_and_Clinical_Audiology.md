@@ -31,10 +31,10 @@
 
 ## 2. Immediate Action (الإجراء الفوري المطلوب)
 - **EN:**
-  1. **STOP `Meclizine` & `Cetrovit Ginkgo` Today** (unlocks central vestibular compensation, eliminates anticholinergic falls, and stops triple antiplatelet bleeding overlap).
+  1. **Confirm `Meclizine`, `Cetrovit Ginkgo`, `Brain-Ox` & `Escitalopram` Are DISCONTINUED / STOPPED** (unlocks central vestibular compensation, avoids anticholinergic falls, stops Ginkgo 60 mg / L-Tyrosine 250 mg platelet-bleed & sympathetic risks atop `Aggrex 75` + `857 PVCs`, and eliminates SSRI+HCTZ hyponatremia/QT risk).
   2. **Update Pending VNG Referral Order:** Explicitly warn the audiology lab **NOT to run standard visual-target calibration, saccades, smooth pursuit, or OPK** (`< 1/60` blindness + left silicone oil causes tracking failure!); request **non-visual darkness spontaneous/positional (Dix-Hallpike) testing + bithermal calorics / vHIT**.
-  3. **Start Topical Sinus Protocol Immediately:** **Mometasone furoate 50 mcg nasal spray (2 puffs each nostril qAM)** + isotonic saline nasal irrigation for MRI-confirmed bilateral ethmoidal sinusitis (`ROI2`).
-- **AR:** **إيقاف `Meclizine` و `Cetrovit Ginkgo` فوراً**، وإرسال تنبيه مكتوب لمعمل الـ **VNG** بإلغاء اختبارات تتبع الضوء بالعين لضعف البصر `< 1/60` والاكتفاء بالاختبار الحراري والوضعيات في الضلمة، مع بدء **بخاخ `Mometasone` + محلول ملح** للجيوب الغربالية.
+  3. **Continue Current `Nasonex` (`Mometasone Furoate 50 mcg`) Regimen (`ACTIVE / ALREADY STARTED`):** Keep 2 puffs each nostril + isotonic saline nasal irrigation for MRI-confirmed bilateral ethmoidal sinusitis (`ROI2`), with Ophthalmology IOP check 4–6 wks post-initiation.
+- **AR:** تأكيد **إيقاف `Meclizine` و `Cetrovit Ginkgo` و `Brain-Ox` و `Escitalopram` بالكامل**، وإرسال تنبيه مكتوب لمعمل الـ **VNG** بإلغاء اختبارات تتبع الضوء بالعين لضعف البصر `< 1/60` والاكتفاء بالاختبار الحراري والوضعيات في الضلمة، مع **الاستمرار على بخاخ `Nasonex` (`Mometasone`) النشط حالياً** + محلول ملح للجيوب الغربالية.
 
 ---
 
