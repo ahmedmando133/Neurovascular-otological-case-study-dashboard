@@ -2153,6 +2153,11 @@ function switchTab(id) {
   activeTabId = id;
   document.querySelectorAll(".tab-panel").forEach(p => p.classList.remove("active"));
   document.getElementById(id).classList.add("active");
+  if (id === "tab-workup") {
+    document.querySelectorAll("#videoGridHost video").forEach(v => {
+      if (v.readyState === 0 && v.networkState === 0) { v.load(); }
+    });
+  }
   renderSidebarNav();
 }
 
@@ -2506,7 +2511,7 @@ function renderGallery() {
   document.getElementById("roiGallery").innerHTML = list.map((r, i) => `
     <div class="roi-card">
       <div class="roi-img-box" onclick="openModal(${i})">
-        <img src="${r.img}" alt="${r.title}">
+        <img loading="lazy" src="${r.img}" alt="${r.title}">
       </div>
       <div class="roi-body">
         <h4>${r.title}</h4>
