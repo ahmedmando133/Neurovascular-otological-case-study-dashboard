@@ -364,39 +364,71 @@ FILE_SUMMARIES_AR = {
     "MRA_2026-11-05_Video01_3D_TOF_Axial_Source_Slices_Sc11_T1FFE_LtEyeSiliconeOil.mov": "فيديو الأشعة الأصلي (28.1 ثانية) يعرض نحو 237 مقطعاً بسمك 1 مم لرنين الشرايين 3D-TOF من قاع الجمجمة لقمة الرأس، ويوضح سلامة الشرايين وساطع زيت السيليكون بالعين الشمال.",
     "MRI_2026-11-05_Film01_Sagittal_T1W_SE_Brain_Midline_NormalBrainstem.jpg": "فيلم الرنين السهمي T1W: سلامة الجسم الثفني والغدة النخامية وجذع المخ والمخيخ مع بروز طفيف بالتلافيف مناسب للعمر.",
     "MRA_2026-11-05_Film02_3D_TOF_Coronal_MIP_Intracranial_Arteries_Unremarkable.jpg": "فيلم MRA أمامي (24 صورة عادية ومعكوسة): سلامة الشرايين السباتية والوسطى والأمامية والخلفية والقاعدية بدون تمددات أو انسداد.",
-    "MRA_2026-11-05_Film03_3D_TOF_Axial_MIP_CircleOfWillis_Unremarkable.jpg": "فيلم MRA محوري لدائرة ويليس (تظهر في الالتقاط الأصلي بزاوية 90 درجة): سلامة الوصلات الشريانية والمجرى القاعدي الفقرى.",
+    "MRA_2026-11-05_Film03_3D_TOF_Axial_MIP_CircleOfWillis_Unremarkable.jpg": "فيلم MRA محوري لدائرة ويليس (تظهر في الالتقاط الأصلي بزاوية 90 درجة): سلامة الوصلات الشريانية والمجرى القاعدي الفقري.",
     "MRA_2026-11-05_Film04a_3D_TOF_SagittalOblique_MIP_Intracranial_Arteries_Take1.jpg": "فيلم MRA مائل للشرايين الدماغية (لقطة أولى، 12 منظوراً).",
     "MRA_2026-11-05_Film04b_3D_TOF_SagittalOblique_MIP_Intracranial_Arteries_Take2.jpg": "فيلم MRA مائل للشرايين الدماغية (لقطة ثانية، 12 منظوراً).",
     "MRI_2026-11-05_Film05_Axial_DWI_ADC_NoAcuteRestrictedDiffusion.jpg": "فيلم الانتشار الخلوي DWI/ADC (18 مقطعاً): سليم تماماً وينفي وجود أي جلطة دماغية حادة.",
     "MRV_2026-11-05_Film06_3D_PCA_Venography_Attenuated_Lt_Transverse_Sigmoid_IJV.jpg": "فيلم الرنين الوريدي 3D-PCA MRV (40 منظوراً): سيادة وريدية يمينية مع ضيق متجانس بالجيب المستعرض والسيني والوريد الوداجي الشمال بدون أي تجلط.",
     "MRI_2026-11-05_Film07_Axial_eFLAIR_CSVD_LacunarInfarcts_EthmoidSinusitis.jpg": "فيلم eFLAIR المحوري: بؤر تصلب شرايين دقيقة بالمادة البيضاء وجلطات مزمنة قديمة مع التهاب الجيوب الغربالية وزيت السيليكون بالعين الشمال.",
-    "MRI_2026-11-05_Film08_Axial_T1W_SE_SulcalProminence_LtEyeSiliconeOil.jpg": "فيلم T1W المحوري: بروز التلافيف وبؤر الجلطات المزمنة مع إشارة ساطعة مميزة لزيت السيليكون بالعين الشمال.",
+    "MRI_2026-11-05_Film08_Axial_T1W_SE_SulcalProminence_LtEyeSiliconeOil.jpg": "فيلم T1W المحوري: بروز التلافيف وبؤر الجلطات المزمنة مع إشارة ساطعة مميزة لزيت السيليكون بالعين الشمال (2.59 ضعف).",
     "MRI_2026-11-05_Film09_Axial_eT2W_TSE_Lacunes_IAC_EthmoidSinusitis.jpg": "فيلم eT2W المحوري: بؤر لاكونار مزمنة وسلامة تامة لقنوات السمع الداخلية IAC والزاوية المخيخية الجسرية وتأكيد التهاب الجيوب الغربالية.",
-    "MRI_2026-11-05_Film10_Coronal_T2W_and_T1W_TSE_BasalGanglia_IAC_EthmoidSinusitis.jpg": "فيلم الكورونال T2W و T1W: يؤكد التهاب الجيوب الغربالية وبؤر العقد القاعدية مع سلامة الحصين وأعصاب السمع الثامن.",
+    "MRI_2026-11-05_Film10_Coronal_T2W_and_T1W_TSE_BasalGanglia_IAC_EthmoidSinusitis.jpg": "فيلم الكورونال T2W و T1W: يؤكد التهاب الجيوب الغربالية وبؤر العقد القاعدية مع سلامة الحصين والتصالب البصري وأعصاب السمع الثامن.",
     "VASC_2026-11-07_Carotid_Vertebral_ColorDuplex_IMT0.13cm_LtBulbPlaque5mm.jpg": "دوبلكس شرايين الرقبة (د. إبراهيم هاشم 2026-11-07): زيادة سمك جدار الشريان IMT = 0.13 سم وتصلب مزمن مع بلاك بطول 5 مم في عنق السباتي الشمال بدون ضيق حرج، وتدفق فقري سليم.",
     "CARD_2026-11-05_Holter24h_Complete_29Pages_Summary_HRV_and_FullDisclosure.pdf": "ملف الهولتر الكامل (29 صفحة - مستشفى بورسعيد العسكري): متوسط النبض 65، 857 خفقة بطينية مبكرة (311 منها بين 6–9 صباحاً)، 4 نوبات تسارع بطيني قصيرة، 153 خفقة أذينية، وهبوط ST بمقدار -2.1 مم في القناة 3 الساعة 13:11.",
     "CARD_2026-11-05_Holter24h_Page01_Summary_857PVCs_153SVEs_STdepression.jpg": "صفحة 1 من الهولتر (الملخص): متوسط نبض 65 (51–99)، 857 خفقة بطينية، 22 ثنائياً، 4 نوبات V-runs، 153 خفقة أذينية، أقصى هبوط ST -2.1 مم، وتقلب ضربات القلب SDNN 101 مللي ثانية.",
     "CARD_2026-11-05_Holter24h_Page02_24HourTrends_HR51to99_MorningPVCSurge.jpg": "صفحة 2 من الهولتر (الاتجاهات على مدار 24 ساعة): تثبت طفرة الخفقات الصباحية بين 6–9 ص بذروة 164 خفقة في الساعة 08:00 ص.",
     "CARD_2026-11-05_Holter24h_Page03_Absolute_ST_Analysis_Minus2.1mm_CH3.jpg": "صفحة 3 من الهولتر (تحليل مقطع ST): 160 دقيقة إجمالي هبوط بالقناة الثالثة وأقصاه -2.1 مم الساعة 13:11 (بينما ارتفاع 21:27 خطوة تشويش تقنية باللصقة).",
     "CARD_2026-11-05_Holter24h_Page04_QTc_and_QT_3CH_Analysis_NormalQTc.jpg": "صفحة 4 من الهولتر (QTc/QT): فترة QTc طبيعية 100% (<= 450 مللي ثانية، والأقصى 326 مللي ثانية).",
-    "CLIN_2026-11-03_Neurosurgery_Rx_DrAymanGalhom_Inderal10_Ciprapra10_CobalF_Brainox.jpg": "روشتة جراحة المخ والأعصاب (أ.د. أيمن جلهوم 2026-11-03، رقم 25334): تشير للرعشة الموضعّية وسكر وضغط، وتصرف إندرال 10 مجم مرتين، سيبرابرا 10 مجم نصف قرص، كوبال إف، وبرين أوكس.",
+    "CLIN_2026-11-03_Neurosurgery_Rx_DrAymanGalhom_Inderal10_Ciprapra10_CobalF_Brainox.jpg": "روشتة جراحة المخ والأعصاب (أ.د. أيمن جلهوم 2026-11-03، رقم 25334): تشير للرعشة الموضعية وسكر وضغط، وتصرف إندرال 10 مجم مرتين، سيبرابرا 10 مجم نصف قرص، كوبال إف، وبرين أوكس.",
     "CLIN_2026-11-03_Neurosurgery_ClinicalNote_DrAymanGalhom_EssentialTremor_Titubation.jpg": "ملاحظة الفحص السريري اليدوية (أ.د. أيمن جلهوم): توثق الرعشة الأساسية ورعشة الرأس (Essential tremor + Titubation) مع عدم تأثر الأطراف السفلية.",
     "CLIN_2026-11-02_Neurosurgery_Order_DrAymanGalhom_MRI_MRV_MRA_Duplex_Holter.jpg": "طلب الفحوصات الاستكشافية (أ.د. أيمن جلهوم 2026-11-02): طلب رنين المخ والشرايين والأوردة ودوبلكس الرقبة وهولتر 24 ساعة.",
-    "CLIN_2021-09-01_MOH_MedicalCouncil_LegalBlindness_LessThan1of60_RetinalOpticAtrophy.jpg": "قرار المجالس الطبية المتخصصة بوزارة الصحة (2021-09-01 / 2021-09-19، رقم قومي 26304090300188): يوثق حدة إبصار أقل من 1/60 بالعين الأفضل بسبب ضمور الشبكية والعصب البصري (كف بصر قانوني وعدم صلاحية للقيادة).",
+    "CLIN_2021-09-01_MOH_MedicalCouncil_LegalBlindness_LessThan1of60_RetinalOpticAtrophy.jpg": "[تاريخي 2021] قرار المجالس الطبية المتخصصة بوزارة الصحة (2021-09-01 / 2021-09-19، رقم قومي 26304090300188): يوثق حدة إبصار أقل من 1/60 بالعين الأفضل بسبب ضمور الشبكية والعصب البصري.",
     "AUD_2026-11-03_PTA_Masked_AC_BC_FollowUp_RtWRS84_LtWRS76_PureSNHL.jpg": "تخطيط السمع الموثق بقناع عكسي (2026-11-03 مستشفى الحياة بورفؤاد - د. شاهيندا الخميسي): ضعف حسي عصبي نقي (فجوة هوائية عظمية 0 dB)، يمين WRS 84% وعتبة 40 dB، شمال WRS 76% وعتبة 54.2 dB؛ وملاحظة 'Rt As' اليدوية يبطلها سجل GSI-39 المطبوع.",
     "AUD_2026-11-03_Tympanometry_GSI39_FollowUp_Rt1.5cm3_Lt3.2cm3_ExtremeTypeAd.jpg": "سجل قياس ضغط الأذن الحراري GSI-39 (2026-11-03): اليمين 1.5 سم³ عند -5 daPa (طبيعي Type A يدحض ملاحظة Rt As)، والشمال 3.2 سم³ عند 0 daPa يتجاوز حد الرسم البياني 3.0 سم³ (مرونة مفرطة Type Ad)، وردود المنعكس لم تُختبر (NT).",
-    "RAD_2024-07-17_CT_Brain_Requisition_IMC_Reason_Tremors.jpg": "تحويل المجمع الطبي العالمي رقم #474510 (أ.د. أحمد فهمي، 2024-07-17): طلب أشعة مقطعية على المخ بدون صبغة بسبب شكوى الرعشة.",
-    "RAD_2024-07-27_CT_Brain_NonContrast_Report_Involutional_LtEyeSiliconeOil.jpg": "تقرير الأشعة المقطعية بالمستشفى الزهور التخصصي (د. عماد محمد، 2024-07-27): تغيرات تراجعية متوافقة مع السن، حفر خلفية سليمة بدون نزيف، وتأكيد وجود كثافة عالية بزجاجي العين الشمال من زيت السيليكون منذ أكثر من عامين.",
-    "NEURO_2024-07-17_Prolonged_2h_EEG_Report_IMC_Normal9HzAlpha.jpg": "تقرير تخطيط المخ المطول ساعتين (المجمع الطبي العالمي 2024-07-17 - أ.د. أحمد فهمي): خلفية ألفا متماثلة 9 هيرتز بدون أي نشاط صرعي.",
-    "NEURO_2024-07-17_EEG_Tracing_Epoch01_11-42-44_AM_AlphaBackground_MuscleArtifact.jpg": "مقطع تخطيط المخ 01 (11:42:44 ص): خلفية ألفا 9 هيرتز طبيعية مع ذبذبة عضلية جبهية طفيفة وبدون بؤر صرعية.",
-    "NEURO_2024-07-17_EEG_Tracing_Epoch02_11-48-49_AM_AlphaBackground_MuscleArtifact.jpg": "مقطع تخطيط المخ 02 (11:48:49 ص): إيقاع مخي طبيعي متماثل مع ذبذبة عضلية متقطعة وبدون تفريغ صرعي.",
-    "NEURO_2024-07-17_EEG_Tracing_Epoch03_12-01-10_PM_AlphaBackground_MuscleArtifact.jpg": "مقطع تخطيط المخ 03 (12:01:10 م): موجات عضلية سريعة بالمنطقة الجبهية الصدغية مطابقة للرعشة بدون موجات صرعية.",
-    "NEURO_2024-07-17_EEG_Tracing_Epoch04_12-10-07_PM_AlphaBackground_MuscleArtifact.jpg": "مقطع تخطيط المخ 04 (12:10:07 م): خلفية مخية سليمة مع تداخل رعشة عضلية ثنائية وبدون بطء بؤري.",
-    "NEURO_2024-07-17_EEG_Tracing_Epoch05_12-35-17_PM_AlphaBackground_MuscleArtifact.jpg": "مقطع تخطيط المخ 05 (12:35:17 م): منتصف التسجيل يؤكد سلامة التخطيط وتماثل الجانبين.",
-    "NEURO_2024-07-17_EEG_Tracing_Epoch06_12-55-51_PM_AlphaBackground_MuscleArtifact.jpg": "مقطع تخطيط المخ 06 (12:55:51 م): نوبات كثيفة من النشاط العضلي الجسدي للرعشة بدون خمود لاحق أو شوكات صرعية.",
-    "NEURO_2024-07-17_EEG_Tracing_Epoch07_13-21-46_PM_AlphaBackground_MuscleArtifact.jpg": "مقطع تخطيط المخ 07 (13:21:46 م): تأكيد منشأ الرعشة الجسدي غير الصرعي عبر ذبذبات EMG الجبهية الصدغية.",
-    "NEURO_2024-07-17_EEG_Tracing_Epoch08_13-24-34_PM_AlphaBackground_MuscleArtifact.jpg": "مقطع تخطيط المخ 08 (13:24:34 م): نشاط مخي مستقر مع تراجع الذبذبة العضلية وغياب أي تطور نوبات صرعية.",
-    "NEURO_2024-07-17_EEG_Tracing_Epoch09_13-28-39_PM_AlphaBackground_MuscleArtifact.jpg": "مقطع تخطيط المخ 09 (13:28:39 م): نهاية فحص الساعتين تؤكد براءة المخ من الصرع.",
+    "RAD_2024-07-17_CT_Brain_Requisition_IMC_Reason_Tremors.jpg": "[تاريخي 2024] تحويل المجمع الطبي العالمي رقم #474510 (أ.د. أحمد فهمي، 2024-07-17): طلب أشعة مقطعية على المخ بدون صبغة بسبب شكوى الرعشة.",
+    "RAD_2024-07-27_CT_Brain_NonContrast_Report_Involutional_LtEyeSiliconeOil.jpg": "[تاريخي 2024] تقرير الأشعة المقطعية بمستشفى الزهور التخصصي (د. عماد محمد، 2024-07-27): تغيرات تراجعية متوافقة مع السن، حفر خلفية سليمة بدون نزيف، وتأكيد وجود كثافة عالية بزجاجي العين الشمال من زيت السيليكون.",
+    "NEURO_2024-07-17_Prolonged_2h_EEG_Report_IMC_Normal9HzAlpha.jpg": "[تاريخي 2024] تقرير تخطيط المخ المطول ساعتين (المجمع الطبي العالمي 2024-07-17 - أ.د. أحمد فهمي): خلفية ألفا متماثلة 9 هيرتز بدون أي نشاط صرعي.",
+    "NEURO_2024-07-17_EEG_Tracing_Epoch01_11-42-44_AM_AlphaBackground_MuscleArtifact.jpg": "[تاريخي 2024] مقطع تخطيط المخ 01 (11:42:44 ص): خلفية ألفا 9 هيرتز طبيعية مع ذبذبة عضلية جبهية طفيفة وبدون بؤر صرعية.",
+    "NEURO_2024-07-17_EEG_Tracing_Epoch02_11-48-49_AM_AlphaBackground_MuscleArtifact.jpg": "[تاريخي 2024] مقطع تخطيط المخ 02 (11:48:49 ص): إيقاع مخي طبيعي متماثل مع ذبذبة عضلية متقطعة وبدون تفريغ صرعي.",
+    "NEURO_2024-07-17_EEG_Tracing_Epoch03_12-01-10_PM_AlphaBackground_MuscleArtifact.jpg": "[تاريخي 2024] مقطع تخطيط المخ 03 (12:01:10 م): موجات عضلية سريعة بالمنطقة الجبهية الصدغية مطابقة للرعشة بدون موجات صرعية.",
+    "NEURO_2024-07-17_EEG_Tracing_Epoch04_12-10-07_PM_AlphaBackground_MuscleArtifact.jpg": "[تاريخي 2024] مقطع تخطيط المخ 04 (12:10:07 م): خلفية مخية سليمة مع تداخل رعشة عضلية ثنائية وبدون بطء بؤري.",
+    "NEURO_2024-07-17_EEG_Tracing_Epoch05_12-35-17_PM_AlphaBackground_MuscleArtifact.jpg": "[تاريخي 2024] مقطع تخطيط المخ 05 (12:35:17 م): منتصف التسجيل يؤكد سلامة التخطيط وتماثل الجانبين.",
+    "NEURO_2024-07-17_EEG_Tracing_Epoch06_12-55-51_PM_AlphaBackground_MuscleArtifact.jpg": "[تاريخي 2024] مقطع تخطيط المخ 06 (12:55:51 م): نوبات كثيفة من النشاط العضلي الجسدي للرعشة بدون خمود لاحق أو شوكات صرعية.",
+    "NEURO_2024-07-17_EEG_Tracing_Epoch07_13-21-46_PM_AlphaBackground_MuscleArtifact.jpg": "[تاريخي 2024] مقطع تخطيط المخ 07 (13:21:46 م): تأكيد منشأ الرعشة الجسدي غير الصرعي عبر ذبذبات EMG الجبهية الصدغية.",
+    "NEURO_2024-07-17_EEG_Tracing_Epoch08_13-24-34_PM_AlphaBackground_MuscleArtifact.jpg": "[تاريخي 2024] مقطع تخطيط المخ 08 (13:24:34 م): نشاط مخي مستقر مع تراجع الذبذبة العضلية وغياب أي تطور نوبات صرعية.",
+    "NEURO_2024-07-17_EEG_Tracing_Epoch09_13-28-39_PM_AlphaBackground_MuscleArtifact.jpg": "[تاريخي 2024] مقطع تخطيط المخ 09 (13:28:39 م): نهاية فحص الساعتين تؤكد براءة المخ من الصرع.",
+    "VASC_2011-06-21_LowerLimb_ColorDoppler_Report_DrHelmyRashad_LtCalfPerforatorIncompetence.png": "[تاريخي 2011] تقرير دوبلكس شرايين وأوردة الطرفين السفليين (د. حلمي رشاد 2011-06-21): الشرايين والأوردة العميقة سليمة تماماً بدون جلطة أو ضيق، مع ارتجاع بثاقب الساق الأيسر ودوالي سطحية.",
+    "VASC_2011-06-21_LowerLimb_ColorDoppler_Strip01_AltadamonHospital.png": "[تاريخي 2011] صورة دوبلكس ملون (مستشفى التضامن 2011-06-21): تدفق دموي طبيعي بالأوعية الرئيسية للطرف السفلي بدون انسداد شرياني أو جلطة عميقة.",
+    "VASC_2011-06-21_LowerLimb_ColorDoppler_Strip02_NormalArteriesDeepVeins.png": "[تاريخي 2011] صورة دوبلكس ثنائي اللون: سلامة الشريان الظنبوبي الأمامي والخلفي والأوردة المرافقة وانعدام DVT.",
+    "VASC_2011-06-21_LowerLimb_ColorDoppler_Strip03_Waveforms_Upright.png": "[تاريخي 2011] طيف الدوبلر النبضي (تم تعديل استقامته 90°): موجات شريانية ثلاثية/ثنائية الطور طبيعية وتدفق وريدي سليم.",
+    "VASC_2011-06-21_LowerLimb_ColorDoppler_Strip04_DeepFemoralVenousFlow.png": "[تاريخي 2011] شريحة دوبلكس الوريد الفخذي العميق (مختوم 2011-06-21): مجرى وريدي عميق سالك وطبيعي تماماً.",
+    "OPHTH_2014-04-23_Optovue_Macula_OD_CystoidEdema_RPEDisruption_HISTORICAL.png": "[تاريخي 2014] أشعة مقطعية لمركز إبصار العين اليمين (Optovue OCT): تكيسات وارتشاح وتكسر بالطبقة الصبغية RPE قبل عمليات الشبكية لاحقاً.",
+    "OPHTH_2014-04-23_Optovue_MaculaMap_EMM5_OU_RPE_Disruption_OD280_OS100_HISTORICAL.png": "[تاريخي 2014] خريطة مقارنة مركز الإبصار للعينين (EMM5): خلل شبكي مزمن مبكر بالعينين (OD 280 / OS 100).",
+    "OPHTH_2014-04-23_Optovue_OpticNerve_OS_RNFL78.36um_CDVert0.83_HISTORICAL.png": "[تاريخي 2014] أشعة العصب البصري الشمال (Optovue): سمك الألياف 78.36 ميكرون وتقعر رأسي C/D 0.83 يدل على علة عصب بصري منذ 2014.",
+    "OPHTH_2016-02-16_Optovue_OpticNerve_OS_RNFL71.41um_CDVert0.74_HISTORICAL.png": "[تاريخي 2016] متابعة العصب البصري الشمال (د. سناء همام 2016-02-16): انخفاض إضافي بسمك الألياف إلى 71.41 ميكرون (تدهور تدريجي).",
+    "OPHTH_2019-08-19_MOH_HealthInsurance_Referral_LtCataract_RD_PriorRtRD_HISTORICAL.png": "[تاريخي 2019] خطاب تحويل التأمين الصحي الرسمي (2019-08-19): يثبت سابقة عملية كتاراكت وانفصال شبكي بالعين اليمين وطلب عملية بالشمال.",
+    "OPHTH_2019-08-20_Optopol_OCT_Report_OU_DrOmaimaMohamed_MarkedTSNIT_HISTORICAL.png": "[تاريخي 2019] تقرير OCT الطيفي للعينين #1107 (د. أميمة محمد 2019-08-20): يوثق ترققاً حاداً بعصب العين الشمال (متوسط TSNIT = 64 ميكرون باللون الأحمر).",
+    "OPHTH_2019-08-20_Optopol_OCT_Report_OU_DrOmaimaMohamed_AltTake_HISTORICAL.png": "[تاريخي 2019] لقطة بديلة عالية الوضوح لنفس تقرير د. أميمة محمد #1107 بتاريخ 2019-08-20.",
+    "OPHTH_2019-08-20_Optopol_OCT_OD_Spectral_MeanTSNIT260_CD0.24_HISTORICAL.png": "[تاريخي 2019] تفصيل Optopol للعين اليمين: متوسط TSNIT 260 (قراءة مبالغ بها بسبب تشويش وتليف واجهة الشبكية والزجاجي).",
+    "OPHTH_2019-08-20_Optopol_OCT_OS_SevereRNFLThinning_MeanTSNIT64_HISTORICAL.png": "[تاريخي 2019] تفصيل Optopol للعين الشمال: ترقق شديد ومؤكد بعصب البصر الشمال بمتوسط 64 ميكرون قبل السيليكون.",
+    "OPHTH_2019-09-11_BScan_OS_VitreousHemorrhage_NoRetinalDetachment_DrOmaimaSharara_HISTORICAL.png": "[تاريخي 2019] سونار العين الشمال (د. أميمة شرارة 2019-09-11): عتامات ونزيف بالسائل الزجاجي بدون انفصال شبكي كلي وقتها.",
+    "OPHTH_2019-12-15_BScan_OS_SiliconizedEye_RetinaInPlace_DrHaithamKhalil_HISTORICAL.png": "[تاريخي 2019] سونار العين الشمال بعد الجراحة (د. هيثم خليل 2019-12-15): عين محقونة بزيت السيليكون والشبكية ثابتة في مكانها.",
+    "OPHTH_2021-04-07_BScan_OD_EmulsifiedSiliconeOil_RetinaInPlace_DrYasminSinan_HISTORICAL.png": "[تاريخي 2021] سونار العين اليمين (د. ياسمين سنان 2021-04-07): يثبت حقن زيت السيليكون وتكسره (Emulsified) بالعين اليمين أيضاً مع بقاء الشبكية في مكانها.",
+    "OPHTH_2021-04-07_BScan_OS_SiliconFilledEye_RetinaInPlace_DrYasminSinan_HISTORICAL.png": "[تاريخي 2021] سونار العين الشمال (د. ياسمين سنان 2021-04-07): عين مملوءة بزيت السيليكون والشبكية في مكانها.",
+    "OPHTH_2021-05-29_BScan_OS_SiliconFilledEye_RetinaInPlace_DrManarElGayar_HISTORICAL.png": "[تاريخي 2021] أحدث سونار قديم متاح للعين الشمال (د. منار الجيار 2021-05-29): آخر توثيق قبل 5 سنوات لوجود الشبكية في مكانها خلف زيت السيليكون.",
+    "OPHTH_2026-06-01_Topcon_OCT_Macula_Radial_OD_Avg221.9um_Qual10.png": "[حالي 2026] مقطعية مركز الإبصار للعين اليمين (توبكون Maestro2): جودة عالية 10/10 (الوسط رايق بلا سيليكون!)، الحفرة متصلة بسمك 259 ميكرون والمتوسط 221.9 ميكرون.",
+    "OPHTH_2026-06-01_Topcon_OCT_Macula_Radial_OS_LowQual2_SiliconeMediaOpacity.png": "[حالي 2026] مقطعية مركز الإبصار للعين الشمال: جودة ضعيفة 2/10 بسبب زيت السيليكون والعتمة مما يجعل قياس 400.3 ميكرون مجرد تشويش جهاز.",
+    "OPHTH_2026-06-01_Topcon_OCT_OpticNerve_3DDisc_OD_RNFL40um_SevereAtrophy_Qual9.png": "[حالي 2026] فحص العصب البصري للعين اليمين (جودة عالية 9/10): يثبت ضموراً حقيقياً شديداً في ألياف العصب (إجمالي RNFL = 40 ميكرون، السفلي 34 ميكرون، تقعر 0.70).",
+    "OPHTH_2026-06-01_Topcon_OCT_OpticNerve_3DDisc_OS_Qual2_MediaArtifact.png": "[حالي 2026] فحص العصب البصري للعين الشمال: جودة متدنية 2/10 بسبب عتامة السيليكون؛ رقم الـ 90 ميكرون غير موثوق إطلاقاً ولا يمثل أليافاً حقيقية.",
+    "OPHTH_2026-06-27_Zeiss_VisualField_HFA_VFI18pct_UnreliableTest_DrAlaaKhaled.png": "[حالي 2026] مجال الإبصار (زايس 24-2 - د. آلاء خالد 2026-06-27): مؤشر VFI = 18% مع فقدان واسع وبقعة سفلية أنفية، ومختوم رسمياً 'فحص غير موثوق' لفقد التثبيت (< 1/60).",
+    "OPHTH_2026-07-08_CSO_Flash_VEP_OD_Present_N1P1_10.29uV_P2_125.39ms.png": "[حالي 2026] رسم العصب البصري بالوميض للعين اليمين (CSO 2026-07-08): إشارة كهربائية واضحة ومقاسة إلى قشرة المخ (N1-P1 = 10.29 µV، ذروة P2 عند 125.39 ms).",
+    "OPHTH_2026-07-08_CSO_Flash_VEP_OS_Present_N1P1_7.99uV_P2_132.42ms.png": "[حالي 2026] رسم العصب البصري بالوميض للعين الشمال (CSO 2026-07-08): مفاجأة إكلينيكية — المسار البصري ليس ميتاً تماماً ولا تزال الإشارة تقاس (N1-P1 = 7.99 µV، P2 132.42 ms) رغم السيليكون.",
+    "OPHTH_2026-07-08_CSO_ERG_DarkAdapted_0.01_OU_OD39.1uV_OS35.8uV.png": "[حالي 2026] رسم الشبكية بالظلام (النبضات العصوية 0.01): ضعف عام بالجهتين (يمين 39.1 µV وشمال 35.8 µV).",
+    "OPHTH_2026-07-08_CSO_ERG_DarkAdapted_3.0_OU_OD94.4uV_OS76.8uV.png": "[حالي 2026] رسم الشبكية المختلط بالظلام (3.0): انخفاض استجابة المستقبلات الضوئية خصوصاً بالشمال (76.8 µV مقابل 94.4 µV يمين).",
+    "OPHTH_2026-07-08_CSO_ERG_DarkAdapted_3.0_OU_AltTake.png": "[حالي 2026] لقطة ثانية موثقة من سجل ERG المختلط بالظلام 3.0 بتاريخ 2026-07-08.",
+    "OPHTH_2026-07-08_CSO_ERG_OscillatoryPotentials_OD10.0uV_OS0.74uV_SevereOSIschemia.png": "[حالي 2026] الجهود التذبذبية للشبكية (OPs - الأهم تشخيصياً): انهيار شبه كامل لتروية الطبقات الداخلية للشبكية الشمال (0.74 µV فقط مقابل 10.00 µV باليمين!).",
+    "OPHTH_2026-07-08_CSO_ERG_LightAdapted_3.0_OU_OD37.1uV_OS30.4uV.png": "[حالي 2026] رسم الشبكية بالإضاءة (المخاريط المفردة 3.0): تراجع استجابة المخاريط بالجهتين (يمين 37.1 µV وشمال 30.4 µV).",
+    "OPHTH_2026-07-08_CSO_ERG_LightAdapted_3.0_Flicker_OD21.2uV_OS13.0uV.png": "[حالي 2026] رسم الشبكية بالوميض السريع (30/48 Hz Flicker): ضعف ملموس باستجابة مخاريط البقعة الصفراء بالشمال (13.0 µV) مقارنة باليمين (21.2 µV).",
 }
 
 
@@ -433,6 +465,7 @@ def build_js_data_payload(manifest: dict, quant: dict, file_count: int) -> str:
     for f in manifest.get("files", []):
         cat = f["category_code"]
         date = f["date_of_test"]
+        tstat = f.get("temporal_status", "CURRENT_2026")
         if cat in ("MRI", "MRA", "MRV") or (cat == "RAD" and date.startswith("2026")):
             grp = "RAD_MRI_2026"
         elif cat == "RAD":
@@ -443,8 +476,10 @@ def build_js_data_payload(manifest: dict, quant: dict, file_count: int) -> str:
             grp = "AUD_2026"
         elif cat == "CARD":
             grp = "CARD"
+        elif cat == "OPHTH":
+            grp = "OPHTH_HIST" if tstat == "HISTORICAL_OLD" else "OPHTH_2026"
         elif cat == "VASC":
-            grp = "VASC"
+            grp = "VASC_LL" if date.startswith("2011") else "VASC"
         else:
             grp = "CLIN"
         sz_kb = f["size_bytes"] / 1024.0
@@ -457,6 +492,8 @@ def build_js_data_payload(manifest: dict, quant: dict, file_count: int) -> str:
                 "cat": cat,
                 "grp": grp,
                 "date": date,
+                "temporal_status": tstat,
+                "is_historical": (tstat == "HISTORICAL_OLD"),
                 "raw_en": raw_en,
                 "raw_ar": raw_name,
                 "newName": f["new_semantic_filename"],
@@ -471,8 +508,8 @@ def build_js_data_payload(manifest: dict, quant: dict, file_count: int) -> str:
     i18n = {
         "en": {
             "pageTitle": "MDT Clinical Case Study — Amal Mokhtar Mohamed Ibrahim (63.5y F)",
-            "brandTitle": "MDT Clinical Case Study | Complex Neuro-Vascular & Otological Evaluation",
-            "brandSub": f"Patient: Amal Mokhtar Mohamed Ibrahim • 63.5y Female • National ID: 26304090300188 • {file_count} Verified Primary Records",
+            "brandTitle": "7-Consultant MDT Case Study | Neuro-Vascular, Otological & Vitreoretinal Evaluation",
+            "brandSub": f"Patient: Amal Mokhtar Mohamed Ibrahim • 63.5y Female • National ID: 26304090300188 • {file_count} Verified Records (2011–2026)",
             "btnThemeDark": "Dark Mode",
             "btnThemeLight": "Light Mode",
             "btnPrintTab": "Print Tab",
@@ -481,54 +518,59 @@ def build_js_data_payload(manifest: dict, quant: dict, file_count: int) -> str:
             "pdfLabel": "Shareable Reports & Index",
             "pdfLinks": [
                 {"href": "../05_Shareable_PDF_Reports/01_MDT_Executive_Summary_and_Action_Plan.pdf", "txt": "01. 2-Page Executive Summary (PDF)"},
-                {"href": "../05_Shareable_PDF_Reports/02_Consultant_6_Board_Audit_Reports.pdf", "txt": "02. 6-Consultant Board Audits (PDF)"},
+                {"href": "../05_Shareable_PDF_Reports/02_Consultant_7_Board_Audit_Reports.pdf", "txt": "02. 7-Consultant Board Audits (PDF)"},
                 {"href": "../05_Shareable_PDF_Reports/03_Patient_Case_Study_Full_Report.pdf", "txt": "03. Complete Case Monograph (PDF)"},
                 {"href": "../04_Final_MDT_Deliverables/Master_MDT_Case_Study_Report.md", "txt": "Master Markdown Dossier"},
                 {"href": "../01_Structured_and_Renamed_Inputs/FILE_RENAMING_INDEX.md", "txt": f"Complete {file_count}-File Index"},
             ],
             "tabs": [
                 {"id": "tab-profile", "num": "01", "label": "01. Patient Profile & Clinical History", "count": "Profile"},
-                {"id": "tab-workup", "num": "02", "label": "02. Neuroimaging Videos & Diagnostic Workup", "count": "3 Vid"},
-                {"id": "tab-prior", "num": "03", "label": "03. Prior Consultants & Clinical Conflict", "count": "Conflict"},
-                {"id": "tab-board", "num": "04", "label": "04. 6-Consultant MDT Board Audits", "count": "6"},
-                {"id": "tab-consensus", "num": "05", "label": "05. Final Consensus & Resolved Dilemmas", "count": "8+4"},
-                {"id": "tab-plan", "num": "06", "label": "06. Next Workup & Master Treatment Plan", "count": "Rx"},
+                {"id": "tab-videos", "num": "02", "label": "02. Neuroimaging Video Suite (MRI / MRA / MRV)", "count": "3 Vid"},
+                {"id": "tab-diagnostics", "num": "03", "label": "03. Diagnostics, Labs & Imaging Gallery", "count": str(file_count)},
+                {"id": "tab-prior", "num": "04", "label": "04. Prior Consultants & Clinical Conflict", "count": "Conflict"},
+                {"id": "tab-board", "num": "05", "label": "05. 7-Consultant MDT Board (Conclusions & Action Plans)", "count": "7 Board"},
+                {"id": "tab-plan", "num": "06", "label": "06. Master Treatment & Medication Plan", "count": "Rx"},
             ],
+            "histBadge": "HISTORICAL / OLD EXAM — DO NOT CONFUSE WITH CURRENT 2026 STATUS",
+            "histShortBadge": "HISTORICAL EXAM",
+            "currBadge": "CURRENT 2026 RECORD",
             # Tab 1: Patient Profile & Clinical History
             "t1": {
                 "jumpTitle": "Interactive MRI / MRA / MRV Video Suite Ready in Module 02",
-                "jumpSub": "Direct inline streaming players for 3D-MRV Venography (0.48 Lt attenuation), 513-slice 3D-TOF MRA, and Axial T2/FLAIR CSVD are mounted immediately at the top of Module 02.",
+                "jumpSub": "Direct inline streaming players for 3D-MRV Venography (0.48 Lt attenuation), 513-slice 3D-TOF MRA, and Axial T2/FLAIR CSVD are mounted immediately in Module 02.",
                 "jumpBtn": "Open Neuroimaging Video Suite",
-                "secHead": "Patient Demographics, Risk Substrates & Chronological Clinical History",
+                "secHead": "Patient Demographics, Risk Substrates & Longitudinal Clinical History (2011 – Nov 2026)",
                 "kpis": [
-                    {"cls": "accent", "lbl": "Identity & Verified Age", "val": "63.5y Female", "sub": "Verified DOB 1963-04-09 (ID ...00188); clerical 1963-03-27 on MRI film header"},
-                    {"cls": "danger", "lbl": "Vision & Orbital Baseline", "val": "< 1/60 Blindness", "sub": "MOH 2021 Retinal/Optic Atrophy + persistent 2.59x Lt intraocular silicone oil (since 2024 CT)"},
-                    {"cls": "warn", "lbl": "Cardio-Metabolic Load", "val": "80 IU/d | 0.13 cm", "sub": "T2DM + HTN + Dyslipidemia; Carotid IMT +44.4% & 5 mm Lt bulb plaque"},
+                    {"cls": "accent", "lbl": "Identity & Verified Age", "val": "63.5y Female", "sub": f"DOB 1963-04-09 (ID ...00188); clerical 1963-03-27 on MRI film; {file_count} audited primary files"},
+                    {"cls": "danger", "lbl": "Vision & 12-Yr Eye Axis", "val": "< 1/60 | OD 40um", "sub": "OD clear Qual 10 (atrophy RNFL 40um); OS silicone Qual 2 + OPs 0.74uV; Flash VEP measurable OU!"},
+                    {"cls": "warn", "lbl": "Cardio-Metabolic Load", "val": "80 IU/d | 0.13 cm", "sub": "T2DM + HTN + Dyslipidemia; Carotid IMT +44.4% & 5 mm Lt bulb plaque (2011 leg Doppler PAD negative)"},
                     {"cls": "danger", "lbl": "Core Telemetry & Tymp", "val": "857 PVCs | 3.2 cm3", "sub": "36.29% AM surge, -2.1 mm ST (13:11); MRV L/R 0.48; 0 dB ABG & Rt 1.5 cm3 Type A"},
                 ],
                 "safetyTitle": "NON-NEGOTIABLE PATIENT SAFETY ALERTS BEFORE ANY DIAGNOSTIC ORDER OR PRESCRIPTION",
                 "safetyBullets": [
-                    "<strong>Light-Tracked VNG Is Technically Invalid:</strong> Bilateral legal blindness (&lt; 1/60 better eye, MOH 2021) + persistent Left silicone oil strips ~95% visual vestibular reserve and invalidates optical fixation, saccades, and OPK tracking.",
+                    "<strong>Light-Tracked VNG Is Technically Invalid:</strong> Bilateral legal blindness (&lt; 1/60 better eye, MOH 2021) + OD profound atrophy (<code>40 um</code>) + persistent OS silicone oil strips ~95% visual vestibular reserve and invalidates optical fixation, saccades, and OPK tracking.",
                     "<strong>Defer Catheter DSA Across Left Carotid Bulb:</strong> Unfiltered DSA traverses a documented <code>5 mm</code> atheromatous plaque at the Left Carotid Bulb while serum Cr/eGFR (on Metformin) and CH3 <code>-2.1 mm</code> silent myocardial ischemia remain unaddressed.",
-                    "<strong>Morning Insulin + Electrolyte Arrhythmogenic Loop:</strong> Stopping daily <code>Meclizine</code>, avoiding <code>Cidamex + HCTZ</code> potassium wasting, auditing morning <code>80 IU/d</code> insulin hypoglycemia (driving <code>36.29%</code> of 857 PVCs), and avoiding non-selective <code>Inderal</code> hypoglycemia masking take immediate priority.",
+                    "<strong>Do NOT Schedule OS Oil Removal on False Topcon Noise:</strong> OS Topcon <code>Qual 2</code> prints artifactual <code>90 um</code> RNFL noise (true RNFL was already <code>64 um</code> in 2019), while ~7-year silicone removal risks hypotony/re-detachment; get a <strong>fresh 2026 Ocular B-Scan + IOP</strong> first.",
+                    "<strong>Morning Insulin + Electrolyte Arrhythmogenic Loop:</strong> Stop daily <code>Meclizine</code> &amp; <code>Ginkgo</code>, avoid systemic <code>Cidamex + HCTZ</code> potassium wasting, audit morning <code>80 IU/d</code> insulin hypoglycemia (driving <code>36.29%</code> of 857 PVCs), and protect optic disc BP (&gt;= 115/70 mmHg).",
                 ],
-                "compHead": "1. Four Presenting Clinical Complaints",
+                "compHead": "1. Five Integrated Clinical & Ophthalmological Presentation Domains",
                 "complaints": [
-                    {"title": "Left-Sided Pulsatile Tinnitus", "badge": "b-amber", "tag": "Primary Vascular/Acoustic", "desc": "Persistent rhythmic whooshing/thumping localized to the Left ear. Mechanical acoustic modeling demonstrates blood turbulence traversing a hypoplastic Left Transverse-Sigmoid-IJV conduit (<code>L/R 0.48</code>) amplified by an ultra-flaccid <code>3.2 cm3 Type Ad</code> monomeric tympanic membrane and post-PVC stroke-volume surges."},
-                    {"title": "Disabling Balance Instability ('4-Hit' Vertigo)", "badge": "b-red", "tag": "Multi-Sensory Crisis", "desc": "Severe unsteadiness driven concurrently by (1) Left cochleovestibular microvascular insult, (2) bilateral legal blindness (&lt;1/60) eliminating visual righting, (3) CSVD Fazekas 1-2 + diabetic neuropathy + daily <code>Meclizine</code> CNS suppression, and (4) cardiac/glycemic hemodynamic dips."},
-                    {"title": "Progressive Asymmetric Sensorineural Hearing Loss", "badge": "b-blue", "tag": "Cochlear Localization", "desc": "Definitive Masked PTA (<code>2026-11-03</code>) documents <strong>0 dB Air-Bone Gap</strong> bilaterally (pure cochlear SNHL: Right 3-freq PTA <code>40.0 dB</code>, WRS <code>84%</code>; Left <code>54.2 dB</code>, WRS <code>76%</code>) with historical positive <strong>Metz recruitment (+45 dB SL)</strong> explaining loudness discomfort."},
-                    {"title": "Upper-Limb & Head Tremors (Titubation)", "badge": "b-purple", "tag": "Movement vs Metabolic", "desc": "Historical Parkinsonism label treated with <code>Sinemet</code> vs Prof. Galhom's <code>2026-11-03</code> clinical exam logging <strong>Essential Tremor + Titubation</strong> (negative lower-limb involvement). Prolonged <code>2024 2h EEG (9 epochs)</code> proves non-epileptic EMG tremor bursts, potentially worsened by early-morning insulin dips."},
+                    {"title": "Left-Sided Pulsatile Tinnitus", "badge": "b-amber", "tag": "Primary Vascular/Acoustic", "desc": "Persistent rhythmic whooshing localized to the Left ear. Mechanical acoustic modeling demonstrates blood turbulence traversing a hypoplastic Left Transverse-Sigmoid-IJV conduit (<code>L/R 0.48</code>) amplified by an ultra-flaccid <code>3.2 cm3 Type Ad</code> monomeric tympanic membrane and post-PVC stroke-volume surges."},
+                    {"title": "Disabling Balance Instability ('4-Hit' Vertigo)", "badge": "b-red", "tag": "Multi-Sensory Crisis", "desc": "Severe unsteadiness driven concurrently by (1) Left cochleovestibular microvascular insult, (2) bilateral legal blindness (&lt;1/60, OD RNFL 40um / OS OPs 0.74uV), (3) CSVD Fazekas 1-2 + daily <code>Meclizine</code> CNS suppression, and (4) cardiac/glycemic hemodynamic dips."},
+                    {"title": "Progressive Asymmetric Sensorineural Hearing Loss", "badge": "b-blue", "tag": "Cochlear Localization", "desc": "Definitive Masked PTA (<code>2026-11-03</code>) documents <strong>0 dB Air-Bone Gap</strong> bilaterally (pure cochlear SNHL: Right 3f PTA <code>40.0 dB</code>, WRS <code>84%</code>; Left <code>54.2 dB</code>, WRS <code>76%</code>) with historical positive <strong>Metz recruitment (+45 dB SL)</strong> -> fit Bilateral Open-Fit WDRC RIC (<code>OSPL90 &lt;= 95-100 dB SPL</code>)."},
+                    {"title": "Upper-Limb & Head Tremors (Titubation)", "badge": "b-purple", "tag": "Movement vs Metabolic", "desc": "Historical Parkinsonism label treated with <code>Sinemet</code> vs Prof. Galhom's <code>2026-11-03</code> exam logging <strong>Essential Tremor + Titubation</strong> (negative lower-limb involvement). Prolonged <code>2024 2h EEG (9 epochs)</code> proves non-epileptic EMG tremor bursts, worsened by morning insulin dips."},
+                    {"title": "Bilateral Severe Vision Loss & Left Eye Hope Question", "badge": "b-red", "tag": "Neuro-Ophthalmology", "desc": "Pre-existing diabetic/glaucomatous retinopathy (<code>2014–2019</code>) progressed to bilateral RD vitrectomy + silicone oil (<code>2019–2021</code>). Current <code>2026</code> tests show OD clear media / <code>40 um</code> RNFL, OS siliconized / <code>OPs 0.74 uV</code> ischemic collapse, yet <strong>preserved Flash VEP bilaterally (OD 10.29 uV / OS 7.99 uV)</strong>."},
                 ],
-                "timelineHead": "2. Chronological Clinical & Diagnostic Timeline (2021 – Nov 2026)",
+                "timelineHead": "2. Chronological Clinical, Ophthalmic & Vascular Timeline (2011 – Nov 2026)",
                 "timeline": [
-                    {"date": "2021-09-01 / 09-19", "src": "MOH Specialized Medical Councils", "detail": "Official disability decree (ID 26304090300188, DOB 1963-04-09): legal blindness (&lt;1/60 better eye) from retinal and optic nerve atrophy; prior left eye retinal detachment vitrectomy with intraocular silicone oil."},
-                    {"date": "2024-07-17", "src": "IMC Medical Center (Prof. Dr. Ahmed Fahmy)", "detail": "CT referral #474510 explicitly for tremors + <strong>Prolonged 2-Hour EEG (9 timestamped epochs, 11:42–13:28)</strong>: symmetric 9 Hz alpha rhythm, high-frequency fronto-temporal EMG tremor bursts, ZERO epileptiform discharges."},
-                    {"date": "2024-07-27", "src": "El-Zohor Specialized Hospital (Dr. Emad Mohamed)", "detail": "Non-Contrast Brain CT confirming age-appropriate involutional changes, normal posterior fossa/ventricles, no acute blood, and explicit left vitreous hyperdensity from pre-existing intraocular silicone oil."},
-                    {"date": "2024-11-02", "src": "Al-Hayah Port Fouad (Historical Unmasked Baseline)", "detail": "Unmasked AC-only PTA (Rt 35 dB / Lt 55 dB); prior GSI-39 Rt Peak <code>0.3 cm3 (Type As)</code> & Lt Peak <code>1.7 cm3 (Type Ad)</code>; Positive Ipsi 1 kHz Metz recruitment (105 dB HL = <code>45 dB SL</code>). Superseded as primary hearing baseline on 2026-11-03."},
-                    {"date": "2026-11-02", "src": "EHA Family Medicine Note & Neurosurgery Order", "detail": "Baseline Rx summary (Toujeo 30U, Apidra 50U, Gliptus Plus, Angiopress Comp, Zatorva 20, Aggrex 75, Sinemet); Prof. Dr. Ayman Galhom (#25334) orders Brain MRI, MRA, MRV, Carotid/Vertebral Duplex, and 24h Holter."},
-                    {"date": "2026-11-03", "src": "Definitive Follow-Up Audiology + Neurosurgery & ENT Consults", "detail": "Masked PTA + GSI-39 (Dr. Shahenda): <code>0 dB ABG</code>, Rt WRS <code>84%</code> / Lt WRS <code>76%</code>, Rt Peak <code>1.5 cm3</code> Normal Type A (refuting handwritten 'Rt As'), Lt Peak <code>3.2 cm3</code> Extreme Type Ad. Same-day Prof. Galhom (Essential Tremor + Titubation; Inderal/Ciprapra/Cobal F/Brain-Ox) and Dr. Mohamed Salem ENT (Meclizine/Ginkgo/VNG order)."},
-                    {"date": "2026-11-05", "src": "1.5T MRI/MRA/MRV Brain & 24-Hour Holter ECG", "detail": "CSVD Fazekas 1-2 + chronic Rt basal ganglia lacune + bilateral ethmoiditis + intact MRA + hypoplastic Lt TS/Sigmoid/IJV (<code>L/R 0.48</code>) + omitted Lt silicone oil (<code>2.59x</code>). Holter 29p: <code>857 PVCs</code> (311 between 06–09 AM), 4 V-runs, <code>153 SVEs</code>, CH3 <code>-2.1 mm ST</code> @ 13:11."},
-                    {"date": "2026-11-07", "src": "Carotid & Vertebral Color Duplex (Dr. Ibrahim Hashim)", "detail": "Diffuse carotid atherosclerosis: IMT <code>0.13 cm</code> (+44.4% above 0.9 mm ULN), non-stenotic bilateral plaques led by <strong>5 mm Left Carotid Bulb plaque</strong>; normal vertebral arterial velocities."},
+                    {"hist": True, "date": "2011-06-21", "src": "Altadamon Hospital (Dr. Helmy Rashad)", "detail": "HISTORICAL: Bilateral Lower Limb Arterial/Venous Color Doppler confirming patent triphasic/biphasic lower-limb arteries (NO PAD) and patent deep femoral/popliteal/tibial veins (NO DVT), with left calf perforator incompetence &amp; superficial varicosities."},
+                    {"hist": True, "date": "2014-04-23 -> 2016-02-16", "src": "Historical Optovue OCT Baseline (Dr. Sanaa Hamam)", "detail": "HISTORICAL: Already showed early chronic glaucomatous/ischemic optic nerve cupping and thinning in OS (<code>RNFL 78.36 um, Vert C/D 0.83</code> in 2014 -> <code>71.41 um</code> in 2016) alongside OD cystoid macular edema &amp; RPE disruption (<code>OD 280 / OS 100</code>) BEFORE 2019 RD surgeries."},
+                    {"hist": True, "date": "2019-08-19 -> 2019-12-15", "src": "MOH Referral, Optopol OCT & Early B-Scans (Drs. Omaima / Haitham)", "detail": "HISTORICAL: Health Insurance referral documented PRIOR Rt cataract+RD surgery and requested Lt surgery. 2019-08-20 Optopol OCT proved severe OS thinning (<code>Mean TSNIT 64 um</code>, red). B-Scans tracked OS vitreous hemorrhage (Sept 2019) -> siliconized OS with retina in place (Dec 2019)."},
+                    {"hist": True, "date": "2021-04-07 -> 2021-09-19", "src": "Ramad Port Said B-Scans & MOH Disability Decree", "detail": "HISTORICAL: Apr 2021 B-Scans (Dr. Yasmin Sinan) proved BOTH OD (<code>emulsified silicon</code>) and OS (<code>silicon filled eye</code>) underwent silicone oil surgery; last OS B-Scan in May 2021 (Dr. Manar El-Gayar). Sept 2021 MOH Council certified <code>&lt; 1/60</code> legal blindness (ID 26304090300188)."},
+                    {"hist": True, "date": "2024-07-17 -> 2024-11-02", "src": "IMC 2h EEG, El-Zohor Brain CT & Al-Hayah Unmasked Audio", "detail": "HISTORICAL: 2024-07-17 2h EEG (9 epochs) showed 9 Hz alpha + EMG tremor bursts, ZERO spikes. 2024-07-27 CT showed normal fossa &amp; left vitreous silicone oil. 2024-11-02 unmasked audiology (Rt As 0.3 / Lt Ad 1.7 / Metz +45 dB SL) superseded as primary baseline on 2026-11-03."},
+                    {"hist": False, "date": "2026-06-01 -> 2026-07-08", "src": "Current Topcon OCT, Zeiss HFA 24-2 & CSO VEP/ERG", "detail": "CURRENT 2026: Topcon OD <code>Qual 10</code> clear media, attached fovea (259 um), <strong>profound Optic Atrophy (RNFL 40 um)</strong>; OS <code>Qual 2</code> scatter noise (90 um artifact!). Zeiss HFA <code>VFI 18% ('Not reliable Test', Dr. Alaa Khaled)</code>. CSO ERG proves OS inner-retinal ischemia (<code>OPs 0.74 vs 10.0 uV OD</code>), <strong>yet Flash VEP is measurable bilaterally (OD 10.29 uV / OS 7.99 uV)</strong>!"},
+                    {"hist": False, "date": "2026-11-02 -> 2026-11-03", "src": "Definitive Follow-Up Audiology + Neurosurgery & ENT Consults", "detail": "CURRENT 2026: Masked PTA + GSI-39 (Dr. Shahenda): <code>0 dB ABG</code>, Rt WRS <code>84%</code> / Lt WRS <code>76%</code>, Rt Peak <code>1.5 cm3</code> Normal Type A (refutes handwritten 'Rt As'), Lt Peak <code>3.2 cm3</code> Extreme Type Ad. Prof. Galhom logged <code>Essential tremor + Titubation</code>; Dr. Salem ordered VNG + Meclizine/Ginkgo."},
+                    {"hist": False, "date": "2026-11-05 -> 2026-11-07", "src": "1.5T MRI/MRA/MRV Brain, 24h Holter 29p & Carotid Duplex", "detail": "CURRENT 2026: CSVD Fazekas 1-2 + chronic Rt BG lacune + intact MRA + normal optic chiasm + attenuated Lt TS/Sigmoid/IJV (<code>L/R 0.48</code>) + <code>2.59x</code> Lt silicone oil. Holter: <code>857 PVCs</code> (311 between 06–09 AM), 4 V-runs, <code>153 SVEs</code>, CH3 <code>-2.1 mm ST</code> @ 13:11. Duplex: <code>IMT 0.13 cm</code> &amp; <strong>5 mm Lt Carotid Bulb plaque</strong>."},
                 ],
                 "medsHead": "3. Complete Current & Recently Prescribed Medications Inventory",
                 "medCols": ["Medication & Formulation", "Dose / Timing", "Source / Prescriber", "Clinical Role & MDT Status Flag", "Flag"],
@@ -536,23 +578,26 @@ def build_js_data_payload(manifest: dict, quant: dict, file_count: int) -> str:
                     {"drug": "Toujeo SoloStar (Insulin Glargine U300)", "dose": "30 IU SC qHS", "src": "EHA Chronic DM", "role": "Basal glycemic control (part of 80 IU/d total insulin requiring CGM hypoglycemia audit).", "tag": "CAUTION", "badge": "b-amber"},
                     {"drug": "Apidra SoloStar (Insulin Glulisine)", "dose": "50 IU/day divided SC pre-meals", "src": "EHA Chronic DM", "role": "Heavy prandial bolus load (62.5% of daily insulin); prime suspect for morning adrenergic dips/PVCs.", "tag": "CAUTION", "badge": "b-amber"},
                     {"drug": "Gliptus Plus (Vildagliptin 50 / Metformin 1000 mg)", "dose": "1 tab PO BID", "src": "EHA Chronic DM", "role": "Contraindicated if eGFR &lt; 30; MUST hold 48h before/after any contrast CTA/DSA study.", "tag": "CAUTION", "badge": "b-amber"},
-                    {"drug": "Angiopress Comp (Captopril 50 / HCTZ 25 mg)", "dose": "1 tab PO daily", "src": "EHA Chronic HTN", "role": "Short 2h captopril half-life fails nocturnal BP control while HCTZ drives K+/Mg2+ wasting & PVCs.", "tag": "SWITCH", "badge": "b-red"},
-                    {"drug": "Cidamex (Acetazolamide 250 mg — Proposed)", "dose": "Proposed by outside review", "src": "Avoidance Alert", "role": "DO NOT ADD alongside HCTZ: additive kaliuresis + metabolic acidosis worsens 857 PVCs/V-runs.", "tag": "AVOID", "badge": "b-red"},
-                    {"drug": "Zatorva 20 mg (Atorvastatin)", "dose": "20 mg PO nocte", "src": "EHA Dyslipidemia", "role": "Under-dosed for 5 mm Lt bulb plaque, 0.13 cm IMT, CSVD & -2.1 mm CH3 ST depression (upgrade to 40-80 mg).", "tag": "UPGRADE", "badge": "b-blue"},
+                    {"drug": "Angiopress Comp (Captopril 50 / HCTZ 25 mg)", "dose": "1 tab PO daily", "src": "EHA Chronic HTN", "role": "Short 2h captopril half-life fails nocturnal BP control while HCTZ drives K+/Mg2+ wasting &amp; PVCs.", "tag": "SWITCH", "badge": "b-red"},
+                    {"drug": "Cidamex (Acetazolamide 250 mg — Systemic Glaucoma Alert)", "dose": "AVOID Systemic Use", "src": "MDT Safety Guardrail", "role": "DO NOT use alongside HCTZ: additive kaliuresis + metabolic acidosis worsens 857 PVCs/V-runs (use topical drops if IOP raised).", "tag": "AVOID", "badge": "b-red"},
+                    {"drug": "Zatorva 20 mg (Atorvastatin)", "dose": "20 mg PO nocte", "src": "EHA Dyslipidemia", "role": "Under-dosed for 5 mm Lt bulb plaque, 0.13 cm IMT, CSVD &amp; -2.1 mm CH3 ST depression (upgrade to 40-80 mg).", "tag": "UPGRADE", "badge": "b-blue"},
                     {"drug": "Aggrex 75 mg (Aspirin)", "dose": "75 mg PO daily", "src": "EHA Vascular Prev", "role": "Core secondary antiplatelet; keep monotherapy (strip unnecessary Ginkgo co-bleeding risk).", "tag": "CONTINUE", "badge": "b-green"},
                     {"drug": "Sinemet (Carbidopa/Levodopa)", "dose": "Per chronic schedule", "src": "Prior Neurology", "role": "Keep strictly until formal off/on MDS-UPDRS exam confirms whether true levodopa response exists.", "tag": "VERIFY", "badge": "b-amber"},
                     {"drug": "Inderal 10 mg (Propranolol)", "dose": "10 mg PO BID", "src": "Neurosurgery (2026-11-03)", "role": "Non-selective beta-blocker masks hypoglycemia tachycardia/tremor on 80 IU/d insulin; ask Cardiology to switch to Bisoprolol.", "tag": "SWITCH", "badge": "b-amber"},
-                    {"drug": "Ciprapra 10 mg (Escitalopram)", "dose": "1/2 tab (5 mg) PO post-dinner", "src": "Neurosurgery (2026-11-03)", "role": "Adds SSRI platelet 5-HT inhibition atop Aspirin + Ginkgo; verify depressive/anxiety indication.", "tag": "REVIEW", "badge": "b-amber"},
+                    {"drug": "Ciprapra 10 mg (Escitalopram)", "dose": "1/2 tab (5 mg) PO post-dinner", "src": "Neurosurgery (2026-11-03)", "role": "Adds SSRI platelet 5-HT inhibition atop Aspirin; verify depressive/anxiety indication.", "tag": "REVIEW", "badge": "b-amber"},
                     {"drug": "Cobal F (Vitamin B12 / Methylcobalamin)", "dose": "1 tab PO qAM", "src": "Neurosurgery (2026-11-03)", "role": "Safe neuropathic support (Metformin depletion), though baseline serum B12 should be drawn.", "tag": "CONTINUE", "badge": "b-green"},
-                    {"drug": "Brain-Ox 30 mg (Vincamine)", "dose": "1 cap PO post-lunch", "src": "Neurosurgery (2026-11-03)", "role": "Unproven cerebral vasodilator risking orthostatic hypotension/coronary steal in -2.1 mm ST ischemia.", "tag": "STOP", "badge": "b-red"},
-                    {"drug": "Meclizine 25 mg", "dose": "1 tab qPM x 1 month", "src": "ENT (2026-11-03)", "role": "Daily antihistamine vestibulosuppression blocks central brain compensation & worsens falls/Parkinsonism.", "tag": "STOP", "badge": "b-red"},
+                    {"drug": "Brain-Ox 30 mg (Vincamine)", "dose": "1 cap PO post-lunch", "src": "Neurosurgery (2026-11-03)", "role": "Unproven cerebral vasodilator risking orthostatic/optic-disc hypoperfusion &amp; coronary steal in -2.1 mm ST ischemia.", "tag": "STOP", "badge": "b-red"},
+                    {"drug": "Meclizine 25 mg", "dose": "1 tab qPM x 1 month", "src": "ENT (2026-11-03)", "role": "Daily antihistamine vestibulosuppression blocks central brain compensation &amp; worsens falls/Parkinsonism.", "tag": "STOP", "badge": "b-red"},
                     {"drug": "Cetrovit Ginkgo (Ginkgo Biloba)", "dose": "1 tab qAM x 2 months", "src": "ENT (2026-11-03)", "role": "No proven SNHL cure; creates dangerous triple antiplatelet bleed hazard alongside Aggrex + Ciprapra.", "tag": "STOP", "badge": "b-red"},
                 ],
             },
-            # Tab 2: Neuroimaging Videos & Diagnostic Workup
+            # Tab 2: Neuroimaging Video Suite (MRI / MRA / MRV)
             "t2": {
                 "videoSuiteTitle": "Neuroimaging Video Suite (Interactive DICOM / MRI / MRV Viewer)",
                 "videoBadges": ["1.5T MRI / MRA / MRV (2026-11-05)", "Relative Web Streaming Ready"],
+                "jumpDiagTitle": "Continue to Complete Diagnostics, 69-File Manifest & 41-Plate Imaging Gallery",
+                "jumpDiagSub": "Includes Quantitative Holter/Audiometry plots, 2026 & Historical (2011–2024) Ophthalmic/Vascular cropped images, and the Pending Workup Orders box.",
+                "jumpDiagBtn": "Open Module 03: Diagnostics & Gallery",
                 "videos": [
                     {
                         "title": "Card 1: 3D-MRV Venography Video",
@@ -585,17 +630,37 @@ def build_js_data_payload(manifest: dict, quant: dict, file_count: int) -> str:
                         "secText": "Open Tab",
                         "secHref": "../01_Structured_and_Renamed_Inputs/01_Neuroimaging_MRI_MRA_MRV_Videos/MRI_2026-11-05_Video02_DerivedCine_Axial_T2_FLAIR_BasalGanglia_CSVD.mp4",
                         "secDownload": False,
-                        "desc": "Displaying <strong>Basal Ganglia lacunar infarcts</strong> (right lentiform) and <strong>CSVD small vessel disease (Fazekas 1–2)</strong> alongside ethmoiditis &amp; intact IACs across 20 synchronized slices (compiled from primary <code>Film09 + Film07</code>).",
+                        "desc": "Displaying <strong>Basal Ganglia lacunar infarcts</strong> (right lentiform) and <strong>CSVD small vessel disease (Fazekas 1–2)</strong> alongside ethmoiditis, intact IACs, and normal optic chiasm across 20 synchronized slices (<code>Film09 + Film07</code>).",
                     },
                 ],
-                "diagHead": "1. Complete Diagnostic Investigations Matrix (2024 – 2026)",
+                "seqHead": "Quantitative Sequence Synthesis Across All 10 MRI Films & 513 MRA Source Slices",
+                "seqCards": [
+                    {"title": "Venous MRV Geometry (Film06, PA R-on-Right Verified)", "badge": "b-amber", "tag": "L/R 0.48 Ratio", "desc": "Right-dominant transverse/sigmoid sinus &amp; IJV drainage. Left transverse-sigmoid-IJV shows uniform congenital/chronic attenuation (0.48 ratio) with ZERO filling defect/thrombosis and NO giant sigmoid sinus diverticulum."},
+                    {"title": "Arterial TOF-MRA & Skull Base (Video01 + Films 02–04b)", "badge": "b-green", "tag": "No High-Flow dAVF", "desc": "513 axial 1.0-mm slices confirm normal carotid siphons, Circle of Willis, vertebrobasilar junction, aerated left mastoid cells, and ZERO dilated external carotid feeder (recognizing 1.5T TOF threshold cannot exclude a tiny slow Cognard Type I twig)."},
+                    {"title": "Parenchyma, Orbits & Chiasm (Films 05, 07–10)", "badge": "b-blue", "tag": "CSVD + 2.59x Oil", "desc": "Negative DWI/ADC (zero acute stroke); CSVD Fazekas 1–2 + chronic right lentiform lacune (ZERO MS Dawson fingers); normal IACs/CPAs &amp; intact optic chiasm; bilateral ethmoiditis; prominent <strong>Left Intraocular Silicone Oil (2.59x signal)</strong> omitted on formal PDF."},
+                ],
+            },
+            # Tab 3: Diagnostics, Labs & Imaging Gallery
+            "t3": {
+                "pendingHead": "ORDERED / PENDING DIAGNOSTIC WORKUP (DO NOT CONFUSE WITH COMPLETED TESTS ABOVE)",
+                "pendingItems": [
+                    {"title": "Modified Dark-Only VNG (Lab Safety Mandate)", "txt": "Written warning required: patient is legally blind (&lt; 1/60). CANCEL light-target saccade/pursuit/OPK calibration; perform <strong>Dark Positional + Bithermal Calorics ONLY</strong>."},
+                    {"title": "Fresh 2026 Bilateral Ocular B-Scan + IOP + Gonioscopy", "txt": "Last B-Scan in file is May 2021! Order urgent 2026 B-Scan (OU) + Applanation IOP to confirm OS retina remains attached behind Qual 2 silicone opacity &amp; rule out emulsified oil glaucoma."},
+                    {"title": "Selective Bedside Neck Compression & Auscultation", "txt": "Quiet mastoid auscultation comparing <strong>gentle anterior Lt IJV compression</strong> vs <strong>pinpoint Lt occipital artery pulse pressure</strong> before considering any 4D-MRA / CTA / DSA."},
+                    {"title": "STAT Electrolytes & Renal Clearance Panel", "txt": "<code>K+, Na+, Mg2+, Ca2+, Creatinine/eGFR, Urine ACR</code> immediately (mandatory prior to stopping HCTZ/blocking Cidamex or any contrast imaging atop Metformin)."},
+                    {"title": "14-Day CGM (03:00–09:00 AM) + Metabolic Panel", "txt": "Audit 80 IU/d insulin for occult morning hypoglycemia driving 36.29% AM PVCs + tremor, alongside <code>HbA1c, Fasting Lipids (LDL), TSH, CBC, Vit B12, ALT/AST</code>."},
+                    {"title": "Cardiology Ischemia & Neurology UPDRS Challenge", "txt": "<strong>TTE + Pharmacological Stress Echo/SPECT</strong> (NO treadmill due to &lt;1/60 blindness!) for -2.1 mm CH3 ST depression + supervised <strong>off/on Sinemet MDS-UPDRS test</strong>."},
+                ],
+                "diagHead": "1. Complete Diagnostic Investigations Matrix (2011 Historical – Nov 2026 Current)",
                 "investigations": [
-                    {"title": "1.5T MRI / MRA / MRV Brain (2026-11-05)", "badge": "b-blue", "status": "Film01–Film10 + Video01", "metrics": ["CSVD Fazekas PV 1–2 / DWM 1–2; chronic Rt BG, Lt frontal & Rt parietal lacunes; ZERO acute DWI stroke.", "MRA: Normal Circle of Willis & vertebrobasilar system (note: 1.5T TOF misses tiny low-flow dAVF).", "MRV: Attenuated Lt Transverse/Sigmoid/IJV (L/R 0.48), zero clot. Bilateral ethmoiditis + omitted 2.59x Lt Silicone Oil."]},
-                    {"title": "Definitive Masked PTA & GSI-39 (2026-11-03)", "badge": "b-red", "status": "Primary Audiology Baseline", "metrics": ["Masked AC/BC matches cleanly (0 dB ABG) — Right 3f PTA 40.0 dB (WRS 84% @ 65 dB); Left 54.2 dB (WRS 76% @ 90 dB).", "GSI-39 Thermal Printout: Right Peak 1.5 cm3 @ -5 daPa (Normal Type A — refutes handwritten 'Rt As').", "Left Peak 3.2 cm3 @ 0 daPa (>3.0 cm3 chart ceiling, Extreme Type Ad). Historical Metz +45 dB SL recruitment confirms cochlear localization."]},
-                    {"title": "24-Hour Holter ECG — 29 Pages (2026-11-05)", "badge": "b-red", "status": "95,454 Analyzed Beats", "metrics": ["Avg HR 65 bpm (Min 51 @ 02:06, Max 99 @ 12:32); SDNN 101 ms; 100% normal QTc (max 326 ms).", "857 PVCs (0.898%), 22 V-pairs, 4 V-runs (max 4 beats @ 73 bpm, fastest 3b @ 104 bpm @ 08:00 AM), 153 SVEs.", "36.29% AM cluster (311 PVCs 06–09 AM; 164 PVCs/3.78% @ 08:00) + 160 min CH3 ST depression (max -2.1 mm @ 13:11)."]},
-                    {"title": "Carotid & Vertebral Color Duplex (2026-11-07)", "badge": "b-amber", "status": "Mild Atherosclerosis", "metrics": ["Carotid Intima-Media Thickness (IMT) 0.13 cm (+44.4% above 0.9 mm upper normal limit).", "Bilateral non-stenotic atheromatous plaques; largest 5 mm plaque in Left Carotid Bulb.", "DSA Safety Significance: Direct embolic catheter trajectory hazard + intact vertebral arterial flow."]},
-                    {"title": "Prolonged 2-Hour EEG — 9 Epochs (2024-07-17)", "badge": "b-green", "status": "Epilepsy Excluded", "metrics": ["IMC Prof. Dr. Ahmed Fahmy (11:42–13:28): symmetric 9 Hz posterior alpha background.", "Hyperventilation & photic stimulation unremarkable; ZERO epileptiform spikes or sharp waves.", "Dense high-frequency bilateral fronto-temporal EMG muscle artifacts prove peripheral/subcortical tremor."]},
-                    {"title": "Non-Contrast Brain CT (2024-07-27)", "badge": "b-blue", "status": "El-Zohor Continuity", "metrics": ["IMC Req #474510 ordered for 'tremors'; El-Zohor report by Dr. Emad Mohamed MSc.", "Age-related involutional sulcal widening, normal ventricles/posterior fossa, ZERO hemorrhage or tumor.", "Proves left vitreous silicone oil hyperdensity already existed 27 months before the Nov 2026 MRI."]},
+                    {"hist": False, "title": "1.5T MRI / MRA / MRV Brain (2026-11-05)", "badge": "b-blue", "status": "CURRENT • Film01–10", "metrics": ["CSVD Fazekas 1–2 + chronic Rt BG, Lt frontal &amp; Rt parietal lacunes; ZERO acute DWI stroke; MS excluded.", "MRA: Normal Circle of Willis &amp; vertebrobasilar flow; intact IACs/CPAs &amp; normal optic chiasm (Film10).", "MRV: Attenuated Lt TS/Sigmoid/IJV (L/R 0.48), zero clot. Bilateral ethmoiditis + omitted 2.59x Lt Silicone Oil."]},
+                    {"hist": False, "title": "Definitive Masked PTA & GSI-39 (2026-11-03)", "badge": "b-red", "status": "CURRENT • Audio Baseline", "metrics": ["Masked AC/BC matches cleanly (0 dB ABG) — Rt 3f PTA 40.0 dB (WRS 84% @ 65 dB); Lt 54.2 dB (WRS 76% @ 90 dB).", "GSI-39 Thermal Printout: Rt Peak 1.5 cm3 @ -5 daPa (Normal Type A — refutes handwritten 'Rt As').", "Lt Peak 3.2 cm3 @ 0 daPa (&gt;3.0 cm3 plot ceiling, Extreme Type Ad). Historical Metz +45 dB SL confirms cochlear focus."]},
+                    {"hist": False, "title": "Current Ophthalmology: Topcon OCT, Zeiss HFA & CSO VEP/ERG (Jun–Jul 2026)", "badge": "b-red", "status": "CURRENT • 2026 Eye", "metrics": ["Topcon (06-01): OD Qual 10 clear media, fovea 259 um attached, <strong>severe Optic Atrophy RNFL 40 um</strong> (Inf 34 um); OS Qual 2 scatter (90 um printout is artifact!).", "Zeiss HFA 24-2 (06-27): VFI 18%, signed <strong>'Not reliable Test'</strong> by Dr. Alaa Khaled (&lt;1/60 fixation loss).", "CSO (07-08): <strong>ERG OPs collapsed OS 0.74 uV vs OD 10.00 uV</strong> &amp; Flicker OS 12.97 vs OD 21.19 uV, <strong>YET Flash VEP present OU (OD 10.29 uV / OS 7.99 uV)</strong>!"]},
+                    {"hist": False, "title": "24-Hour Holter ECG — 29 Pages (2026-11-05)", "badge": "b-red", "status": "CURRENT • 95,454 Beats", "metrics": ["Avg HR 65 bpm (Min 51 @ 02:06, Max 99 @ 12:32); SDNN 101 ms; 100% normal QTc (max 326 ms).", "857 PVCs (0.898%), 22 V-pairs, 4 V-runs (up to 104 bpm @ 08:00 AM), 153 SVEs.", "36.29% AM cluster (311 PVCs 06–09 AM) + 160 min CH3 ST depression (max -2.1 mm @ 13:11)."]},
+                    {"hist": False, "title": "Carotid & Vertebral Color Duplex (2026-11-07)", "badge": "b-amber", "status": "CURRENT • Bulb Plaque", "metrics": ["Carotid Intima-Media Thickness (IMT) 0.13 cm (+44.4% above 0.9 mm upper normal limit).", "Bilateral non-stenotic atheromatous plaques; largest <strong>5 mm plaque in Left Carotid Bulb</strong>.", "Direct embolic DSA catheter hazard along left carotid navigation route; normal vertebral velocities."]},
+                    {"hist": True, "title": "Prolonged 2h EEG (9 Epochs) & Non-Contrast Brain CT (Jul 2024)", "badge": "b-amber", "status": "HISTORICAL • Jul 2024", "metrics": ["IMC 2h EEG (2024-07-17): Symmetric 9 Hz alpha rhythm, normal HV/photic, ZERO epileptiform discharges.", "Dense fronto-temporal EMG tremor artifacts prove somatic/subcortical tremor (NOT cortical seizures).", "El-Zohor CT (2024-07-27): Age-related involutional changes; proves Lt silicone oil existed 27 mos before 2026 MRI."]},
+                    {"hist": True, "title": "Historical Ophthalmology Series (2014 – 2021 OCT, Referral & B-Scans)", "badge": "b-amber", "status": "HISTORICAL • 2014–2021", "metrics": ["2014–2016 Optovue OCT: Early glaucomatous/ischemic RNFL cupping in OS (78.36 -> 71.41 um) + OD CME/RPE disruption.", "2019-08-20 Optopol OCT: Severe OS RNFL thinning (64 um red) BEFORE Lt RD vitrectomy; 2019-08-19 MOH referral notes prior Rt RD surgery.", "2019–2021 B-Scans: Both OD (emulsified oil, Apr 2021) &amp; OS (Dec 2019, Apr/May 2021) had silicone oil &amp; attached retina; Sept 2021 MOH &lt;1/60 decree."]},
+                    {"hist": True, "title": "Historical Lower Limb Color Doppler (2011-06-21)", "badge": "b-amber", "status": "HISTORICAL • Jun 2011", "metrics": ["Altadamon Hospital (Dr. Helmy Rashad): Normal triphasic/biphasic lower-limb arterial waveforms (NO peripheral arterial occlusion).", "Patent bilateral SFV, popliteal &amp; tibial deep veins (NO DVT).", "Mild left calf perforator incompetence &amp; superficial varicosities only — valuable historical vascular baseline."]},
                 ],
                 "chartsHead": "2. Quantitative Telemetry Visualizations (Holter 24h & Definitive 2026-11-03 Audiology)",
                 "holterChartTitle": "24-Hour Holter Circadian PVC Surge (857 Total • 36.29% Cluster 06–09 AM) & HR Profile",
@@ -612,28 +677,39 @@ def build_js_data_payload(manifest: dict, quant: dict, file_count: int) -> str:
                 "audioTympSub": "2024 vs 2026-11-03 Peak",
                 "audioLimitLbl": "3.0 cm3 Plot Limit",
                 "audioRefute": "1.5 refutes handwritten 'Rt As'",
-                "roiHead": "3. Enhanced CLAHE Neuroimaging & Clinical Zoom Gallery (Click Any Plate to Inspect)",
+                "roiHead": "3. Chronological Clinical Imaging & Auto-Cropped Ophthalmology / Vascular Plates (Click Any Plate to Zoom)",
+                "galFilters": [
+                    {"grp": "ALL", "lbl": "All Plates"},
+                    {"grp": "NEURO_AUDIO_2026", "lbl": "2026 Neuro / Audio / Duplex"},
+                    {"grp": "OPHTH_2026", "lbl": "2026 Current Ophthalmology"},
+                    {"grp": "OPHTH_HIST", "lbl": "⚠️ Historical Ophthalmology (2014–2021)"},
+                    {"grp": "VASC_HIST", "lbl": "⚠️ Historical 2011 Leg Doppler"},
+                    {"grp": "HIST_2024", "lbl": "⚠️ Historical 2024 CT/EEG & 2021 MOH"},
+                ],
                 "roiBtn": "Inspect High-Res Zoom",
                 "modalBtns": {"z1": "100%", "z2": "160%", "z3": "240%", "open": "Open Original", "close": "Close"},
                 "filesHead": f"4. Complete Workspace File Index ({file_count} Verified Semantic Files)",
-                "searchPh": "Filter by keyword, date, drug, sinus, Holter, EEG, audiometry...",
+                "searchPh": "Filter by keyword, date, eye, Topcon, CSO VEP, ERG, Doppler, Holter, EEG...",
                 "fileFilters": [
                     {"grp": "ALL", "lbl": "All Files"},
+                    {"grp": "OPHTH_2026", "lbl": "2026 Ophthalmology"},
+                    {"grp": "OPHTH_HIST", "lbl": "⚠️ Hist. Ophth (2014–21)"},
+                    {"grp": "VASC_LL", "lbl": "⚠️ 2011 Leg Doppler"},
                     {"grp": "RAD_MRI_2026", "lbl": "2026 MRI/MRA/MRV"},
-                    {"grp": "RAD_CT_2024", "lbl": "2024 CT Brain"},
-                    {"grp": "NEURO_EEG_2024", "lbl": "2024 2h EEG"},
                     {"grp": "AUD_2026", "lbl": "2026 Audiology"},
                     {"grp": "CARD", "lbl": "24h Holter"},
-                    {"grp": "VASC", "lbl": "Duplex"},
+                    {"grp": "VASC", "lbl": "Carotid Duplex"},
+                    {"grp": "RAD_CT_2024", "lbl": "⚠️ 2024 CT Brain"},
+                    {"grp": "NEURO_EEG_2024", "lbl": "⚠️ 2024 2h EEG"},
                     {"grp": "CLIN", "lbl": "Notes/MOH"},
                 ],
-                "fileCols": ["#", "Cat", "Date", "Original Raw Name", "Renamed Semantic File (Click to Open)", "Size", "One-Line Clinical Summary"],
-                "fileFoot": "Historical baseline documents without standalone raw local images (2024-11-02 Al-Hayah Unmasked Audiology superseded by 2026-11-03 primary scans, 2026-11-02 EHA Note, 2026-11-03 ENT Rx) remain archived with full quantitative comparison in FILE_RENAMING_INDEX.md.",
+                "fileCols": ["#", "Cat", "Date / Status", "Original Raw Name", "Renamed Semantic File (Click to Open)", "Size", "One-Line Clinical Summary"],
+                "fileFoot": f"All {file_count} structured primary files across 2011–2026 reside in 01_Structured_and_Renamed_Inputs/ with untouched originals safely archived in 00_Raw_Backup_Archive/ and pre-2026 exams flagged ⚠️ HISTORICAL.",
             },
-            # Tab 3: Prior Consultants & Clinical Conflict
-            "t3": {
+            # Tab 4: Prior Consultants & Clinical Conflict
+            "t4": {
                 "head": "Prior External Consultations & Forensic Diagnostic Conflict Resolution",
-                "sub": "Direct side-by-side audit of why the external treating doctors diverged over Catheter DSA, Vertigo testing, Tremor etiology, and Tympanometry — and the anatomical pitfalls the MDT board uncovered.",
+                "sub": "Direct side-by-side audit of why prior external evaluations diverged over Catheter DSA, Vertigo testing, Tremor etiology, Tympanometry, and Eye Prognosis — and the four hidden forensic pitfalls exposed by the MDT Board.",
                 "priorCards": [
                     {
                         "role": "Prior Neurosurgery Consultation",
@@ -642,9 +718,9 @@ def build_js_data_payload(manifest: dict, quant: dict, file_count: int) -> str:
                         "tag": "Pro-DSA",
                         "stance": "Suspected Occult Low-Flow Occipital dAVF -> Recommended DSA + Extensive Vascular Workup; Documented Essential Tremor",
                         "points": [
-                            "<strong>Occipital dAVF Hypothesis:</strong> Posterior neck/suboccipital manual pressure abolished the left-sided pulsatile bruit, raising clinical suspicion for an angiographically occult Cognard Type I dural AVF missed by routine 1.5T MRI/TOF MRA.",
-                            "<strong>Investigative Workup Ordered (2026-11-02):</strong> Ordered MRI Brain, MRV, MRA, Carotid/Vertebral Color Duplex, and 24h Holter ECG.",
-                            "<strong>Movement Exam & Prescription (2026-11-03):</strong> Logged <code>Essential tremor + Titubation</code> (with negative lower-limb involvement) alongside DM/HTN; prescribed <code>Inderal 10 mg BID</code>, <code>Ciprapra 10 mg</code> 1/2 tab, <code>Cobal F</code>, and <code>Brain-Ox</code>.",
+                            "<strong>Occipital dAVF Hypothesis:</strong> Posterior neck/suboccipital manual pressure abolished the left-sided pulsatile bruit, raising suspicion for a Cognard Type I dural AVF missed by routine 1.5T MRI/TOF MRA.",
+                            "<strong>Workup Ordered (2026-11-02):</strong> Ordered MRI Brain, MRV, MRA, Carotid/Vertebral Color Duplex, and 24h Holter ECG.",
+                            "<strong>Movement Exam &amp; Rx (2026-11-03):</strong> Logged <code>Essential tremor + Titubation</code> (negative lower-limb involvement) alongside DM/HTN; prescribed <code>Inderal 10 mg BID</code>, <code>Ciprapra 10 mg</code> 1/2 tab, <code>Cobal F</code>, and <code>Brain-Ox</code>.",
                         ],
                     },
                     {
@@ -654,8 +730,8 @@ def build_js_data_payload(manifest: dict, quant: dict, file_count: int) -> str:
                         "tag": "Anti-DSA",
                         "stance": "Advised AGAINST Immediate Catheter Angiography (DSA)",
                         "points": [
-                            "<strong>Imaging & Vascular Rationale:</strong> Cited unremarkable 3D-TOF MRA (no enlarged external carotid feeders or cortical venous ectasia), pure right-dominant venous asymmetry (attenuated Lt TS/Sigmoid/IJV), and significant diabetic/atherosclerotic procedural morbidity.",
-                            "<strong>Clinical Gap Left Unresolved:</strong> Could not fully reconcile the patient's distressing bedside pulse-synchronous tinnitus or her response to posterior neck pressure without a structured non-invasive gatekeeper protocol.",
+                            "<strong>Imaging &amp; Vascular Rationale:</strong> Cited unremarkable 3D-TOF MRA (no dilated external carotid feeders or cortical venous ectasia), right-dominant venous asymmetry, and diabetic procedural morbidity.",
+                            "<strong>Clinical Gap Left Unresolved:</strong> Could not reconcile distressing pulse-synchronous tinnitus or response to posterior neck pressure without a structured non-invasive gatekeeper protocol.",
                         ],
                     },
                     {
@@ -665,428 +741,581 @@ def build_js_data_payload(manifest: dict, quant: dict, file_count: int) -> str:
                         "tag": "ENT / VNG",
                         "stance": "Suspected Vascular Cause Behind Left Ear; Prescribed Meclizine + Ginkgo & Requested VNG",
                         "points": [
-                            "<strong>Clinical Localization:</strong> Correctly suspected a retrotympanic/vascular abnormality behind the left ear driving pulsatile tinnitus and imbalance; requested VNG and vascular imaging.",
-                            "<strong>Hazardous Prescribing & Order Gaps:</strong> Prescribed daily <code>Meclizine qPM x 1 month</code> + <code>Cetrovit Ginkgo qAM x 2 months</code> and ordered routine VNG without flagging <code>&lt; 1/60</code> legal blindness or concurrent <code>Aggrex 75 mg</code>.",
+                            "<strong>Clinical Localization:</strong> Correctly suspected a retrotympanic/vascular abnormality behind the left ear driving pulsatile tinnitus and imbalance.",
+                            "<strong>Hazardous Order Gaps:</strong> Prescribed daily <code>Meclizine qPM x 1 month</code> + <code>Cetrovit Ginkgo qAM x 2 months</code> and ordered routine optical VNG without flagging <code>&lt; 1/60</code> legal blindness or concurrent <code>Aggrex 75 mg</code>.",
+                        ],
+                    },
+                    {
+                        "role": "Disconnected Ophthalmology Records (2014–2026)",
+                        "doctor": "Multiple External Eye Centers + Rology MRI Report Omission",
+                        "badge": "b-red",
+                        "tag": "Topcon Qual 2 Trap",
+                        "stance": "Unlinked 2019–2021 Silicone Oil History, Rology Omission & Misleading '90 um' OS Topcon Noise",
+                        "points": [
+                            "<strong>MRI Report Blind Spot:</strong> Formal 2026-11-05 Rology PDF completely omitted prominent <code>2.59x</code> Left Intraocular Silicone Oil &amp; optic atrophy.",
+                            "<strong>Quality-2 Segmentation Illusion:</strong> June 2026 Topcon prints <code>90 um</code> green/amber ONH noise for OS at <code>Qual 2</code> when true OS RNFL was already <code>64 um</code> back in 2019 &amp; July 2026 CSO ERG OPs collapsed to <code>0.74 uV</code> — yet CSO Flash VEP remains measurable (<code>7.99 uV</code>)!",
                         ],
                     },
                 ],
-                "bridgeTitle": "Three Forensic Pitfalls Uncovered Exclusively by the MDT Board Synthesis",
+                "bridgeTitle": "Four Forensic Pitfalls Uncovered Exclusively by the 7-Consultant MDT Synthesis",
                 "bridgeCards": [
                     {
                         "title": "1. The Dual-Vessel Neck Compression Pitfall",
                         "cls": "alert-amber",
-                        "txt": "Pressing deeply over the suboccipital/mastoid soft tissues compresses <strong>BOTH the superficial occipital artery feeder AND the underlying Internal Jugular Vein (IJV)</strong> simultaneously! Thus, noise cessation during posterior neck pressure cannot distinguish an occipital dAVF from benign venous turbulence in the attenuated <code>0.48</code> Lt sinus system until separated via light anterior IJV pressure vs pinpoint occipital artery occlusion.",
+                        "txt": "Pressing deeply over suboccipital tissues compresses <strong>BOTH the superficial occipital artery feeder AND the underlying Internal Jugular Vein (IJV)</strong> simultaneously. Selective light anterior IJV pressure vs pinpoint occipital artery pressure is required.",
                     },
                     {
                         "title": "2. Hidden Procedural & Metabolic Landmines Behind DSA",
                         "cls": "alert-red",
-                        "txt": "Prior pro-DSA vs anti-DSA arguments predated integration of the <code>2026-11-07</code> Carotid Duplex (<strong>5 mm Left Carotid Bulb Plaque</strong> right on the left CCA/ECA catheter route), the <code>2026-11-05</code> 29-page Holter (<strong>-2.1 mm CH3 ST depression + 3.78% AM PVC surge</strong>), and unknown eGFR atop <strong>Metformin (Gliptus Plus)</strong>. Deferring DSA behind non-invasive staging prevents avoidable iatrogenic stroke and lactic acidosis.",
+                        "txt": "Prior DSA debates predated the <strong>5 mm Left Carotid Bulb Plaque</strong> right on the left ECA catheter route, <strong>-2.1 mm CH3 ST depression + 3.78% AM PVC surge</strong>, and unknown eGFR on <strong>Metformin (Gliptus Plus)</strong>.",
                     },
                     {
                         "title": "3. The Blindness-VNG & Pharmacologic Trap",
                         "cls": "alert-blue",
-                        "txt": "Unreported legal blindness (<code>&lt; 1/60</code>, MOH 2021) renders optical-target VNG tracking meaningless while stripping ~95% of visual postural balance. Combining prolonged daily <code>Meclizine</code> + <code>Brain-Ox</code> + triple platelet inhibition (<code>Aggrex + Ginkgo + Escitalopram</code>) + non-selective <code>Inderal</code> on <code>80 IU/d</code> insulin converts diagnostic uncertainty into acute fall, bleeding, and silent hypoglycemia hazards.",
+                        "txt": "Unreported legal blindness (<code>&lt; 1/60</code>) renders optical VNG invalid. Daily <code>Meclizine</code> + <code>Brain-Ox</code> + triple platelet blockade (<code>Aggrex + Ginkgo + Ciprapra</code>) + non-selective <code>Inderal</code> on <code>80 IU/d</code> insulin creates fall, bleed &amp; hypoglycemia risks.",
+                    },
+                    {
+                        "title": "4. Topcon Qual 2 '90 um' Illusion vs Preserved CSO Flash VEP",
+                        "cls": "alert-amber",
+                        "txt": "Never read June 2026 OS Topcon <code>Qual 2</code> noise (90 um / 400.3 um) as healthy eye structure when July 2026 <code>ERG OPs = 0.74 uV</code>; conversely never give up completely because <code>Flash VEP = 7.99 uV OS / 10.29 uV OD</code> proves live optic nerve transmission requiring IOP/2026 B-Scan protection!",
                     },
                 ],
             },
-            # Tab 4: 6-Consultant MDT Board Audits
-            "t4": {
-                "head": "6-Consultant Multidisciplinary Board Audits (Fellowship-Grade Independent Reviews)",
-                "sub": "Select an individual specialist to focus or view all 6 complete board reports integrating the 2026-11-03 GSI-39/PTA, 2026-11-05 MRI/Holter 29p, 2026-11-07 Duplex, and 2024 CT/2h EEG.",
-                "allBtn": "Show All 6 Consultants",
-                "verdictLbl": "Consultant Verdict:",
-                "tieLbl": "Cross-System Integration:",
-            },
-            # Tab 5: Final Consensus & Resolved Dilemmas
+            # Tab 5: 7-Consultant MDT Board (Conclusions & Action Plans)
             "t5": {
-                "head": "Final Ranked Multidisciplinary Consensus & Resolution of the 4 Core Clinical Dilemmas",
-                "rankHead": "1. Ranked Multidisciplinary Diagnosis (Priority 1 to 8)",
-                "rankedDx": [
-                    {"rank": "01", "cls": "b-blue", "cat": "Cerebrovascular", "title": "Hypertensive-Diabetic Cerebral Small Vessel Disease (CSVD, Fazekas 1–2) & Chronic Right Lentiform Lacune", "evidence": "Proven on Film07/09/10 with ZERO acute diffusion restriction on Film05 DWI/ADC. Multiple Sclerosis & cortical epilepsy are definitively EXCLUDED (2017 McDonald negative + 2024 9-epoch EEG normal)."},
-                    {"rank": "02", "cls": "b-red", "cat": "Cardiovascular", "title": "High-Risk Carotid Atherosclerosis (IMT 0.13 cm, 5 mm Lt Bulb Plaque) + Silent Myocardial Ischemia (-2.1 mm ST)", "evidence": "Duplex (2026-11-07) + Holter CH3 (160 ST min, max -2.1 mm @ 13:11). Establishes an endothelial microangiopathy axis linking heart, brain, and inner ear while blocking reckless catheterization."},
-                    {"rank": "03", "cls": "b-red", "cat": "Arrhythmia / Metabolic", "title": "Circadian Morning Ventricular Ectopy Surge (857 PVCs, 4 V-Runs) & 153 SVEs on 80 IU/d Insulin", "evidence": "36.29% of all 24h PVCs cluster 06:00–08:59 AM (peaking at 164 PVCs/hr = 3.78% burden & 104 bpm V-run @ 08:00 AM), tightly suspicious for occult morning hypoglycemia and/or HCTZ potassium depletion."},
-                    {"rank": "04", "cls": "b-amber", "cat": "Venous / Neuro-Otology", "title": "Left Pulsatile Venous Hum (Attenuated Lt TS/Sigmoid/IJV, L/R 0.48) Amplified by 3.2 cm3 Type Ad Eardrum", "evidence": "Zero dural sinus thrombosis on 3D-PCA MRV. Post-PVC pulse surges traverse a narrowed venous conduit beside an ultra-flaccid healed tympanic membrane (>3.0 cm3 plot ceiling); occult low-flow dAVF kept on conditional Gatekeeper hold."},
-                    {"rank": "05", "cls": "b-red", "cat": "Balance / Multi-Sensory", "title": "'4-Hit' Multi-Sensory Vestibular Failure & High Fall-Risk Instability", "evidence": "Concurrence of (1) Lt inner-ear microvascular injury, (2) MOH <1/60 legal blindness (silicone oil 2.59x), (3) CSVD + chronic daily Meclizine sedation, and (4) glycemic/arrhythmic drops."},
-                    {"rank": "06", "cls": "b-blue", "cat": "Audiology", "title": "Bilateral Asymmetric Pure Cochlear Sensorineural Hearing Loss (0 dB ABG) — Resolved 'Rt As' Artifact", "evidence": "2026-11-03 Masked PTA (Rt 40.0 dB / WRS 84%; Lt 54.2 dB / WRS 76%) + historical Metz +45 dB SL recruitment. Primary GSI-39 printout proves Rt Peak 1.5 cm3 Normal Type A, overturning the handwritten 'Rt As' note."},
-                    {"rank": "07", "cls": "b-purple", "cat": "Movement", "title": "Mixed Tremor Syndrome (Essential Tremor + Titubation + BG Lacune + Adrenergic Dips)", "evidence": "Reconciles prior PD/Sinemet prescribing with Prof. Galhom's Essential Tremor + Titubation exam and benign 2024 2h EEG (EMG tremor artifacts only), awaiting formal off/on Sinemet MDS-UPDRS verification."},
-                    {"rank": "08", "cls": "b-green", "cat": "ENT / Ophthalmic Audit", "title": "Bilateral Ethmoidal Mucosal Sinusitis & Persistent Unreported Left Intraocular Silicone Oil", "evidence": "MRI Films 07/09/10 confirm ethmoiditis contributing to aural fullness; 2024-07-27 CT confirms left silicone oil predated Nov 2026 MRI by 27 months despite complete omission on Rology report."},
+                "head": "7-Consultant MDT Board: Conclusions, Immediate Actions & Master Answers",
+                "sub": "Every consultant strictly follows the 3-block clinical protocol (1. Conclusion, 2. Immediate Action, 3. Detailed Action Plan), anchored by direct answers to the 3 decisive patient/family questions.",
+                "allBtn": "Show All 7 Consultants",
+                "blkConcLbl": "1. Conclusion",
+                "blkImmLbl": "2. Immediate Action",
+                "blkPlanLbl": "3. Detailed Action Plan",
+                "tieLbl": "Cross-System Integration:",
+                "qaHead": "Definitive MDT Board Answers to the 3 Central Clinical Questions",
+                "qaCards": [
+                    {
+                        "cls": "qa-blue",
+                        "badge": "b-blue",
+                        "tag": "Hearing Loss Solution",
+                        "title": "A. Solving Asymmetric Cochlear SNHL & Pulsatile Tinnitus",
+                        "bullets": [
+                            "<strong>Diagnosis:</strong> Definitive <code>2026-11-03</code> Masked PTA confirms <strong>0 dB ABG pure cochlear SNHL</strong> (Rt <code>40.0 dB / WRS 84%</code>, Lt <code>54.2 dB / WRS 76%</code>) + GSI-39 proves Rt <code>1.5 cm3</code> Type A (refuting handwritten 'Rt As') and Lt <code>3.2 cm3</code> Extreme Type Ad amplifying venous hum (<code>L/R 0.48</code>).",
+                            "<strong>Exact Prescription:</strong> Fit <strong>Bilateral Open-Fit WDRC RIC Hearing Aids</strong> with <strong>soft vented / open domes</strong> (prevents occlusion amplification of venous hum), strict <strong>Left OSPL90 &lt;= 95–100 dB SPL</strong> honoring positive Metz loudness recruitment (<code>+45 dB SL</code>), and low-level tinnitus sound enrichment.",
+                            "<strong>Entwined Medical Care:</strong> Stop <code>Meclizine</code> &amp; <code>Ginkgo</code> today; treat bilateral ethmoiditis with <code>Mometasone 50 mcg</code> + saline; binaural fitting acts as vital spatial safety navigation under <code>&lt; 1/60</code> blindness.",
+                        ],
+                    },
+                    {
+                        "cls": "qa-red",
+                        "badge": "b-red",
+                        "tag": "Left Eye Hope?",
+                        "title": "B. Honest Visual Prognosis: Is There Hope for the Left Eye?",
+                        "bullets": [
+                            "<strong>The Candid Reality:</strong> Across 12 years (<code>2014 -> 2016 -> 2019 RNFL 64 um -> 2021 siliconized B-Scans</code>), functional reading or independent navigation recovery in <strong>OS is very unlikely</strong>. June 2026 Topcon <code>Qual 2</code> ('90 um') is scatter artifact, July 2026 CSO <strong>ERG OPs collapsed to 0.74 uV (vs 10.0 uV OD)</strong>, and routine OS oil removal after ~7 yrs risks hypotony/re-detachment.",
+                            "<strong>Where Real Actionable Hope Exists:</strong> <code>2026-07-08</code> <strong>CSO Flash VEP is MEASURABLE BILATERALLY (OS N1-P1 7.99 uV / P2 132.4 ms; OD 10.29 uV / P2 125.4 ms)</strong> — optic-nerve-to-cortex wiring is NOT extinguished! MRI <code>Film10</code> optic chiasm is normal.",
+                            "<strong>Immediate Eye Plan:</strong> Order an urgent <strong>Fresh 2026 Bilateral Ocular B-Scan + Applanation IOP + Slit-Lamp/Gonioscopy</strong> to confirm OS retina stays attached and rule out treatable <strong>emulsified silicone oil glaucoma</strong> (topical drops if needed; avoid systemic <code>Cidamex</code>!); guard disc perfusion (<code>BP &gt;= 115/70</code>) and focus low-vision support on <strong>OD (clear Qual 10 media, 259 um fovea, 40 um RNFL)</strong>.",
+                        ],
+                    },
+                    {
+                        "cls": "qa-amber",
+                        "badge": "b-amber",
+                        "tag": "Neurology & DSA",
+                        "title": "C. Neurology, Mixed Tremor & Catheter DSA Deferral",
+                        "bullets": [
+                            "<strong>MS &amp; Epilepsy Excluded:</strong> Zero McDonald 2017 Dawson fingers (MRI shows hypertensive-diabetic CSVD Fazekas 1–2 + chronic Rt BG lacune); <code>2024 2h EEG (9 epochs)</code> proves 9 Hz alpha + somatic tremor EMG only, ZERO spikes.",
+                            "<strong>Mixed Tremor Driver:</strong> Combine <code>Essential Tremor + Titubation</code> (Prof. Galhom), vascular BG lacune, and <strong>suspected morning hypoglycemia on 80 IU/d insulin</strong> matching the <code>36.29%</code> (<code>311/857</code>) Holter PVC cluster at <code>06:00–08:59 AM</code>! Run off/on <code>Sinemet MDS-UPDRS</code> + <strong>14-day CGM</strong>.",
+                            "<strong>Defer Direct DSA:</strong> Crossing the <strong>5 mm Left Carotid Bulb plaque</strong> alongside <code>-2.1 mm</code> silent CH3 ischemia and unchecked eGFR on Metformin is unsafe. Enforce the <strong>3-Step Gatekeeper</strong> (selective IJV vs occipital compression -> 4D-MRA / HRCT+CTA after eGFR + 48h Metformin hold -> DSA only if objective shunt persists).",
+                        ],
+                    },
                 ],
-                "dilHead": "2. Scientific Resolution of the 4 Core Clinical Dilemmas",
+                "rankHead": "Ranked Multidisciplinary Consensus Diagnosis (Priority 01 to 09)",
+                "rankedDx": [
+                    {"rank": "01", "cls": "b-blue", "cat": "Cerebrovascular", "title": "Hypertensive-Diabetic Cerebral Small Vessel Disease (CSVD, Fazekas 1–2) & Chronic Right Lentiform Lacune", "evidence": "Proven on Film07/09/10 with ZERO acute diffusion restriction on Film05 DWI/ADC. MS &amp; cortical epilepsy are definitively EXCLUDED."},
+                    {"rank": "02", "cls": "b-red", "cat": "Cardiovascular", "title": "High-Risk Carotid Atherosclerosis (IMT 0.13 cm, 5 mm Lt Bulb Plaque) + Silent Myocardial Ischemia (-2.1 mm ST)", "evidence": "Duplex (2026-11-07) + Holter CH3 (160 ST min, max -2.1 mm @ 13:11). Establishes shared endothelial microangiopathy linking heart, brain, retina &amp; inner ear."},
+                    {"rank": "03", "cls": "b-red", "cat": "Ophthalmology", "title": "Bilaterally Vitrectomized Eye Disease (&lt; 1/60 Blindness): OD Optic Atrophy (40 um, Qual 10) & OS Siliconized Ischemia (OPs 0.74 uV) + Preserved Flash VEP", "evidence": "12-year longitudinal archive (2014–2021) + June–July 2026 Topcon/Zeiss/CSO testing proves inner-retinal ischemic collapse OS with preserved cortical VEP transmission OU (OD 10.29 uV / OS 7.99 uV) requiring urgent 2026 B-Scan + IOP check."},
+                    {"rank": "04", "cls": "b-red", "cat": "Arrhythmia / Metabolic", "title": "Circadian Morning Ventricular Ectopy Surge (857 PVCs, 4 V-Runs) & 153 SVEs on 80 IU/d Insulin", "evidence": "36.29% of all 24h PVCs cluster 06:00–08:59 AM (peaking at 164 PVCs/hr = 3.78% burden &amp; 104 bpm V-run @ 08:00 AM), tightly suspicious for occult morning hypoglycemia and/or HCTZ K+ depletion."},
+                    {"rank": "05", "cls": "b-amber", "cat": "Venous / Neuro-Otology", "title": "Left Pulsatile Venous Hum (Attenuated Lt TS/Sigmoid/IJV, L/R 0.48) Amplified by 3.2 cm3 Type Ad Eardrum", "evidence": "Zero dural sinus thrombosis on 3D-PCA MRV. Post-PVC pulse surges traverse a narrowed venous conduit beside an ultra-flaccid healed TM (&gt;3.0 cm3 plot ceiling); occult low-flow dAVF kept on conditional Gatekeeper hold."},
+                    {"rank": "06", "cls": "b-red", "cat": "Balance / Multi-Sensory", "title": "'4-Hit' Multi-Sensory Vestibular Failure & High Fall-Risk Instability", "evidence": "Concurrence of (1) Lt inner-ear microvascular injury, (2) MOH &lt;1/60 blindness, (3) CSVD + chronic daily Meclizine sedation, and (4) glycemic/arrhythmic dips."},
+                    {"rank": "07", "cls": "b-blue", "cat": "Audiology", "title": "Bilateral Asymmetric Pure Cochlear SNHL (0 dB ABG) — Resolved 'Rt As' Artifact", "evidence": "2026-11-03 Masked PTA (Rt 40.0 dB / WRS 84%; Lt 54.2 dB / WRS 76%) + historical Metz +45 dB SL. Primary GSI-39 proves Rt Peak 1.5 cm3 Normal Type A, overturning handwritten 'Rt As'."},
+                    {"rank": "08", "cls": "b-purple", "cat": "Movement", "title": "Mixed Tremor Syndrome (Essential Tremor + Titubation + BG Lacune + Adrenergic Dips)", "evidence": "Reconciles prior PD/Sinemet prescribing with Prof. Galhom's Essential Tremor + Titubation exam and benign 2024 2h EEG (EMG tremor artifacts only), awaiting off/on Sinemet MDS-UPDRS verification."},
+                    {"rank": "09", "cls": "b-green", "cat": "Sinus & Peripheral Vasc", "title": "Bilateral Ethmoid Sinusitis & Historical Lower-Limb Perforator Incompetence (2011 — PAD/DVT Free)", "evidence": "MRI Films 07/09/10 confirm ethmoiditis; 2011-06-21 Lower Limb Doppler confirms normal lower-limb arteries and deep veins historically."},
+                ],
+                "dilHead": "Scientific Resolution of the 4 Core Clinical Dilemmas",
             },
-            # Tab 6: Next Workup & Master Treatment Plan
+            # Tab 6: Master Treatment & Medication Plan
             "t6": {
-                "head": "Prioritized Next Workup, Drug-Interaction Audit & Master Treatment Plan",
+                "head": "Master Treatment Plan, Pharmacotherapy Audit, Eye/Ear Protocols & Shareable PDFs",
                 "resetBtn": "Reset Checklist",
                 "checkHead": "1. Interactive Phase 1–2 Diagnostic & Clinical Workup Checklist (Saved Locally)",
                 "doneWord": "Completed",
-                "auditHead": "2. Pharmacotherapy & Drug-Interaction Safety Audit (7 High-Risk Nodes)",
+                "haHead": "2. Hearing Aid, Blindness-VNG & Optic Disc Preservation Guardrails",
+                "haPoints": [
+                    "<strong>Bilateral Open-Fit WDRC RIC Fitting:</strong> Mandatory bilateral amplification (spatial navigation under &lt;1/60 blindness) with <strong>soft vented / open silicone domes</strong> (never sealed molds) + <strong>Left OSPL90 &lt;= 95–100 dB SPL</strong> (Metz +45 dB SL).",
+                    "<strong>Written VNG Safety Mandate:</strong> Notify vestibular lab explicitly of bilateral &lt;1/60 blindness — CANCEL saccade/pursuit/OPK light tests and perform <strong>dark positional + bithermal calorics ONLY</strong>.",
+                    "<strong>Urgent Ophthalmology &amp; Perfusion Guardrails:</strong> Order <strong>Fresh 2026 Ocular B-Scan + Applanation IOP + Gonioscopy</strong>; use topical drops ONLY if IOP raised (NEVER systemic <code>Cidamex</code> atop HCTZ!); keep systemic BP &gt;= <code>115/70 mmHg</code> and avoid nocturnal hypoglycemia to protect the <code>40 um</code> optic nerve; check IOP 4–6 wks after starting nasal Mometasone.",
+                ],
+                "auditHead": "3. Pharmacotherapy & Drug-Interaction Safety Audit (8 High-Risk Nodes)",
                 "auditFilters": [
-                    {"tag": "ALL", "lbl": "All (7)"},
+                    {"tag": "ALL", "lbl": "All (8)"},
                     {"tag": "STOP", "lbl": "Stop / Avoid"},
                     {"tag": "CAUTION", "lbl": "High Caution / Switch"},
                     {"tag": "UPGRADE", "lbl": "Upgrade / Add"},
                 ],
                 "auditCols": ["Medication / Combination", "Action", "Pharmacological Mechanism", "Patient-Specific Hazard", "MDT Resolution"],
-                "rxHead": "3. Modified Prescription & Rehabilitation Strategy Matrix",
+                "rxHead": "4. Modified Prescription & Multidisciplinary Strategy Matrix (All 6 Domains)",
                 "rxCols": ["Clinical Domain", "Modified Regimen / Intervention", "Timing & Monitoring", "Clinical Rationale & Safety Guardrails"],
-                "haHead": "4. Precision Bilateral Open-Fit WDRC RIC Hearing Aid & VNG Protocol (< 1/60 Blindness)",
-                "haPoints": [
-                    "<strong>Mandatory Bilateral Fitting:</strong> Binaural spatial auditory localization serves as her primary environmental safety navigation sense under <code>&lt; 1/60</code> legal blindness.",
-                    "<strong>Open-Fit Receiver-In-Canal (RIC) Hardware:</strong> Fit both ears with <strong>soft vented / open silicone domes</strong> (never sealed molds) so bone/venous pulsatile tinnitus is not trapped by the occlusion effect.",
-                    "<strong>WDRC &amp; Left Ear Output Cap (<code>OSPL90 &lt;= 95–100 dB SPL</code>):</strong> Essential to respect historical positive Metz cochlear loudness recruitment (<code>+45 dB SL</code>) and comfortable LDL margins.",
-                    "<strong>Written VNG Safety Mandate:</strong> Notify the vestibular lab explicitly of bilateral <code>&lt; 1/60</code> blindness — skip saccade/pursuit/OPK light tests and perform <strong>dark positional + bithermal calorics ONLY</strong>.",
-                ],
+                "pdfSectionHead": "5. Shareable Consultant PDF Reports & Master Documentation",
+                "pdfSectionSub": "Updated 7-Consultant board deliverables incorporating all 69 verified files (2011–2026), auto-cropped Ophthalmology/Doppler plates, and 3-block action plans.",
             },
         },
+
         "ar": {
-            "pageTitle": "دراسة الحالة الطبية متعددة التخصصات — آمال مختار محمد إبراهيم (63.5 سنة)",
-            "brandTitle": "دراسة حالة طبية متعددة التخصصات (MDT) | التقييم العصبي الوعائي والسمعي المتقدم",
-            "brandSub": f"المريضة: آمال مختار محمد إبراهيم • أنثى 63.5 سنة • الرقم القومي: 26304090300188 • {file_count} ملفاً طبياً موثقاً",
+            "pageTitle": "دراسة الحالة السريرية متعددة التخصصات — آمال مختار محمد إبراهيم (63.5 سنة)",
+            "brandTitle": "لجنة الاستشاريين السبعة | تقييم الأوعية المخية، الأذن والاتزان، والشبكية والعصب البصري",
+            "brandSub": f"المريضة: آمال مختار محمد إبراهيم • أنثى 63.5 سنة • الرقم القومي: 26304090300188 • {file_count} ملفاً موثقاً (2011–2026)",
             "btnThemeDark": "الوضع الليلي",
             "btnThemeLight": "الوضع النهاري",
             "btnPrintTab": "طباعة القسم",
-            "btnPrintAll": "تقرير كامل (PDF)",
-            "navLabel": "مسار دراسة الحالة",
-            "pdfLabel": "التقارير القابلة للمشاركة والفهرس",
+            "btnPrintAll": "الملف الكامل (PDF)",
+            "navLabel": "رحلة دراسة الحالة",
+            "pdfLabel": "التقارير والفهرس القابل للمشاركة",
             "pdfLinks": [
-                {"href": "../05_Shareable_PDF_Reports/01_MDT_Executive_Summary_and_Action_Plan.pdf", "txt": "01. الملخص التنفيذي وخطة العمل (PDF)"},
-                {"href": "../05_Shareable_PDF_Reports/02_Consultant_6_Board_Audit_Reports.pdf", "txt": "02. تقارير الاستشاريين الستة التفصيلية (PDF)"},
-                {"href": "../05_Shareable_PDF_Reports/03_Patient_Case_Study_Full_Report.pdf", "txt": "03. المرجع الكامل لدراسة الحالة (PDF)"},
-                {"href": "../04_Final_MDT_Deliverables/Master_MDT_Case_Study_Report.md", "txt": "التقرير الشامل بصيغة Markdown"},
-                {"href": "../01_Structured_and_Renamed_Inputs/FILE_RENAMING_INDEX.md", "txt": f"فهرس تسمية الـ {file_count} ملفاً الكامل"},
+                {"href": "../05_Shareable_PDF_Reports/01_MDT_Executive_Summary_and_Action_Plan.pdf", "txt": "01. الملخص التنفيذي صفحتين (PDF)"},
+                {"href": "../05_Shareable_PDF_Reports/02_Consultant_7_Board_Audit_Reports.pdf", "txt": "02. تقارير الاستشاريين السبعة (PDF)"},
+                {"href": "../05_Shareable_PDF_Reports/03_Patient_Case_Study_Full_Report.pdf", "txt": "03. الدراسة الشاملة الكاملة (PDF)"},
+                {"href": "../04_Final_MDT_Deliverables/Master_MDT_Case_Study_Report.md", "txt": "التقرير المرجعي المجمع (MD)"},
+                {"href": "../01_Structured_and_Renamed_Inputs/FILE_RENAMING_INDEX.md", "txt": f"فهرس الملفات الكامل ({file_count} ملفاً)"},
             ],
             "tabs": [
-                {"id": "tab-profile", "num": "01", "label": "01. البروفايل والتاريخ المرضي", "count": "البداية"},
-                {"id": "tab-workup", "num": "02", "label": "02. الفيديوهات والفحوصات والإشعاعات", "count": "3 فيديو"},
-                {"id": "tab-prior", "num": "03", "label": "03. آراء الأطباء السابقين والخلاف التشخيصي", "count": "الخلاف"},
-                {"id": "tab-board", "num": "04", "label": "04. لجنة الاستشاريين الستة", "count": "6 أطباء"},
-                {"id": "tab-consensus", "num": "05", "label": "05. التشخيص النهائي وحسم الخلافات", "count": "8+4"},
-                {"id": "tab-plan", "num": "06", "label": "06. الفحوصات القادمة والخطة العلاجية", "count": "العلاج"},
+                {"id": "tab-profile", "num": "01", "label": "01. البروفايل والتاريخ المرضي", "count": "البروفايل"},
+                {"id": "tab-videos", "num": "02", "label": "02. فيديوهات الرنين المغناطيسي", "count": "3 فيديو"},
+                {"id": "tab-diagnostics", "num": "03", "label": "03. الفحوصات والإشعاعات والتحاليل", "count": str(file_count)},
+                {"id": "tab-prior", "num": "04", "label": "04. آراء الأطباء السابقين والخلاف التشخيصي", "count": "الخلاف"},
+                {"id": "tab-board", "num": "05", "label": "05. لجنة الاستشاريين السبعة", "count": "7 أطباء"},
+                {"id": "tab-plan", "num": "06", "label": "06. الخطة العلاجية والأدوية", "count": "العلاج"},
             ],
-            # Tab 1 AR
+            "histBadge": "فحص قديم / تاريخي — يُرجى عدم خلطه مع الحالة الراهنة في 2026",
+            "histShortBadge": "فحص قديم / تاريخي",
+            "currBadge": "فحص حالي 2026",
             "t1": {
-                "jumpTitle": "استوديو فيديوهات الرنين التفاعلي (MRI / MRA / MRV) جاهز في القسم 02",
-                "jumpSub": "مشغلات فيديو مباشرة لفحص الأوردة MRV (ضيق الجيب الوريدي الشمال 0.48) وفحص الشرايين MRA (513 شريحة) والرنين المحوري T2/FLAIR موجودة مباشرة في أعلى تبويب 02.",
-                "jumpBtn": "افتح استوديو فيديوهات الرنين الآن",
-                "secHead": "البيانات الديموغرافية، عوامل الخطورة الوعائية، والتاريخ المرضي الكامل",
+                "jumpTitle": "جناح فيديوهات الرنين والشرايين والأوردة جاهز في القسم 02",
+                "jumpSub": "مشغلات فيديو مدمجة لأوردة المخ MRV (نسبة الشمال 0.48) وشرايين MRA (513 شريحة) ورنين T2/FLAIR متاحة مباشرة في القسم 02.",
+                "jumpBtn": "فتح فيديوهات الرنين المغناطيسي",
+                "secHead": "البيانات الديموغرافية وعوامل الخطورة والتسلسل الزمني الكامل (2011 – نوفمبر 2026)",
                 "kpis": [
-                    {"cls": "accent", "lbl": "الهوية والعمر الموثق", "val": "أنثى 63.5 سنة", "sub": "تاريخ الميلاد الموثق 1963-04-09 (رقم قومي ...00188)؛ مع خطأ كتابي 1963-03-27 على فيلم الرنين"},
-                    {"cls": "danger", "lbl": "الحالة البصرية والعينية", "val": "أقل من 1/60 (كف بصر)", "sub": "قرار وزارة الصحة 2021 (ضمور الشبكية والعصب) + وجود زيت سيليكون دائم بالعين الشمال منذ CT 2024"},
-                    {"cls": "warn", "lbl": "الحمل الأيضي والوعائي", "val": "80 وحدة | 0.13 سم", "sub": "سكر (أنسولين + جليبتس) وضغط ودهون؛ سماكة السباتي IMT +44.4% مع بلاك 5 مم بالسباتي الشمال"},
-                    {"cls": "danger", "lbl": "مؤشرات الهولتر والسمع", "val": "857 خفقة | 3.2 سم³", "sub": "36.29% خفقات صباحية وهبوط ST -2.1 مم؛ ضيق الجيب الوريدي 0.48؛ طبلية شمال 3.2 سم³ ويمين 1.5 سم³"},
+                    {"cls": "accent", "lbl": "الهوية والعمر الموثق", "val": "أنثى 63.5 سنة", "sub": f"ميلاد 1963-04-09 (قومي ...00188)؛ مسجل إدارياً 27-03 على الفيلم؛ {file_count} ملفاً"},
+                    {"cls": "danger", "lbl": "الإبصار وتاريخ 12 سنة", "val": "< 1/60 | يمين 40µm", "sub": "يمين عدسة صافية (جودة 10) وضمور عصب 40µm؛ شمال سيليكون (جودة 2) وOPs 0.74µV مع بقاء VEP"},
+                    {"cls": "warn", "lbl": "الأيض والشرايين", "val": "80 وحدة/يوم | 0.13 سم", "sub": "سكري وضغط ودهون؛ بلاك 5 مم بالسباتي الشمال (دوبلر الساق 2011 خالٍ من الجلطات)"},
+                    {"cls": "danger", "lbl": "الهولتر والسمعيات", "val": "857 PVC | 3.2 سم³", "sub": "طفرة 36.29% صباحاً وهبوط ST -2.1 مم؛ MRV 0.48؛ فجوة سمعية 0 ديسيبل"},
                 ],
-                "safetyTitle": "تحذيرات أمان طبية قاطعة (يجب قراءتها قبل طلب أي فحص أو صرف دواء)",
+                "safetyTitle": "تنبيهات أمان قصوى غير قابلة للتجاوز قبل أي دواء أو أشعة",
                 "safetyBullets": [
-                    "<strong>بطلان اختبارات تتبع الضوء في فحص الاتزان (VNG):</strong> وجود كف بصر قانوني (&lt; 1/60 بالعين الأفضل - شهادة وزارة الصحة 2021) + زيت سيليكون بالعين الشمال يحرم المخ من 95% من الاتزان البصري ويجعل اختبارات تتبع الأضواء بالـ VNG عديمة الجدوى ومضللة.",
-                    "<strong>منع القسطرة المخية التشخيصية (DSA) الفورية:</strong> الدوبلكس أثبت وجود <strong>بلاك 5 مم عند عنق الشريان السباتي الشمال</strong> في طريق القسطرة تماماً، بينما وظائف الكلى غير مفحوصة مع أخذ الميتفورمين وهناك هبوط تروية تاجية <code>-2.1 mm</code> بالهولتر.",
-                    "<strong>حلقة خطورة الأنسولين والبوتاسيوم والأدوية الصباحية:</strong> يجب وقف <code>Meclizine</code> يومياً ومنع الجمع بين <code>Cidamex</code> و<code>HCTZ</code> لحماية البوتاسيوم ومنع زيادة الخفقات البطينية (857 PVC)، وفحص هبوط السكر الصباحي مع جرعة الأنسولين 80 وحدة ومراجعة استبدال <code>Inderal</code> الذي يخفي أعراض الهبوط.",
+                    "<strong>بطلان فحص اتزان العين الضوئي (VNG):</strong> فقدان البصر الشديد (&lt; 1/60 بالعين الأفضل) وضمور العصب <code>40 µm</code> وزيت السيليكون بالشمال يلغون تتبع الضوء، لذا يجب اقتصار VNG على <strong>الوضعيات والحراري في الضلمة فقط</strong>.",
+                    "<strong>تأجيل قسطرة المخ (DSA) عبر عنق السباتي الشمال:</strong> القسطرة الفورية تعبر <code>بلاك 5 مم</code> بالسباتي الشمال قبل فحص الكلى (مع الميتفورمين) وفي وجود قصور تاجي صامت <code>-2.1 مم ST</code>.",
+                    "<strong>ممنوع إزالة زيت السيليكون الشمال بناءً على رقم التوبكون الخاطئ:</strong> جودة <code>Qual 2</code> في اليسرى تعطي ضوضاء <code>90 µm</code> كاذبة (بينما العصب كان <code>64 µm</code> من 2019)، وإزالة الزيت بعد ~7 سنوات تخاطر بالارتخاء/الانفصال؛ اطلب <strong>سونار B-Scan 2026 + ضغط عين</strong> أولاً.",
+                    "<strong>دوامة الأنسولين الصباحي والأملاح:</strong> وقف <code>Meclizine</code> و<code>Ginkgo</code> فوراً، منع دمج <code>Cidamex</code> مع الثيازيد، فحص هبوط سكر <code>6–9 صباحاً</code> (<code>80 وحدة/يوم</code>) المحفز لـ 36.29% من الخفقات، وحماية ضغط العين (&gt;= 115/70).",
                 ],
-                "compHead": "1. الشكاوى السريرية الأربعة الرئيسية للمريضة",
+                "compHead": "1. نطاقات الشكوى الإكلينيكية والتشخيص المتكامل (5 محاور)",
                 "complaints": [
-                    {"title": "طنين نابض في الأذن اليسرى (متزامن مع نبض القلب)", "badge": "b-amber", "tag": "تضخيم وعائي ميكانيكي", "desc": "سماع صوت ضخ أو خفقان إيقاعي مستمر بالأذن الشمال. يوضح التقييم الفيزيائي اندفاع الدم عبر جيب وريدي ضيق خلقياً (<code>L/R 0.48</code>) بجوار طبلية أذن فائقة المرونة (<code>3.2 سم³ Type Ad</code>) تعمل كمكبر صوت للنبض مع طفرات الضربات المبكرة."},
-                    {"title": "عدم اتزان شديد ودوخة ('فشل الاتزان الرباعي 4-Hit')", "badge": "b-red", "tag": "اضطراب حسي متعدد", "desc": "اجتماع أربع ضربات متزامنة: (1) إجهاد وعائي للأذن الداخلية الشمال، (2) كف بصر &lt; 1/60 يزيل المرجع البصري للاتزان، (3) تصلب شرايين دقيقة بالمخ وتهدئة مفرطة بدواء <code>Meclizine</code>، و(4) تذبذب السكر وضربات القلب."},
-                    {"title": "ضعف سمع حسي عصبي تدريجي غير متماثل", "badge": "b-blue", "tag": "توطين قوقعي صريح", "desc": "تخطيط السمع الموثق بقناع عكسي (<code>2026-11-03</code>) يثبت غياب أي فجوة توصيلية (<code>0 dB ABG</code>): عتبة اليمين 40 dB وتمييز كلام <code>84%</code>، والشمال 54.2 dB وتمييز كلام <code>76%</code>، مع حساسية سابقة للأصوات العالية (Metz <code>+45 dB SL</code>)."},
-                    {"title": "رعشة بالأطراف العلوية والرأس (Titubation)", "badge": "b-purple", "tag": "حركي أم أيضي؟", "desc": "تداخل بين تشخيص قديم للشلل الرعاش مع وصف دواء <code>Sinemet</code> وبين فحص أ.د. أيمن جلهوم الذي سجل <strong>رعشة أساسية ورعشة رأس (Essential Tremor + Titubation)</strong> بدون تأثر الطرفين السفليين، وبراءة تخطيط المخ 2024 من الصرع، مع احتمال تحفيز هبوط السكر الصباحي للرعشة."},
+                    {"title": "طنين نبضي ورا الأذن الشمال", "badge": "b-amber", "tag": "أولوية وعائية/صوتية", "desc": "صوت نبض مستمر يشتد ليلاً؛ ناتج عن اندفاع الدم في جيب وريدي ضيق خلقياً (<code>L/R 0.48</code>) مع تضخيم ميكانيكي عبر طبلية شمال مرنة جداً <code>3.2 سم³ (Type Ad)</code> ونبضات الهولتر المتفاوتة."},
+                    {"title": "عدم اتزان ودوخة شديدة (متلازمة 4 ضربات)", "badge": "b-red", "tag": "انهيار متعدد الحواس", "desc": "تلاقي (1) ضعف اتزان أذن شمال مزمن، (2) كف بصر &lt; 1/60 موثق في 2026، (3) تصلب مادة بيضاء + التهاب أعصاب + تثبيط <code>Meclizine</code>، و(4) هبوط التروية من القلب والسكر."},
+                    {"title": "ضعف سمع قوقعي غير متماثل مستقر", "badge": "b-blue", "tag": "تشخيص قوقعي", "desc": "قياس السمع المقنع الحديث (<code>2026-11-03</code>) يثبت <strong>فجوة 0 ديسيبل</strong> بالجهتين (يمين <code>40.0 ديسيبل، تمييز 84%</code>؛ شمال <code>54.2 ديسيبل، تمييز 76%</code>) مع حساسية صوت <code>Metz +45 dB SL</code> — علاجه <strong>سماعتان Open-Fit WDRC RIC</strong> بحد <code>&lt;= 95-100 dB</code>."},
+                    {"title": "رعشة باليدين وهزة بالرأس (ET + Titubation)", "badge": "b-purple", "tag": "حركي وأيضي", "desc": "وثق أ.د. أيمن جلهوم (<code>2026-11-03</code>) وجود <code>Essential tremor + Titubation</code> مع سلبية الطرفين السفليين على عكس وصف السينيمت، وتخطيط مخ 2024 سجل ذبذبات عضلية للرعشة فقط دون صرع."},
+                    {"title": "فقدان البصر الشديد وسؤال الأمل في العين الشمال", "badge": "b-red", "tag": "الشبكية والعصب البصري", "desc": "تطور ضمور عصب واعتلال شبكية من <code>2014–2019</code> إلى عمليات انفصال شبكي وزيت سيليكون بالعينين (<code>2019–2021</code>). فحوصات 2026 تثبت <code>40 µm RNFL</code> باليمين وانهيار <code>OPs 0.74 µV</code> بالشمال مع <strong>بقاء إشارة العصب في Flash VEP بالعينين</strong>."},
                 ],
-                "timelineHead": "2. التسلسل الزمني الكامل للحالة والفحوصات (2021 – نوفمبر 2026)",
+                "timelineHead": "2. التسلسل الزمني للأحداث والفحوصات الطبية (2011 – نوفمبر 2026)",
                 "timeline": [
-                    {"date": "2021-09-01 / 09-19", "src": "المجالس الطبية المتخصصة بوزارة الصحة", "detail": "قرار طبي رسمي (رقم قومي 26304090300188 - ميلاد 1963-04-09): حدة إبصار أقل من 1/60 بالعين الأفضل بسبب ضمور الشبكية والعصب البصري، مع تاريخ عملية انفصال شبكي وحقن زيت سيليكون بالعين الشمال."},
-                    {"date": "2024-07-17", "src": "المجمع الطبي العالمي (أ.د. أحمد فهمي)", "detail": "طلب مقطعية رقم #474510 بسبب الرعشة + <strong>تخطيط مخ مطول ساعتين (9 مقاطع زمنية موثقة 11:42–13:28)</strong>: إيقاع ألفا طبيعي متماثل 9 هيرتز مع ذبذبة عضلية للرعشة وصفر بؤر صرعية."},
-                    {"date": "2024-07-27", "src": "مستشفى الزهور التخصصي (د. عماد محمد)", "detail": "أشعة مقطعية بدون صبغة على المخ تثبت تغيرات عمرية طبيعية، سلامة الحفرة الخلفية وغياب النزيف، وتثبت وجود زيت السيليكون بالعين الشمال منذ أكثر من عامين."},
-                    {"date": "2024-11-02", "src": "مستشفى الحياة بورفؤاد (السجل القديم المُلغى)", "detail": "تخطيط سمع قديم بدون قناع عكسي (يمين 35 dB / شمال 55 dB) وضغط أذن قديم (يمين 0.3 سم³ / شمال 1.7 سم³) ومنعكس Metz إيجابي (+45 dB SL عند 105 dB). تم استبداله كمرجع أساسي بفحص 2026-11-03."},
-                    {"date": "2026-11-02", "src": "ملخص طب الأسرة (EHA) وطلب د. أيمن جلهوم", "detail": "توثيق العلاج المزمن (توجيو 30 + أبيدرا 50 + جليبتس بلس + أنجيوبريس كومب + زاتورفا 20 + أجريكس 75 + سينيمت)، وطلب أ.د. أيمن جلهوم رنين المخ والشرايين والأوردة ودوبلكس وهولتر 24 ساعة."},
-                    {"date": "2026-11-03", "src": "فحص السمع المرجعي النهائي + استشارتا الأعصاب والأنف والأذن", "detail": "السمع الموثق (د. شاهيندا الخميسي): ضعف حسي عصبي بدون فجوة (0 dB ABG)، ضغط يمين 1.5 سم³ طبيعي (يدحض ملاحظة Rt As اليدوية) وشمال 3.2 سم³ مرونة مفرطة. نفس اليوم: د. جلهوم يسجل Essential tremor + Titubation ويصرف إندرال/سيبرابرا/كوبال إف/برين أوكس؛ ود. محمد سالم يشتبه بسبب وعائي ويصرف ميكليزين وجينكو ويطلب VNG."},
-                    {"date": "2026-11-05", "src": "رنين المخ والشرايين والأوردة 1.5 تسلا + هولتر 24 ساعة", "detail": "الرنين: تصلب شرايين دقيقة Fazekas 1-2 وجلطة قديمة بالعقد القاعدية والتهاب الجيوب الغربالية وضيق وريد شمال (0.48) وإغفال ذكر زيت السيليكون (2.59 ضعف). الهولتر (29 صفحة): 857 PVC (منها 311 صباحاً بين 6-9 ص) و4 V-runs و153 SVE وهبوط ST -2.1 مم القناة 3 الساعة 13:11."},
-                    {"date": "2026-11-07", "src": "دوبلكس الشرايين السباتية والفقرية (د. إبراهيم هاشم)", "detail": "تصلب متوسط بالشرايين: زيادة سمك الجدار IMT 0.13 سم (+44.4% فوق الحد الطبيعي) ووجود <strong>بلاك بطول 5 مم في عنق الشريان السباتي الشمال</strong> بدون ضيق حرج وتدفق فقري سليم."},
+                    {"hist": True, "date": "2011-06-21", "src": "مستشفى التضامن (د. حلمي رشاد)", "detail": "فحص قديم: دوبلر شرايين وأوردة الساقين أثبت سلامة الشرايين تماماً (لا يوجد ضيق PAD) وسلامة الأوردة العميقة (لا جلطات DVT)، مع ارتجاع بسيط ودوالي سطحية بالساق الشمال فقط."},
+                    {"hist": True, "date": "2014-04-23 -> 2016-02-16", "src": "أشعة Optovue OCT التاريخية (د. سناء حمام)", "detail": "فحص قديم: كشف وجود تآكل مبكر وضمور بالعصب البصري الشمال (<code>RNFL 78.36 µm</code> في 2014 ثم <code>71.41 µm</code> في 2016) وارتشاح وتلف مركز الإبصار باليمين قبل جراحات الانفصال الشبكي."},
+                    {"hist": True, "date": "2019-08-19 -> 2019-12-15", "src": "خطاب التأمين وأشعة Optopol وسونار العين الشمال", "detail": "فحص قديم: خطاب التأمين وثّق عملية شبكية سابقة باليمين وطلب عملية الشمال؛ أشعة 2019 أثبتت ضموراً شديداً بالشمال (<code>64 µm</code>)، وسونار سبتمبر/ديسمبر 2019 تابع نزيفاً زجاجياً ثم حقن السيليكون بالشمال."},
+                    {"hist": True, "date": "2021-04-07 -> 2021-09-19", "src": "سونار مستشفى الرمد وقرار القومسيون الطبي", "detail": "فحص قديم: سونار أبريل 2021 (د. ياسمين سنان) أثبت وجود زيت سيليكون بالعينين، وآخر سونار للشمال مايو 2021 (د. منار الجيار)؛ وقرار القومسيون سبتمبر 2021 أثبت رؤية <code>&lt; 1/60</code>."},
+                    {"hist": True, "date": "2024-07-17 -> 2024-11-02", "src": "تخطيط مخ ساعتين ومقطعية 2024 وسمعيات 2024", "detail": "فحص قديم: تخطيط مخ 2024 (9 مقاطع) أظهر إيقاع ألفا 9 هيرتز وارتجافاً عضلياً دون صرع؛ مقطعية 2024 أثبتت زيت السيليكون الشمال؛ وسمعيات 2024 تم استبدالها بسمعيات 3 نوفمبر 2026 المقنعة."},
+                    {"hist": False, "date": "2026-06-01 -> 2026-07-08", "src": "أشعة التوبكون 2026 والمجال البصري ورسم العصب والشبكية CSO", "detail": "حالي 2026: يمين صافية جودة 10 بضمور عصب <strong>40 µm</strong>؛ شمال جودة 2 رقم كاذب (90 µm) بسبب السيليكون. مجال الإبصار 18% (غير موثوق، د. آلاء خالد). رسم CSO أثبت انهيار استجابة الشمال <code>OPs 0.74 µV</code> <strong>لكن Flash VEP ما زال يقيس الإشارة بالعينين (10.29 / 7.99 µV)</strong>!"},
+                    {"hist": False, "date": "2026-11-02 -> 2026-11-03", "src": "سمعيات المتابعة المؤكدة واستشارات المخ والأعصاب والأنف والأذن", "detail": "حالي 2026: فحص سمع مقنع (د. شاهندة): <code>0 dB ABG</code>، تمييز 84% يمين و76% شمال، وطبلية يمين <code>1.5 سم³ Type A</code> (يفند 'Rt As') وشمال <code>3.2 سم³ Type Ad</code>. د. جلهوم سجل رعشة أساس وهزة رأس؛ د. سالم طلب VNG ووصف ميكليزين وجينكو."},
+                    {"hist": False, "date": "2026-11-05 -> 2026-11-07", "src": "رنين 1.5T للمخ والأوعية + هولتر 29 صفحة + دوبلر السباتي", "detail": "حالي 2026: تصلب شعيرات مخية (CSVD 1–2) وجلطة فجوية قديمة باليمين دون جلطات حادة، ضمور الجيب الوريدي الشمال (<code>0.48</code>)، وزيت سيليكون <code>2.59x</code>. هولتر: <code>857 PVC</code> (311 بين 6–9 صباحاً) وهبوط ST <code>-2.1 مم</code>. دوبلر: <code>IMT 0.13 سم</code> و<strong>بلاك 5 مم بالسباتي الشمال</strong>."},
                 ],
-                "medsHead": "3. جرد الأدوية الحالية والموصوفة حديثاً ومراجعة أمانها الفوري",
-                "medCols": ["الدواء والتركيب العلمي", "الجرعة والتوقيت", "المصدر / الطبيب", "الدور الإكلينيكي وتقييم الأمان متعدد التخصصات", "الحالة"],
+                "medsHead": "3. جرد الأدوية الحالية والموصوفة مؤخراً مع تقييم الأمان",
+                "medCols": ["الدواء والتركيز", "الجرعة والتوقيت", "المصدر / الطبيب", "الدور الإكلينيكي وحالة اللجنة", "القرار"],
                 "currentMeds": [
-                    {"drug": "Toujeo SoloStar (أنسولين قاعدي جلارجين U300)", "dose": "30 وحدة تحت الجلد مساءً", "src": "رعاية السكر المزمنة", "role": "الجرعة القاعدية من إجمالي 80 وحدة يومياً؛ تتطلب مراقبة سنسور السكر CGM ليلاً وفجراً.", "tag": "حذر", "badge": "b-amber"},
-                    {"drug": "Apidra SoloStar (أنسولين سريع جلوليزين)", "dose": "50 وحدة يومياً مقسمة قبل الوجبات", "src": "رعاية السكر المزمنة", "role": "جرعة وجبات مرتفعة (62.5% من اليوم) قد تسبب هبوط سكر خفي ينشط الخفقات والرعشة الصباحية.", "tag": "حذر", "badge": "b-amber"},
-                    {"drug": "Gliptus Plus (فيلداجليبتين 50 / ميتفورمين 1000 مجم)", "dose": "قرص مرتين يومياً", "src": "رعاية السكر المزمنة", "role": "ممنوع إذا قل eGFR عن 30؛ ويجب إيقافه 48 ساعة قبل وبعد أي أشعة أو قسطرة بصبغة.", "tag": "حذر", "badge": "b-amber"},
-                    {"drug": "Angiopress Comp (كابتوبريل 50 / هيدروكلوروثيازيد 25)", "dose": "قرص واحد يومياً", "src": "علاج الضغط المزمن", "role": "نصف عمر الكابتوبريل قصير ولا يحمي من ضغط الليل، ومدر الثيازيد يستنزف البوتاسيوم ويزيد PVCs.", "tag": "استبدال", "badge": "b-red"},
-                    {"drug": "Cidamex (أسيتازولاميد 250 مجم — مقترح خارجياً)", "dose": "مقترح (تحذير منع)", "src": "تحذير اللجنة", "role": "ممنوع إضافته مع الثيازيد: يسبب هبوط بوتاسيوم حاد وحموضة بالدم قد تفجر اضطراب نبض القلب.", "tag": "ممنوع", "badge": "b-red"},
-                    {"drug": "Zatorva 20 mg (أتورفاستاتين)", "dose": "20 مجم مساءً", "src": "علاج الدهون", "role": "جرعة متوسطة لا تكفي لتثبيت بلاك 5 مم بالسباتي ونقص التروية -2.1 مم (يُرفع إلى 40–80 مجم).", "tag": "ترقية", "badge": "b-blue"},
-                    {"drug": "Aggrex 75 mg (أسبرين وقائي)", "dose": "75 مجم يومياً", "src": "الوقاية الوعائية", "role": "أساسي للوقاية من الجلطات؛ يستمر منفرداً مع حذف الجينكو لتقليل نزيف المعدة والمخ.", "tag": "استمرار", "badge": "b-green"},
-                    {"drug": "Sinemet (كاربيدوبا / ليفودوبا)", "dose": "حسب الجرعة المزمنة", "src": "أعصاب سابق", "role": "يستمر مؤقتاً لحين اختبار MDS-UPDRS الموضوعي مع وبدون الدواء لإثبات الفائدة من عدمها.", "tag": "تحقق", "badge": "b-amber"},
-                    {"drug": "Inderal 10 mg (بروبرانولول غير انتقائي)", "dose": "10 مجم مرتين يومياً", "src": "د. جلهوم (2026-11-03)", "role": "يحجب تسارع النبض والرعشة كإنذار لهبوط السكر مع الأنسولين؛ يُناقش استبداله بالبيزوبرولول الانتقائي.", "tag": "مراجعة", "badge": "b-amber"},
-                    {"drug": "Ciprapra 10 mg (إسيتالوبرام)", "dose": "نصف قرص بعد العشاء", "src": "د. جلهوم (2026-11-03)", "role": "يثبط صفائح الدم جزئياً (SSRIs) مما يرفع خطر النزيف مع الأسبرين والجينكو؛ تُراجع ضرورته.", "tag": "مراجعة", "badge": "b-amber"},
-                    {"drug": "Cobal F (فيتامين ب12)", "dose": "قرص صباحاً", "src": "د. جلهوم (2026-11-03)", "role": "دعم عصبي آمن مع الميتفورمين، ويُستحسن قياس مستوى فيتامين B12 بالدم.", "tag": "استمرار", "badge": "b-green"},
-                    {"drug": "Brain-Ox 30 mg (فينكامين)", "dose": "كبسولة بعد الغداء", "src": "د. جلهوم (2026-11-03)", "role": "موسع أوعية غير مؤكد الفائدة وقد يخفض الضغط فجأة أو يقلل تروية الشرايين التاجية.", "tag": "إيقاف", "badge": "b-red"},
-                    {"drug": "Meclizine 25 mg", "dose": "قرص مساءً لمدة شهر", "src": "أنف وأذن (2026-11-03)", "role": "مثبط دهليزي مركزي يمنع تعويض المخ للاتزان ويزيد النعاس وخطر السقوط لدى كفيفة البصر.", "tag": "إيقاف", "badge": "b-red"},
-                    {"drug": "Cetrovit Ginkgo (خلاصة الجنكة)", "dose": "قرص صباحاً لمدة شهرين", "src": "أنف وأذن (2026-11-03)", "role": "لا يرمم العصب السمعي ويصنع تثبيطاً ثلاثياً للنزيف عند جمعه مع أجريكس وسيبرابرا.", "tag": "إيقاف", "badge": "b-red"},
+                    {"drug": "Toujeo SoloStar (أنسولين قاعدي U300)", "dose": "30 وحدة مساءً", "src": "التأمين الصحى", "role": "ضمن جرعة أنسولين يومية كبيرة (80 وحدة) تستدعي فحص هبوط السكر الليلي/الصباحي.", "tag": "حذر", "badge": "b-amber"},
+                    {"drug": "Apidra SoloStar (أنسولين سريع)", "dose": "50 وحدة/يوم قبل الوجبات", "src": "التأمين الصحى", "role": "حمل مرتفع (62.5% من الأنسولين)؛ المشتبه الأول في نوبات هبوط السكر والـ 311 خفقة صباحاً.", "tag": "حذر", "badge": "b-amber"},
+                    {"drug": "Gliptus Plus (فيلداجليبتين 50 / ميتفورمين 1000)", "dose": "قرص مرتين يومياً", "src": "التأمين الصحى", "role": "ممنوع إذا قل eGFR عن 30؛ يجب إيقافه 48 ساعة قبل أي صبغة مقطعية أو قسطرة.", "tag": "فحص كلى", "badge": "b-amber"},
+                    {"drug": "Angiopress Comp (كابتوبريل 50 / هيدروكلوروثيازيد 25)", "dose": "قرص يومياً", "src": "التأمين الصحى", "role": "مفعول الكابتوبريل قصير يترك الضغط يرتفع ليلاً، والثيازيد يستنزف البوتاسيوم ويشعل الخفقات.", "tag": "يُستبدل", "badge": "b-red"},
+                    {"drug": "Cidamex (أسيتازولاميد 250 مجم فموي — تحذير)", "dose": "ممنوع بالفم", "src": "حاجز أمان اللجنة", "role": "يمنع دمجه مع الثيازيد لأنه يضاعف فقد البوتاسيوم والحماض والـ PVCs (القطرات الموضعية فقط عند اللزوم).", "tag": "يُمنع", "badge": "b-red"},
+                    {"drug": "Zatorva 20 mg (أتورفاستاتين)", "dose": "20 مجم ليلاً", "src": "التأمين الصحى", "role": "جرعة غير كافية مع بلاك السباتي 5 مم وتصلب المخ وقصور القلب (-2.1 مم)؛ يُرفع لـ 40–80 مجم.", "tag": "رفع الجرعة", "badge": "b-blue"},
+                    {"drug": "Aggrex 75 mg (أسبرين)", "dose": "75 مجم بعد الغداء", "src": "التأمين الصحى", "role": "أساس الوقاية من الجلطات؛ يستمر وحده بعد وقف الجينكو لمنع النزيف.", "tag": "يستمر", "badge": "b-green"},
+                    {"drug": "Sinemet (كاربيدوبا / ليفودوبا)", "dose": "حسب الجرعة المعتادة", "src": "مخ وأعصاب سابق", "role": "يستمر مؤقتاً حتى إجراء تقييم سحب/إعطاء فعلي MDS-UPDRS لبيان مدى استفادتها الحقيقية.", "tag": "تقييم", "badge": "b-amber"},
+                    {"drug": "Inderal 10 mg (بروبرانولول)", "dose": "قرص كل 12 ساعة", "src": "أ.د. جلهوم (03-11)", "role": "يخفي أعراض هبوط السكر (تسارع القلب) مع 80 وحدة أنسولين؛ يفضل التحويل للبيسوبرولول مع القلب.", "tag": "مراجعة", "badge": "b-amber"},
+                    {"drug": "Ciprapra 10 mg (إسيتالوبرام)", "dose": "نصف قرص مساءً", "src": "أ.د. جلهوم (03-11)", "role": "يزيد سيولة الصفائح مع الأسبرين؛ تستمر الحاجة له فقط إن وُجد قلق/اكتئاب سريري واضح.", "tag": "تقييم", "badge": "b-amber"},
+                    {"drug": "Cobal F (فيتامين B12)", "dose": "قرص صباحاً", "src": "أ.د. جلهوم (03-11)", "role": "داعم آمن للأعصاب الطرفية ضد نقص فيتامين B12 الناتج عن الميتفورمين.", "tag": "يستمر", "badge": "b-green"},
+                    {"drug": "Brain-Ox 30 mg (فينكامين)", "dose": "كبسولة بعد الغداء", "src": "أ.د. جلهوم (03-11)", "role": "موسع شعيرات قد يسبب هبوط ضغط مفاجئ يضر تروية العصب البصري والقلب (-2.1 مم).", "tag": "إيقاف", "badge": "b-red"},
+                    {"drug": "Meclizine 25 mg", "dose": "قرص مساءً لمدة شهر", "src": "أنف وأذن (03-11)", "role": "مثبط يومي لجهاز الاتزان يمنع تعويض المخ في مريضة كفيفة ويزيد خطر السقوط.", "tag": "وقف فوري", "badge": "b-red"},
+                    {"drug": "Cetrovit Ginkgo (جينكو بيلوبا)", "dose": "قرص صباحاً شهرين", "src": "أنف وأذن (03-11)", "role": "لا يعالج ضعف السمع القوقعي ويصنع تداخلاً نزفياً خطيراً مع الأسبرين والسيبراپرا.", "tag": "وقف فوري", "badge": "b-red"},
                 ],
             },
-            # Tab 2 AR
             "t2": {
-                "videoSuiteTitle": "استوديو فيديوهات الرنين التفاعلي (MRI / MRA / MRV)",
-                "videoBadges": ["رنين 1.5 تسلا (2026-11-05)", "مسارات ويب نسبية سريعة التصفح"],
+                "videoSuiteTitle": "جناح فيديوهات الرنين والشرايين والأوردة (عارض الفيديو التفاعلي)",
+                "videoBadges": ["رنين 1.5T ومقاطع الشرايين والأوردة (05-11-2026)", "متوافق مع البث المحلي والويب"],
+                "jumpDiagTitle": "الانتقال إلى الفحوصات الكاملة، فهرس الـ 69 ملفاً ومعرض الـ 41 لوحة طبية",
+                "jumpDiagSub": "يضم رسومات الهولتر والسمعيات، ولوحات العيون والدوبلر المقصوصة (2026 + القديم 2011–2024)، ومربع الفحوصات المعلقة المطلوبة.",
+                "jumpDiagBtn": "فتح القسم 03: الفحوصات والمعرض",
                 "videos": [
                     {
-                        "title": "بطاقة 1: فيديو الرنين الوريدي (3D-MRV)",
-                        "badge": "سينما مشتقة (Film06)",
+                        "title": "البطاقة 1: فيديو أوردة المخ (3D-MRV Venography)",
+                        "badge": "مقطع مستخلص",
                         "badgeCls": "b-amber",
                         "src": "../01_Structured_and_Renamed_Inputs/01_Neuroimaging_MRI_MRA_MRV_Videos/MRV_2026-11-05_Video03_DerivedCine_3D_PCA_Attenuated_Lt_Transverse_Sigmoid_Sinus.mp4",
                         "dlText": "تحميل / فتح الفيديو",
-                        "secText": "تبويب مستقل",
+                        "secText": "فتح مستقل",
                         "secHref": "../01_Structured_and_Renamed_Inputs/01_Neuroimaging_MRI_MRA_MRV_Videos/MRV_2026-11-05_Video03_DerivedCine_3D_PCA_Attenuated_Lt_Transverse_Sigmoid_Sinus.mp4",
                         "secDownload": False,
-                        "desc": "يستعرض 18 زاوية دوران بتقنية 3D-PCA MIP (سلبية وإيجابية) ويوضح <strong>ضيق الجيب الوريدي المستعرض والسيني والوداجي الشمال (نسبة 0.48)</strong> مقارنة باليمين مع <strong>انعدام أي جلطات وريدية</strong>.",
+                        "desc": "يوضح <strong>ضيق/ضمور الجيب الوريدي المستعرض والسيني والوداجي الشمال</strong> (نسبة <code>0.48</code> مقارنة باليمين السائد) عبر 18 زاوية 3D-PCA بدون جلطات وريدية (من فيلم <code>Film06</code>).",
                     },
                     {
-                        "title": "بطاقة 2: فيديو الرنين الشرياني (3D-TOF MRA)",
-                        "badge": "تسلسل أصلي 513 شريحة",
+                        "title": "البطاقة 2: فيديو شرايين المخ (3D-TOF MRA 513 شريحة)",
+                        "badge": "المصدر الأساسي",
                         "badgeCls": "b-green",
                         "src": "../01_Structured_and_Renamed_Inputs/01_Neuroimaging_MRI_MRA_MRV_Videos/MRA_2026-11-05_Video01_3D_TOF_Axial_Source_Slices_Sc11_T1FFE_LtEyeSiliconeOil_WebH264.mp4",
                         "dlText": "تحميل / فتح الفيديو",
-                        "secText": "ملف .MOV الأصلي",
+                        "secText": "ملف MOV الخام",
                         "secHref": "../01_Structured_and_Renamed_Inputs/01_Neuroimaging_MRI_MRA_MRV_Videos/MRA_2026-11-05_Video01_3D_TOF_Axial_Source_Slices_Sc11_T1FFE_LtEyeSiliconeOil.mov",
                         "secDownload": True,
-                        "desc": "يعرض <strong>سلامة شرايين المخ ودائرة ويليس</strong> عبر المقاطع المحورية الدقيقة 1 مم من قاع الجمجمة لقمة الرأس بدون ناسور عالي التدفق، ويُظهر <strong>زيت السيليكون الساطع (2.59 ضعف)</strong> بالعين الشمال.",
+                        "desc": "يعرض <strong>سلامة الشرايين المخية الرئيسية ودائرة ويليس</strong> عبر 513 شريحة محورية دقيقة 1.0 مم دون تمددات أو ناسور عالي التدفق، ويُظهر <strong>زيت السيليكون الساطع (2.59x) بالعين الشمال</strong>.",
                     },
                     {
-                        "title": "بطاقة 3: فيديو الرنين المحوري (Axial T2/FLAIR)",
-                        "badge": "سينما متزامنة 20 مستوى",
+                        "title": "البطاقة 3: فيديو مقاطع الرنين (Axial T2/FLAIR MRI)",
+                        "badge": "مقطع مستخلص",
                         "badgeCls": "b-amber",
                         "src": "../01_Structured_and_Renamed_Inputs/01_Neuroimaging_MRI_MRA_MRV_Videos/MRI_2026-11-05_Video02_DerivedCine_Axial_T2_FLAIR_BasalGanglia_CSVD.mp4",
                         "dlText": "تحميل / فتح الفيديو",
-                        "secText": "تبويب مستقل",
+                        "secText": "فتح مستقل",
                         "secHref": "../01_Structured_and_Renamed_Inputs/01_Neuroimaging_MRI_MRA_MRV_Videos/MRI_2026-11-05_Video02_DerivedCine_Axial_T2_FLAIR_BasalGanglia_CSVD.mp4",
                         "secDownload": False,
-                        "desc": "مقارنة متزامنة بين T2 و FLAIR عبر 20 مستوى تبرز <strong>الجلطة القديمة بالعقد القاعدية اليمين وتصلب الشرايين الدقيقة (Fazekas 1–2)</strong> وسلامة قنوات السمع والتهاب الجيوب الغربالية (من <code dir='ltr'>Film09 + Film07</code>).",
+                        "desc": "يعرض <strong>الجلطات الفجوية القديمة بالعقد القاعدية</strong> وتصلب الشعيرات الدموية (<code>CSVD Fazekas 1–2</code>) والتهاب الجيوب الغربالية وسلامة قنوات السمع والتصالب البصري.",
                     },
                 ],
-                "diagHead": "1. مصفوفة الفحوصات الإشعاعية والمخبرية والفسيولوجية الكاملة (2024 – 2026)",
-                "investigations": [
-                    {"title": "رنين المخ والشرايين والأوردة 1.5 تسلا (2026-11-05)", "badge": "b-blue", "status": "Film01–10 + Video01", "metrics": ["تصلب الشرايين الدقيقة Fazekas 1-2 وجلطات لاكونار مزمنة؛ خلو تام من الجلطات الحادة في DWI.", "شرايين MRA سليمة وتنسد ثغرة الناسور كبير التدفق (مع حدود دقة 1.5 تسلا في النواسير الدقيقة جداً).", "ضيق وريدي شمال بالـ MRV (نسبة 0.48) بدون جلطة، والتهاب بالجيوب الغربالية وزيت سيليكون مغفل بالتقرير."]},
-                    {"title": "تخطيط السمع الموثق بقناع وقياس GSI-39 (2026-11-03)", "badge": "b-red", "status": "المرجع السمعي النهائي", "metrics": ["فجوة هوائية عظمية 0 dB في الأذنين (ضعف حسي عصبي نقي: يمين 40.0 dB / تمييز 84%؛ شمال 54.2 dB / تمييز 76%).", "السجل الحراري GSI-39: قمة اليمين 1.5 سم³ عند -5 daPa (طبيعي Type A يدحض كتابة Rt As اليدوية).", "قمة الشمال 3.2 سم³ عند 0 daPa يتجاوز حد 3.0 سم³ (مرونة مفرطة Type Ad)، مع Metz +45 dB SL تاريخياً."]},
-                    {"title": "هولتر القلب 24 ساعة — 29 صفحة كاملة (2026-11-05)", "badge": "b-red", "status": "95,454 نبضة محللة", "metrics": ["متوسط النبض 65 (51 ليلاً – 99 نهاراً)؛ SDNN 101 مللي ثانية؛ QTc طبيعي 100% (أقصى 326 مللي ثانية).", "857 خفقة بطينية مبكرة (0.898%)، 22 زوجاً، 4 نوبات تسارع قصيرة (أسرعها 104 ن/د صباحاً)، و153 خفقة أذينية.", "36.29% من الخفقات تركزت بين 6–9 صباحاً (ذروة 164 خفقة / 3.78% الساعة 8 ص) + هبوط ST -2.1 مم @ 13:11."]},
-                    {"title": "دوبلكس الشرايين السباتية والفقرية (2026-11-07)", "badge": "b-amber", "status": "تصلب متوسط + بلاك 5 مم", "metrics": ["سمك بطانة الشريان السباتي IMT = 0.13 سم (+44.4% زيادة عن الحد الأقصى الطبيعي 0.9 مم).", "بلاكات متصلبة غير مسببة لضيق حرج، أكبرها بلاك بطول 5 مم في عنق الشريان السباتي الشمال.", "يمثل عقبة قسطرة مباشرة عبر السباتي الأيسر مع تدفق شرياني فقري سليم ثنائياً."]},
-                    {"title": "تخطيط المخ المطول ساعتين — 9 مقاطع (2024-07-17)", "badge": "b-green", "status": "استبعاد الصرع قاطعاً", "metrics": ["المجمع الطبي العالمي (أ.د. أحمد فهمي 11:42–13:28): إيقاع ألفا خلفي متماثل 9 هيرتز.", "اختبارا التنفس العميق والضوء سليمان تماماً مع صفر موجات أو شوكات صرعية.", "وجود ذبذبات عضلية (EMG) سريعة جبهية-صدغية تثبت أن الرعشة جسدية وليست بؤرة صرعية."]},
-                    {"title": "الأشعة المقطعية على المخ بدون صبغة (2024-07-27)", "badge": "b-blue", "status": "توثيق زيت السيليكون", "metrics": ["بتحويل رقم #474510 للرعشة؛ تقرير د. عماد محمد (مستشفى الزهور التخصصي).", "تغيرات ضمورية متناسبة مع السن، حفر خلفية وبطينات طبيعية بدون نزيف أو أورام.", "أثبتت وجود كثافة زيت السيليكون بالعين الشمال قبل رنين نوفمبر 2026 بأكثر من 27 شهراً."]},
+                "seqHead": "التحليل الكمي المجمع لأفلام الرنين الـ 10 وشرائح MRA الـ 513",
+                "seqCards": [
+                    {"title": "هندسة الأوردة MRV (Film06 — موثق بالعلامات)", "badge": "b-amber", "tag": "نسبة L/R 0.48", "desc": "سريان وريدي سائد بالجانب الأيمن؛ الجانب الشمال ضامر/رفيع خلقياً بنسبة 0.48 مع عدم وجود أي جلطة وريدية أو تمدد بارز بعظمة الماستويد."},
+                    {"title": "شرايين قاع الجمجمة TOF-MRA (Video01 + Films 02–04b)", "badge": "b-green", "tag": "بلا ناسور كبير", "desc": "سلامة الشرايين السباتية والقاعدية وهوائية عظمة الماستويد، دون فروع شريانية متسعة (مع ملاحظة محدودية 1.5T تجاه الناسور البطيء الدقيق جدا)."},
+                    {"title": "نسيج المخ والعيون والتصالب البصري (Films 05, 07–10)", "badge": "b-blue", "tag": "CSVD + زيت 2.59x", "desc": "انتشار DWI سليم (لا جلطة حادة)؛ بؤر CSVD بسيطة وجلطة قديمة بالعقد القاعدية (لا MS)؛ تصالب بصري وقنوات سمع سليمة؛ التهاب جيوب غربالية وزيت سيليكون بالعين الشمال."},
                 ],
-                "chartsHead": "2. الرسوم البيانية التفاعلية (طفرة الهولتر خلال 24 ساعة ومنحنى السمع والطبلة الموثق)",
-                "holterChartTitle": "توزيع الخفقات البطينية بالهولتر (857 خفقة • ذروة 36.29% بين 6–9 صباحاً) ومعدل النبض",
-                "holterLegend1": "خفقات بطينية بالساعة (857 إجمالي؛ الذروة 164 الساعة 8 ص = 3.78%)",
-                "holterLegend2": "متوسط النبض بالساعة (الأدنى 51 الساعة 2 ص / الأقصى 99 نهاراً)",
-                "holterSurgeLbl": "طفرة صباحية 36.29% (أنسولين 80 وحدة)",
-                "holterStLbl": "هبوط تروية ST -2.1 مم @ 13:11",
-                "holterFoot": "الملخص: 95,454 نبضة | 857 خفقة بطينية (22 ثنائياً، 4 نوبات) | 153 خفقة أذينية | SDNN 101 ms | أقصى QTc 326 ms",
-                "audioChartTitle": "تخطيط السمع الموثق بقناع عكسي (2026-11-03) ومقارنة مرونة طبلة الأذن GSI-39",
-                "audioAxisFreq": "التردد (هرتز) / ضغط الأذن GSI-39",
-                "audioRtLbl": "اليمين مقنع AC=BC (متوسط 40 dB | تمييز 84%)",
-                "audioLtLbl": "الشمال مقنع AC=BC (متوسط 54.2 dB | تمييز 76%)",
-                "audioTympHead": "المرونة الصوتية (سم³)",
-                "audioTympSub": "مقارنة 2024 مقابل 2026",
-                "audioLimitLbl": "حد الورقة 3.0 سم³",
-                "audioRefute": "1.5 سم³ يدحض كتابة 'Rt As'",
-                "roiHead": "3. معرض اللوحات الإشعاعية المحسّنة (CLAHE) — اضغط أي صورة للتكبير الفحصي",
-                "roiBtn": "تكبير وفحص عالي الدقة",
+            },
+            "t3": {
+                "pendingHead": "فحوصات مطلوبة / معلّقة قادمة (لا تخلط بينها وبين الفحوصات المنجزة أدناه)",
+                "pendingItems": [
+                    {"title": "اختبار اتزان VNG معدّل في الضلمة (تحذير إلزامي للمعمل)", "txt": "كتابة تنبيه رسمي للمعمل بأن المريضة كفيفة (&lt; 1/60): إلغاء تتبع النقطة الضوئية تماماً والاكتفاء باختبار <strong>الوضعيات والاختبار الحراري بالضلمة فقط</strong>."},
+                    {"title": "سونار عيون B-Scan حديث 2026 + ضغط عين IOP + فحص زاوية", "txt": "آخر سونار بالملف كان في مايو 2021! يجب عمل <strong>سونار 2026 جديد للعينين وقياس الضغط</strong> للتأكد من ثبات الشبكية الشمال خلف عتامة السيليكون واستبعاد مياه زرقاء متسحلبة."},
+                    {"title": "اختبار الضغط الانتقائي بالرقبة والتسمّع بالسماعة", "txt": "مقارنة التسمع خلف الأذن مع <strong>ضغط أمامي خفيف بإصبع على الوريد الوداجي</strong> مقابل <strong>ضغط نقطي على نبض الشريان القذالي</strong> قبل طلب أي أشعة بالصبغة."},
+                    {"title": "تحاليل عاجلة للأملاح والكلى (قبل تعديل الأدوية أو الصبغة)", "txt": "<code>K+, Na+, Mg2+, Ca2+, Creatinine/eGFR, Urine ACR</code> فوراً قبل إيقاف الثيازيد أو إعطاء أي صبغة بجانب الميتفورمين."},
+                    {"title": "منحنى سكر 14 يوماً (CGM 3–9 صباحاً) وتحاليل الأيض", "txt": "كشف هبوط السكر الصباحي على 80 وحدة أنسولين والمسبب لـ 36.29% من الخفقات، مع <code>HbA1c، دهون صائمة، CBC، TSH، B12، إنزيمات كبد</code>."},
+                    {"title": "تقييم تروية القلب وتحدي السينيمت (MDS-UPDRS)", "txt": "<strong>إيكو قلب + مسح ذري/إيكو دوائي</strong> (ممنوع السير الكهربائي بسبب البصر!) بسبب هبوط ST -2.1 مم + اختبار <code>Sinemet</code> قبل/بعد الجرعة."},
+                ],
+                "diagHead": "1. مصفوفة الفحوصات الاستقصائية الشاملة (من التاريخي 2011 إلى الحالي 2026)",
+                "investigations": [
+                    {"hist": False, "title": "رنين المخ والشرايين والأوردة 1.5T (2026-11-05)", "badge": "b-blue", "status": "حالي • Film01–10", "metrics": ["CSVD Fazekas 1–2 وجلطة فجوية مزمنة باليمين؛ DWI سلبي (لا جلطة حادة، نفي MS).", "MRA: شرايين طبيعية وقنوات سمع وتصالب بصري سليم (Film10).", "MRV: ضيق الوريد الشمال L/R 0.48 بلا تجلط + التهاب جيوب غربالية + زيت سيليكون 2.59x بالشمال."]},
+                    {"hist": False, "title": "السمعيات والطبلية المؤكدة المقنعة (2026-11-03)", "badge": "b-red", "status": "حالي • مرجع السمع", "metrics": ["التوصيل الهوائي والعظمي متطابق 0 dB ABG: يمين 40.0 dB (تمييز 84%) وشمال 54.2 dB (تمييز 76%).", "شريط GSI-39 يثبت يمين 1.5 سم³ Type A طبيعي (يكذب كتابة اليد 'Rt As').", "الشمال 3.2 سم³ Type Ad متطرف فوق سقف الورقة + Metz +45 dB SL يؤكد ضعفاً قوقعياً."]},
+                    {"hist": False, "title": "فحوصات العيون الحديثة 2026: Topcon OCT و HFA و CSO VEP/ERG", "badge": "b-red", "status": "حالي • عيون 2026", "metrics": ["التوبكون (06-01): اليمين صافية جودة 10 وضمور عصب شديد RNFL 40 µm؛ الشمال جودة 2 ضوضاء 90 µm كاذبة.", "مجال الإبصار Zeiss (06-27): VFI 18% بتوقيع 'Not reliable Test' د. آلاء خالد لعدم ثبات التثبيت.", "فحص CSO (07-08): انهيار استجابة شبكية الشمال OPs 0.74 مقابل 10.0 µV يمين، مع بقاء Flash VEP بالعينين (10.29 / 7.99 µV)!"]},
+                    {"hist": False, "title": "هولتر القلب 24 ساعة — 29 صفحة (2026-11-05)", "badge": "b-red", "status": "حالي • 95,454 نبضة", "metrics": ["متوسط النبض 65 ن/د (51 لـ 99)؛ SDNN 101 مللي ثانية؛ QTc طبيعي تماماً (أقصى 326 مللي ثانية).", "857 PVC (0.898%)، 22 زوجاً، 4 نوبات V-runs (حتى 104 ن/د الساعة 8 ص)، و153 SVE.", "تركز 36.29% صباحاً (311 خفقة 6–9 ص) + 160 دقيقة هبوط ST بالقناة 3 (ذروة -2.1 مم الساعة 1:11 ظ)."]},
+                    {"hist": False, "title": "دوبلر شرايين الرقبة والسباتي (2026-11-07)", "badge": "b-amber", "status": "حالي • بلاك 5 مم", "metrics": ["زيادة سمك جدار السباتي IMT إلى 0.13 سم (+44.4% فوق الحد الطبيعي 0.09).", "لويحات متصلبة على الجانبين؛ أكبرها بلاك بطول 5 مم في عنق الشريان السباتي الشمال.", "خطورة صدمات قسطرة مباشرة عبر السباتي الشمال؛ تدفق طبيعي بالشرايين الفقارية."]},
+                    {"hist": True, "title": "تخطيط المخ 2h (9 مقاطع) ومقطعية المخ (يوليو 2024)", "badge": "b-amber", "status": "قديم / تاريخي • 2024", "metrics": ["تخطيط المخ (2024-07-17): إيقاع ألفا منتظم 9 هيرتز وغياب تام لأي بؤر صرعية.", "وجود ذبذبات عضلية أمامية-صدغية تثبت رعشة جسمية وليست صرعاً قشرياً.", "مقطعية الزهور (2024-07-27): تغيرات سنية بسيطة وتؤكد وجود زيت السيليكون الشمال قبل الرنين بـ 27 شهراً."]},
+                    {"hist": True, "title": "سجل العيون التاريخي (2014–2021 Optovue/Optopol/B-Scan)", "badge": "b-amber", "status": "قديم / تاريخي • 2014–21", "metrics": ["أوبتوڤيو 2014–2016: تآكل قديم بعصب الشمال (78.36 -> 71.41 µm) وارتشاح وتلف ماكولة اليمين.", "أوبتوبول أغسطس 2019: ضمور شديد بالشمال (64 µm) قبل جراحة الانفصال + خطاب تأمين يؤكد عملية اليمين سابقاً.", "سونار 2019–2021: توثيق زيت السيليكون واستقرار الشبكية بالعينين + شهادة القومسيون سبتمبر 2021 (&lt; 1/60)."]},
+                    {"hist": True, "title": "دوبلر شرايين وأوردة الساقين (2011-06-21)", "badge": "b-amber", "status": "قديم / تاريخي • 2011", "metrics": ["مستشفى التضامن (د. حلمي رشاد): نبض شرياني ثلاثي وثنائي سليم (خالٍ من قصور الشرايين PAD).", "الأوردة العميقة الفخذية والمأبضية والظنبوبية مفتوحة تماماً (خالية من الجلطات DVT).", "ارتجاع بسيط بالثواقب ودوالي سطحية بالساق الشمال فقط — مرجع وعائي تاريخي قيّم."]},
+                ],
+                "chartsHead": "2. الرسوم البيانية الكمية (الهولتر 24 ساعة وسمعيات 3 نوفمبر 2026)",
+                "holterChartTitle": "توزيع الخفقات البطينية عبر 24 ساعة (857 PVC • 36.29% صباحاً) ومنحنى النبض",
+                "holterLegend1": "الخفقات لكل ساعة (الإجمالي 857؛ ذروة 164 الساعة 8 ص)",
+                "holterLegend2": "متوسط النبض (الأدنى 51 ن/د الساعة 2 ص / الأقصى 99)",
+                "holterSurgeLbl": "فورة الصباح 36.29% (80 وحدة أنسولين)",
+                "holterStLbl": "هبوط ST -2.1 مم الساعة 1:11 ظ",
+                "holterFoot": "الملخص: 95,454 نبضة | 857 PVC (22 زوجاً، 4 نوبات) | 153 SVE | SDNN 101 ms | أقصى QTc 326 ms",
+                "audioChartTitle": "مخطط السمع المقنع الحديث 03-11-2026 (فجوة 0 dB) ومقارنة ضغط الطبلية",
+                "audioAxisFreq": "التردد (Hz) / طبلية GSI-39",
+                "audioRtLbl": "اليمين مقنّع AC=BC (متوسط 40.0 dB | تمييز 84%)",
+                "audioLtLbl": "الشمال مقنّع AC=BC (متوسط 54.2 dB | تمييز 76%)",
+                "audioTympHead": "مرونة الطبلية GSI-39 (سم³)",
+                "audioTympSub": "مقارنة 2024 مع 03-11-2026",
+                "audioLimitLbl": "سقف الورقة 3.0 سم³",
+                "audioRefute": "1.5 سم³ تفند كتابة 'Rt As'",
+                "roiHead": "3. معرض اللوحات الإشعاعية والعيون والدوبلر المقصوصة زمنياً (اضغط للتكبير)",
+                "galFilters": [
+                    {"grp": "ALL", "lbl": "كل اللوحات"},
+                    {"grp": "NEURO_AUDIO_2026", "lbl": "2026 مخ وأعصاب وسمع وشرايين"},
+                    {"grp": "OPHTH_2026", "lbl": "2026 عيون حديثة"},
+                    {"grp": "OPHTH_HIST", "lbl": "⚠️ عيون قديمة (2014–2021)"},
+                    {"grp": "VASC_HIST", "lbl": "⚠️ دوبلر ساق 2011 قديم"},
+                    {"grp": "HIST_2024", "lbl": "⚠️ مقطعية وتخطيط 2024 وقومسيون 2021"},
+                ],
+                "roiBtn": "فحص عالي الدقة",
                 "modalBtns": {"z1": "100%", "z2": "160%", "z3": "240%", "open": "فتح الأصل", "close": "إغلاق"},
-                "filesHead": f"4. فهرس الملفات الطبية الموثق والمنظّم ({file_count} ملفاً بأحدث التسمية المعيارية)",
-                "searchPh": "ابحث باسم الملف، التاريخ، الهولتر، التخطيط، السمع، السباتي، السيليكون...",
+                "filesHead": f"4. الفهرس الكامل لملفات المشروع الموثقة ({file_count} ملفاً)",
+                "searchPh": "ابحث بالكلمة أو التاريخ أو العين أو Topcon أو VEP أو ERG أو دوبلر أو هولتر...",
                 "fileFilters": [
                     {"grp": "ALL", "lbl": "كل الملفات"},
-                    {"grp": "RAD_MRI_2026", "lbl": "رنين المخ 2026"},
-                    {"grp": "RAD_CT_2024", "lbl": "مقطعية 2024"},
-                    {"grp": "NEURO_EEG_2024", "lbl": "تخطيط المخ 2024"},
-                    {"grp": "AUD_2026", "lbl": "فحص السمع 2026"},
-                    {"grp": "CARD", "lbl": "هولتر 24 ساعة"},
-                    {"grp": "VASC", "lbl": "دوبلكس الرقبة"},
-                    {"grp": "CLIN", "lbl": "روشتات وصحة"},
+                    {"grp": "OPHTH_2026", "lbl": "عيون 2026"},
+                    {"grp": "OPHTH_HIST", "lbl": "⚠️ عيون قديمة (14–21)"},
+                    {"grp": "VASC_LL", "lbl": "⚠️ دوبلر 2011"},
+                    {"grp": "RAD_MRI_2026", "lbl": "رنين 2026"},
+                    {"grp": "AUD_2026", "lbl": "سمعيات 2026"},
+                    {"grp": "CARD", "lbl": "هولتر 24h"},
+                    {"grp": "VASC", "lbl": "دوبلر سباتي"},
+                    {"grp": "RAD_CT_2024", "lbl": "⚠️ مقطعية 2024"},
+                    {"grp": "NEURO_EEG_2024", "lbl": "⚠️ تخطيط مخ 2024"},
+                    {"grp": "CLIN", "lbl": "روشتات وقومسيون"},
                 ],
-                "fileCols": ["#", "الفئة", "التاريخ", "الاسم الخام الأصلي", "الاسم المعياري الجديد (اضغط للفتح)", "الحجم", "الملخص الإكلينيكي الموثق"],
-                "fileFoot": "السجلات التاريخية التي لا تتوفر لها صور مسح محلية منفردة (فحص سمع الحياة القديم 2024-11-02 المستبدل بـ 2026-11-03، وورقة EHA، وروشتة الأنف والأذن 2026-11-03) محفوظة في فهرس FILE_RENAMING_INDEX.md للمقارنة الزمنية.",
+                "fileCols": ["#", "الفئة", "التاريخ والحالة", "الاسم الأصلي", "الملف المنظم الجديد (اضغط للفتح)", "الحجم", "الملخص الطبي السريع"],
+                "fileFoot": f"جميع الملفات الأولية المنظمة ({file_count} ملفاً من 2011 إلى 2026) محفوظة في 01_Structured_and_Renamed_Inputs/ مع نسخ الأصل في 00_Raw_Backup_Archive/ وتمييز فحوصات ما قبل 2026 بعلامة ⚠️.",
             },
-            # Tab 3 AR
-            "t3": {
-                "head": "مراجعة آراء الأطباء الاستشاريين السابقين وحل الخلاف التشخيصي الجوهري",
-                "sub": "مقارنة علمية مباشرة توضح سبب انقسام الآراء السابقة حول القسطرة المخية (DSA)، وفحص الاتزان (VNG)، وسبب الرعشة، وقراءة ضغط الأذن — والفخاخ السريرية التي كشفتها اللجنة.",
+            "t4": {
+                "head": "مقارنة الآراء الطبية السابقة وحسم التضارب التشخيصي",
+                "sub": "تدقيق مباشر لأسباب اختلاف الأطباء السابقين حول قسطرة المخ واختبار الاتزان وسبب الرعشة وقياس الطبلية وتوقعات البصر — والثغرات الأربع التي كشفتها اللجنة.",
                 "priorCards": [
                     {
-                        "role": "رأي استشاري جراحة المخ والأعصاب السابق",
-                        "doctor": "أ.د. أيمن السيد علي جلهوم (2026-11-02 و 2026-11-03، رقم 25334)",
+                        "role": "رأي جراحة المخ والأعصاب السابق",
+                        "doctor": "أ.د. أيمن السيد علي جلهوم (02 و03-11-2026)",
                         "badge": "b-amber",
-                        "tag": "مع القسطرة",
-                        "stance": "اشتباه ناسور شرياني وريدي قحفي خفي (Cognard I dAVF) مع التوصية بقسطرة DSA؛ وتوثيق رعشة أساسية",
+                        "tag": "مؤيد للقسطرة",
+                        "stance": "اشتباه ناسور شرياني وريدي قذالي -> أوصى بـ DSA والفحوصات، ووثق Essential Tremor",
                         "points": [
-                            "<strong>فرضية الناسور القحفي بالخلف:</strong> اختفاء صوت النبض مؤقتاً عند الضغط أسفل مؤخرة الرأس دفع للاشتباه في ناسور شرياني وريدي منخفض التدفق لا يظهر في الرنين العادي.",
-                            "<strong>الفحوصات التي طلبها (2026-11-02):</strong> رنين مخ وشرايين وأوردة، ودوبلكس لشرايين الرقبة، وهولتر قلب 24 ساعة — وهي التي وفرت أدلة الفرز الآمن اليوم.",
-                            "<strong>فحص الرعشة والروشتة (2026-11-03):</strong> دوّن بوضوح <code>Essential tremor + Titubation</code> (مع عدم تأثر الطرفين السفليين) وصرف <code>Inderal 10 BID</code> و<code>Ciprapra 10</code> و<code>Cobal F</code> و<code>Brain-Ox</code>.",
+                            "<strong>فرضية الناسور القذالي:</strong> اختفاء الطنين بالضغط خلف الرقبة أثار شكه في ناسور بطيء Cognard I قد يفوته الرنين التقليدي 1.5T.",
+                            "<strong>الفحوصات المطلوبة:</strong> طلب رنين المخ والأوردة والشرايين ودوبلر السباتي وهولتر 24 ساعة (ما مكننا من حل اللغز الآن).",
+                            "<strong>تقييم الرعشة والوصفة:</strong> سجل بوضوح <code>Essential tremor + Titubation</code> دون إصابة بالساقين، ووصف <code>Inderal 10</code> و<code>Ciprapra</code> و<code>Cobal F</code> و<code>Brain-Ox</code>.",
                         ],
                     },
                     {
-                        "role": "رأي استشاري قسطرة المخ والأوعية التدخلية السابق",
-                        "doctor": "تقييم القسطرة التداخلية الخارجي",
+                        "role": "رأي القسطرة المخية السابق",
+                        "doctor": "تقييم الأشعة التداخلية الخارجي",
                         "badge": "b-blue",
                         "tag": "ضد القسطرة",
-                        "stance": "نصح بعدم إجراء قسطرة مخية استكشافية (DSA) في المرحلة الحالية",
+                        "stance": "نصح بعدم إجراء قسطرة مخية تشخيصية فورية (Anti-DSA)",
                         "points": [
-                            "<strong>المبررات التشريحية والوعائية:</strong> اعتمد على خلو الـ MRA من الشرايين المغذية المتضخمة، وعزا الصوت لاختلاف قطر الأوردة القحفية الخلقي مع ارتفاع خطورة القسطرة لمريضة سكر وتصلب شرايين.",
-                            "<strong>الثغرة التي بقيت مفتوحة:</strong> لم يقدم خطة سريرية بديلة أو اختبار فرز ثلاثي لحسم مصدر الطنين النابض المؤرق واستجابة الضغط الخلفي.",
+                            "<strong>المبرر الإشعاعي:</strong> استند إلى سلامة شرايين MRA وغياب التمدد الوريدي السطحي وشيوع ضمور الجيب الوريدي الشمال خلقياً.",
+                            "<strong>الفجوة المتبقية:</strong> لم يقدم تفسيراً عملياً لاستمرار الطنين النبضي المزعج أو خريطة فرز أمان متدرجة.",
                         ],
                     },
                     {
-                        "role": "رأي استشاري الأنف والأذن السابق",
-                        "doctor": "د. محمد سالم عبد المقصود (روشتة 2026-11-03)",
+                        "role": "استشارة الأنف والأذن السابقة",
+                        "doctor": "د. محمد سالم عبد المقصود (روشتة 03-11-2026)",
                         "badge": "b-purple",
-                        "tag": "أنف وأذن VNG",
-                        "stance": "اشتباه علة وعائية خلف الأذن الشمال مع صرف Meclizine و Ginkgo وطلب VNG",
+                        "tag": "أنف وأذن / VNG",
+                        "stance": "اشتبه في سبب وعائي خلف الأذن؛ وصف ميكليزين وجينكو وطلب VNG",
                         "points": [
-                            "<strong>التوجيه السليم نحو السبب الوعائي:</strong> التقط بحس إكلينيكي سليم احتمال وجود مكون وعائي خلف الأذن اليسرى وطلب فحص اتزان وأشعة وعائية.",
-                            "<strong>فجوات دوائية وتشخيصية غير مرصودة:</strong> صرف <code>Meclizine</code> يومياً لشهر كامل مع <code>Cetrovit Ginkgo</code> لشهرين وطلب فحص VNG القياسي دون التحذير من كف البصر (&lt; 1/60) أو الأسبرين المزمن.",
+                            "<strong>دقة التموضع المبدئي:</strong> توقع بحق وجود سبب وعائي خلف الطبلية اليسرى يسبب الطنين وعدم الاتزان.",
+                            "<strong>ثغرات وصفية خطيرة:</strong> كتب <code>Meclizine</code> شهراً كاملاً + <code>Ginkgo</code> شهرين وطلب <code>VNG</code> قياسي دون تنبيه لفقدان البصر (&lt; 1/60) أو الأسبرين.",
+                        ],
+                    },
+                    {
+                        "role": "سجلات العيون المنفصلة وتقرير Rology",
+                        "doctor": "مراكز عيون متعددة + تقرير رنين Rology",
+                        "badge": "b-red",
+                        "tag": "فخ جودة Topcon 2",
+                        "stance": "سقوط تاريخ زيت السيليكون في تقرير الرنين، وخداع قراءة 90 µm بجهاز التوبكون",
+                        "points": [
+                            "<strong>ثغرة تقرير الرنين:</strong> تقرير <code>Rology</code> بتاريخ 05-11-2026 لم يذكر زيت السيليكون البارز بالشمال (2.59x) ولا ضمور العصب البصري.",
+                            "<strong>وهم جودة 2 بالتوبكون:</strong> سجل التوبكون للشمال رقم <code>90 µm</code> كاذباً عند جودة <code>Qual 2</code> بينما كانت العصب بالفعل <code>64 µm</code> منذ 2019 وانهارت <code>OPs ERG</code> لـ <code>0.74 µV</code> — لكن <code>Flash VEP</code> بقي حياً (<code>7.99 µV</code>)!",
                         ],
                     },
                 ],
-                "bridgeTitle": "ثلاثة فخاخ تشخيصية خطيرة كشفتها فقط اللجنة الطبية المجمّعة (MDT)",
+                "bridgeTitle": "أربع ثغرات تشخيصية خفية لم تكشفها إلا لجنة الاستشاريين السبعة",
                 "bridgeCards": [
                     {
-                        "title": "1. فخ الضغط المزدوج على الرقبة خلف الأذن",
+                        "title": "1. فخ الضغط المزدوج خلف الرقبة",
                         "cls": "alert-amber",
-                        "txt": "الضغط باليد على المنطقة الخلفية أسفل الجمجمة يضغط على <strong>الشريان القذالي السطحي والوريد الوداجي الداخلي العميق (IJV) معاً</strong> في اللحظة نفسها! ولذلك فإن سكون الصوت لا يحسم وجود ناسور شرياني أو همهمة وريدية، ولا بد من فصل الضغط اللطيف الأمامي على الوريد عن الضغط النقطي خلف النتوء الحلمي.",
+                        "txt": "الضغط القوي خلف الأذن والرقبة يقفل <strong>الشريان القذالي والوريد الوداجي الداخلي معاً</strong>؛ لذلك يجب اختبار الضغط الأمامي الخفيف على الوريد الوداجي مقابل الضغط النقطي على الشريان القذالي.",
                     },
                     {
-                        "title": "2. الألغام المخفية في طريق القسطرة (DSA)",
+                        "title": "2. ألغام القسطرة (بلاك 5 مم + قصور تاجي + كلى)",
                         "cls": "alert-red",
-                        "txt": "الجدل السابق بين القسطرة وتركها سبق ظهور دوبلكس <code>2026-11-07</code> (الذي كشف <strong>بلاك 5 مم عند عنق السباتي الشمال</strong> في مسار القسطرة تماماً!) وهولتر <code>2026-11-05</code> (الذي كشف <strong>هبوط ST -2.1 مم و3.78% PVC صباحاً</strong>) مع عدم توفر eGFR قبل تعريض مريضة الميتفورمين للصبغة.",
+                        "txt": "الجدال السابق سبق اكتشاف <strong>بلاك 5 مم بالسباتي الشمال</strong> في مسار القسطرة، وهبوط <strong>ST -2.1 مم</strong> بالهولتر، وعدم فحص الكلى قبل الميتفورمين.",
                     },
                     {
-                        "title": "3. فخ فحص الـ VNG البصري وتداخل الأدوية السباعي",
+                        "title": "3. فخ كف البصر مع الـ VNG والتداخلات الدوائية",
                         "cls": "alert-blue",
-                        "txt": "كف البصر القانوني (&lt; 1/60) يبطل تتبع الضوء بالـ VNG تلقائياً. واستمرار <code>Meclizine</code> + <code>Brain-Ox</code> + الثلاثي المسبب للنزيف (<code>Aggrex + Ginkgo + Ciprapra</code>) + حجب أعراض هبوط السكر بـ <code>Inderal</code> يحول التردد التشخيصي لخطر سقوط ونزيف واضطراب قلب.",
+                        "txt": "غياب تنبيه البصر (&lt; 1/60) يبطل فحص تتبع الضوء في الـ VNG؛ وجمع <code>Meclizine + Brain-Ox + Ginkgo + Aggrex + Ciprapra + Inderal</code> يرفع مخاطر السقوط والنزيف وهبوط السكر.",
+                    },
+                    {
+                        "title": "4. خدعة جودة Topcon 2 مقابل إثبات بقاء إشارة Flash VEP",
+                        "cls": "alert-amber",
+                        "txt": "لا تقرأ <code>90 µm</code> على جودة 2 في العين الشمال كأنها عصب سليم مع انهيار شبكية <code>OPs 0.74 µV</code>، وفي المقابل لا تيأس كلياً لأن <code>Flash VEP 7.99 / 10.29 µV</code> يثبت توصيل العصب ويوجب حماية الضغط بـ <strong>B-Scan 2026</strong>!",
                     },
                 ],
             },
-            # Tab 4 AR
-            "t4": {
-                "head": "تقارير الاستشاريين الستة في اللجنة الطبية المجمّعة (تقييم زمالة تخصصي مستقل)",
-                "sub": "اختر استشارياً محدداً أو اعرض اللجنة كاملة لمراجعة الدمج الإكلينيكي الشامل لفحوصات السمع المرجعية 11-03، والرنين والهولتر 29 صفحة، ودوبلكس 11-07، ومقطعية وتخطيط 2024.",
-                "allBtn": "عرض جميع الاستشاريين (6)",
-                "verdictLbl": "الخلاصة الاستشارية الحاسمة:",
-                "tieLbl": "الربط بين الأجهزة الحيوية:",
-            },
-            # Tab 5 AR
             "t5": {
-                "head": "التشخيص النهائي الموحّد (مرتباً 1 إلى 8) وحسم المعضلات السريرية الأربع",
-                "rankHead": "1. التشخيص الطبي المتكامل مرتباً حسب الأولوية والخطورة",
+                "head": "لجنة الاستشاريين السبعة: الاستنتاج، الإجراء الفوري، وخطة العمل",
+                "sub": "كل استشاري مقسّم بوضوح إلى 3 كتل سريرية (1. الاستنتاج، 2. الإجراء الفوري، 3. الخطة التفصيلية) مسبوقة بالإجابات القاطعة على الأسئلة الثلاثة المحورية.",
+                "allBtn": "إظهار السبعة استشاريين",
+                "blkConcLbl": "1. الاستنتاج (Conclusion)",
+                "blkImmLbl": "2. الإجراء الفوري (Immediate Action)",
+                "blkPlanLbl": "3. الخطة التفصيلية (Detailed Plan)",
+                "tieLbl": "الربط بين التخصصات:",
+                "qaHead": "إجابات اللجنة القاطعة على الأسئلة الثلاثة المحورية للمريضة والأسرة",
+                "qaCards": [
+                    {
+                        "cls": "qa-blue",
+                        "badge": "b-blue",
+                        "tag": "حل ضعف السمع",
+                        "title": "أ. الحل النهائي لضعف السمع الشمال والطنين النبضي",
+                        "bullets": [
+                            "<strong>التشخيص القاطع:</strong> سمعيات <code>03-11-2026</code> المقنعة تثبت <strong>ضعف سمع قوقعي نقي (0 dB فجوة)</strong> (يمين <code>40 dB / تمييز 84%</code>، شمال <code>54.2 dB / تمييز 76%</code>) وطبلية يمين سليمة <code>1.5 سم³ Type A</code> مقابل شمال <code>3.2 سم³ Type Ad</code> تضخم الصوت الوريدي (<code>0.48</code>).",
+                            "<strong>الوصفة السمعية الدقيقة:</strong> تركيب <strong>سماعتين رقميتين Open-Fit WDRC RIC</strong> بـ<strong>قبة مفتوحة مهواة (Vented/Open Domes)</strong> لمنع كتم الأذن وتضخيم الطنين، مع سقف خرج صارم <strong>Left OSPL90 &lt;= 95–100 dB SPL</strong> لحماية الأذن من حساسية <code>Metz (+45 dB SL)</code>.",
+                            "<strong>العلاج المصاحب:</strong> إيقاف <code>Meclizine</code> و<code>Ginkgo</code> اليوم، علاج الجيوب ببخاخ <code>Mometasone</code> + غسول ملح؛ السماعتان ضرورة أمان حتمية لتحديد الاتجاهات في كف البصر <code>&lt; 1/60</code>.",
+                        ],
+                    },
+                    {
+                        "cls": "qa-red",
+                        "badge": "b-red",
+                        "tag": "أمل العين الشمال؟",
+                        "title": "ب. الحقيقة العلمية الصادقة: هل يوجد أمل لإبصار العين الشمال؟",
+                        "bullets": [
+                            "<strong>الواقع السريري الصريح:</strong> عبر 12 عاماً (<code>2014 -> 2016 -> 2019 ضمور 64 µm -> سونار السيليكون 2021</code>)، استعادة إبصار وظيفي للقراءة بالعين الشمال <strong>مستبعد جداً</strong>؛ رقم <code>90 µm</code> بجهاز التوبكون على جودة <code>2</code> مجرد تشويش، وانهيار <code>OPs 0.74 µV</code> يثبت تلفاً إقفارياً شديداً بالشبكية الداخلية، وإزالة السيليكون بعد ~7 سنوات قد تؤدي لضمور وهبوط ضغط العين.",
+                            "<strong>أين يكمن الأمل الحقيقي القابل للحماية؟</strong> فحص <code>CSO Flash VEP</code> في يوليو 2026 أثبت أن <strong>مسار العصب البصري للقشرة المخية ما زال ينقل الإشارة بالعينين (الشمال 7.99 µV / اليمين 10.29 µV)</strong> مع سلامة التصالب البصري بالرنين!",
+                            "<strong>خطة العيون العاجلة:</strong> طلب <strong>سونار B-Scan جديد 2026 للعينين + قياس ضغط العين + فحص الزاوية</strong> لاستبعاد مياه زرقاء متسحلبة وعلاجها <strong>بقطرات موضعية فقط عند ارتفاع الضغط (ممنوع Cidamex فموياً!)</strong>، مع حماية تروية العصب (ضغط <code>&gt;= 115/70</code>) وتأهيل ضعف البصر للعين اليمنى الصافية (<code>Qual 10، 40 µm</code>).",
+                        ],
+                    },
+                    {
+                        "cls": "qa-amber",
+                        "badge": "b-amber",
+                        "tag": "الأعصاب والقسطرة",
+                        "title": "ج. حسم الرعشة وهزة الرأس وتأجيل القسطرة المخية (DSA)",
+                        "bullets": [
+                            "<strong>نفي التصلب المتعدد (MS) والصرع:</strong> صفر علامات MS بالرنين (الموجود تصلب شرايين دقيقة CSVD 1–2 وجلطة فجوية قديمة)؛ تخطيط المخ 2024 يثبت إيقاع ألفا 9 هيرتز وارتعاشاً عضلياً فقط دون صرع.",
+                            "<strong>تشريح الرعشة:</strong> خليط من <code>Essential Tremor + Titubation</code> (د. جلهوم) + قابلية وعائية + <strong>هبوط سكر صباحي مشتبه مع 80 وحدة أنسولين</strong> يفسر فورة <code>36.29%</code> للـ PVCs الساعة <code>6–9 صباحاً</code>! المطلوب <code>MDS-UPDRS</code> مع <code>Sinemet</code> وتركيب <code>CGM 14 يوماً</code>.",
+                            "<strong>تأجيل قسطرة DSA:</strong> عبور <strong>بلاك السباتي 5 مم</strong> مع قصور تاجي <code>-2.1 مم</code> وقصور فحص الكلى غير آمن؛ الالتزام ببروتوكول الفرز الثلاثي (ضغط خفيف أمامي للوريد مقابل القذالي -> <code>4D-MRA / HRCT+CTA</code> بعد فحص الكلى -> قسطرة فقط إذا ثبت ناسور مؤكد).",
+                        ],
+                    },
+                ],
+                "rankHead": "التشخيص النهائي المرتب متعددة التخصصات (من 01 إلى 09)",
                 "rankedDx": [
-                    {"rank": "01", "cls": "b-blue", "cat": "الأوعية المخية", "title": "تصلب الشرايين المخية الدقيقة (CSVD Fazekas 1–2) وجلطة مزمنة قديمة بالعقد القاعدية اليمين", "evidence": "موثق بأفلام 07/09/10 مع سلبية تامة للـ DWI (لا جلطات حادة)، واستبعاد قاطع للتصلب المتعدد (MS) والصرع (تخطيط ساعتين 2024 سليم)."},
-                    {"rank": "02", "cls": "b-red", "cat": "القلب والشرايين", "title": "تصلب شرايين سباتية عالي الخطورة (IMT 0.13 سم وبلاك 5 مم بالسباتي الشمال) + نقص تروية تاجية صامت (-2.1 مم ST)", "evidence": "دوبلكس 11-07 وهولتر القناة 3 (160 دقيقة هبوط وأقصاه -2.1 مم @ 13:11)؛ يثبت محور اعتلال البطانة المشترك ويمنع القسطرة المتهورة."},
-                    {"rank": "03", "cls": "b-red", "cat": "نبض القلب والأيض", "title": "اضطراب الخفقات البطينية بنمط صباحي حاد (857 PVC و4 نوبات V-runs) مع 153 خفقة أذينية", "evidence": "تتركز 36.29% من الخفقات بين 6–9 صباحاً (ذروة 164 خفقة/3.78% و104 ن/د @ 08:00 ص)، مما يرجح هبوط سكر صامت بـ 80 وحدة أنسولين و/أو نقص البوتاسيوم مع الثيازيد."},
-                    {"rank": "04", "cls": "b-amber", "cat": "الأوردة والسمعيات", "title": "همهمة وريدية نابضة شمال (ضيق الجيب المستعرض والسيني 0.48) مضخّمة بطبلية أذن فائقة المرونة (3.2 سم³ Type Ad)", "evidence": "لا جلطات وريدية في MRV؛ الطبلية الرقيقة تلتقط ذبذبات الجيب الضيق واندفاع ما بعد الخفقات القلبية، مع إبقاء احتمال الناسور الخفي تحت اختبار الفرز الثلاثي."},
-                    {"rank": "05", "cls": "b-red", "cat": "الاتزان والسقوط", "title": "فشل الاتزان الحسي الرباعي ('4-Hit Vestibular Failure') وخطر السقوط العالي", "evidence": "تزامن إصابة الأذن الداخلية اليسرى + كف البصر القانوني (< 1/60 وزيت سيليكون) + تصلب الشرايين الدقيقة وتهدئة الميكليزين + تذبذب الضغط والنبض والسكر."},
-                    {"rank": "06", "cls": "b-blue", "cat": "السمعيات النهائية", "title": "ضعف سمع حسي عصبي قوقعي ثنائي غير متماثل (0 dB ABG) وحل تناقض 'Rt As'", "evidence": "تخطيط 11-03 الموثق (اليمين 40 dB وتمييز 84%؛ الشمال 54.2 dB وتمييز 76%) + Metz +45 dB SL تاريخياً. طابعة GSI-39 تثبت قمة اليمين 1.5 سم³ طبيعية."},
-                    {"rank": "07", "cls": "b-purple", "cat": "اضطرابات الحركة", "title": "متلازمة رعشة مختلطة (رعشة أساسية ورعشة رأس + العقد القاعدية + أدرينالين صباحي)", "evidence": "يدمج فحص د. جلهوم وسينيمت السابق مع استبعاد الصرع في تخطيط 2024، لحين التقييم الموضوعي عبر اختبار MDS-UPDRS مع وبدون سينيمت."},
-                    {"rank": "08", "cls": "b-green", "cat": "الجيوب والعين", "title": "التهاب مزمن بالجيوب الغربالية الثنائية + زيت سيليكون بالعين الشمال منذ أكثر من عامين", "evidence": "الجيوب الغربالية تفسر الامتلاء والضغط الأذني، ومقطعية 2024 تثبت قِدم زيت السيليكون الذي أغفله تقرير الرنين الرسمي."},
+                    {"rank": "01", "cls": "b-blue", "cat": "الأوعية المخية", "title": "تصلب الشرايين المخية الدقيقة CSVD (Fazekas 1–2) وجلطة فجوية قديمة بالعقد القاعدية اليمين", "evidence": "مثبت بأشعة التوبكون والرنين (Film07/09/10) مع خلو DWI تماماً من أي جلطة حادة؛ وتم نفي MS والصرع تماماً."},
+                    {"rank": "02", "cls": "b-red", "cat": "القلب والشرايين", "title": "تصلب شرايين سباتية عالي الخطورة (IMT 0.13 سم، بلاك 5 مم) + قصور تاجي صامت (-2.1 مم ST)", "evidence": "دوبلر السباتي (07-11) + هولتر القناة 3 (160 دقيقة هبوط، ذروة -2.1 مم الساعة 1:11 ظ) يؤسس المحور الوعائي المشترك."},
+                    {"rank": "03", "cls": "b-red", "cat": "العيون والأعصاب", "title": "مرض عيون ثنائي ما بعد الجراحة (&lt; 1/60): ضمور عصب يمين 40 µm وتلف شبكية سيليكون شمال (OPs 0.74 µV) مع بقاء VEP", "evidence": "توثيق 12 عاماً (2014–2021) + فحوصات 2026 تثبت انهيار الشبكية الداخلية بالشمال لكن استجابة VEP القشرية حية بالعينين."},
+                    {"rank": "04", "cls": "b-red", "cat": "كهرباء القلب والأيض", "title": "فورة صباحية في الخفقات البطينية (857 PVC و4 نوبات V-runs) و153 SVE على 80 وحدة أنسولين", "evidence": "تركز 36.29% من الخفقات بين 6 و9 صباحاً (ذروة 164/ساعة ونوبة 104 ن/د) يرجح هبوط سكر صامتاً أو نقص بوتاسيوم الثيازيد."},
+                    {"rank": "05", "cls": "b-amber", "cat": "الأوردة والأذن", "title": "طنين وريدي نبضي شمال (ضيق الجيب الوريدي L/R 0.48) مضخّم بطبلية مرنة جداً 3.2 سم³ Type Ad", "evidence": "انعدام التجلط الوريدي؛ اندفاع موجات ما بعد الـ PVCs عبر الجيب الضيق أمام طبلية فائقة المرونة، مع حجز فرضية dAVF بطيء للفرز المتدرج."},
+                    {"rank": "06", "cls": "b-red", "cat": "الاتزان والسقوط", "title": "فشل الاتزان رباعي الضربات (4-Hit Equilibrium Failure) وخطر السقوط المرتفع", "evidence": "ضعف أذن داخلية شمال + كف بصر &lt; 1/60 + تصلب مادة بيضاء وتثبيط Meclizine + تذبذب التروية القلبية والسكرية."},
+                    {"rank": "07", "cls": "b-blue", "cat": "السمعيات", "title": "ضعف سمع حسي عصبي قوقعي ثنائي غير متماثل (0 dB ABG) — تصحيح خطأ 'Rt As'", "evidence": "سمعيات 03-11 المقنعة (يمين 84% وشمال 76% وMetz +45 dB)؛ شريط GSI-39 أثبت يمين 1.5 سم³ Type A طبيعية."},
+                    {"rank": "08", "cls": "b-purple", "cat": "اضطراب الحركة", "title": "متلازمة رعشة مختلطة (Essential Tremor + Titubation + جلطة عقد قاعدية + هبوط سكر أدرينالي)", "evidence": "تجمع بين فحص د. جلهوم وسلبية تخطيط 2024 للصرع، وتنتظر اختبار MDS-UPDRS للتحقق من فائدة السينيمت."},
+                    {"rank": "09", "cls": "b-green", "cat": "الجيوب والساقان", "title": "التهاب جيوب غربالية ثنائي + ارتجاع وريدي قديم بالساق الشمال (2011 — بلا PAD أو DVT)", "evidence": "رنين 2026 يؤكد التهاب الجيوب؛ دوبلر ساق 2011 يؤكد خلو الشرايين والأوردة العميقة تاريخياً."},
                 ],
-                "dilHead": "2. الحسم العلمي المفصل للمعضلات السريرية الأربع",
+                "dilHead": "الحل العلمي التفصيلي للمعضلات الإكلينيكية الأربع",
             },
-            # Tab 6 AR
             "t6": {
-                "head": "خطة الفحوصات القادمة، مراجعة تداخلات الأدوية، والروشتة العلاجية الشاملة",
-                "resetBtn": "إعادة تعيين المهام",
-                "checkHead": "1. قائمة التحقق التنفيذية للمرحلة الأولى والثانية (محفوظة تلقائياً)",
+                "head": "الخطة العلاجية الرئيسية، تدقيق الأدوية، وبروتوكولات الأذن والعين والملفات PDF",
+                "resetBtn": "إعادة ضبط القائمة",
+                "checkHead": "1. قائمة التحقق التفاعلية للفحوصات والإجراءات (محفوظة تلقائياً)",
                 "doneWord": "مكتمل",
-                "auditHead": "2. تدقيق أمان وتداخلات الأدوية الحالية والجديدة (7 نقاط حرجة)",
-                "auditFilters": [
-                    {"tag": "ALL", "lbl": "الكل (7)"},
-                    {"tag": "STOP", "lbl": "إيقاف / ممنوع"},
-                    {"tag": "CAUTION", "lbl": "حذر / استبدال"},
-                    {"tag": "UPGRADE", "lbl": "ترقية / إضافة"},
-                ],
-                "auditCols": ["الدواء / التوليفة الدوائية", "الإجراء", "الآلية الدوائية", "الخطر النوعي على المريضة", "القرار العلاجي للجنة"],
-                "rxHead": "3. مصفوفة النظام الدوائي والتأهيلي المعدّل (بعد التحاليل الأولية)",
-                "rxCols": ["التخصص الإكلينيكي", "الخطة الدوائية / التدخل المقترح", "التوقيت والمراقبة", "التعليل العلمي وضوابط الأمان"],
-                "haHead": "4. مواصفات السماعات الطبية الدقيقة وضوابط فحص الاتزان مع كف البصر (< 1/60)",
+                "haHead": "2. بروتوكولات الأمان الإلزامية للسماعة، اختبار VNG، والعصب البصري",
                 "haPoints": [
-                    "<strong>تركيب سماعتين (ثنائي) إجباري:</strong> السمع المجسم ثنائي الأذن هو حاسة الملاحة والتوجيه البيئي الأولى لدى المريضة مع فقدان الإبصار (&lt; 1/60).",
-                    "<strong>نوع السماعة: <bdi dir='ltr'>Open-Fit WDRC RIC</bdi> بقوالب مفتوحة مهوّاة:</strong> يمنع سد الأذن بالقالب المغلق كي لا ينحبس صوت نبض الأوردة الداخلي وتتضخم الطنينية.",
-                    "<strong>سقف الخرج الصوتي الأيسر (<bdi dir='ltr'>OSPL90 &lt;= 95–100 dB SPL</bdi>):</strong> ضروري لحماية الأذن القوقعية ذات حساسية الصوت العالي الموثقة تاريخياً (Metz +45 dB SL).",
-                    "<strong>تنبيه خطي لمختبر <bdi dir='ltr'>VNG</bdi>:</strong> إلغاء تتبع الهدف الضوئي وحركة العين السريعة OPK كلياً، والالتزام فقط باختبارات <strong>الأوضاع في الظلام + السعرات الحرارية المائية</strong>.",
+                    "<strong>تركيب سماعتين Open-Fit WDRC RIC:</strong> إلزامي للناحيتين (لحفظ الاتجاه المكاني مع كف البصر &lt; 1/60) مع <strong>قمع مفتوح مهوّى</strong> (لا قوالب مسدودة) + <strong>سقف خرج أقصى &lt;= 95–100 dB SPL</strong> للأذن اليسرى (Metz +45 dB SL).",
+                    "<strong>تنبيه كتابي لفحص VNG:</strong> إبلاغ معمل الاتزان رسمياً بفقدان البصر (&lt; 1/60) وإلغاء اختبارات تتبع الضوء تماماً والاعتماد فقط على <strong>الوضعيات والحراري في الضلمة</strong>.",
+                    "<strong>بروتوكول العيون وتروية العصب البصري:</strong> طلب <strong>سونار 2026 حديث + قياس الضغط IOP</strong>؛ استعمال قطرات فقط عند ارتفاع الضغط (ممنوع <code>Cidamex</code> فموياً مع الثيازيد!)، حفظ ضغط الدم &gt;= <code>115/70</code> ومنع هبوط السكر الليلي، ومراجعة ضغط العين بعد 4–6 أسابيع من بخاخ الجيوب.",
                 ],
+                "auditHead": "3. تدقيق تفاعلات الأدوية وحماية المريضة (8 محاور حرجة)",
+                "auditFilters": [
+                    {"tag": "ALL", "lbl": "الكل (8)"},
+                    {"tag": "STOP", "lbl": "إيقاف / منع"},
+                    {"tag": "CAUTION", "lbl": "حذر / استبدال"},
+                    {"tag": "UPGRADE", "lbl": "رفع / إضافة"},
+                ],
+                "auditCols": ["الدواء / التداخل", "القرار", "الآلية الدوائية", "الخطر على المريضة", "تعديل اللجنة"],
+                "rxHead": "4. جدول الوصفات المعدّلة والاستراتيجية المتكاملة (جميع التخصصات الستة)",
+                "rxCols": ["التخصص الطبي", "العلاج / التدخل المقترح", "التوقيت والمتابعة", "السبب العلمي وحواجز الأمان"],
+                "pdfSectionHead": "5. تحميل تقارير اللجنة المحدّثة بصيغة PDF والملف المرجعي",
+                "pdfSectionSub": "إصدارات اللجنة السباعية المحدثة والمتضمنة الـ 69 ملفاً (2011–2026) ولوحات العيون والدوبلر وخطط العمل الثلاثية.",
             },
         },
     }
 
-    # Bilingual lists (Consultants, Dilemmas, ROI, MedAudit, RxTable, Checklist)
+    # Bilingual lists (Consultants [1..7], Dilemmas, ROI, MedAudit, RxTable, Checklist)
     consultants = {
         "en": [
             {
                 "id": 1,
                 "role": "Consultant 1 — Diagnostic Head, Neck & Neuroradiology",
                 "badge": "b-blue",
-                "verdict": "Right-Dominant MRV (L/R 0.48), CSVD Fazekas 1–2, Persistent Lt Silicone Oil (2.59x since 2024 CT), No High-Flow dAVF",
-                "findings": [
-                    "<strong>MRV Venous Asymmetry (Film06, PA R-on-Right Verified):</strong> Attenuated/hypoplastic Left Transverse Sinus, Left Sigmoid Sinus, and Left IJV (<strong>0.48</strong> calibre ratio vs dominant Right) with <strong>ZERO dural venous thrombosis</strong> or giant sigmoid diverticulum.",
-                    "<strong>513-Slice 3D-TOF MRA Audit (Video01 & ROI1b/c):</strong> Aerated mastoids; normal Circle of Willis; no enlarged external carotid occipital feeder or pial flow voids (note: 1.5T TOF cannot entirely exclude a micro low-flow Cognard I dAVF).",
-                    "<strong>Omitted Orbital Finding & 2024 CT Proof:</strong> Official Rology MRI report omitted prominent <strong>Left Intraocular Silicone Oil</strong> (mean T1FFE/FLAIR intensity <strong>130.4 vs 50.3 = 2.59x</strong>), proven pre-existing on <strong>2024-07-27 El-Zohor CT</strong>; severe bilateral optic nerve atrophy correlates with MOH <code>&lt; 1/60</code> blindness.",
-                    "<strong>IACs, CPAs & Sinuses (ROI2):</strong> Intact, symmetric IACs/CN VII–VIII complexes excluding vestibular schwannoma; bilateral ethmoidal mucosal sinusitis clearly visible on Coronal/Axial T2/FLAIR.",
+                "conclusion": "Right-dominant dural venous drainage with attenuated Left Transverse-Sigmoid-IJV conduit (L/R = 0.48, Film06) and ZERO thrombosis; Circle of Willis, IACs, CPAs, and optic chiasm are normal (excluding vestibular schwannoma or compressive pituitary mass). Brain parenchyma demonstrates hypertensive-diabetic CSVD (Fazekas 1–2) + chronic Rt basal ganglia lacune (zero DWI stroke; stable vs 2024 CT) + bilateral ethmoiditis. Forensically corrected external Rology omission of prominent 2.59x Left Intraocular Silicone Oil & bilateral optic thinning, corroborating 2019–2021 B-Scans & 2026 Topcon Qual 10 OD 40um.",
+                "immediate_action": "Do NOT order immediate unscreened Catheter DSA or contrast CT/MRV today; first obtain Serum Creatinine/eGFR, verify 48h Metformin hold instructions, obtain Cardiology clearance (-2.1 mm ST, 857 PVCs), perform bedside light IJV vs focal occipital compression, and file an official addendum noting Left Intraocular Silicone Oil & bilateral optic atrophy.",
+                "detailed_plan": [
+                    "<strong>Gatekeeper Non-Invasive Protocol (If Arterial Bruit Suspected or Tinnitus Refractory at 4–6 wks):</strong> Order 0.5-mm Temporal Bone HRCT + Contrast CTA/CTV OR 4D Time-Resolved Contrast MRA (4D-TRAK) strictly if eGFR >= 45 and Metformin held 48h — achieves 100% bone dehiscence & ~90–95% Cognard I dAVF detection without touching the 5 mm Lt Carotid Bulb plaque.",
+                    "<strong>Correlative Ocular Guidance:</strong> Defer repeat orbital MRI/CT because Film08 & 2024 CT confirm persistent silicone oil; pair instead with fresh 2026 B-Scan ocular ultrasound.",
+                    "<strong>Sinusitis & Carotid Tracking:</strong> Treat bilateral ethmoiditis medically (Mometasone + saline) and monitor the 5 mm Lt bulb plaque via non-invasive annual Carotid Duplex under High-Intensity Statin.",
                 ],
-                "tie": "Links attenuated Lt venous drainage + ethmoiditis directly to otologic symptoms while verifying chronicity of orbital silicone oil across 2024–2026.",
+                "tie": "Links the 0.48 venous bottleneck, -2.1 mm Holter pulse surges, and 3.2 cm3 TM acoustics while unifying MRI/CT/Ophthalmology findings.",
             },
             {
                 "id": 2,
                 "role": "Consultant 2 — Multiple Sclerosis (MS) & White Matter Disorders",
                 "badge": "b-green",
-                "verdict": "MS & CNS Vasculitis DEFINITIVELY EXCLUDED — Hypertensive-Diabetic CSVD (Fazekas 1–2) Driven by Cardio-Metabolic Injury",
-                "findings": [
-                    "<strong>2017 McDonald Criteria DIS / DIT Negative:</strong> Punctate deep white matter and thin periventricular caps completely lack perpendicular Dawson fingers, corpus callosum callosal-septal plaques, cerebellar peduncle/brainstem lesions, or juxtacortical U-fiber involvement.",
-                    "<strong>DWI/ADC Clearance & Chronic Lacunes (ROI3):</strong> Negative isoDWI/ADC excludes acute ischemia; established chronic cavitary lacunes reside in Right Lentiform Basal Ganglia, Left Frontal & Right Parietal white matter.",
-                    "<strong>Holter–Carotid–CSVD Coupling:</strong> The 24h Holter finding of <code>-2.1 mm ST depression</code> (13:11 CH3) + <code>3.78%</code> AM PVC burden + <code>0.13 cm</code> carotid IMT accelerates cerebral small vessel endothelial dysfunction and postural autoregulatory lags.",
-                    "<strong>No LP or Immunotherapy Needed:</strong> Visual loss (<code>&lt; 1/60</code>) represents prior diabetic/vascular retinal detachment + optic atrophy, NOT MS optic neuritis. <strong>Do NOT perform lumbar puncture.</strong>",
+                "conclusion": "Multiple Sclerosis, NMOSD, and CNS vasculitis are definitively EXCLUDED (2017 McDonald & STRIVE-2 negative: zero Dawson fingers, intact corpus callosum & infratentorium, negative DWI). White-matter foci strictly reflect Hypertensive-Diabetic CSVD (Fazekas 1–2) + chronic lacunar infarcts. Crucially, July 2026 CSO Full-Field ERG (OPs OD 10.0 vs OS collapsed 0.74 uV; dark/flicker suppression) plus 2014–2021 retinopathy proves optic atrophy (OD 40 um / OS 64 um 2019) is vitreoretinal-glaucomatous/ischemic, NOT demyelinating optic neuritis.",
+                "immediate_action": "Reassure the patient and family that she does NOT have Multiple Sclerosis; cancel/avoid Lumbar Puncture (CSF OCB), AQP4/MOG antibodies, IV pulse steroids, or MS immunosuppressants (unnecessary and hazardous atop 80 IU/d insulin). Focus all urgency on microvascular endothelial control.",
+                "detailed_plan": [
+                    "<strong>Microvascular CSVD Halt:</strong> Intensive HbA1c control free of morning hypoglycemic swings, smooth 24h BP control (125–135/75–80 mmHg avoiding nocturnal <115 systolic hypoperfusion), High-Intensity Statin (LDL <55 mg/dL), and single antiplatelet Aggrex 75–81 mg OD.",
+                    "<strong>Cardio-Cerebral Reperfusion Shield:</strong> Stabilize -2.1 mm silent coronary ischemia & 857 PVCs to prevent repetitive white-matter watershed hypoperfusion.",
+                    "<strong>Rational Surveillance:</strong> Repeat non-contrast Brain MRI only at 12–18 months or with new acute focal deficits; routine MS gadolinium protocols are not indicated.",
                 ],
-                "tie": "Prevents harmful, unnecessary MS workup/lumbar puncture and shifts focus to aggressive vascular/glycemic microvascular stabilization.",
+                "tie": "Prevents invasive lumbar puncture & steroid harm while uniting CSVD, cochlear SNHL, Holter ischemia, and ischemic retinopathy under one microvascular axis.",
             },
             {
                 "id": 3,
                 "role": "Consultant 3 — Medical Neurology, Vascular & Movement Disorders",
                 "badge": "b-amber",
-                "verdict": "Mixed Tremor (Essential Tremor + Titubation + BG Lacunar Vulnerability + Morning Insulin Adrenergic Dips)",
-                "findings": [
-                    "<strong>Movement Reconciliation (2026-11-03 Note + 2024 2h EEG):</strong> Prior chronic PD/Sinemet prescribing conflicts with Prof. Dr. Galhom's bedside note logging <code>Essential tremor + Titubation</code> (negative lower-limb involvement). Furthermore, <strong>2024-07-17 IMC 2h EEG (9 timestamped epochs, 11:42–13:28)</strong> proves 9 Hz alpha with bilateral fronto-temporal EMG tremor bursts and <strong>zero epileptiform spikes</strong>.",
-                    "<strong>06:00–08:59 AM Holter PVC Cluster:</strong> <code>36.29%</code> of all 857 PVCs (311/857; peaking at 164 PVCs/hr & <code>104 bpm</code> V-run @ 08:00 AM) cluster alongside <code>80 IU/day</code> insulin (Toujeo 30U + Apidra 50U), strongly implicating morning neuroglycopenia & catecholamine surges!",
-                    "<strong>Medication & Hypoglycemia Trap:</strong> Non-selective <code>Inderal 10 mg BID</code> masks insulin hypoglycemia alarms; <code>Angiopress Comp (HCTZ) + Cidamex</code> risks dangerous hypokalemia/PVCs; triple platelet inhibition (<code>Aggrex + Ginkgo + Escitalopram</code>) raises intracerebral/GI bleeding hazard.",
-                    "<strong>Structured Resolution:</strong> Perform supervised off/on <code>Sinemet MDS-UPDRS</code> test + <strong>14-day CGM</strong> + serum <code>K+/Mg2+/eGFR</code> before transitioning to Bisoprolol & high-intensity statin for the <code>5 mm</code> carotid plaque.",
+                "conclusion": "Movement disorder reflects a triple/quadruple overlap reconciling prior Sinemet vs Prof. Galhom's 2026-11-03 log of Essential Tremor + Head Titubation (negative lower limbs): (1) ET-Plus substantiated by 2024 2h EEG (9 epochs showing EMG tremor bursts on normal 9 Hz alpha, zero epilepsy), (2) chronic Rt basal ganglia lacune + frontal CSVD vascular tremor vulnerability, and (3) insulin adrenergic tremors (80 IU/d matching the 06:00–08:59 AM 36.29% Holter PVC surge & 104 bpm V-run). 2011 Leg Doppler confirms no PAD/DVT (perforator incompetence only), contrasting high-risk systemic atherosclerosis now (5 mm bulb plaque, IMT 0.13 cm, CSVD, -2.1 mm ST).",
+                "immediate_action": "Order STAT Labs today (K+, Na+, Mg2+, Ca2+, Cr/eGFR, HbA1c, Fasting Lipids, CBC, TSH, Vit B12), launch a 14-day CGM / 7-pt SMBG targeting 03:00–09:00 AM hypoglycemia, STOP Cetrovit Ginkgo & daily Meclizine immediately, and keep Sinemet unchanged ONLY until formal in-person response testing.",
+                "detailed_plan": [
+                    "<strong>Movement & Tremor Clarification:</strong> Execute off vs 60-min on Sinemet MDS-UPDRS Part III; taper Sinemet slowly over 2–4 wks if response <20–30%. With Cardiology, prefer transition from unmonitored Inderal (which masks hypoglycemia warnings on 80 IU/d insulin) to cardioselective Bisoprolol 2.5–5 mg OD.",
+                    "<strong>High-Risk Vascular Regimen:</strong> Upgrade Zatorva 20 -> Atorvastatin 40–80 mg nocte (LDL <55); keep Aggrex 75–81 mg (+ PPI if dyspeptic); deprescribe Brain-Ox & verify Ciprapra indication; transition Angiopress Comp -> 24h Perindopril/Telmisartan (+/- Amlodipine).",
+                    "<strong>Metabolic & Peripheral Venous Care:</strong> Endocrinology insulin de-escalation (+/- SGLT2i post-eGFR), Mometasone sinus spray, and daytime 15–20 mmHg stockings + ankle pumps once diabetic pedal pulses are verified intact.",
                 ],
-                "tie": "Bridges Neurology, Cardiology, and Endocrinology by showing how 06–09 AM glycemia + K+ status jointly modulate arrhythmia, tremor, and dizziness.",
+                "tie": "Connects morning insulin dips to both adrenergic tremor and the 08:00 AM Holter PVC peak while fixing triple-bleeding & hypokalemic drug hazards.",
             },
             {
                 "id": 4,
                 "role": "Consultant 4 — Senior Consultant in Neurosurgery",
                 "badge": "b-green",
-                "verdict": "No Tumor, Aneurysm, Hydrocephalus, or High-Grade Cognard IIb–IV dAVF — Neurosurgical Intervention Not Indicated",
-                "findings": [
-                    "<strong>Cross-Modal 2024 CT & 2026 MRI Clearance (ROI5b + ROI3):</strong> Zero extra-axial cerebellopontine mass (meningioma/schwannoma excluded), no intracranial aneurysm, Chiari malformation, subdural collection, or hydrocephalus.",
-                    "<strong>Cortical Venous Reflux Exclusion:</strong> Complete absence of engorged pial/cortical veins, medullary venous hypertension, or cerebellar edema confirms zero neurosurgical hemorrhagic emergency.",
-                    "<strong>Validation of Measured Conservative Workup:</strong> Honors Prof. Galhom's appropriate index of suspicion while endorsing non-invasive clearance prior to crossing atheromatous cervical vessels; preserve dominant Right sinus flow completely.",
+                "conclusion": "Zero surgical intracranial tumor, aneurysm, AVM, hydrocephalus, or Chiari compression across MRI/CT/MRA. Coronal MRI (Film10) confirms a completely intact optic chiasm & pituitary stalk, ruling out compressive pituitary/suprasellar tumor as the cause of severe bilateral vision loss. No high-risk cortical venous reflux (Cognard IIb–IV) exists on 513 TOF slices, while -2.1 mm silent ischemia, 4 V-runs, 5 mm Lt Carotid Bulb plaque, and unverified Cr/Metformin make immediate blind DSA neurosurgically unjustifiable.",
+                "immediate_action": "HOLD any neurosurgical craniotomy, mastoid bone resurfacing, or upfront catheter DSA scheduling; enforce bedside selective IJV vs isolated occipital pulse compression + Cr/eGFR + Cardiology review before any invasive step.",
+                "detailed_plan": [
+                    "<strong>Staged Gatekeeper Pathway:</strong> If bedside light anterior IJV compression extinguishes tinnitus & no arterial bruit exists, pursue 4–6 wks medical/sinus/Holter therapy (zero surgery); otherwise order 4D-MRA or 0.5-mm Temporal Bone HRCT + CTA/CTV (post-eGFR >= 45 & 48h Metformin hold).",
+                    "<strong>Narrow Surgical / Endovascular Threshold:</strong> Reserve Onyx/NBCA embolization strictly for confirmed symptomatic dAVF/CVR on gatekeeper imaging or bone reconstruction for sleep-destroying dehiscence.",
+                    "<strong>Non-Negotiable Right Venous Protection:</strong> Because MRV (0.48 ratio) proves the Right Transverse-Sigmoid-IJV carries nearly all brain venous drainage, NEVER sacrifice or compress the Right dural venous system.",
                 ],
-                "tie": "Protects the compensated dominant Right venous drainage while sparing an elderly visually impaired diabetic patient avoidable surgical/invasive risk.",
+                "tie": "Rules out sellar/chiasmal vision compression on MRI Film10 and enforces anatomical preservation of the dominant Right venous sinus.",
             },
             {
                 "id": 5,
-                "role": "Consultant 5 — Neuro-Interventional Radiology (DSA Controversy Resolution)",
+                "role": "Consultant 5 — Neuro-Interventional Radiology (Catheter DSA Arbitration)",
                 "badge": "b-red",
-                "verdict": "DEFER IMMEDIATE CATHETER DSA — Enforce Mandatory 3-Step Non-Invasive Gatekeeper Protocol",
-                "findings": [
-                    "<strong>Left Carotid Bulb Embolic Hazard:</strong> <code>2026-11-07</code> Duplex reveals <code>0.13 cm</code> IMT and a <strong>5 mm atheromatous plaque at the Left Carotid Bulb</strong> directly along the catheter navigation path toward ECA/occipital arteries.",
-                    "<strong>Pending Renal & Myocardial Safety Gates:</strong> Unknown Cr/eGFR while taking Metformin (<code>Gliptus Plus</code>) risks lactic acidosis & CIN, while active <code>-2.1 mm</code> Holter ST ischemia + <code>3.78%</code> AM PVC burden raises intraprocedural cardiac risk.",
-                    "<strong>3-Step Gatekeeper Pathway:</strong> (1) Quiet mastoid auscultation + <em>light anterior IJV vs pinpoint occipital pressure</em> -> (2) Sinus/venous optimization OR <strong>4D-MRA / Temporal Bone HRCT+CTA/CTV</strong> (only after eGFR verification + 48h Metformin hold) -> (3) Conditional DSA strictly if objective shunt evidence persists.",
+                "conclusion": "Resolves the Pro-DSA vs Anti-DSA deadlock cleanly: while 1.5T TOF MRA excludes large/high-flow Cognard IIb–IV dAVF, it cannot definitively dismiss micro-shunt Cognard Type I ECA twigs. However, firm posterior suboccipital compression indiscriminately collapses BOTH the Occipital Artery AND the mastoid emissary/upper IJV. Combined with an attenuated 0.48 left sinus directly beside a flaccid 3.2 cm3 Type Ad left TM amplifying 857 PVCs, crossing a 5 mm Left Carotid Bulb plaque during unscreened DSA amid -2.1 mm silent ischemia & unchecked eGFR/Metformin is unsafe today.",
+                "immediate_action": "Defer elective upfront Catheter DSA; perform quiet mastoid auscultation comparing light unilateral anterior-neck Left IJV pressure (never squeezing the 5 mm carotid bulb plaque!) vs pinpoint Left Occipital Artery pressure 2–3 cm postero-inferior to mastoid tip, and draw Cr/eGFR + K+/Mg2+ + Cardiology eval first.",
+                "detailed_plan": [
+                    "<strong>Step 1 (4–6 Wk Conservative Trial if Venous Pattern):</strong> Normalize nocturnal BP (stop HCTZ/Captopril OD), treat ethmoiditis, control AM PVC surges, and sleep at 30 deg; remission avoids catheter angiography permanently.",
+                    "<strong>Step 2 (Non-Invasive Gatekeeper CTA/4D-MRA):</strong> Triggered ONLY if isolated focal occipital bruit persists or refractory symptoms continue after Step 1 (requiring eGFR >= 45 + 48h Metformin hold + hydration).",
+                    "<strong>Step 3 (Strict Conditional DSA):</strong> Only for positive Step 2 dAVF/CVR or disabling objective bruit, under Cardiology ischemia clearance, anticoagulation, radial/plaque-sparing technique, and 48h Metformin hold.",
                 ],
-                "tie": "Resolves the central clinical disagreement rigorously using quantitative Duplex plaque, Metformin/renal, and Holter ischemia data.",
+                "tie": "Uses Duplex (5 mm bulb plaque), Holter (-2.1 mm ST), and Tymp (3.2 cm3 amplifier) to settle the foremost clinical conflict safely.",
             },
             {
                 "id": 6,
                 "role": "Consultant 6 — ENT, Neurotology & Clinical Audiology",
                 "badge": "b-blue",
-                "verdict": "2026-11-03 Definitive Masked SNHL (0 dB ABG, Rt WRS 84%, Lt WRS 76%) + Extreme Type Ad (3.2 cm3) + 4-Hit Vertigo",
-                "findings": [
-                    "<strong>Definitive Masked Pure-Tone & Speech Baseline (ROI5a):</strong> Masked AC=BC eliminates any conductive gap (<strong>0 dB ABG</strong>): Right <code>20–70 dB</code> (3f PTA <code>40.0 dB</code>, SRT 25 dB, WRS <strong>84%</strong>); Left <code>50–80 dB</code> (3f PTA <code>54.2 dB</code>, SRT 50 dB, WRS <strong>76%</strong>).",
-                    "<strong>Thermal GSI-39 Refutes Handwritten 'Rt As':</strong> Machine printout proves Right Peak <strong>1.5 cm3</strong> @ -5 daPa (Normal/upper-normal Type A, ECV 1.3) and Left Peak <strong>3.2 cm3</strong> exceeding the 3.0 cm3 plot ceiling (Extreme Type Ad, <code>2.13x</code> contralateral compliance, I 1000 Hz NT).",
-                    "<strong>Dual-Acoustic Vascular Hum Mechanism:</strong> Ultra-compliant flaccid monomeric Left TM (<code>3.2 cm3</code>) behaves as an acoustic resonator amplifying venous blood hum from the attenuated <code>0.48</code> sinus + irregular Holter post-PVC stroke surges (NOT ossicular discontinuity, given 0 dB ABG).",
-                    "<strong>Safe Rehabilitation & Blindness VNG Alert:</strong> <strong>STOP Meclizine & Ginkgo</strong>; treat ethmoiditis with Mometasone; adapt VNG (dark positional + calorics ONLY); start non-visual VRT + Bilateral <strong>Open-Fit WDRC RIC (`OSPL90 <= 95–100 dB`)</strong> honoring historical positive Metz recruitment (<code>45 dB SL</code>).",
+                "conclusion": "Definitive Masked PTA (2026-11-03) supersedes 2024 baseline: Pure Bilateral Asymmetric Cochlear SNHL with ZERO Air-Bone Gap (Rt 3f PTA 40.0 dB / WRS 84%; Lt stable 54.2 dB / WRS 76%; historical Metz +45 dB SL). GSI-39 thermal strip exposes a critical clerical error: RIGHT Peak is 1.5 cm3 @ -5 daPa (Normal Type A — refuting handwritten 'Rt As'), while LEFT Peak hits 3.2 cm3 @ 0 daPa (>3.0 cm3 plot ceiling, Extreme Type Ad monomeric drum acting as a low-frequency biological microphone for the 0.48 venous sinus & 857 PVCs). Confirms '4-Hit' Balance Failure worsened by 2026-documented <1/60 blindness and daily Meclizine.",
+                "immediate_action": "STOP daily Meclizine & Cetrovit Ginkgo today; issue a written VNG Lab Safety Mandate warning of <1/60 blindness (CANCEL light-target saccade/pursuit/OPK calibration — run DARK positional & bithermal calorics ONLY); start Mometasone 50 mcg nasal spray (2 puffs qAM) + saline irrigation.",
+                "detailed_plan": [
+                    "<strong>Exact Hearing Loss Prescription (Specific Answer A):</strong> Fit Bilateral Digital Open-Fit Receiver-In-Canal (RIC) Hearing Aids with soft open/vented domes (mandatory binaural spatial cues for <1/60 blindness without trapping internal pulsatile somatosounds) + WDRC compression + hard Left OSPL90 ceiling <= 95–100 dB SPL (Metz protection) + optional bedside sound masking + 30 deg head elevation.",
+                    "<strong>Non-Visual Vestibular Rehabilitation (VRT):</strong> Daily supervised somatosensory/proprioceptive balance physiotherapy, home fall-proofing, podiatry check, and white-cane mobility cues.",
+                    "<strong>Otologic Follow-Up:</strong> Otomicroscopy of the monomeric 3.2 cm3 left TM + Epley maneuver if Dix-Hallpike positive on dark VNG.",
                 ],
-                "tie": "Reconciles handwritten chart errors with primary instrument traces and transforms ENT care safely around legal blindness.",
+                "tie": "Refutes the handwritten 'Rt As' error, integrates July 2026 vision loss into VNG safety, and delivers exact Open-Fit WDRC aid parameters.",
+            },
+            {
+                "id": 7,
+                "role": "Consultant 7 — Ophthalmology (Vitreoretinal & Neuro-Ophthalmology)",
+                "badge": "b-red",
+                "conclusion": "12-year longitudinal reconciliation (2014–2026): Bilateral severe optic/retinal compromise predated vitrectomy (2014 OS RNFL 78.36 -> 2016 71.41 -> 2019 64 um; OD CME/RPE disruption), progressing to bilateral RD surgeries + silicone oil (2019–2021). Current 2026 Topcon (OD clear Qual 10, attached fovea 259 um, profound OD RNFL 40 um [Inf 34 um]; OS Qual 2 prints false 90 um scatter artifact!), Zeiss HFA (VFI 18% 'Not reliable Test'), and CSO ERG/VEP resolve Left Eye Hope (Specific Answer B): functional OS recovery is very unlikely (OS ERG OPs collapsed 0.74 vs 10.0 uV OD; ~7-yr oil removal risks hypotony/re-detachment), YET BILATERAL FLASH VEP REMAINS MEASURABLE (OD 10.29 uV, OS 7.99 uV) alongside normal MRI optic chiasm!",
+                "immediate_action": "Order an urgent Fresh 2026 Bilateral Ocular B-Scan + Applanation IOP + Slit-Lamp/Gonioscopy (last B-Scan on file is May 2021!), do NOT schedule routine OS silicone oil removal without specialist surgical justification, and STRICTLY PROHIBIT systemic Acetazolamide (Cidamex) atop HCTZ/Angiopress Comp (use topical IOP drops ONLY if pressure is raised).",
+                "detailed_plan": [
+                    "<strong>Preserving Measurable Neural Reserve (OD Priority + OS Pressure Shield):</strong> Check & control secondary emulsified silicone oil glaucoma topically; protect fragile 40 um optic nerve head perfusion by keeping systemic BP >= 115/70 mmHg, upgrading statin & eliminating nocturnal 80 IU/d insulin hypoglycemia.",
+                    "<strong>Cross-System Steroid & Cardiac Coupling:</strong> Recheck IOP 4–6 weeks after initiating ENT Mometasone nasal spray; alert neurology that chronic Propranolol can mildly drop IOP whereas stopping HCTZ safely avoids systemic glaucoma diuretic hypokalemia.",
+                    "<strong>Low-Vision & Spatial Rehabilitation:</strong> Focus optical/magnification aids on better-media OD (Qual 10), integrate tactile/talking glucose meters & high-contrast home safety alongside bilateral RIC hearing aids for indoor orientation.",
+                ],
+                "tie": "Eliminates the Topcon Qual 2 '90 um' false reading, proves live VEP transmission (7.99 uV OS), and ties IOP/perfusion safety into ENT, Neurology & Cardiology.",
             },
         ],
         "ar": [
@@ -1094,77 +1323,92 @@ def build_js_data_payload(manifest: dict, quant: dict, file_count: int) -> str:
                 "id": 1,
                 "role": "استشاري 1 — الأشعة التشخيصية للرأس والرقبة والأعصاب",
                 "badge": "b-blue",
-                "verdict": "سيادة وريدية يمينية في MRV (نسبة 0.48)، تصلب شرايين Fazekas 1–2، زيت سيليكون دائم بالعين الشمال منذ 2024، وعدم وجود ناسور عالي التدفق",
-                "findings": [
-                    "<strong>مراجعة الرنين الوريدي <bdi dir='ltr'>MRV (Film06)</bdi>:</strong> ضيق متجانس بالجيب المستعرض والسيني والوريد الوداجي الداخلي الشمال (نسبة القطر <strong>0.48</strong> مقارنة باليمين السائد) مع <strong>انعدام تام لأي جلطة وريدية قحفية</strong>.",
-                    "<strong>مراجعة مقاطع الشرايين الـ 513 (<bdi dir='ltr'>3D-TOF MRA</bdi>):</strong> خلايا النتوء الحلمي مهوّاة وسليمة، دائرة ويليس مفتوحة بالكامل، بدون تغذية شريانية متضخمة أو ارتجاع وريدي قشري (مع الإقرار بعدم قدرة 1.5 تسلا على نفي نواسير Cognard I متناهية الصغر).",
-                    "<strong>إغفال التقرير الرسمي لزيت السيليكون ومقارنة 2024:</strong> التقرير الرسمي لم يذكر السطوع القوي <strong>لزيت السيليكون بالعين الشمال</strong> (نسبة إشارة <strong>2.59 ضعف</strong> للعين اليمنى)، وهو مثبت في مقطعية الزهور <bdi dir='ltr'>2024-07-27</bdi> مع ضمور العصبين البصريين.",
-                    "<strong>قنوات السمع والجيوب الأنفية (<bdi dir='ltr'>ROI2</bdi>):</strong> سلامة قنوات السمع الداخلية والأعصاب السابع والثامن بالجهتين (استبعاد ورم العصب السمعي) مع التهاب مخاطي ثنائي بالجيوب الغربالية.",
+                "conclusion": "التصريف الوريدي للمخ معتمد على الجانب الأيمن مع ضمور خلقي بالجيب الوريدي المستعرض والسيني والوداجي الشمال (نسبة L/R = 0.48 في Film06) بلا أي جلطات وريدية؛ وشرايين دائرة ويليس وقنوات السمع والتصالب البصري سليمة تماماً. نسيج المخ يظهر تصلب شعيرات دقيقة (CSVD 1–2) وجلطة فجوية قديمة بالعقد القاعدية اليمين (DWI سلبي للجلطات الحادة؛ ومطابق لمقطعية 2024) والتهاب جيوب غربالية ثنائي. رصد بالرنين إغفال تقرير Rology لزيت السيليكون البارز بالعين الشمال (2.59x إضاءة) وضمور العصب البصري، متطابقاً مع سونار 2019–2021 وتوبكون 2026 (يمين جودة 10، 40 µm).",
+                "immediate_action": "عدم إجراء قسطرة مخية (DSA) أو أشعة بالصبغة فوراً اليوم؛ يجب أولاً قياس الكرياتينين/eGFR وتجهيز إيقاف الميتفورمين 48 ساعة، أخذ موافقة القلب (-2.1 مم ST و857 PVC)، إجراء اختبار الضغط الأمامي اللطيف للوريد مقابل القذالي بالسماعة، وإرفاق ملحق رسمي يوثق زيت السيليكون بالشمال وضمور العصب البصري.",
+                "detailed_plan": [
+                    "<strong>بروتوكول البوابة غير التداخلي (عند الاشتباه الشرياني أو استمرار الطنين بعد 4–6 أسابيع):</strong> طلب أشعة مقطعية عالية الدقة لعظمة الأذن HRCT 0.5mm + CTA/CTV بالصبغة أو رنين ديناميكي 4D-MRA بشرط eGFR >= 45 ووقف الميتفورمين 48 ساعة؛ لتأكيد أو نفي التآكل العظمي والناسور البطيء بنسبة 90–95% دون لمس بلاك السباتي الـ 5 مم.",
+                    "<strong>متابعة العين بدون إشعاع إضافي:</strong> لا حاجة لإعادة رنين الحجاج لأن Film08 ومقطعية 2024 يثبتان وجود السيليكون؛ يُستبدل بسونار B-Scan 2026 للعينين.",
+                    "<strong>الجيوب ومتابعة البلاك:</strong> علاج التهاب الجيوب الغربالية بموميتازون ومحلول ملح، ومتابعة بلاك السباتي الـ 5 مم بدوبلر سنوي مع ستاتين عالي الكثافة.",
                 ],
-                "tie": "يربط تشريحياً بين ضيق الوريد الأيسر والتهاب الجيوب الأنفية وأعراض الأذن مع توثيق قِدم إصابة العين الشمال.",
+                "tie": "يربط ضيق الجيب الوريدي 0.48 باندفاعات نبض الهولتر والطبلية 3.2 سم³، ويوحد قراءات الرنين والمقطعية وأشعة العيون.",
             },
             {
                 "id": 2,
                 "role": "استشاري 2 — التصلب المتعدد (MS) وأمراض المادة البيضاء",
                 "badge": "b-green",
-                "verdict": "استبعاد التصلب المتعدد (MS) والتهاب الأوعية المناعي تماماً — التغيرات ناتجة عن تصلب الشرايين الدقيقة (CSVD) المرتبط بالضغط والسكر والقلب",
-                "findings": [
-                    "<strong>سلبية معايير ماكدونالد 2017:</strong> البؤر النقطية والخطوط الرقيقة حول البطينات لا تملك شكل 'أصابع داوسون' العمودية ولا تصيب الجسم الثفني أو المخيخ أو جذع المخ أو الألياف القشرية.",
-                    "<strong>براءة مجالات الانتشار <bdi dir='ltr'>DWI/ADC</bdi>:</strong> غياب تام لأي جلطة دماغية حادة حالياً، بينما البؤر الموجودة تمثل جلطات لاكونار قديمة مستقرة في العقد القاعدية اليمين والفصين الجبهي الشمال والجداري اليمين.",
-                    "<strong>الارتباط الوثيق مع الهولتر والسباتي:</strong> هبوط التروية التاجية بالهولتر (<code>-2.1 مم</code>) مع الطفرة الصباحية للخفقات وزيادة سمك جدار الشريان السباتي (<code>0.13 سم</code>) يفسران إجهاد التروية الدقيقة للمخ وتكرار الدوار.",
-                    "<strong>لا حاجة لبذل النخاع:</strong> كف البصر (&lt; 1/60) سببه انفصال شبكي وزيت سيليكون وضمور عصب قديم وليس التهاب عصب بصري مناعي؛ <strong>يُمنع إجراء بذل ظهر أو فحوصات MS</strong>.",
+                "conclusion": "نفي قاطع للتصلب المتعدد (MS) وNMOSD والتهاب الأوعية (سلبية معايير ماكدونالد 2017: صفر أصابع داوسون، سلامة الجسم الجاسي والمخيخ وجذع المخ، وسلبية DWI). البؤر البيضاء تمثل Strictly تصلب شرايين مخية دقيقة (CSVD Fazekas 1–2) وجلطات فجوية قديمة. والأهم أن تخطيط الشبكية الكهربائي CSO في يوليو 2026 (انهيار OPs الشمال إلى 0.74 مقابل 10.0 µV يمين) وتاريخ 2014–2021 يثبتان أن ضمور العصب البصري وعائي/شبكي/مرتفع الضغط وليس التهاباً مناعياً تبع MS!",
+                "immediate_action": "طمأنة المريضة والأسرة بأنها غير مصابة بالـ MS؛ وإلغاء البزل القطني (CSF)، وتحاليل AQP4/MOG، أو أخذ كورتيزون وريدي أو أدوية مناعية (ضارة وغير مبررة مع 80 وحدة أنسولين). توجيه الجهود فوراً لضبط الشرايين الدقيقة.",
+                "detailed_plan": [
+                    "<strong>علاج جذري لتصلب المادة البيضاء CSVD:</strong> ضبط السكر التراكمي بدون نوبات هبوط صباحية، ضبط الضغط بسلاسة على مدار 24 ساعة (125–135/75–80 مم زئبق دون هبوط ليلي <115)، ستاتين عالي الجرعة (LDL <55)، وأسبرين 75–81 مجم يومياً منفرداً.",
+                    "<strong>حماية التروية المخية-القلبية:</strong> علاج القصور التاجي الصامت (-2.1 مم) والـ 857 PVC لمنع تذبذب التروية المتكرر للمادة البيضاء.",
+                    "<strong>متابعة الأشعة المنطقية:</strong> رنين مخ عادي بدون صبغة فقط بعد 12–18 شهراً أو عند حدوث عرض عصبي بؤري جديد.",
                 ],
-                "tie": "يجنّب المريضة فحوصات مناعية مكلفة ومؤلمة ويركز الجهد الطبي على ضبط الضغط والسكر ومضادات تصلب الشرايين.",
+                "tie": "يحمي المريضة من بزل النخاع والكورتيزون ويربط CSVD وضعف القوقعة والقلب والشبكية في خط وعائي ميكروسكوبي واحد.",
             },
             {
                 "id": 3,
                 "role": "استشاري 3 — الباطنة العصبية والأوعية الدموية واضطرابات الحركة",
                 "badge": "b-amber",
-                "verdict": "رعشة مختلطة (رعشة أساسية + رعشة رأس + قابلية العقد القاعدية + اندفاع أدرينالين صامت مع الأنسولين الصباحي)",
-                "findings": [
-                    "<strong>حل تعارض الشلل الرعاش والصرع:</strong> فحص أ.د. جلهوم سجّل بوضوح <code>Essential tremor + Titubation</code> (مع سلامة الطرفين السفليين) على عكس صرف <code>Sinemet</code> السابق؛ كما أن <strong>تخطيط المخ المطول 2024 (9 مقاطع، ساعتان)</strong> أثبت إيقاع ألفا 9 هيرتز وذبذبات عضلية للرعشة فقط مع خلو تام من الصرع.",
-                    "<strong>لغز الطفرة الصباحية بالهولتر (6–9 صباحاً):</strong> تركز <strong>36.29% من جميع خفقات اليوم</strong> (311 من 857، بذروة 164 خفقة/ساعة وتسارع 104 ن/د الساعة 08:00 ص) يتزامن مع جرعة أنسولين يومية كبيرة (80 وحدة: توجيو 30 + أبيدرا 50)، مما يشير بقوة لنوبات هبوط سكر صامت وتحفيز أدرينالين!",
-                    "<strong>تداخلات الأدوية المهددة للحياة:</strong> دواء الضغط <code>Angiopress Comp</code> يحمل الثيازيد المستنزف للبوتاسيوم، وإضافة <code>Cidamex</code> تضاعف خطر الخفقات البطينية؛ ودواء <code>Inderal</code> يخفي تسارع القلب ورعشة إنذار هبوط السكر؛ وجمع <code>Aggrex + Ginkgo + Ciprapra</code> يضاعف خطر النزيف.",
-                    "<strong>خطة التحقق:</strong> عمل اختبار <code>MDS-UPDRS</code> مع وبدون <code>Sinemet</code> + تركيب سنسور سكر <code>CGM</code> لمدة 14 يوماً + تحاليل الكهارل والكلى.",
+                "conclusion": "الاضطراب الحركي مزيج ثلاثي/رباعي يفسر تضارب السينيمت أمام فحص أ.د. جلهوم (Essential Tremor + Titubation وسلبية الساقين): (1) رعشة أساس مؤكدة بتخطيط مخ 2024 (9 مقاطع: ذبذبات EMG عضلية على خلفية ألفا 9 هيرتز بلا صرع)، (2) قابلية رعشة/تيبّس وعائي من جلطة العقد القاعدية اليمين وCSVD، و(3) رعشة هبوط سكر أدرينالية من 80 وحدة أنسولين متزامنة مع فورة الـ PVCs الصباحية (36.29% بين 6 و9 صباحاً مع نوبة 104 ن/د). كما يثبت دوبلر الساق 2011 خلوها من PAD/DVT تاريخياً مقابل تصلب شرايين جهازي عالي الخطورة الآن (بلاك 5 مم، IMT 0.13 سم، -2.1 مم ST).",
+                "immediate_action": "طلب تحاليل اليوم فوراً (K+, Na+, Mg2+, Ca2+, Cr/eGFR, HbA1c، دهون، صورة دم، غدة TSH، B12)، تركيب سنسور سكر CGM 14 يوماً أو قياس 7 مرات مع التركيز على 3–9 صباحاً، وقف Cetrovit Ginkgo وMeclizine فوراً، وعدم قطع Sinemet فجأة قبل فحص الاستجابة.",
+                "detailed_plan": [
+                    "<strong>حسم نوع الرعشة والأدوية:</strong> إجراء فحص MDS-UPDRS مع وبدون سينيمت (سحبه تدريجياً خلال 2–4 أسابيع إن كان التحسن <20–30%). التنسيق مع القلب للتحويل من Inderal (الذي يخفي أعراض هبوط السكر!) إلى Bisoprolol 2.5–5 mg يومياً إذا سمحت الرعشة.",
+                    "<strong>تطوير الوقاية الوعائية:</strong> رفع Zatorva 20 -> Atorvastatin 40–80 mg ليلاً (هدف LDL <55)؛ استمرار Aggrex 75–81 mg؛ مراجعة Brain-Ox وCiprapra؛ استبدال Angiopress Comp بدواء طويل المفعول (Perindopril/Telmisartan +/- Amlodipine).",
+                    "<strong>الأيض والجيوب والأوردة:</strong> مراجعة جرعة الأنسولين (+/- SGLT2i بعد فحص الكلى) + بخاخ موميتازون؛ جوارب ضاغطة خفيفة 15–20 مم زئبق نهاراً فقط بعد فحص نبض القدم السكري.",
                 ],
-                "tie": "يربط بين السكر والغدد والقلب لتفسير ذروة الأعراض في ساعات الصباح الأولى وتصحيح خطة الأدوية الخطرة.",
+                "tie": "يفسر ذروة الخفقات والرجفة الصباحية بهبوط السكر الأدرينالي ويحسم تفاعلات النزيف ونقص البوتاسيوم.",
             },
             {
                 "id": 4,
                 "role": "استشاري 4 — جراحة المخ والأعصاب",
                 "badge": "b-green",
-                "verdict": "لا أورام أو تمددات شريانية أو استسقاء أو ارتجاع وريدي قشري عالي الخطورة (Cognard IIb–IV) — لا تدخل جراحياً أو قسطرة مستعجلة",
-                "findings": [
-                    "<strong>السلامة البنيوية في 2024 و2026 (<bdi dir='ltr'>ROI5b + ROI3</bdi>):</strong> خلو زاوية المخيخ والجسر وقنوات السمع من أي أورام، وانعدام التمددات الشريانية أو الاستسقاء الدماغي أو النزيف.",
-                    "<strong>نفي الارتجاع الوريدي القشري الخطر:</strong> عدم وجود أوردة قشرية متضخمة أو احتقان وريدي بالمخيخ ينفي أي طوارئ نزفية جراحية.",
-                    "<strong>احترام التفكير التشخيصي والحفاظ على السريان السائد:</strong> تقدير حذر د. جلهوم السريري مع تأكيد أولوية الفرز الآمن غير التدخلي وحماية الوريد الأيمن السائد بالكامل.",
+                "conclusion": "انعدام تام لأي ورم بالمخ أو زاوية المخيخ والجسر أو تمدد شرياني أو استسقاء. والأهم أن المقطع الإكليلي Film10 أثبت سلامة التصالب البصري والغدة النخامية تماماً، مما ينفي وجود ورم ضاغط على العصب البصري كسبب لكف البصر. كما تنفي شرائح TOF أي ارتجاع وريدي قشري خطير (Cognard IIb–IV)، وفي وجود قصور تاجي -2.1 مم وبلاك سباتي 5 مم وغياب فحص الكلى تصبح القسطرة المباشرة أو أي جراحة غير مبررة الآن.",
+                "immediate_action": "عدم تحديد موعد لأي جراحة جمجمة أو ترقيع عظمي أو قسطرة مخية DSA فورية؛ البدء باختبار الضغط الانتقائي بالسماعة وفحص الكلى ومراجعة القلب أولاً.",
+                "detailed_plan": [
+                    "<strong>خوارزمية الفرز المتدرجة:</strong> إذا ثبت الطنين الوريدي بالضغط اللطيف دون لغط شرياني وتحسن بالعلاج الدوائي 4–6 أسابيع -> لا جراحة ولا قسطرة نهائياً؛ وبخلاف ذلك يُجرى 4D-MRA أو مقطعية عالية الدقة بالصبغة بعد التأكد من الكلى ووقف الميتفورمين 48 ساعة.",
+                    "<strong>مؤشرات التدخل الضيقة:</strong> قصر القسطرة العلاجية على ثبوت ناسور حقيقي وارتجاع وريدي خطير، أو الترميم الجراحي على التآكل العظمي المدمر للنوم.",
+                    "<strong>ميثاق الأمان الوريدي المطلق:</strong> نظراً لضيق الجيب الشمال (0.48) واعتماد تصريف المخ على الجيب الوريدي الأيمن السائد، يُمنع منعاً باتاً إغلاق أو التضحية بأي وريد جيب أيمن مستقبلاً.",
                 ],
-                "tie": "يؤكد أن الجيب الوريدي الأيمن يعوض تصريف المخ بكفاءة وأن المريضة ليست في خطر جراحي عاجل.",
+                "tie": "ينفي ضغط الأورام على التصالب البصري ويفرض حماية كاملة لمسار تصريف الدم الوريدي الأيمن السائد.",
             },
             {
                 "id": 5,
                 "role": "استشاري 5 — القسطرة المخية والأشعة التداخلية (حسم جدل الـ DSA)",
                 "badge": "b-red",
-                "verdict": "تأجيل القسطرة المخية التشخيصية (DSA) فوراً — تطبيق بروتوكول الفرز الثلاثي غير التدخلي الإجباري أولاً",
-                "findings": [
-                    "<strong>خطورة البلاك السباتي في مسار القسطرة:</strong> أثبت الدوبلكس (2026-11-07) سماكة جدار 0.13 سم و<strong>بلاك متصلباً بطول 5 مم في عنق الشريان السباتي الشمال</strong> في الطريق المباشر للقسطرة نحو السباتي الخارجي.",
-                    "<strong>بوابات الأمان الكلوية والقلبية غير المكتملة:</strong> عدم قياس وظائف الكلى (eGFR) مع استخدام الميتفورمين يحمل خطر الحماض اللاكتيكي بالصبغة، بينما هبوط تروية <code>-2.1 مم</code> بالهولتر يرفع خطورة القسطرة.",
-                    "<strong>الفرز الثلاثي الآمن:</strong> (1) تسمّع بالسماعة خلف الأذن مع <em>مقارنة الضغط الأمامي اللطيف على الوريد الوداجي بالضغط النقطي الدقيق على الشريان القذالي</em> -> (2) علاج الجيوب الأنفية، أو طلب <strong>رنين ديناميكي 4D-MRA / مقطعية بالصبغة لعظمة الأذن</strong> بعد فحص الكلى وإيقاف الميتفورمين 48 ساعة -> (3) القسطرة فقط إن ثبت ناسور مؤكداً.",
+                "conclusion": "حسم التضارب بين طلب DSA ورفضها: رنين 1.5T TOF ينفي الناسور عالي التدفق Cognard IIb–IV لكنه لا يستبعد 100% ناصوراً دقيقاً بطيئاً من الشريان القذالي؛ ومع ذلك فإن الضغط القوي خلف الأذن يكتم الشريان القذالي والوريد الوداجي معاً! ومع تضخيم الطبلية 3.2 سم³ لاندفاعات 857 PVC عبر جيب وريدي ضيق 0.48، فإن تمرير قسطرة بجانب بلاك 5 مم في عنق السباتي الشمال مع -2.1 مم ST وعدم فحص الكلى/الميتفورمين يحمل خطراً غير مقبول حالياً.",
+                "immediate_action": "تأجيل القسطرة المخية التشخيصية (DSA)؛ إجراء تسمع هادئ بالسماعة خلف الأذن ومقارنة ضغط أمامي رقيق بإصبع على الوريد الوداجي الشمال (دون عصر بلاك السباتي الـ 5 مم!) مقابل ضغط نقطي 2–3 سم خلف وتحت الماستويد على الشريان القذالي، مع تحليل الكلى والقلب أولاً.",
+                "detailed_plan": [
+                    "<strong>الخطوة 1 (تجربة علاجية 4–6 أسابيع للنمط الوريدي):</strong> تنظيم الضغط الليلي (وقف الثيازيد)، علاج الجيوب الغربالية، تهدئة الـ PVCs الصباحية، ورفع الرأس 30 درجة؛ الاستجابة تلغي القسطرة للأبد.",
+                    "<strong>الخطوة 2 (بوابة التصوير غير التداخلي):</strong> فقط عند استمرار لغط شرياني نقطي قذالي أو فشل الخطوة 1 -> عمل 4D-MRA أو HRCT + CTA/CTV بشرط eGFR >= 45 ووقف الميتفورمين 48 ساعة.",
+                    "<strong>الخطوة 3 (قسطرة DSA مشروطة):</strong> حصراً إذا أثبت الفحص الديناميكي ناصوراً أو تباطؤاً خطيراً، وبعد موافقة القلب والوصول بحذر بعيداً عن بلاك الـ 5 مم.",
                 ],
-                "tie": "يحسم الخلاف الاستشاري الرئيسي بأرقام موضوعية من الدوبلكس والهولتر لحماية المريضة من جلطة أو مضاعفات كلوية.",
+                "tie": "يحسم الجدال الأهم بالدليل الكمي من دوبلر السباتي (5 مم) والهولتر (-2.1 مم) والطبلية (3.2 سم³).",
             },
             {
                 "id": 6,
                 "role": "استشاري 6 — أمراض الأذن والاتزان والسمعيات الإكلينيكية",
                 "badge": "b-blue",
-                "verdict": "توثيق 2026-11-03: ضعف سمع قوقعي مستقر (0 dB فجوة، تمييز 84%/76%) + طبلية شمال مرنة جداً 3.2 سم³ + فشل اتزان رباعي",
-                "findings": [
-                    "<strong>اعتماد التخطيط المقنع الحديث (<bdi dir='ltr'>ROI5a</bdi>):</strong> قياس العصب والهواء بقناع عكسي يثبت <strong>0 dB ABG</strong> بالجهتين (يمين: عتبة 40 dB وتمييز كلام <strong>84%</strong>؛ شمال: عتبة 54.2 dB وتمييز كلام <strong>76%</strong>).",
-                    "<strong>الطابعة الحرارية <bdi dir='ltr'>GSI-39</bdi> تكذب ملاحظة 'Rt As':</strong> قراءة الجهاز المطبوعة تُظهر اليمين بقمة <strong>1.5 سم³</strong> عند -5 daPa (طبيعي Type A)، بينما الشمال <strong>3.2 سم³</strong> يتعدى سقف الورقة (مرونة مفرطة Type Ad بمقدار 2.13 ضعف اليمين، المنعكس NT).",
-                    "<strong>مكبر صوت بيولوجي للنبض الوريدي والقلبي:</strong> مرونة الطبلية الشمال الملتئمة الرقيقة (3.2 سم³) تكبّر سماع تدفق الجيب الوريدي الضيق (0.48) واندفاعات ما بعد الخفقات القلبية بدون أن تكون انفصالاً عظمياً لغياب الفجوة التوصيلية تماماً.",
-                    "<strong>بروتوكول الأمان السمعي والاتزان:</strong> <strong>وقف ميكليزين وجينكو فوراً</strong>، بخاخ الموميتازون للجيوب الغربالية، فحص VNG <strong>بالظلام فقط</strong>، تأهيل اتزان لا بصري، وسماعتان <strong>Open-Fit WDRC RIC</strong> بحد أقصى <code>&lt;= 95–100 dB SPL</code> باليسرى لحساسية Metz (+45 dB SL).",
+                "conclusion": "سمعيات 03-11-2026 المقنعة تحل محل 2024: ضعف سمع قوقعي نقي بالجهتين مع 0 dB فجوة (يمين 40.0 dB / تمييز 84%؛ شمال مستقر 54.2 dB / تمييز 76% مع حساسية Metz +45 dB SL). شريط الطبلية GSI-39 كشف خطأ خط اليد 'Rt As': اليمين 1.5 سم³ Type A طبيعية تماماً، بينما الشمال 3.2 سم³ Type Ad متطرف فوق سقف الورقة يعمل كمضخم ميكانيكي لصوت الجيب الضيق (0.48) واندفاعات 857 PVC. كما يؤكد فشل الاتزان الرباعي المفاقم بفقدان البصر &lt;1/60 ودواء Meclizine.",
+                "immediate_action": "وقف Meclizine وCetrovit Ginkgo اليوم فوراً؛ إرسال تنبيه مكتوب لمعمل الـ VNG بشأن فقدان البصر (&lt; 1/60) لإلغاء تتبع الضوء والاكتفاء بالوضعيات والحراري في الضلمة فقط؛ وبدء بخاخ Mometasone 50 mcg + محلول ملح للجيوب.",
+                "detailed_plan": [
+                    "<strong>بروتوكول السماعات الدقيق (إجابة سؤال السمع):</strong> تركيب سماعتين رقميتين Open-Fit RIC بقبة مفتوحة مهواة (لحماية الإدراك المكاني في كف البصر دون سد القناة وحبس الطنين) مع ضغط WDRC وسقف خرج حاد OSPL90 &lt;= 95–100 dB SPL للأذن اليسرى احتراماً لحساسية Metz + برنامج مهدئ طنين + رفع الرأس 30 درجة.",
+                    "<strong>تأهيل الاتزان غير البصري (VRT):</strong> جلسات علاج طبيعي حسية-عضلية بالاعتماد على الأرضية والكاحل وتأمين المنزل من السقوط والعناية بقدمي السكري.",
+                    "<strong>متابعة الأذن:</strong> فحص الطبلية المترققة بالميكروسكوب وإجراء مناورة Epley إن ثبت BPPV في الـ VNG بالضلمة.",
                 ],
-                "tie": "يصحح خطأً كتابياً في ملف السمع، ويفسر الطنين فيزيائياً بدقة، ويحول رعاية الأذن لتتوافق مع كف البصر والقلب.",
+                "tie": "يصحح خطأ الطبلية اليمين، يحمي فحص الـ VNG من خطأ الإبصار، ويصف أدق سماعة تناسب الطنين وMetz وكف البصر.",
+            },
+            {
+                "id": 7,
+                "role": "استشاري 7 — طب وجراحة العيون (الشبكية والجسم الزجاجي وأعصاب العين)",
+                "badge": "b-red",
+                "conclusion": "مصالحة سجل 12 سنة (2014–2026): بدأ ضمور العصب والتلف الشبكي قبل عمليات الانفصال (2014 شمل RNFL 78.36 -> 2016 71.41 -> 2019 64 µm وارتشاح ماكولة اليمين) وصولاً لجراحات السيليكون بالعينين 2019–2021. فحوصات 2026 الحالية (التوبكون: يمين صافية جودة 10، شبكية مثبتة 259 µm، وضمور عصب شديد 40 µm؛ بينما الشمال جودة 2 تطبع رقم 90 µm كاذب بسبب السيليكون!) ومجال HFA 18% ('غير موثوق') ورسم CSO تحسم سؤال الأمل بالعين الشمال: استعادة القراءة بالشمال مستبعد جداً (انهيار OPs لـ 0.74 مقابل 10.0 µV يمين، ومخاطر إزالة السيليكون بعد ~7 سنوات عالية)، لكن إشارة العصب لمركز الإبصار في المخ ما زالت حية (Flash VEP الشمال 7.99 µV واليمين 10.29 µV) مع تصالب بصري سليم!",
+                "immediate_action": "طلب سونار B-Scan 2026 حديث للعينين + قياس ضغط العين بالمستوى المسطح + فحص الزاوية فوراً (آخر سونار بالملف مايو 2021!)، وعدم تحديد موعد روتيني لإزالة زيت السيليكون الشمال دون فحص تخصصي دقيق، وحظر Cidamex الفموي نهائياً مع الثيازيد (قطرات موضعية فقط إذا ارتفع الضغط).",
+                "detailed_plan": [
+                    "<strong>حماية الرصيد العصبي المتبقي (أولوية اليمين + أمان الشمال):</strong> الكشف المبكر وعلاج ارتفاع ضغط السيليكون المتسحلب بالقطرات الموضعية عند اللزوم؛ الحفاظ على ضغط الدم &gt;= 115/70 وضبط السكر دون هبوط ليلي لحماية العصب البصري الضامر 40 µm بالعين اليمنى.",
+                    "<strong>ربط الأدوية الأنفية والعامة بالعين:</strong> إعادة فحص ضغط العين بعد 4–6 أسابيع من بخاخ Mometasone، وحماية كهرباء القلب بمنع الأسيتازولاميد الفموي مع الثيازيد.",
+                    "<strong>تأهيل ضعف البصر والتوجيه المكاني:</strong> تركيز المعينات البصرية على العين اليمنى الصافية (Qual 10) مع أجهزة قياس سكر ناطقة وتنسيق المكفوفين بالتكامل مع سماعتي Open-Fit RIC.",
+                ],
+                "tie": "يفند قراءة التوبكون الكاذبة (90 µm)، يثبت بقاء توصيل العصب البصري بـ VEP، ويمنع كارثة Cidamex القلبي الكلوي.",
             },
         ],
     }
@@ -1172,153 +1416,226 @@ def build_js_data_payload(manifest: dict, quant: dict, file_count: int) -> str:
     dilemmas = {
         "en": [
             {
-                "title": "1. Left Pulsatile Tinnitus & Catheter DSA Controversy",
-                "left_lbl": "Clinical Conflict: Pro-DSA vs Anti-DSA & Neck Pressure",
-                "left": "Prof. Galhom questioned an occult low-flow occipital Cognard I dAVF (triggered by posterior neck pressure stopping the sound), whereas Neuro-Intervention cited normal MRA, MRV asymmetry, and vascular risk. Crucially, deep posterior neck pressure compresses BOTH IJV and Occipital Artery.",
-                "right_lbl": "MDT Board Consensus & Pathophysiology",
-                "right": "<strong>DEFER DSA.</strong> Likely venous hum from attenuated Lt TS/Sigmoid/IJV (<code>L/R 0.48</code>) amplified acoustically by the <strong>3.2 cm3 Extreme Type Ad Lt TM</strong> + nocturnal supine CVP surge &amp; Holter <code>3.78%</code> AM PVC pauses. Apply the <strong>3-Step Gatekeeper</strong> (light anterior IJV vs pinpoint occipital -> 4D-MRA / CTA after eGFR &amp; 48h Metformin hold -> DSA only if positive) to protect the <strong>5 mm Lt carotid bulb plaque</strong>.",
+                "title": "1. Left Pulsatile Tinnitus & Catheter Angiography (DSA) Deferral",
+                "left_lbl": "Clinical Conflict: Pro-DSA (Galhom) vs Anti-DSA (IR) + Neck Pressure",
+                "left": "Prof. Galhom raised Cognard Type I occipital dAVF after firm posterior neck pressure silenced tinnitus, while External IR rejected DSA based on normal 3D-TOF MRA. Neither resolved the nocturnal throbbing or checked underlying procedural risk.",
+                "right_lbl": "MDT Board Consensus: Acoustic Amplifier + 3-Step Gatekeeper Shield",
+                "right": "Firm posterior pressure collapses BOTH Occipital Artery and IJV/emissary veins simultaneously! Paired with MRV Left attenuation (L/R 0.48), Holter post-PVC stroke surges (857 PVCs), and a 3.2 cm3 Type Ad left eardrum amplifier, immediate DSA across a 5 mm Left Carotid Bulb plaque + -2.1 mm ST ischemia + unscreened Metformin/eGFR is contraindicated. Enforce: (1) light anterior IJV vs pinpoint occipital compression + auscultation -> (2) medical/sinus/BP fix -> (3) conditional 4D-MRA / HRCT+CTA after eGFR clearance.",
             },
             {
-                "title": "2. White Matter Foci, 2024 2h EEG & Mixed Tremor Conflict",
-                "left_lbl": "Diagnostic Conflict: MS? Parkinson's? Epilepsy?",
-                "left": "Official MRI queried demyelinating white matter lesions; legacy notes listed Parkinson's disease (<code>Sinemet</code>); IMC ordered a 2024 CT/2h EEG for tremors; and Prof. Galhom documented <code>Essential tremor + Titubation</code> (negative lower-limb involvement).",
-                "right_lbl": "MDT Board Consensus & Pathophysiology",
-                "right": "<strong>MS &amp; Epilepsy EXCLUDED.</strong> 2026 MRI proves hypertensive-diabetic <strong>CSVD Fazekas 1–2</strong> + Rt BG lacune; <code>2024-07-17 2h EEG (9 epochs)</code> shows normal 9 Hz alpha + benign EMG tremor bursts only (0 spikes). Tremor is <strong>mixed</strong> (ET + titubation + BG vascular + <code>80 IU/d</code> insulin dips driving <code>36.29%</code> AM PVCs). Run supervised <strong>off/on Sinemet MDS-UPDRS</strong> + <strong>14-day CGM</strong>.",
+                "title": "2. White Matter & Movement: CSVD vs MS; ET-Plus vs Vascular PD vs Insulin Dips",
+                "left_lbl": "Prior Uncertainty: MS Fears, Unproven Sinemet & Epileptic Tremor Fears",
+                "left": "White-matter T2 lesions prompted MS fears, chronic Sinemet conflicted with documented 'Essential tremor + Titubation', and morning shakiness went unmeasured.",
+                "right_lbl": "MDT Board Consensus: CSVD Proven, MS/Epilepsy Excluded, CGM + UPDRS Needed",
+                "right": "Zero McDonald 2017 Dawson fingers + clean corpus callosum/brainstem + July 2026 ERG retinopathy collapse (0.74 uV OPs) prove optic atrophy and brain spots are diabetic-hypertensive CSVD (Fazekas 1–2) + chronic Rt BG lacune, NOT MS (do NOT do LP!). 2024 2h EEG proves 9 Hz alpha + EMG tremor only (ZERO epilepsy). Audit 80 IU/d insulin for AM hypoglycemia fueling ET-Plus & the 06–09 AM 36.29% PVC surge via 14-day CGM, and test Sinemet via off/on MDS-UPDRS.",
             },
             {
-                "title": "3. Disabling '4-Hit' Multi-Sensory Vertigo & Visual VNG Trap",
-                "left_lbl": "Safety Trap: Routine Light-Tracked VNG & Chronic Meclizine",
-                "left": "Routine VNG was requested alongside daily <code>Meclizine</code> x1 month despite undisclosed MOH 2021 bilateral legal blindness (<code>&lt; 1/60</code> better eye) and persistent <code>2.59x</code> Lt intraocular silicone oil.",
-                "right_lbl": "MDT Board Consensus & Pathophysiology",
-                "right": "<strong>'4-Hit' Vestibular Failure:</strong> Hit 1 (Lt inner-ear ischemia) + Hit 2 (<strong>&lt;1/60 legal blindness</strong> stripping ~95% visual stabilization) + Hit 3 (CSVD + diabetic neuropathy + chronic <strong>Meclizine</strong> suppression) + Hit 4 (PVCs / <code>-2.1 mm ST</code> / glycemic dips). <strong>STOP Meclizine</strong>; issue written notice for <strong>dark positional + calorics VNG ONLY</strong>; start non-visual somatosensory VRT.",
+                "title": "3. '4-Hit' Multi-Sensory Vertigo, Bilateral Blindness & VNG Calibration Mandate",
+                "left_lbl": "Hidden Risk: Standard Optical VNG Ordered + Chronic Meclizine Sedation",
+                "left": "Routine VNG was requested without warning of legal blindness (<1/60), alongside 1-month daily Meclizine + Vincamine (Brain-Ox) suppressing CNS compensation and risk of falls.",
+                "right_lbl": "MDT Board Consensus: Adapted Dark VNG + STOP Meclizine + Non-Visual VRT",
+                "right": "2021 MOH blindness + 2026 Topcon 40 um / ERG collapse remove ~95% visual balance backup aboard left peripheral vestibulopathy, CSVD/neuropathy, and Holter dips. STOP Meclizine & Brain-Ox immediately; mandate Dark-Only Positional & Bithermal Caloric VNG (CANCEL saccades/pursuit/OPK); institute somatosensory non-visual physiotherapy + home fall-proofing.",
             },
             {
-                "title": "4. Definitive 2026-11-03 Auditory & 'Rt As' Tympanometry Paradox",
-                "left_lbl": "Instrument Paradox: Handwritten 'Rt As' Note vs GSI-39 Printout",
-                "left": "2026-11-03 audiogram bears handwritten chart note <code>'Rt As'</code> while GSI-39 thermal trace prints <code>Rt 1.5 cm3</code> &amp; <code>Lt 3.2 cm3</code> (&gt;3.0 graph ceiling), alongside historical high-level pain sensitivity.",
-                "right_lbl": "MDT Board Consensus & Pathophysiology",
-                "right": "<strong>Primary GSI-39 Thermal Trace Governs:</strong> Rt peak is <strong>1.5 cm3 Normal Type A</strong> (refuting 'Rt As'; ECV 1.3), and Lt is <strong>3.2 cm3 Extreme Type Ad</strong> with <strong>0 dB ABG</strong> (monomeric healed drum amplifying venous/cardiac pulsatility, NOT ossicular disruption!). Pure cochlear SNHL (Rt WRS <code>84%</code>, Lt WRS <code>76%</code>) + historical Metz <code>+45 dB SL</code> demands <strong>Bilateral Open-Fit WDRC RIC (`OSPL90 &lt;= 95–100 dB`)</strong>.",
+                "title": "4. Solving Hearing Loss (Open-Fit WDRC RIC) & Left Eye Hope (VEP vs OPs) + 'Rt As' Fix",
+                "left_lbl": "Prior Clerical & Interpretation Traps: Handwritten 'Rt As' & '90 um' OS Noise",
+                "left": "2026-11-03 handwriting falsely stated 'Rt As'; sealed molds risk trapping tinnitus; June 2026 OS Topcon Qual 2 prints artifactual '90 um' RNFL despite chronic blindness.",
+                "right_lbl": "MDT Board Consensus: Bilateral Open-Fit RIC (<=100 dB) + Fresh 2026 Eye B-Scan",
+                "right": "GSI-39 strip proves Right is Normal Type A (1.5 cm3) vs Extreme Type Ad Left (3.2 cm3, 0 dB ABG, WRS 76% Lt / 84% Rt, Metz +45 dB SL) -> prescribe Bilateral Open-Fit WDRC RIC (vented domes, Left OSPL90 <= 95–100 dB SPL). For OS vision: inner-retinal ischemia is severe (OPs 0.74 uV) making reading recovery unlikely, YET preserved Flash VEP (7.99 uV OS / 10.29 uV OD) demands fresh 2026 B-Scan + IOP protection without systemic Cidamex!",
             },
         ],
         "ar": [
             {
-                "title": "1. الطنين النابض الأيسر وجدل القسطرة المخية التشخيصية (DSA)",
-                "left_lbl": "الخلاف السريري: مؤيد القسطرة مقابل المعارض وفخ الضغط على الرقبة",
-                "left": "اشتبه أ.د. جلهوم بوجود ناسور شرياني وريدي قذالي خفي لتوقف الصوت عند ضغط مؤخرة الرأس؛ بينما رفض استشاري التداخل القسطرة لسلامة MRA وتكاليف الخطورة. الخدعة أن الضغط الخلفي يغلق الوريد الوداجي والشريان القذالي معاً!",
-                "right_lbl": "حسم اللجنة والآلية الفيزيولوجية الموحدة",
-                "right": "<strong>تأجيل القسطرة (DSA) فوراً.</strong> الصوت ناتج غالباً عن همهمة الجيب الوريدي الضيق (<bdi dir='ltr'>0.48</bdi>) مضخّمة ميكانيكياً عبر <strong>طبلية الشمال المرنة 3.2 سم³</strong> وطفرات نبض ما بعد الخفقات البطينية. يُطبّق <strong>بروتوكول الفرز الثلاثي</strong> (اختبار الضغط الأمامي اللطيف مقابل النقطي &rarr; <bdi dir='ltr'>4D-MRA</bdi> بعد eGFR وإيقاف الميتفورمين 48 ساعة &rarr; القسطرة فقط إن ثبت ناسور) لحماية <strong>بلاك الـ 5 مم بالسباتي الشمال</strong>.",
+                "title": "1. الطنين النبضي الشمال وحسم جدل القسطرة المخية (DSA)",
+                "left_lbl": "التعارض السابق: طلب قسطرة (جلهوم) ضد رفضها (الأشعة التداخلية)",
+                "left": "اشتبه أ.د. جلهوم في ناسور قذالي بعد اختفاء الطنين بالضغط خلف الرقبة، بينما رفضت الأشعة التداخلية القسطرة بناءً على سلامة MRA فقط دون خطة بديلة للطنين أو فحص الأمان.",
+                "right_lbl": "حسم اللجنة: الفيزياء الصوتية وبروتوكول الفرز الثلاثي الآمن",
+                "right": "الضغط القوي خلف الأذن يقفل الشريان القذالي والوريد الوداجي معاً! ومع ضيق الجيب الشمال (0.48) وتضخيم الطبلية 3.2 سم³ لضربات الهولتر (857 PVC)، يمنع عبور بلاك السباتي الـ 5 مم بقسطرة وسط قصور تاجي -2.1 مم وغياب فحص الكلى؛ نبدأ بضغط أمامي خفيف على الوريد vs القذالي + السماعة، ثم العلاج الدوائي، ثم 4D-MRA / HRCT عند اللزوم.",
             },
             {
-                "title": "2. بؤر المادة البيضاء، تخطيط المخ 2024، وحسم لغز الرعشة",
-                "left_lbl": "التشابك التشخيصي: تصلب متعدد؟ شلل رعاش؟ صرع؟",
-                "left": "أثار الرنين تساؤل بؤر المادة البيضاء، وذكرت أوراق سابقة باركنسون (سينيمت)، وطُلبت مقطعية وتخطيط 2024 للرعشة، بينما سجّل أ.د. جلهوم <bdi dir='ltr'>Essential tremor + Titubation</bdi>.",
-                "right_lbl": "حسم اللجنة والآلية الفيزيولوجية الموحدة",
-                "right": "<strong>استبعاد التصلب المتعدد (MS) والصرع قطعاً.</strong> الرنين يثبت <strong>تصلب الشرايين الدقيقة CSVD (Fazekas 1–2)</strong> وجلطة قديمة؛ وتخطيط الساعتين (2024 - 9 مقاطع) يثبت خلفية ألفا 9 هيرتز وذبذبة عضلية بدون صرع. الرعشة <strong>مختلطة</strong> وتتأثر بهبوط سكر 80 وحدة أنسولين صباحاً (36.29% PVCs). يلزم اختبار <bdi dir='ltr'>MDS-UPDRS</bdi> + سنسور سكر <bdi dir='ltr'>CGM 14 يوماً</bdi>.",
+                "title": "2. البؤر البيضاء والرعشة: CSVD مقابل MS، ورعشة الأساس مقابل الشلل الرعاش وهبوط السكر",
+                "left_lbl": "التشويش السابق: خوف من التصلب المتعدد MS والصرع وعدم مراجعة السينيمت",
+                "left": "بؤر الرنين أثارت خوفاً من MS، بينما صرف السينيمت تعارض مع تشخيص Essential Tremor + Titubation ولم يُربط السكر بالرجفة الصباحية.",
+                "right_lbl": "حسم اللجنة: تصلب شعيرات CSVD فقط (لا MS ولا صرع) + سنسور سكر وتقييم MDS-UPDRS",
+                "right": "انعدام أصابع داوسون وانهيار شبكية CSO 2026 (OPs 0.74 µV) يثبتان أن المخ والعيون مصابان بتصلب شعيرات السكر والضغط (ممنوع بذل النخاع!). تخطيط 2024 يثبت ارتعاشاً عضلياً فقط دون صرع. مطلوب CGM لـ 80 وحدة أنسولين (تفسر طفرة 36.29% PVCs 6–9 ص) وفحص MDS-UPDRS للسينيمت.",
             },
             {
-                "title": "3. فشل الاتزان الرباعي ('4-Hit') وفخ فحص VNG الضوئي",
-                "left_lbl": "خطورة طلب VNG القياسي مع التهدئة المزمنة بالميكليزين",
-                "left": "تم طلب فحص اتزان <bdi dir='ltr'>VNG</bdi> قياسي مع وصف <bdi dir='ltr'>Meclizine</bdi> يومياً لشهر كامل في مريضة تعاني من كف بصر قانوني غير مذكور (&lt; 1/60) وزيت سيليكون بالعين الشمال.",
-                "right_lbl": "حسم اللجنة والآلية الفيزيولوجية الموحدة",
-                "right": "<strong>أربع ضربات تضرب الاتزان معاً:</strong> (1) الأذن الداخلية اليسرى + (2) <strong>كف بصر &lt; 1/60</strong> يلغي ~95% من التوجيه البصري + (3) تصلب المخ وتثبيط <strong>Meclizine</strong> + (4) الخفقات ونقص التروية/السكر. <strong>أوقف Meclizine فوراً</strong>، وأرسل تنبيهاً مكتوباً لإجراء <strong>VNG بالظلام فقط</strong> مع تأهيل حسي لا بصري.",
+                "title": "3. دوخة الضربات الأربع وكف البصر وحماية اختبار الاتزان VNG",
+                "left_lbl": "الخطر الصامت: طلب VNG ضوئي عادي وإعطاء Meclizine يومياً شهراً كاملاً",
+                "left": "وُصفت الميكليزين والبراين أوكس وطلب VNG دون الانتباه لفقدان البصر &lt; 1/60 مما يعرض المريضة للسقوط ويفشل الاختبار.",
+                "right_lbl": "حسم اللجنة: وقف الميكليزين فوراً، تحذير كتابي لـ VNG في الضلمة، وتأهيل حسي",
+                "right": "فقدان 95% من تعويض النظر بضمور العصب 40 µm والسيليكون يضاعف أثر ضعف الأذن الداخلية وCSVD وهبوط النبض؛ لذلك نوقف Meclizine وBrain-Ox فوراً، نقتصر في VNG على الوضعيات والحراري في الضلمة، ونطبق تأهيلاً حسياً غير بصري وتأميناً منزلياً.",
             },
             {
-                "title": "4. التناقض السمعي لعام 2026 (ملاحظة 'Rt As' مقابل طباعة GSI-39)",
-                "left_lbl": "التعارض الموثق: الكتابة اليدوية 'Rt As' مقابل السجل الحراري للجهاز",
-                "left": "ورقة تخطيط 2026-11-03 تحوي ملاحظة يدوية 'Rt As' بينما طباعة جهاز GSI-39 تقرأ اليمين <strong>1.5 سم³</strong> والشمال <strong>3.2 سم³</strong> (أعلى من سقف الورقة 3.0) مع حساسية صوت تاريخية.",
-                "right_lbl": "حسم اللجنة والآلية الفيزيولوجية الموحدة",
-                "right": "<strong>الأولوية للطباعة الآلية الدقيقة:</strong> قمة اليمين <strong>1.5 سم³ طبيعية (Type A)</strong> تدحض الكتابة اليدوية، وقمة الشمال <strong>3.2 سم³ مرنة بشدة (Type Ad)</strong> مع <strong>فجوة هوائية عظمية 0 dB</strong> (طبلية رقيقة تكبّر النبض وليست خللاً عظمياً!). ضعف السمع القوقعي (يمين 84% / شمال 76% و Metz +45 dB) يتطلب <strong>سماعتين <bdi dir='ltr'>Open-Fit WDRC RIC</bdi> بحد أقصى &lt;= 95–100 dB</strong>.",
+                "title": "4. حل السمعيات (Open-Fit WDRC RIC) + حقيقة أمل العين الشمال + تصحيح خطأ 'Rt As'",
+                "left_lbl": "أخطاء القراءة القديمة: خط اليد 'Rt As' ووهم 90 µm على جودة التوبكون 2",
+                "left": "ملف 03-11 كتب خطأ 'Rt As'، والقوالب المغلقة تحبس الطنين، وجودة التوبكون 2 تعطي رقماً كاذباً لسمك عصب العين الشمال.",
+                "right_lbl": "حسم اللجنة: سماعتان Open-Fit RIC بحد &lt;= 100 dB + سونار 2026 وضغط عين",
+                "right": "شريط GSI-39 يثبت سلامة الطبلية اليمين 1.5 سم³ Type A ومرونة الشمال 3.2 سم³ (فجوة 0 dB وتمييز 84%/76%)؛ فتُركب سماعتان Open-Fit WDRC RIC بقبة مهواة وسقف &lt;= 95–100 dB. وللعين الشمال: رغم ضعف أمل القراءة لانهيار OPs 0.74 µV، يثبت بقاء Flash VEP (7.99 / 10.29 µV) حياة العصب ويوجب سونار 2026 وحماية ضغط العين بلا Cidamex.",
             },
         ],
     }
 
     roi_cards = {
         "en": [
-            {"title": "ROI5a — 2026-11-03 Definitive Masked PTA & GSI-39", "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI5a_Audiology_2026-11-03_MaskedPTA_and_GSI39_Tymp_Zoom.png", "desc": "Definitive primary audiology baseline: 0 dB ABG (Rt 20–70 dB WRS 84%; Lt 50–80 dB WRS 76%), GSI-39 Rt 1.5 cm3 Type A (refutes handwritten 'Rt As') and Lt 3.2 cm3 Type Ad (>3.0 ceiling, I 1000 Hz NT)."},
-            {"title": "ROI5b — 2024 Non-Contrast CT & 2h EEG (9 Epochs)", "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI5b_2024_CT_Brain_and_ProlongedEEG_TremorArtifacts.png", "desc": "2024-07-17 IMC CT req (#474510 tremors), 2024-07-27 El-Zohor CT confirming pre-existing Lt intraocular silicone oil, and 2024-07-17 2h EEG report/epochs (9 Hz alpha + somatic tremor EMG bursts, zero spikes)."},
-            {"title": "ROI1a — MRV Venous Sinuses & Marker Verification", "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI1a_MRV_Left_Transverse_Sigmoid_IJV_CLAHE_Zoom.png", "desc": "3D PCA MRV CLAHE panel proving PA R-on-right orientation, dominant Right sinus drainage, and smooth attenuated Left Transverse/Sigmoid/IJV (L/R 0.48) with ZERO thrombosis."},
-            {"title": "ROI1b — MRA 1.0-mm Source Slices (Skull Base & Mastoid)", "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI1b_MRA_3D_TOF_SourceSlices_SkullBase_Mastoid_Occipital_CLAHE.png", "desc": "Extractions from 513 deduplicated 3D-TOF source slices auditing skull base, ICA canals, and sigmoid grooves — zero high-flow AVF shunt or transosseous occipital feeder."},
-            {"title": "ROI1c — Left Mastoid / Sigmoid Plate Micro-Zoom", "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI1c_Left_Mastoid_Sigmoid_Occipital_MicroZoom_dAVF_Audit.png", "desc": "High-magnification CLAHE audit of Left mastoid air cells (clear) and sigmoid plate contour."},
-            {"title": "ROI2 — Neuro-Otological Axis, Orbits (Silicone 2.59x) & Ethmoids", "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI2_NeuroOtological_IAC_CPA_Orbits_Ethmoid_CLAHE.png", "desc": "Normal IACs/CPAs, bilateral ethmoidal mucosal inflammation, and bright Left Intraocular Silicone Oil (130.4 vs 50.3 = 2.59x) overlooked on official MRI PDF."},
-            {"title": "ROI3 — Basal Ganglia Lacune & White Matter CSVD (Fazekas 1–2)", "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI3_BasalGanglia_WhiteMatter_LacunarInfarcts_CLAHE.png", "desc": "Side-by-side eFLAIR, eT2W, Coronal, and DWI/ADC proving chronic right lentiform lacune + CSVD Fazekas 1–2 with zero acute diffusion restriction and zero MS plaques."},
-            {"title": "ROI4 — Prof. Galhom Handwriting & Holter -2.1 mm ST / Morning Surge", "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI4_Clinical_Handwriting_and_Holter_KeyStrips_Zoom.png", "desc": "Handwritten Essential Tremor + Titubation exam alongside Holter Page 2/3/5 proving 36.29% AM PVC cluster (08:00 = 164 PVCs/V-run @ 104 bpm) & -2.1 mm CH3 ST depression @ 13:11."},
-            {"title": "MRA Z-Stack — 48-Slice Reconstruction (Video01 Source)", "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/02_MRA_Intracranial_Arteries/MRA_2026-11-05_Video01_48Slice_ZStack_ContactSheet.png", "desc": "48 uniformly sampled levels across the 513 unique 1.0-mm 3D-TOF axial slices from skull base to vertex."},
-            {"title": "Carotid & Vertebral Duplex (IMT 0.13 cm & 5 mm Bulb Plaque)", "img": "../01_Structured_and_Renamed_Inputs/05_Vascular_Carotid_Duplex/VASC_2026-11-07_Carotid_Vertebral_ColorDuplex_IMT0.13cm_LtBulbPlaque5mm.jpg", "desc": "Dr. Ibrahim Hashim (2026-11-07): IMT 0.13 cm (+44%), non-stenotic bilateral plaques with 5 mm plaque in Left Carotid Bulb directly on DSA catheter trajectory."},
-            {"title": "MOH Medical Council Certificate (< 1/60 Legal Blindness)", "img": "../01_Structured_and_Renamed_Inputs/08_Clinical_Notes_and_Prescriptions/CLIN_2021-09-01_MOH_MedicalCouncil_LegalBlindness_LessThan1of60_RetinalOpticAtrophy.jpg", "desc": "Primary legal & ID anchor (ID 26304090300188, DOB 1963-04-09): legal blindness (<1/60 better eye) due to retinal and optic nerve atrophy."},
+            # Historical 2011 Leg Doppler (5)
+            {"grp": "VASC_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/10_Peripheral_Vascular_LowerLimb_Doppler/VASC_2011-06-21_LowerLimb_ColorDoppler_Report_DrHelmyRashad_LtCalfPerforatorIncompetence.png", "title": "2011-06-21 Leg Doppler Report (Dr. Helmy Rashad)", "desc": "HISTORICAL: Confirms patent lower-limb arteries (NO PAD) and deep veins (NO DVT) with mild left calf perforator incompetence only."},
+            {"grp": "VASC_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/10_Peripheral_Vascular_LowerLimb_Doppler/VASC_2011-06-21_LowerLimb_ColorDoppler_Strip01_AltadamonHospital.png", "title": "2011-06-21 Leg Doppler Strip 01 (Altadamon Hospital)", "desc": "HISTORICAL: Baseline arterial triphasic spectral Doppler printout showing intact lower extremity inflows."},
+            {"grp": "VASC_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/10_Peripheral_Vascular_LowerLimb_Doppler/VASC_2011-06-21_LowerLimb_ColorDoppler_Strip02_NormalArteriesDeepVeins.png", "title": "2011-06-21 Leg Doppler Strip 02 (Patent Arteries/Deep Veins)", "desc": "HISTORICAL: Auto-cropped bilateral femoral/popliteal arterial & venous compressibility study excluding DVT."},
+            {"grp": "VASC_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/10_Peripheral_Vascular_LowerLimb_Doppler/VASC_2011-06-21_LowerLimb_ColorDoppler_Strip03_Waveforms_Upright.png", "title": "2011-06-21 Leg Doppler Strip 03 (Corrected Upright Waveforms)", "desc": "HISTORICAL: Auto-rotated upright arterial/venous spectral traces confirming absence of chronic PAD occlusion."},
+            {"grp": "VASC_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/10_Peripheral_Vascular_LowerLimb_Doppler/VASC_2011-06-21_LowerLimb_ColorDoppler_Strip04_DeepFemoralVenousFlow.png", "title": "2011-06-21 Leg Doppler Strip 04 (Deep Femoral Venous Flow)", "desc": "HISTORICAL: Patent deep femoral/popliteal venous phasic flow trace serving as 15-year vascular baseline."},
+            # Historical 2014-2021 Ophthalmology (13)
+            {"grp": "OPHTH_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2014_04_23_Historical_Optovue_OCT/OPHTH_2014-04-23_Optovue_Macula_OD_CystoidEdema_RPEDisruption_HISTORICAL.png", "title": "2014-04-23 Optovue Macula OD (CME & RPE Disruption)", "desc": "HISTORICAL: Pre-2019 diabetic cystoid macular edema & RPE breakdown in Right eye long predating current workup."},
+            {"grp": "OPHTH_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2014_04_23_Historical_Optovue_OCT/OPHTH_2014-04-23_Optovue_MaculaMap_EMM5_OU_RPE_Disruption_OD280_OS100_HISTORICAL.png", "title": "2014-04-23 Optovue EMM5 Macula Map (OD 280 / OS 100)", "desc": "HISTORICAL: Bilateral macular map documenting asymmetric diabetic maculopathy and outer retinal thinning in 2014."},
+            {"grp": "OPHTH_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2014_04_23_Historical_Optovue_OCT/OPHTH_2014-04-23_Optovue_OpticNerve_OS_RNFL78.36um_CDVert0.83_HISTORICAL.png", "title": "2014-04-23 Optovue ONH OS (RNFL 78.36 um | C/D 0.83)", "desc": "HISTORICAL: Early advanced vertical cupping (0.83) and inferotemporal RNFL loss in Left eye 5 years prior to 2019 RD surgery."},
+            {"grp": "OPHTH_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2016_02_16_Historical_Optovue_ONH/OPHTH_2016-02-16_Optovue_OpticNerve_OS_RNFL71.41um_CDVert0.74_HISTORICAL.png", "title": "2016-02-16 Optovue ONH OS (Progressed RNFL 71.41 um)", "desc": "HISTORICAL: Progressive OS nerve fiber loss from 78.36 -> 71.41 um between 2014 and 2016 before vitrectomy."},
+            {"grp": "OPHTH_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2019_Historical_OCT_Referral_BScan/OPHTH_2019-08-19_MOH_HealthInsurance_Referral_LtCataract_RD_PriorRtRD_HISTORICAL.png", "title": "2019-08-19 MOH Insurance Referral (Prior Rt RD -> Lt Surgery)", "desc": "HISTORICAL: Official referral confirming Right cataract+RD surgery had ALREADY taken place prior to 2019 Lt surgery request."},
+            {"grp": "OPHTH_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2019_Historical_OCT_Referral_BScan/OPHTH_2019-08-20_Optopol_OCT_Report_OU_DrOmaimaMohamed_MarkedTSNIT_HISTORICAL.png", "title": "2019-08-20 Optopol OCT OU Summary (Dr. Omaima Mohamed)", "desc": "HISTORICAL: Annotated bilateral RNFL & GCC report revealing profound asymmetrical OS disc damage in August 2019."},
+            {"grp": "OPHTH_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2019_Historical_OCT_Referral_BScan/OPHTH_2019-08-20_Optopol_OCT_OD_Spectral_MeanTSNIT260_CD0.24_HISTORICAL.png", "title": "2019-08-20 Optopol OD Spectral Scan (Pre-Atrophy 2019)", "desc": "HISTORICAL: Right eye scan prior to severe 2026 atrophy showing preserved 2019 nerve structure (contrasting 40 um in 2026)."},
+            {"grp": "OPHTH_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2019_Historical_OCT_Referral_BScan/OPHTH_2019-08-20_Optopol_OCT_OS_SevereRNFLThinning_MeanTSNIT64_HISTORICAL.png", "title": "2019-08-20 Optopol OS Severe RNFL Thinning (64 um Red)", "desc": "HISTORICAL: Crucial proof that OS Mean TSNIT was ALREADY severely thinned (64 um) in 2019 — disproving 2026 '90 um' Topcon noise!"},
+            {"grp": "OPHTH_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2019_Historical_OCT_Referral_BScan/OPHTH_2019-09-11_BScan_OS_VitreousHemorrhage_NoRetinalDetachment_DrOmaimaSharara_HISTORICAL.png", "title": "2019-09-11 Ocular B-Scan OS (Vitreous Hemorrhage)", "desc": "HISTORICAL: Sept 2019 B-Scan documenting dense proliferative diabetic vitreous hemorrhage in Left eye prior to tamponade."},
+            {"grp": "OPHTH_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2019_Historical_OCT_Referral_BScan/OPHTH_2019-12-15_BScan_OS_SiliconizedEye_RetinaInPlace_DrHaithamKhalil_HISTORICAL.png", "title": "2019-12-15 Ocular B-Scan OS (Post-Op Siliconized Retina Attached)", "desc": "HISTORICAL: Dec 2019 ultrasound confirming postoperative Left intraocular silicone oil fill with attached retina (Dr. Haitham Khalil)."},
+            {"grp": "OPHTH_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2021_Historical_Ocular_BScans/OPHTH_2021-04-07_BScan_OD_EmulsifiedSiliconeOil_RetinaInPlace_DrYasminSinan_HISTORICAL.png", "title": "2021-04-07 Ocular B-Scan OD (Emulsified Silicone Oil)", "desc": "HISTORICAL: Proves Right eye also underwent silicone tamponade (later cleared to Qual 10 by 2026) with retina in place."},
+            {"grp": "OPHTH_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2021_Historical_Ocular_BScans/OPHTH_2021-04-07_BScan_OS_SiliconFilledEye_RetinaInPlace_DrYasminSinan_HISTORICAL.png", "title": "2021-04-07 Ocular B-Scan OS (Silicon-Filled Eye)", "desc": "HISTORICAL: April 2021 Left eye ultrasound showing complete silicone oil tamponade cavity and attached posterior retina."},
+            {"grp": "OPHTH_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2021_Historical_Ocular_BScans/OPHTH_2021-05-29_BScan_OS_SiliconFilledEye_RetinaInPlace_DrManarElGayar_HISTORICAL.png", "title": "2021-05-29 Last Ocular B-Scan OS (Dr. Manar El-Gayar)", "desc": "HISTORICAL: Latest ocular ultrasound on file (5+ years old) -> mandates fresh 2026 B-Scan + IOP today!"},
+            # Historical 2021-2024 Records (2)
+            {"grp": "HIST_2024", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/08_Clinical_Notes_and_Prescriptions/CLIN_2021-09-01_MOH_MedicalCouncil_LegalBlindness_LessThan1of60_RetinalOpticAtrophy.jpg", "title": "2021-09-01 MOH Council Legal Blindness (<1/60)", "desc": "HISTORICAL: Official Ministry of Health decree confirming <1/60 vision from retinal & optic atrophy (ID 26304090300188)."},
+            {"grp": "HIST_2024", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI5b_2024_CT_Brain_and_ProlongedEEG_TremorArtifacts.png", "title": "July 2024 Brain CT & 2h Prolonged EEG (9 Hz Alpha / Zero Spikes)", "desc": "HISTORICAL: El-Zohor CT confirms persistent Lt silicone oil in 2024; 2h EEG shows 9 Hz alpha + EMG tremor artifact only (zero epilepsy)."},
+            # Current 2026-06 / 2026-07 Ophthalmology (12)
+            {"grp": "OPHTH_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2026_06_Topcon_OCT_and_VisualField/OPHTH_2026-06-01_Topcon_OCT_Macula_Radial_OD_Avg221.9um_Qual10.png", "title": "2026-06-01 Topcon Macula OD (Qual 10 | Fovea 259 um)", "desc": "CURRENT 2026: Clear OD optical media (Quality 10/10, silicone removed), attached macula (Avg 221.9 um) with mild foveal attenuation."},
+            {"grp": "OPHTH_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2026_06_Topcon_OCT_and_VisualField/OPHTH_2026-06-01_Topcon_OCT_OpticNerve_3DDisc_OD_RNFL40um_SevereAtrophy_Qual9.png", "title": "2026-06-01 Topcon 3D Disc OD (Qual 9 | Severe RNFL 40 um)", "desc": "CURRENT 2026: Reliable high-quality scan confirming profound OD Optic Atrophy (Total RNFL 40 um, Inf 34 um) — guard perfusion >= 115/70!"},
+            {"grp": "OPHTH_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2026_06_Topcon_OCT_and_VisualField/OPHTH_2026-06-01_Topcon_OCT_Macula_Radial_OS_LowQual2_SiliconeMediaOpacity.png", "title": "2026-06-01 Topcon Macula OS (Low Qual 2 | Silicone Opacity)", "desc": "CURRENT 2026: Severe optical scatter from retained OS silicone oil/cataract producing degraded OCT signal (Qual 2, false thickness noise)."},
+            {"grp": "OPHTH_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2026_06_Topcon_OCT_and_VisualField/OPHTH_2026-06-01_Topcon_OCT_OpticNerve_3DDisc_OS_Qual2_MediaArtifact.png", "title": "2026-06-01 Topcon 3D Disc OS (Qual 2 | Artifact '90 um' Trap!)", "desc": "CURRENT 2026: CRITICAL TRAP — Qual 2 prints misleading '90 um' segmentation noise when true OS RNFL was already 64 um in 2019!"},
+            {"grp": "OPHTH_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2026_06_Topcon_OCT_and_VisualField/OPHTH_2026-06-27_Zeiss_VisualField_HFA_VFI18pct_UnreliableTest_DrAlaaKhaled.png", "title": "2026-06-27 Zeiss HFA 24-2 Field (VFI 18% | 'Not Reliable Test')", "desc": "CURRENT 2026: Hand-signed 'Not reliable Test' by Dr. Alaa Khaled due to severe <1/60 fixation losses; confirms optical testing limits."},
+            {"grp": "OPHTH_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2026_07_CSO_VEP_and_ERG/OPHTH_2026-07-08_CSO_Flash_VEP_OD_Present_N1P1_10.29uV_P2_125.39ms.png", "title": "2026-07-08 CSO Flash VEP OD (Present | N1-P1 10.29 uV)", "desc": "CURRENT 2026: Clear measurable cortical visual evoked response from Right Eye (P2 125.39 ms) confirming active optic-nerve conduction."},
+            {"grp": "OPHTH_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2026_07_CSO_VEP_and_ERG/OPHTH_2026-07-08_CSO_Flash_VEP_OS_Present_N1P1_7.99uV_P2_132.42ms.png", "title": "2026-07-08 CSO Flash VEP OS (Present | N1-P1 7.99 uV!)", "desc": "CURRENT 2026: PIVOTAL FINDING — Measurable 7.99 uV cortical response proves Left optic-nerve fibers are NOT extinguished despite 0.74 uV OPs!"},
+            {"grp": "OPHTH_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2026_07_CSO_VEP_and_ERG/OPHTH_2026-07-08_CSO_ERG_OscillatoryPotentials_OD10.0uV_OS0.74uV_SevereOSIschemia.png", "title": "2026-07-08 CSO ERG Oscillatory Potentials (OD 10.0 vs OS 0.74 uV)", "desc": "CURRENT 2026: Extreme inner-retinal ischemic collapse in OS (0.74 uV, 92.6% lower than OD 10.0 uV) explaining poor OS acuity potential."},
+            {"grp": "OPHTH_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2026_07_CSO_VEP_and_ERG/OPHTH_2026-07-08_CSO_ERG_LightAdapted_3.0_Flicker_OD21.2uV_OS13.0uV.png", "title": "2026-07-08 CSO ERG 30Hz Flicker (OD 21.2 / OS 13.0 uV)", "desc": "CURRENT 2026: Reduced cone-pathway flicker amplitudes OU (worse in OS) excluding demyelinating optic neuritis as primary etiology."},
+            {"grp": "OPHTH_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2026_07_CSO_VEP_and_ERG/OPHTH_2026-07-08_CSO_ERG_DarkAdapted_0.01_OU_OD39.1uV_OS35.8uV.png", "title": "2026-07-08 CSO ERG Dark-Adapted 0.01 (OD 39.1 / OS 35.8 uV)", "desc": "CURRENT 2026: Markedly attenuated rod bipolar response OU confirming widespread diabetic-ischemic retinal photoreceptor loss."},
+            {"grp": "OPHTH_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2026_07_CSO_VEP_and_ERG/OPHTH_2026-07-08_CSO_ERG_DarkAdapted_3.0_OU_OD94.4uV_OS76.8uV.png", "title": "2026-07-08 CSO ERG Dark-Adapted 3.0 (OD 94.4 / OS 76.8 uV)", "desc": "CURRENT 2026: Mixed rod-cone scotopic b-wave suppression OU confirming severe retinal-vascular disease across both eyes."},
+            {"grp": "OPHTH_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2026_07_CSO_VEP_and_ERG/OPHTH_2026-07-08_CSO_ERG_LightAdapted_3.0_OU_OD37.1uV_OS30.4uV.png", "title": "2026-07-08 CSO ERG Light-Adapted 3.0 (OD 37.1 / OS 30.4 uV)", "desc": "CURRENT 2026: Photopic cone single-flash attenuation consistent with chronic bilateral panretinal photocoagulation & ischemia."},
+            # Current 2026-11 Neuro / Audio / Holter / Carotid (9)
+            {"grp": "NEURO_AUDIO_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI5a_Audiology_2026-11-03_MaskedPTA_and_GSI39_Tymp_Zoom.png", "title": "ROI5a: 2026-11-03 Masked PTA (0 dB ABG) & GSI-39 (Rt 1.5 / Lt 3.2 cm3)", "desc": "CURRENT 2026: Proves Rt WRS 84% / Lt 76%, Rt 1.5 cm3 Type A (overturning 'Rt As') and Lt 3.2 cm3 Extreme Type Ad amplifier."},
+            {"grp": "NEURO_AUDIO_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI1a_MRV_Left_Transverse_Sigmoid_IJV_CLAHE_Zoom.png", "title": "ROI1a: 3D-PCA MRV Zoom (Lt Hypoplastic Sinus L/R 0.48)", "desc": "CURRENT 2026: Marker-verified venous drainage; right-dominant drainage with patent attenuated left sinus (zero thrombus)."},
+            {"grp": "NEURO_AUDIO_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI1b_MRA_3D_TOF_SourceSlices_SkullBase_Mastoid_Occipital_CLAHE.png", "title": "ROI1b: 3D-TOF Source Slices (Skull Base & Carotid Canal)", "desc": "CURRENT 2026: 1.0-mm axial arterial slices excluding high-flow dAVF or carotid bifurcation aneurysm."},
+            {"grp": "NEURO_AUDIO_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI1c_Left_Mastoid_Sigmoid_Occipital_MicroZoom_dAVF_Audit.png", "title": "ROI1c: Left Mastoid-Occipital Micro-Zoom (dAVF Audit)", "desc": "CURRENT 2026: Clean left mastoid air cells and absent dilated occipital cortical venous reflux (Cognard IIb-IV ruled out)."},
+            {"grp": "NEURO_AUDIO_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI2_NeuroOtological_IAC_CPA_Orbits_Ethmoid_CLAHE.png", "title": "ROI2: IAC, CPA, Optic Chiasm, Ethmoiditis & Lt 2.59x Silicone Oil", "desc": "CURRENT 2026: Symmetric IACs/CPAs (no acoustic neuroma), normal optic chiasm (Film10), ethmoiditis, and bright Lt silicone oil."},
+            {"grp": "NEURO_AUDIO_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI3_BasalGanglia_WhiteMatter_LacunarInfarcts_CLAHE.png", "title": "ROI3: Basal Ganglia Lacune & CSVD (Fazekas 1–2, MS Excluded)", "desc": "CURRENT 2026: Hypertensive-diabetic lacunes & CSVD without McDonald Dawson fingers or acute DWI stroke."},
+            {"grp": "NEURO_AUDIO_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/02_MRA_Intracranial_Arteries/MRA_2026-11-05_Video01_48Slice_ZStack_ContactSheet.png", "title": "MRA Z-Stack: 48 Representative Slices Across 513-Slice TOF", "desc": "CURRENT 2026: Full vertex-to-foramen magnum vascular sweep confirming patent Circle of Willis and posterior circulation."},
+            {"grp": "NEURO_AUDIO_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI4_Clinical_Handwriting_and_Holter_KeyStrips_Zoom.png", "title": "ROI4: Galhom Rx/ET Note + Holter 08:00 AM Surge & -2.1 mm ST", "desc": "CURRENT 2026: Prof. Galhom's Essential Tremor log alongside 104 bpm V-run, 164 PVCs/hr AM peak, and CH3 -2.1 mm ischemia."},
+            {"grp": "NEURO_AUDIO_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/05_Vascular_Carotid_Duplex/VASC_2026-11-07_Carotid_Vertebral_ColorDuplex_IMT0.13cm_LtBulbPlaque5mm.jpg", "title": "2026-11-07 Carotid Duplex (IMT 0.13 cm | 5 mm Lt Bulb Plaque)", "desc": "CURRENT 2026: Critical DSA gatekeeper plaque in Left Carotid Bulb + systemic atherosclerosis marker."},
         ],
         "ar": [
-            {"title": "لوحة ROI5a — فحص السمع الموثق 2026-11-03 وطباعة GSI-39", "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI5a_Audiology_2026-11-03_MaskedPTA_and_GSI39_Tymp_Zoom.png", "desc": "المرجع السمعي الأساسي: 0 dB ABG ثنائياً (اليمين WRS 84% والشمال 76%)، وطابعة GSI-39 تقرأ اليمين 1.5 سم³ Type A (داحضة كتابة Rt As) والشمال 3.2 سم³ Type Ad."},
-            {"title": "لوحة ROI5b — مقطعية 2024 وتخطيط المخ المطول 9 مقاطع", "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI5b_2024_CT_Brain_and_ProlongedEEG_TremorArtifacts.png", "desc": "تحويل المقطعية رقم 474510 للرعشة وتقرير مقطعية 2024 الموثق لزيت السيليكون بالعين الشمال، بجانب مقاطع تخطيط المخ السليم (ألفا 9 هيرتز + ارتعاش عضلي بدون صرع)."},
-            {"title": "لوحة ROI1a — زوم الجيوب الوريدية MRV والتحقق من الاتجاه", "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI1a_MRV_Left_Transverse_Sigmoid_IJV_CLAHE_Zoom.png", "desc": "تحسين تباين CLAHE للرنين الوريدي 3D-PCA يثبت التصوير الخلفي الأمامي (اليمين يميناً)، والسيادة الوريدية اليمنى، وضيق الجيب الأيسر (0.48) بدون جلطة."},
-            {"title": "لوحة ROI1b — مقاطع MRA الأصلية لقاع الجمجمة والنتوء الحلمي", "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI1b_MRA_3D_TOF_SourceSlices_SkullBase_Mastoid_Occipital_CLAHE.png", "desc": "استخراج من 513 مقطعاً أصلياً لفحص قاع الجمجمة وقناة الشريان السباتي وأخدود السيني مع خلو من النواسير عالية التدفق."},
-            {"title": "لوحة ROI1c — تكبير دقيق لعظمة الخشاء والجدار السيني الشمال", "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI1c_Left_Mastoid_Sigmoid_Occipital_MicroZoom_dAVF_Audit.png", "desc": "تدقيق مجهري عالي التكبير لخلايا الخشاء الهوائية (نظيفة ومفتوحة) ومحيط الجدار العظمي للجيب السيني الشمال."},
-            {"title": "لوحة ROI2 — محور السمع الداخلي وزيت السيليكون (2.59x) والجيوب", "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI2_NeuroOtological_IAC_CPA_Orbits_Ethmoid_CLAHE.png", "desc": "توضح سلامة قنوات السمع الداخلية، والتهاب الجيوب الغربالية، والإشارة الساطعة لزيت السيليكون بالعين الشمال (2.59 ضعف) التي أغفلها التقرير."},
-            {"title": "لوحة ROI3 — جلطة العقد القاعدية وتصلب المادة البيضاء (Fazekas 1–2)", "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI3_BasalGanglia_WhiteMatter_LacunarInfarcts_CLAHE.png", "desc": "مقارنة eFLAIR و eT2W والكورونال و DWI/ADC تؤكد الجلطة المزمنة بالعقد القاعدية وتصلب الشرايين الدقيقة مع سلبية الجلطات الحادة و MS."},
-            {"title": "لوحة ROI4 — ملاحظة د. جلهوم وشرائط هبوط ST (-2.1 مم) بالهولتر", "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI4_Clinical_Handwriting_and_Holter_KeyStrips_Zoom.png", "desc": "الكتابة اليدوية (Essential Tremor + Titubation) بجانب صفحات الهولتر التي تثبت الطفرة الصباحية 36.29% وهبوط التروية -2.1 مم الساعة 13:11."},
-            {"title": "خريطة مقاطع الشرايين — 48 مستوى من أصل 513 شريحة (Video01)", "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/02_MRA_Intracranial_Arteries/MRA_2026-11-05_Video01_48Slice_ZStack_ContactSheet.png", "desc": "لوحة مرجعية متسلسلة من 48 مقطعاً تغطي مسار فيديو الشرايين بالكامل من قاع الجمجمة لقمة الرأس."},
-            {"title": "تقرير دوبلكس السباتي والفقري (IMT 0.13 سم وبلاك 5 مم)", "img": "../01_Structured_and_Renamed_Inputs/05_Vascular_Carotid_Duplex/VASC_2026-11-07_Carotid_Vertebral_ColorDuplex_IMT0.13cm_LtBulbPlaque5mm.jpg", "desc": "تقرير د. إبراهيم هاشم (2026-11-07): زيادة سمك الشريان (+44%) وبلاك بطول 5 مم عند عنق السباتي الشمال في مسار القسطرة."},
-            {"title": "شهادة المجالس الطبية المتخصصة بوزارة الصحة (كف بصر < 1/60)", "img": "../01_Structured_and_Renamed_Inputs/08_Clinical_Notes_and_Prescriptions/CLIN_2021-09-01_MOH_MedicalCouncil_LegalBlindness_LessThan1of60_RetinalOpticAtrophy.jpg", "desc": "المرجع القانوني الرسمي لتاريخ الميلاد (1963-04-09) وإثبات كف البصر القانوني بسبب ضمور الشبكية والعصب البصري."},
+            {"grp": "VASC_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/10_Peripheral_Vascular_LowerLimb_Doppler/VASC_2011-06-21_LowerLimb_ColorDoppler_Report_DrHelmyRashad_LtCalfPerforatorIncompetence.png", "title": "تقرير دوبلر الساقين 21-06-2011 (د. حلمي رشاد)", "desc": "فحص قديم: يثبت سلامة شرايين الساقين (لا PAD) والأوردة العميقة (لا DVT) مع ارتجاع بسيط بالساق الشمال فقط."},
+            {"grp": "VASC_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/10_Peripheral_Vascular_LowerLimb_Doppler/VASC_2011-06-21_LowerLimb_ColorDoppler_Strip01_AltadamonHospital.png", "title": "شريط دوبلر الساقين 01 — مستشفى التضامن (2011)", "desc": "فحص قديم: موجات تدفق شرياني ثلاثية الطور طبيعية في الساقين."},
+            {"grp": "VASC_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/10_Peripheral_Vascular_LowerLimb_Doppler/VASC_2011-06-21_LowerLimb_ColorDoppler_Strip02_NormalArteriesDeepVeins.png", "title": "شريط دوبلر الساقين 02 — سلامة الشرايين والأوردة (2011)", "desc": "فحص قديم: فحص أوردة الفخذ والمأبض خالٍ تماماً من الجلطات العميقة DVT."},
+            {"grp": "VASC_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/10_Peripheral_Vascular_LowerLimb_Doppler/VASC_2011-06-21_LowerLimb_ColorDoppler_Strip03_Waveforms_Upright.png", "desc": "فحص قديم: موجات طيفية معدولة الوضع توثق كفاءة التروية الشريانية الطرفية تاريخياً.", "title": "شريط دوبلر الساقين 03 — الموجات الطيفية المعدولة (2011)"},
+            {"grp": "VASC_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/10_Peripheral_Vascular_LowerLimb_Doppler/VASC_2011-06-21_LowerLimb_ColorDoppler_Strip04_DeepFemoralVenousFlow.png", "title": "شريط دوبلر الساقين 04 — الوريد الفخذي العميق (2011)", "desc": "فحص قديم: سريان وريدي طبيعي متناسق مع التنفس كمرجع وعائي منذ 15 عاماً."},
+            {"grp": "OPHTH_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2014_04_23_Historical_Optovue_OCT/OPHTH_2014-04-23_Optovue_Macula_OD_CystoidEdema_RPEDisruption_HISTORICAL.png", "title": "أوبتوڤيو ماكولة اليمين 23-04-2014 (ارتشاح وتلف RPE)", "desc": "فحص قديم: يثبت وجود اعتلال ماكولة سكري وارتشاح باليمين قبل جراحات الانفصال بـ 5 سنوات."},
+            {"grp": "OPHTH_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2014_04_23_Historical_Optovue_OCT/OPHTH_2014-04-23_Optovue_MaculaMap_EMM5_OU_RPE_Disruption_OD280_OS100_HISTORICAL.png", "title": "خريطة ماكولة Optovue للعينين (2014)", "desc": "فحص قديم: يوثق تلف الطبقات الخارجية ومركز الإبصار بالعينين (OD 280 / OS 100) منذ 2014."},
+            {"grp": "OPHTH_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2014_04_23_Historical_Optovue_OCT/OPHTH_2014-04-23_Optovue_OpticNerve_OS_RNFL78.36um_CDVert0.83_HISTORICAL.png", "title": "عصب العين الشمال Optovue 2014 (RNFL 78.36 | C/D 0.83)", "desc": "فحص قديم: يثبت بداية تقعر وتآكل العصب البصري بالشمال من 2014 قبل جراحة الشبكية."},
+            {"grp": "OPHTH_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2016_02_16_Historical_Optovue_ONH/OPHTH_2016-02-16_Optovue_OpticNerve_OS_RNFL71.41um_CDVert0.74_HISTORICAL.png", "title": "تراجع عصب العين الشمال 16-02-2016 (71.41 µm)", "desc": "فحص قديم: انخفاض تدريجي مستمر في ألياف العصب البصري من 78.36 إلى 71.41 ميكرون."},
+            {"grp": "OPHTH_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2019_Historical_OCT_Referral_BScan/OPHTH_2019-08-19_MOH_HealthInsurance_Referral_LtCataract_RD_PriorRtRD_HISTORICAL.png", "title": "إحالة التأمين الصحى 19-08-2019 (انفصال سابق باليمين وطلب الشمال)", "desc": "فحص قديم: وثيقة تاريخية تثبت سبق إجراء عملية الشبكية والكتاركت باليمين قبل أغسطس 2019."},
+            {"grp": "OPHTH_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2019_Historical_OCT_Referral_BScan/OPHTH_2019-08-20_Optopol_OCT_Report_OU_DrOmaimaMohamed_MarkedTSNIT_HISTORICAL.png", "title": "تقرير أوبتوبول الشامل للعينين 20-08-2019 (د. أميمة محمد)", "desc": "فحص قديم: مقارنة التآكل الشديد بالعصب الشمال قبل العملية مع حفظ نسبي باليمين وقتها."},
+            {"grp": "OPHTH_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2019_Historical_OCT_Referral_BScan/OPHTH_2019-08-20_Optopol_OCT_OD_Spectral_MeanTSNIT260_CD0.24_HISTORICAL.png", "title": "أوبتوبول اليمين 20-08-2019 (قبل ضمور 2026)", "desc": "فحص قديم: يظهر عصب اليمين بمستوى محفوظ نسبياً عام 2019 مقارنة بضموره الشديد الآن (40 µm)."},
+            {"grp": "OPHTH_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2019_Historical_OCT_Referral_BScan/OPHTH_2019-08-20_Optopol_OCT_OS_SevereRNFLThinning_MeanTSNIT64_HISTORICAL.png", "title": "أوبتوبول الشمال 20-08-2019 (ضمور شديد 64 µm بالأحمر)", "desc": "فحص قديم: دليل حاسم أن العصب الشمال كان 64 ميكرون في 2019 — يكذب قراءة التوبكون 2026 الكاذبة (90 µm)!"},
+            {"grp": "OPHTH_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2019_Historical_OCT_Referral_BScan/OPHTH_2019-09-11_BScan_OS_VitreousHemorrhage_NoRetinalDetachment_DrOmaimaSharara_HISTORICAL.png", "title": "سونار العين الشمال 11-09-2019 (نزيف جسم زجاجي)", "desc": "فحص قديم: توثيق النزيف الزجاجي السكري بالشمال قبل التدخل الجراحي."},
+            {"grp": "OPHTH_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2019_Historical_OCT_Referral_BScan/OPHTH_2019-12-15_BScan_OS_SiliconizedEye_RetinaInPlace_DrHaithamKhalil_HISTORICAL.png", "title": "سونار العين الشمال 15-12-2019 (بعد حقن السيليكون، الشبكية في مكانها)", "desc": "فحص قديم: يؤكد امتلاء العين الشمال بزيت السيليكون واستقرار الشبكية بعد الجراحة (د. هيثم خليل)."},
+            {"grp": "OPHTH_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2021_Historical_Ocular_BScans/OPHTH_2021-04-07_BScan_OD_EmulsifiedSiliconeOil_RetinaInPlace_DrYasminSinan_HISTORICAL.png", "title": "سونار العين اليمين 07-04-2021 (سيليكون مستحلب)", "desc": "فحص قديم: يثبت وجود سيليكون سابق بالعين اليمنى أيضاً قبل إزالته وصفاء عدستها في 2026."},
+            {"grp": "OPHTH_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2021_Historical_Ocular_BScans/OPHTH_2021-04-07_BScan_OS_SiliconFilledEye_RetinaInPlace_DrYasminSinan_HISTORICAL.png", "title": "سونار العين الشمال 07-04-2021 (مملوءة بالسيليكون)", "desc": "فحص قديم: استمرار زيت السيليكون بالشمال مع بقاء الشبكية مثبتة."},
+            {"grp": "OPHTH_HIST", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2021_Historical_Ocular_BScans/OPHTH_2021-05-29_BScan_OS_SiliconFilledEye_RetinaInPlace_DrManarElGayar_HISTORICAL.png", "title": "آخر سونار للشمال 29-05-2021 (د. منار الجيار)", "desc": "فحص قديم: أحدث سونار متاح عمره الآن أكثر من 5 سنوات — مما يوجب عمل سونار 2026 جديد فوراً!"},
+            {"grp": "HIST_2024", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/08_Clinical_Notes_and_Prescriptions/CLIN_2021-09-01_MOH_MedicalCouncil_LegalBlindness_LessThan1of60_RetinalOpticAtrophy.jpg", "title": "قرار القومسيون الطبي 01-09-2021 (كف بصر &lt; 1/60)", "desc": "فحص قديم: يوثق قانونياً ضعف البصر الشديد (&lt; 1/60) من ضمور الشبكية والعصب البصري."},
+            {"grp": "HIST_2024", "historical": True, "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI5b_2024_CT_Brain_and_ProlongedEEG_TremorArtifacts.png", "title": "مقطعية المخ وتخطيط الـ 2h في يوليو 2024 (لا صرع)", "desc": "فحص قديم: مقطعية 2024 تثبت وجود زيت السيليكون الشمال؛ وتخطيط المخ يثبت إيقاع ألفا 9 هيرتز وارتعاشاً عضلياً فقط."},
+            {"grp": "OPHTH_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2026_06_Topcon_OCT_and_VisualField/OPHTH_2026-06-01_Topcon_OCT_Macula_Radial_OD_Avg221.9um_Qual10.png", "title": "التوبكون ماكولة اليمين 01-06-2026 (جودة 10 | فجوة 259 µm)", "desc": "حالي 2026: عدسة صافية (أُزيل السيليكون، جودة 10/10) وماكولة مثبتة متوسطة السمك 221.9 µm."},
+            {"grp": "OPHTH_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2026_06_Topcon_OCT_and_VisualField/OPHTH_2026-06-01_Topcon_OCT_OpticNerve_3DDisc_OD_RNFL40um_SevereAtrophy_Qual9.png", "title": "توبكون عصب اليمين 01-06-2026 (جودة 9 | ضمور حاد 40 µm)", "desc": "حالي 2026: فحص عالي الدقة يثبت ضمور عصب بصري شديداً باليمين (RNFL 40 µm، الأسفل 34) يوجب منع هبوط الضغط والسكر!"},
+            {"grp": "OPHTH_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2026_06_Topcon_OCT_and_VisualField/OPHTH_2026-06-01_Topcon_OCT_Macula_Radial_OS_LowQual2_SiliconeMediaOpacity.png", "title": "توبكون ماكولة الشمال 01-06-2026 (جودة منخفضة 2 | عتامة السيليكون)", "desc": "حالي 2026: تشتت الضوء بزيت السيليكون والكتاركت يؤدي لانخفاض حاد بدقة القياس بالعين الشمال."},
+            {"grp": "OPHTH_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2026_06_Topcon_OCT_and_VisualField/OPHTH_2026-06-01_Topcon_OCT_OpticNerve_3DDisc_OS_Qual2_MediaArtifact.png", "title": "فخ التوبكون لعصب الشمال 01-06-2026 (جودة 2 | ضوضاء 90 µm كاذبة!)", "desc": "حالي 2026: تحذير — رقم 90 µm هنا مجرد تشويش آلي على جودة 2، بينما العصب الحقيقي كان 64 µm من 2019!"},
+            {"grp": "OPHTH_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2026_06_Topcon_OCT_and_VisualField/OPHTH_2026-06-27_Zeiss_VisualField_HFA_VFI18pct_UnreliableTest_DrAlaaKhaled.png", "title": "مجال إبصار زايس 27-06-2026 (VFI 18% | غير موثوق — د. آلاء خالد)", "desc": "حالي 2026: وقع عليه الطبيب 'Not reliable Test' لكثرة فقد التثبيت البصري نتيجة ضعف الإبصار الشديد."},
+            {"grp": "OPHTH_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2026_07_CSO_VEP_and_ERG/OPHTH_2026-07-08_CSO_Flash_VEP_OD_Present_N1P1_10.29uV_P2_125.39ms.png", "title": "رسم العصب الضوئي Flash VEP يمين 08-07-2026 (10.29 µV)", "desc": "حالي 2026: استجابة قشرية واضحة ومقروءة من العين اليمنى تثبت سلامة التوصيل العصبي للقشرة."},
+            {"grp": "OPHTH_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2026_07_CSO_VEP_and_ERG/OPHTH_2026-07-08_CSO_Flash_VEP_OS_Present_N1P1_7.99uV_P2_132.42ms.png", "title": "دليل بقاء توصيل العصب الشمال: Flash VEP 08-07-2026 (7.99 µV!)", "desc": "حالي 2026: اكتشاف فارق — العصب البصري الشمال ما زال يرسل إشارة مقاسة للمخ (7.99 µV) رغم تضرر الشبكية!"},
+            {"grp": "OPHTH_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2026_07_CSO_VEP_and_ERG/OPHTH_2026-07-08_CSO_ERG_OscillatoryPotentials_OD10.0uV_OS0.74uV_SevereOSIschemia.png", "title": "انهيار شبكية الشمال ERG OPs 08-07-2026 (0.74 مقابل 10.0 µV يمين)", "desc": "حالي 2026: انهيار بنسبة 92.6% في استجابة الشبكية الداخلية بالشمال يفسر لماذا استعادة القراءة فيها مستبعدة."},
+            {"grp": "OPHTH_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2026_07_CSO_VEP_and_ERG/OPHTH_2026-07-08_CSO_ERG_LightAdapted_3.0_Flicker_OD21.2uV_OS13.0uV.png", "title": "وميض المخاريط 30Hz Flicker بالـ CSO 08-07-2026", "desc": "حالي 2026: ضعف واضح لاستجابة المخاريط بالعينين يثبت أن المشكلة شبكية وعائية لا التهاب عصب MS."},
+            {"grp": "OPHTH_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2026_07_CSO_VEP_and_ERG/OPHTH_2026-07-08_CSO_ERG_DarkAdapted_0.01_OU_OD39.1uV_OS35.8uV.png", "title": "رسم شبكية الإظلام Dark 0.01 (39.1 يمين / 35.8 شمال)", "desc": "حالي 2026: هبوط استجابة العصي الشبكية بالعينين نتيجة السكري التكاثري وجلسات الليزر والجراحات."},
+            {"grp": "OPHTH_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2026_07_CSO_VEP_and_ERG/OPHTH_2026-07-08_CSO_ERG_DarkAdapted_3.0_OU_OD94.4uV_OS76.8uV.png", "title": "رسم الشبكية المختلط Dark 3.0 (94.4 يمين / 76.8 شمال)", "desc": "حالي 2026: ضعف عام متوقع متمشٍ مع تاريخ الليزر الشامل وانفصال الشبكية السكري."},
+            {"grp": "OPHTH_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/09_Ophthalmology_Fundus_and_OpticNerve/2026_07_CSO_VEP_and_ERG/OPHTH_2026-07-08_CSO_ERG_LightAdapted_3.0_OU_OD37.1uV_OS30.4uV.png", "title": "رسم الشبكية المضيء Light 3.0 (37.1 يمين / 30.4 شمال)", "desc": "حالي 2026: يؤكد تلف المستقبلات الضوئية المزمن بالعينين مع تفوق الشمال في التلف الإقفاري."},
+            {"grp": "NEURO_AUDIO_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI5a_Audiology_2026-11-03_MaskedPTA_and_GSI39_Tymp_Zoom.png", "title": "ROI5a: سمعيات 03-11-2026 المقنعة وشريط GSI-39 (1.5 / 3.2 سم³)", "desc": "حالي 2026: يثبت فجوة 0 dB وتمييز 84%/76% ويمين 1.5 Type A وشمال 3.2 سم³ Type Ad."},
+            {"grp": "NEURO_AUDIO_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI1a_MRV_Left_Transverse_Sigmoid_IJV_CLAHE_Zoom.png", "title": "ROI1a: تكبير أوردة المخ MRV (ضمور الشمال بنسبة 0.48)", "desc": "حالي 2026: يوثق سيادة الجانب الأيمن وتضيق الجيب المستعرض والسيني الشمال دون أي جلطات."},
+            {"grp": "NEURO_AUDIO_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI1b_MRA_3D_TOF_SourceSlices_SkullBase_Mastoid_Occipital_CLAHE.png", "title": "ROI1b: شرائح MRA الدقيقة لقاع الجمجمة والماستويد", "desc": "حالي 2026: مقاطع محورية 1.0 مم تستبعد أي تمدد شرياني أو ناسور عالي التدفق."},
+            {"grp": "NEURO_AUDIO_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI1c_Left_Mastoid_Sigmoid_Occipital_MicroZoom_dAVF_Audit.png", "title": "ROI1c: التكبير الدقيق للماستويد والمنطقة القذالية", "desc": "حالي 2026: هوائية ممتازة بالماستويد الشمال وغياب أي احتقان وريدي قشري Cognard IIb–IV."},
+            {"grp": "NEURO_AUDIO_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI2_NeuroOtological_IAC_CPA_Orbits_Ethmoid_CLAHE.png", "title": "ROI2: قنوات السمع IAC والتصالب البصري وزيت السيليكون 2.59x", "desc": "حالي 2026: سلامة عصب السمع والتصالب البصري (Film10)، التهاب جيوب غربالية، وزيت السيليكون بالشمال."},
+            {"grp": "NEURO_AUDIO_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI3_BasalGanglia_WhiteMatter_LacunarInfarcts_CLAHE.png", "title": "ROI3: جلطات العقد القاعدية الفجوية وتصلب المادة البيضاء CSVD", "desc": "حالي 2026: جلطات لاكونار مزمنة وبؤر CSVD Fazekas 1–2 مع استبعاد تام للـ MS."},
+            {"grp": "NEURO_AUDIO_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/02_MRA_Intracranial_Arteries/MRA_2026-11-05_Video01_48Slice_ZStack_ContactSheet.png", "title": "لوحة MRA Z-Stack: 48 شريحة من فيديو 3D-TOF الـ 513 شريحة", "desc": "حالي 2026: مسح شرياني كامل من قاع الجمجمة لقمته يؤكد سلامة الشرايين المخية."},
+            {"grp": "NEURO_AUDIO_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/ROI4_Clinical_Handwriting_and_Holter_KeyStrips_Zoom.png", "title": "ROI4: روشتة وملاحظة أ.د. جلهوم + شرائط الهولتر", "desc": "حالي 2026: توثيق Essential Tremor بيد د. جلهوم بجانب نوبة 104 ن/د وهبوط ST -2.1 مم."},
+            {"grp": "NEURO_AUDIO_2026", "historical": False, "img": "../01_Structured_and_Renamed_Inputs/05_Vascular_Carotid_Duplex/VASC_2026-11-07_Carotid_Vertebral_ColorDuplex_IMT0.13cm_LtBulbPlaque5mm.jpg", "title": "دوبلر شرايين الرقبة 07-11-2026 (IMT 0.13 سم | بلاك 5 مم)", "desc": "حالي 2026: البلاك المانع للقسطرة الفورية في عنق الشريان السباتي الشمال."},
         ],
     }
 
     med_audit = {
         "en": [
-            {"med": "Angiopress Comp (Captopril 50 / HCTZ 25 OD) + Proposed Cidamex", "tag": "STOP", "badge": "b-red", "mech": "Dual renal potassium wasting + short 2h captopril half-life", "hazard": "Severe hypokalemia fueling 857 PVCs / 4 V-runs + nocturnal BP rebound surging tinnitus", "action": "STOP HCTZ & AVOID Cidamex; after K+/Mg2+/eGFR + Echo/Stress, transition to Perindopril 5 mg or Telmisartan 40–80 mg + Bisoprolol."},
-            {"med": "Cetrovit (Ginkgo Biloba) + Aggrex 75 + Ciprapra 10", "tag": "STOP", "badge": "b-red", "mech": "Triple platelet aggregation blockade (COX-1 + PAF + platelet 5-HT)", "hazard": "Significant GI bleed & cerebral microbleed hazard on CSVD background without proven SNHL gain", "action": "STOP Cetrovit Ginkgo immediately; keep Aggrex 75–81 mg OD; review necessity of Escitalopram 10 mg."},
-            {"med": "Meclizine 25 mg qPM x1 mo + Brain-Ox (Vincamine 30 mg)", "tag": "STOP", "badge": "b-red", "mech": "Central antihistamine vestibulosuppression + anticholinergic sedation + cerebral vasodilator", "hazard": "Blocks CNS vestibular compensation & elevates fall hazard in &lt;1/60 blindness; Vincamine risks BP dips", "action": "STOP daily Meclizine (prn <=48h acute crisis only) & STOP Brain-Ox; initiate Non-Visual Somatosensory VRT."},
-            {"med": "Inderal (Propranolol 10 mg BID) + Toujeo 30U + Apidra 50U", "tag": "CAUTION", "badge": "b-amber", "mech": "Non-selective beta1/beta2 blockade during high-dose insulin (80 IU/day)", "hazard": "Blunts tachycardia/tremor hypoglycemia alarms & delays hepatic glycogen recovery during 06–09 AM nadir", "action": "Start 14-day CGM immediately; ask Cardiology/Endocrinology about switching to cardioselective Bisoprolol (or monitored Propranolol LA)."},
-            {"med": "Zatorva 20 mg (Atorvastatin)", "tag": "UPGRADE", "badge": "b-blue", "mech": "Moderate-intensity HMG-CoA reductase inhibitor", "hazard": "Insufficient plaque stabilization for 5 mm Lt carotid bulb plaque + -2.1 mm silent coronary ischemia", "action": "Upgrade to Atorvastatin 40–80 mg (or Rosuvastatin 20 mg) nocte targeting LDL &lt; 55 mg/dL (monitor baseline ALT/CK)."},
-            {"med": "Gliptus Plus (Vildagliptin/Metformin 50/1000 BID)", "tag": "CAUTION", "badge": "b-amber", "mech": "Renally cleared biguanide in pending eGFR patient", "hazard": "Metformin-associated lactic acidosis if iodinated CTA/DSA contrast given without eGFR & 48h hold", "action": "Check Cr/eGFR immediately (Metformin safe only if eGFR >= 45; HOLD 48h before/after any CTA/DSA); discuss Empagliflozin 10 mg."},
-            {"med": "Bilateral Ethmoidal Sinusitis + Cobal F (Vit B12)", "tag": "UPGRADE", "badge": "b-green", "mech": "Intranasal steroid mucosal decongestion + Eustachian tube relief", "hazard": "Untreated sinus/mucosal congestion worsening ear fullness; empiric B12 before serum level", "action": "Add Mometasone 50 mcg 2 sprays/nostril daily + isotonic saline x6–8 wks + 30 deg HOB elevation; verify serum B12."},
+            {"tag": "STOP", "badge": "b-red", "med": "Angiopress Comp (Captopril 50 / HCTZ 25 OD) + Proposed Cidamex", "act": "STOP BOTH / Switch BP", "mech": "Short Captopril t1/2 + synergistic proximal/distal renal K+/Mg2+ wasting.", "hazard": "Leaves 16h nocturnal BP spikes fueling venous tinnitus while depleting K+ to ignite 857 PVCs & 4 V-runs.", "res": "Replace Angiopress Comp with 24h Perindopril/Telmisartan (+/- Amlodipine) after K+/Cr check; strictly prohibit oral Cidamex!"},
+            {"tag": "STOP", "badge": "b-red", "med": "Aggrex (Aspirin 75 mg) + Cetrovit Ginkgo + Ciprapra 5 mg", "act": "STOP Ginkgo Today", "mech": "Irreversible COX-1 blockade + PAF antagonism + SSRI platelet 5-HT depletion.", "hazard": "Triple antiplatelet bleed risk (GI & cerebral microbleeds in CSVD) without proven cochlear benefit.", "res": "STOP Cetrovit Ginkgo immediately; maintain Aggrex 75 mg OD (+ PPI if GI symptoms); reassess Ciprapra need."},
+            {"tag": "STOP", "badge": "b-red", "med": "Meclizine 25 mg qPM x 1 Month (ENT Order)", "act": "STOP Immediately", "mech": "Central H1 histamine & strong muscarinic anticholinergic sedation.", "hazard": "Blocks central brain vestibular compensation — catastrophic fall hazard under <1/60 blindness!", "res": "STOP regular daily Meclizine; unlock VRT compensation; reserve strictly <48h for severe acute spinning only."},
+            {"tag": "STOP", "badge": "b-red", "med": "Brain-Ox 30 mg (Vincamine) + Antihypertensives", "act": "Deprescribe Brain-Ox", "mech": "Cerebral vasodilator stacking with antihypertensives & beta-blocker.", "hazard": "Risks nocturnal systemic hypotension & coronary/optic-nerve watershed hypoperfusion (40 um RNFL & -2.1 mm ST).", "res": "Discontinue Brain-Ox once smooth 24h antihypertensive & High-Intensity Statin targets are established."},
+            {"tag": "CAUTION", "badge": "b-amber", "med": "Inderal 10 mg BID (Propranolol) + 80 IU/d Insulin (Toujeo 30 + Apidra 50)", "act": "CGM & Switch Review", "mech": "Non-selective beta1/beta2 blockade + heavy basal-bolus insulin load.", "hazard": "Masks hypoglycemic tachycardia & blunts hepatic glycogen rescue -> aligns directly with 06–09 AM 36.29% PVC cluster.", "res": "Start 14-day CGM (03–09 AM) & Endocrinology insulin titration; ask Cardiology to transition to cardioselective Bisoprolol 2.5–5 mg OD."},
+            {"tag": "CAUTION", "badge": "b-amber", "med": "Gliptus Plus (Vildagliptin / Metformin 1000 mg) + Contrast Imaging", "act": "Check eGFR / 48h Hold", "mech": "Renally cleared biguanide paired with iodinated CT/MR/DSA contrast.", "hazard": "Metformin-Associated Lactic Acidosis (MALA) risk if eGFR <30 or contrast given unheld.", "res": "Verify Cr/eGFR urgently; STRICTLY HOLD Metformin 48 hours around any gatekeeper 4D-MRA / CTA / DSA."},
+            {"tag": "UPGRADE", "badge": "b-blue", "med": "Zatorva 20 mg (Atorvastatin) Sub-Optimal Dose", "act": "Upgrade to 40–80 mg", "mech": "Moderate-intensity HMG-CoA reductase inhibition.", "hazard": "Insufficient plaque stabilization for 5 mm Lt bulb plaque, 0.13 cm IMT, CSVD & -2.1 mm silent ischemia (target LDL <55).", "res": "Escalate to Atorvastatin 40–80 mg nocte (or Rosuvastatin 20 mg) + check lipids & ALT/AST in 6–8 wks."},
+            {"tag": "CAUTION", "badge": "b-amber", "med": "Topical Glaucoma Guardrail & Nasal Mometasone 50 mcg", "act": "B-Scan + 4–6w IOP Check", "mech": "Local silicone oil trabecular emulsification + minimal nasal steroid absorption.", "hazard": "Untreated emulsified oil IOP threatens last 7.99 uV OS VEP & 40 um OD nerve; oral Cidamex is hazardous!", "res": "Obtain Fresh 2026 Ocular B-Scan + Applanation IOP today; use topical drops ONLY if high & check IOP 4–6 wks post-Mometasone."},
         ],
         "ar": [
-            {"med": "Angiopress Comp (كابتوبريل/ثيازيد) + مقترح Cidamex", "tag": "STOP", "tagLbl": "إيقاف ومنع", "badge": "b-red", "mech": "استنزاف مزدوج للبوتاسيوم عبر الكلى + قصر مدة عمل الكابتوبريل (ساعتان)", "hazard": "هبوط بوتاسيوم شديد يؤجج الـ 857 خفقة بطينية والـ 4 نوبات تسارع، مع ارتداد ضغط الليل وزيادة الطنين", "action": "أوقف مدر الثيازيد وامنع Cidamex نهائياً؛ وبعد تحاليل الكهارل/الكلى والإيكو يُنقل إلى Perindopril أو Telmisartan + Bisoprolol."},
-            {"med": "Cetrovit Ginkgo + Aggrex 75 + Ciprapra 10", "tag": "STOP", "tagLbl": "إيقاف الجينكو", "badge": "b-red", "mech": "تثبيط ثلاثي متراكب للصفائح الدموية (COX-1 + PAF + 5-HT)", "hazard": "رفع خطورة نزيف المعدة والمخ على خلفية تصلب الشرايين الدقيقة بدون فائدة مثبتة للعصب السمعي", "action": "أوقف Cetrovit Ginkgo فوراً؛ استمر على الأسبرين Aggrex 75 وراجع جدوى Escitalopram 10 مجم."},
-            {"med": "Meclizine 25 يومياً لشهر + Brain-Ox (فينكامين)", "tag": "STOP", "tagLbl": "إيقاف الاثنين", "badge": "b-red", "mech": "تثبيط مركزي للدهليز + نعاس مضاد للكولين + موسع أوعية عام", "hazard": "يمنع تأقلم المخ ويزيد خطر السقوط مع كف البصر (&lt; 1/60)، والفينكامين يهدد بهبوط الضغط", "action": "أوقف Meclizine اليومي (للحالات الحادة القصوى &lt;= 48 ساعة فقط) وأوقف Brain-Ox وابدأ تأهيل الاتزان اللا بصري."},
-            {"med": "Inderal 10 BID (بروبرانولول) + 80 وحدة أنسولين", "tag": "CAUTION", "tagLbl": "حذر وتبديل", "badge": "b-amber", "mech": "حجب مستقبلات بيتا 1 وبيتا 2 غير الانتقائي مع أنسولين مكثف (Toujeo 30 + Apidra 50)", "hazard": "يطمس أعراض هبوط السكر (الخفقان والرعشة) ويؤخر تعافي الكبد في فترة ذروة 6–9 صباحاً", "action": "تركيب سنسور سكر CGM 14 يوماً فوراً، والتنسيق لاستبدال إندرال بـ Bisoprolol انتقائي بعد تقييم القلب."},
-            {"med": "Zatorva 20 mg (أتورفاستاتين)", "tag": "UPGRADE", "tagLbl": "رفع الجرعة", "badge": "b-blue", "mech": "مثبط إنزيم الدهون بجرعة متوسطة القوة فقط", "hazard": "غير كافٍ لتثبيت بلاك 5 مم بالسباتي ونقص التروية التاجية -2.1 مم وتصلب المخ", "action": "رفع الجرعة إلى Atorvastatin 40–80 مجم أو Rosuvastatin 20 مجم مساءً لاستهداف LDL &lt; 55 مع متابعة الإنزيمات."},
-            {"med": "Gliptus Plus (فيلداجليبتين / ميتفورمين)", "tag": "CAUTION", "tagLbl": "ضبط كلى/صبغة", "badge": "b-amber", "mech": "ميتفورمين يخرج عبر الكلى في غياب قياس eGFR حديث", "hazard": "خطر الحماض اللاكتيكي عند حقن صبغة الأشعة CTA أو القسطرة دون التأكد من الكلى وإيقافه 48 ساعة", "action": "فحص كرياتينين وeGFR فوراً (آمن فقط فوق 45، ويُوقف 48 ساعة لأي أشعة بصبغة)، وبحث إضافة Empagliflozin 10 مجم."},
-            {"med": "التهاب الجيوب الغربالية + Cobal F (فيتامين ب12)", "tag": "UPGRADE", "tagLbl": "إضافة علاجية", "badge": "b-green", "mech": "تخفيف احتقان قناة استاكيوس موضعياً + دعم الأعصاب الطرفية", "hazard": "احتقان الجيوب المزمن يفاقم امتلاء الأذن؛ وتقييم ب12 يلزمه تحليل دم", "action": "إضافة بخاخ Mometasone 50 مكجم بختين/أنف مع غسول ملحي 6–8 أسابيع ورفع الرأس 30° مع تحليل B12 بالدم."},
+            {"tag": "STOP", "badge": "b-red", "med": "Angiopress Comp (كابتوبريل / HCTZ) + اقتراح Cidamex الفموي", "act": "إيقاف ومنع الدمج", "mech": "مفعول كابتوبريل قصير + فقدان مزدوج للبوتاسيوم والماغنيسيوم بالكلى.", "hazard": "يترك ارتفاعاً ليلياً للضغط يغذي الطنين النبضي ويشعل الـ 857 خفقة بطينية و4 نوبات V-runs.", "res": "الاستبدال بـ Perindopril أو Telmisartan طويل المفعول بعد فحص البوتاسيوم والكلى، وحظر Cidamex بالفم نهائياً!"},
+            {"tag": "STOP", "badge": "b-red", "med": "Aggrex 75 + Cetrovit Ginkgo + Ciprapra 5 mg", "act": "وقف Ginkgo فوراً", "mech": "تثبيط COX-1 + PAF + تقليل السيروتونين بالصفائح الدموية معاً.", "hazard": "تداخل نزفي ثلاثي بالصفائح في مريضة CSVD دون أي دليل علمي على فائدة الجينكو لضعف القوقعة.", "res": "وقف Cetrovit Ginkgo اليوم، الاستمرار على Aggrex 75 (+ حماية معدة عند اللزوم)، ومراجعة الحاجة لـ Ciprapra."},
+            {"tag": "STOP", "badge": "b-red", "med": "Meclizine 25 mg يومياً مساءً لمدة شهر", "act": "وقف فوري", "mech": "مضاد هيستامين وكولين مركزي مثبط للدماغ وجهاز الاتزان.", "hazard": "يمنع تعويض المخ للدوخة ويضاعف السقوط لدى مريضة فاقدة للبصر (&lt; 1/60).", "res": "إيقاف الميكليزين اليومي فوراً لفتح باب التأهيل الحسي (ويقتصر <48 ساعة للطوارئ الدوارية الحادة فقط)."},
+            {"tag": "STOP", "badge": "b-red", "med": "Brain-Ox 30 mg (فينكامين) فوق أدوية الضغط", "act": "سحب Brain-Ox", "mech": "توسيع شرياني إضافي غير مثبت الفائدة في الجلطات الفجوية.", "hazard": "قد يسبب هبوط ضغط ليلي يضر العصب البصري (40 µm) والتروية التاجية الصامتة (-2.1 مم).", "res": "إيقاف Brain-Ox مع ضبط الضغط على مدار 24 ساعة ورفع جرعة الستاتين."},
+            {"tag": "CAUTION", "badge": "b-amber", "med": "Inderal 10 BID + 80 وحدة أنسولين يومياً (Toujeo 30 + Apidra 50)", "act": "تركيب CGM ومراجعة", "mech": "حجب مستقبلات β1 و β2 مع جرعة أنسولين مرتفعة صباحاً/مساءً.", "hazard": "يخفي أعراض هبوط السكر المنذرة (النبض السريع) الموافقة لفورة 36.29% PVCs الساعة 6–9 صباحاً.", "res": "تركيب سنسور سكر CGM 14 يوماً + مراجعة الغدد لتخفيف الأنسولين، والتنسيق مع القلب للتحويل إلى Bisoprolol 2.5–5 mg."},
+            {"tag": "CAUTION", "badge": "b-amber", "med": "Gliptus Plus (ميتفورمين 1000) + فحوصات الصبغة", "act": "فحص eGFR وإيقاف 48 س", "mech": "إخراج كلوي للميتفورمين مع صبغات اليود التشخيصية.", "hazard": "خطر الحماض اللاكتيكي (MALA) إذا كان eGFR منخفضاً أو أُجريت صبغة CTA/DSA دون توقف مسبق.", "res": "فحص Creatinine/eGFR فوراً وإيقاف الميتفورمين إلزامياً 48 ساعة قبل وبعد أي أشعة بالصبغة."},
+            {"tag": "UPGRADE", "badge": "b-blue", "med": "Zatorva 20 mg (أتورفاستاتين) جرعة غير كافية", "act": "رفع لـ 40–80 مجم", "mech": "خفض كوليسترول متوسط القوة في حالة وعائية عالية الخطورة.", "hazard": "لا يحقق هدف LDL &lt; 55 المطلوب لبلاك السباتي 5 مم، تصلب المخ، وقصور القلب -2.1 مم.", "res": "الترقية إلى Atorvastatin 40–80 mg (أو Rosuvastatin 20 mg) ليلاً مع متابعة الدهون والإنزيمات بعد 6–8 أسابيع."},
+            {"tag": "CAUTION", "badge": "b-amber", "med": "أمان العصب البصري مع السيليكون وبخاخ Mometasone", "act": "سونار B-Scan وقياس IOP", "mech": "احتمال تسحلب السيليكون بالعين مع متابعة امتصاص الكورتيكوستيرويد الأنفي.", "hazard": "ارتفاع ضغط العين الخفي يهدد ما تبقى في VEP الشمال (7.99 µV) وعصب اليمين 40 µm.", "res": "عمل سونار 2026 وقياس ضغط العين فوراً + قطرات موضعية فقط عند اللزوم + إعادة قياس الضغط بعد 4–6 أسابيع من البخاخ."},
         ],
     }
 
     rx_table = {
         "en": [
-            {"dom": "Cardiology & Vascular Risk", "reg": "Perindopril 5 mg OD (or Telmisartan 40–80) + Bisoprolol 2.5–5 mg + Atorvastatin 40–80 mg + Aggrex 75 mg", "dose": "After K+/Mg2+/eGFR + TTE & Dobutamine/SPECT Stress", "note": "Replaces Angiopress Comp (stops HCTZ K+ loss) & upgrades plaque/coronary protection; no treadmill test due to <1/60 blindness."},
-            {"dom": "Endocrinology & Hypoglycemia Audit", "reg": "14-Day CGM (FreeStyle Libre) auditing Toujeo 30U + Apidra 50U + Gliptus Plus", "dose": "Check HbA1c, eGFR, Urine ACR; discuss Empagliflozin 10 mg", "note": "Targets 03:00–09:00 AM window driving 36.29% morning PVC surge & tremors; hold Metformin 48h for any contrast CTA/DSA."},
-            {"dom": "Neurology & Tremor Clarification", "reg": "Formal MDS-UPDRS off/on Sinemet Challenge -> Taper if non-responsive", "dose": "Controlled video/clinical scoring in Neuro clinic", "note": "Reconciles prior PD label with Prof. Galhom's Essential Tremor + Titubation (2024 EEG = non-epileptic EMG tremor only)."},
-            {"dom": "Neuro-Intervention & ENT Sinus Care", "reg": "Mometasone 50 mcg + Saline x6–8 wks + HOB 30 deg + Bedside Compression Gatekeeper", "dose": "Before 4D-MRA or Temporal HRCT+CTA/CTV (DSA only if positive)", "note": "Relieves venous tinnitus pitch & ethmoiditis; avoids crossing 5 mm Lt carotid bulb plaque blindly."},
-            {"dom": "Neurotology, VNG & Hearing Aids", "reg": "Non-Visual VRT + Dark-Only VNG + Bilateral Open-Fit WDRC RIC Aids", "dose": "Left OSPL90 <= 95–100 dB SPL; soft vented domes", "note": "STOP Meclizine immediately; skip light tracking in VNG (<1/60 blindness); protects OHC loudness pain (Metz+) & avoids venous occlusion."},
+            {"domain": "Cardiology, BP & Anti-Ischemic Core", "drug": "<strong>Bisoprolol 2.5–5 mg OD</strong> (replacing Inderal after Cardiology review) + <strong>Perindopril 5 mg / Telmisartan 40–80 mg</strong> (+/- Amlodipine) + <strong>Atorvastatin 40–80 mg nocte</strong> + <strong>Aggrex 75 mg OD</strong>", "timing": "AM Beta/ACEi; Lunch Aspirin; Nocte Statin | Check K+/Cr/Echo/Stress", "rationale": "Treats -2.1 mm silent CH3 ischemia, blunts AM PVC surge, stops HCTZ K+ wasting & Captopril troughs, stabilizes 5 mm Lt bulb plaque (LDL <55), keeps smooth BP >= 115/70 for optic disc perfusion, and eliminates Ginkgo/Brain-Ox hazards."},
+            {"domain": "Vitreoretinal, Glaucoma & Low-Vision Care", "drug": "Urgent <strong>2026 Ocular B-Scan OU + Applanation IOP + Gonioscopy</strong> -> <strong>Topical Anti-Glaucoma Drops ONLY</strong> if IOP high (NEVER oral Cidamex!) + Focus low-vision aids on <strong>OD (Qual 10)</strong>", "timing": "STAT Ophth visit + IOP recheck 4–6 wks after nasal spray", "rationale": "Confirms attached retina behind Qual 2 OS silicone oil (~7 yrs), guards surviving bilateral VEP conduction (7.99 / 10.29 uV) and severely thinned 40 um OD optic nerve without hypokalemic diuretics."},
+            {"domain": "Diabetes, CGM & Hypoglycemia Fix", "drug": "<strong>Endocrinology Insulin De-Escalation</strong> (80 IU/d Toujeo+Apidra) + Verify <strong>Gliptus Plus (eGFR >= 45)</strong> +/- <strong>SGLT2i (Empagliflozin 10 mg)</strong>", "timing": "14-day CGM (03–09 AM focus); HOLD Metformin 48h pre-contrast", "rationale": "Breaks morning adrenergic hypoglycemia driving BOTH tremors & the 06–09 AM 36.29% PVC cluster; prevents nocturnally blind falls & protects optic disc."},
+            {"domain": "ENT, Hearing Aid & Blindness-Adapted VRT", "drug": "<strong>Bilateral Open-Fit WDRC RIC Aids</strong> (open domes, Lt OSPL90 <= 95–100 dB) + <strong>STOP Meclizine & Ginkgo</strong> + <strong>Mometasone 50 mcg</strong> + saline spray + <strong>30 deg Bed Wedge</strong>", "timing": "Daily non-visual somatosensory VRT; written Dark-Only VNG order", "rationale": "Honors Metz (+45 dB SL), prevents mold occlusion trapping venous hum, unlocks CNS vestibular compensation, clears ethmoiditis, and cuts nighttime venous back-pressure."},
+            {"domain": "Neurology & DSA Gatekeeper Algorithm", "drug": "Formal <strong>Off/On Sinemet MDS-UPDRS Test</strong> + Continue <strong>Cobal F</strong> (post-B12 lab) + Defer Catheter DSA pending <strong>Bedside Light IJV vs Focal Occipital Compression</strong>", "timing": "Neurology clinic visit (avoid sedating Primidone at night)", "rationale": "Verifies true Levodopa benefit vs Galhom's Essential Tremor + Titubation, avoids dangerous blind sedatives, and protects the 5 mm Lt Carotid Bulb plaque from unscreened catheter passage."},
+            {"domain": "Peripheral Vascular (2011) & Fall Safety", "drug": "Check pedal arterial pulses + <strong>Daytime 15–20 mmHg Knee Compression Stockings</strong> (if pulses intact) + Home lighting/grab-bars/white-cane orientation", "timing": "Daytime only (off at night); Podiatry DM foot check", "rationale": "Manages chronic 2011 calf perforator varicosities safely under diabetes while preventing multi-sensory hip/head fractures indoors."},
         ],
         "ar": [
-            {"dom": "أمراض القلب والأوعية الدموية", "reg": "Perindopril 5 مجم (أو Telmisartan) + Bisoprolol 2.5–5 مجم + Atorvastatin 40–80 مجم + Aggrex 75", "dose": "بعد K+/Mg2+/eGFR + الإيكو واختبار الإجهاد الدوائي", "note": "يستبدل Angiopress Comp لمنع فقدان البوتاسيوم ويرفع حماية القلب وبلاك السباتي؛ ويُمنع السير المتحرك بسبب كف البصر."},
-            {"dom": "السكر والغدد ومراقبة الهبوط", "reg": "سنسور سكر 14 يوماً (CGM) لمراجعة Toujeo 30 + Apidra 50 + Gliptus Plus", "dose": "قياس HbA1c و eGFR وزلال البول + بحث Empagliflozin 10", "note": "يركز على فترة 03:00–09:00 ص المسؤولة عن طفرة الخفقات الصباحية؛ وإيقاف الميتفورمين 48 ساعة قبل أي صبغة."},
-            {"dom": "الأعصاب واضطرابات الحركة", "reg": "اختبار MDS-UPDRS موضوعي مع وبدون Sinemet في العيادة -> سحب تدريجي إن ثبت عدم الاستجابة", "dose": "تقييم سريري مقارن قبل التعديل الدوائي", "note": "يحسم الخلاف بين الشلل الرعاش والرعشة الأساسية (Essential Tremor + Titubation) وتخطيط المخ السليم."},
-            {"dom": "الأشعة التداخلية والجيوب الأنفية", "reg": "بخاخ Mometasone + غسول ملحي 6–8 أسابيع + رفع الرأس 30° + اختبار الضغط السريري الموجه", "dose": "قبل طلب 4D-MRA أو CTA الصدغية (والقسطرة كخط ثالث فقط)", "note": "يهدئ احتقان الجيوب الغربالية وضغط الوريد الدماغي ويتجنب العبور العشوائي لبلاك الـ 5 مم بالسباتي الأيسر."},
-            {"dom": "الاتزان والسمعيات والسماعات", "reg": "تأهيل اتزان لا بصري + VNG بالظلام فقط + سماعتان Open-Fit WDRC RIC", "dose": "سقف الخرج الأيسر OSPL90 <= 95–100 dB SPL وقوالب مفتوحة", "note": "إيقاف Meclizine فوراً؛ إلغاء تتبع الضوء في VNG؛ وحماية الأذن من الصدمة الصوتية أو انحباس الطنين."},
+            {"domain": "القلب والضغط وحماية الشرايين", "drug": "<strong>Bisoprolol 2.5–5 mg صباحاً</strong> (بدلاً من Inderal بموافقة القلب) + <strong>Perindopril 5 mg أو Telmisartan 40–80 mg</strong> (+/- أملوديبين) + <strong>Atorvastatin 40–80 mg ليلاً</strong> + <strong>Aggrex 75 mg</strong>", "timing": "الضغط صباحاً؛ الأسبرين غداءً؛ الستاتين ليلاً | إيكو ومراجعة K+/كلى", "rationale": "يعالج القصور التاجي الصامت -2.1 مم، يهدئ الخفقات الصباحية، يمنع نقص بوتاسيوم HCTZ، يثبت بلاك الـ 5 مم (LDL <55)، يحفظ ضغط العصب البصري (>= 115/70)، ويزيل الجينكو وBrain-Ox."},
+            {"domain": "الشبكية والجلوكوما وحماية البصر", "drug": "<strong>سونار B-Scan 2026 عاجل + قياس IOP + فحص زاوية</strong> -> <strong>قطرات موضعيه فقط</strong> عند ارتفاع الضغط (ممنوع Cidamex فموياً!) + تأهيل ضعاف البصر لـ <strong>العين اليمنى</strong>", "timing": "عيادة عيون عاجلة + إعادة قياس الضغط بعد 4–6 أسابيع من البخاخ", "rationale": "يطمئن على استقرار الشبكية خلف السيليكون، يحفظ توصيل VEP الحي بالعينين (7.99 / 10.29 µV) وعصب اليمين 40 µm دون تدمير أملاح القلب."},
+            {"domain": "السكري ومنع هبوط السكر الصباحي", "drug": "<strong>إعادة معايرة جرعة الـ 80 وحدة أنسولين</strong> (Toujeo+Apidra) + فحص <strong>eGFR لـ Gliptus Plus</strong> +/- إضافة <strong>SGLT2i (إمباغليفلوزين 10)</strong>", "timing": "سنسور CGM 14 يوماً (3–9 ص)؛ وقف ميتفورمين 48 س قبل أي صبغة", "rationale": "يوقف هبوط السكر الصباحي المسبب للرعشة الأدرينالية وطفرة الـ 36.29% للـ PVCs الساعة 6–9 صباحاً."},
+            {"domain": "الأذن والسمع والجيوب والاتزان", "drug": "<strong>سماعتان Open-Fit WDRC RIC</strong> (بقمع مهوّى وحد أقصى <= 95–100 dB بالشمال) + <strong>وقف Meclizine و Ginkgo</strong> + بخاخ <strong>Mometasone</strong> ومحلول ملح + مخدة 30 درجة", "timing": "علاج طبيعي حسي يومي للاتزان + VNG بالضلمة فقط", "rationale": "يحل ضعف السمع بأمان مع حساسية Metz، يمنع كتم الطنين، ينشط تعويض المخ، ويعالج الجيوب الغربالية وضغط الأوردة الليلي."},
+            {"domain": "المخ والأعصاب وبوابة الـ DSA", "drug": "اختبار <strong>MDS-UPDRS</strong> مع وبدون Sinemet + استمرار <strong>Cobal F</strong> (بعد تحليل B12) + <strong>اختبار الضغط اللطيف للوريد vs القذالي</strong> قبل أي أشعة صبغة", "timing": "عيادة أعصاب (ممنوع المهدئات الليلية كالـ Primidone)", "rationale": "يفصل بين رعشة الأساس والباركنسون الوعائي، ويحمي بلاك السباتي الـ 5 مم من قسطرة غير مبررة."},
+            {"domain": "أوردة الساقين وتأمين المنزل", "drug": "فحص نبض شرايين القدم + <strong>شراب دوالي خفيف 15–20 مم نهاراً</strong> (عند سلامة الشرايين) + تأمين الحمام والعتبات من السقوط", "timing": "نهاراً فقط؛ متابعة قدم سكري", "rationale": "يعالج ارتجاع الثواقب السطحي بأمان ويقي من كسور السقوط في مريضة فاقدة للبصر."},
         ],
     }
 
     checklist = {
         "en": [
-            {"id": "lab_elec", "txt": "STAT Serum Electrolytes & Renal Panel: K+, Mg2+, Na+, Ca2+, Creatinine/eGFR, Urine ACR (Stop HCTZ / Avoid Cidamex until K+ verified)"},
-            {"id": "lab_met", "txt": "Start 14-Day CGM (03:00–09:00 AM hypoglycemia audit on 80 IU/d insulin) + HbA1c, Fasting Lipids (LDL target <55), TSH, CBC, Vit B12, ALT/AST"},
-            {"id": "card_img", "txt": "Transthoracic Echocardiogram (TTE) + Pharmacological Stress Echo/SPECT for CH3 -2.1 mm silent ischemia (Treadmill INVALID due to <1/60 blindness)"},
-            {"id": "bed_tin", "txt": "Quiet Mastoid Auscultation + Selective Light Anterior IJV vs Pinpoint Occipital Artery Compression to separate venous hum from occipital dAVF"},
-            {"id": "ent_vng", "txt": "STOP Meclizine, Cetrovit Ginkgo & Brain-Ox; notify VNG Lab in writing: <1/60 legal blindness -> Dark Positional + Bithermal Calorics ONLY (Skip Light Tracking!)"},
-            {"id": "sinus_ha", "txt": "Mometasone nasal spray + saline x6–8 wks + 30 deg head elevation; Bilateral Open-Fit WDRC RIC Hearing Aids (Left OSPL90 <= 95–100 dB SPL)"},
-            {"id": "mov_updrs", "txt": "Perform formal off/on Sinemet MDS-UPDRS test before tapering Levodopa; coordinate Beta-Blocker selection with active CGM"},
-            {"id": "gate_dsa", "txt": "Gatekeeper Rule: Only if bruit/red flags persist or medical/sinus trial fails -> 4D-MRA or Temporal HRCT+CTA/CTV (hold Metformin 48h!) BEFORE conditional DSA"},
+            {"id": "c1", "txt": "STAT Blood Panel: K+, Na+, Mg2+, Ca2+, Serum Creatinine/eGFR, HbA1c, Fasting Lipids (LDL), CBC, TSH, Vitamin B12, ALT/AST."},
+            {"id": "c2", "txt": "STOP daily Meclizine, Cetrovit Ginkgo & Brain-Ox immediately; PROHIBIT systemic oral Acetazolamide (Cidamex) alongside HCTZ."},
+            {"id": "c3", "txt": "Urgent Ophthalmology Evaluation: Fresh 2026 Bilateral Ocular B-Scan + Applanation IOP + Gonioscopy (treat raised IOP with TOPICAL drops ONLY)."},
+            {"id": "c4", "txt": "Written VNG Lab Safety Notice: State <1/60 blindness upfront — CANCEL optical saccade/pursuit/OPK calibration; run DARK positional & caloric tests ONLY."},
+            {"id": "c5", "txt": "Execute Bedside Differential Vascular Test: Quiet mastoid auscultation + light anterior Left IJV pressure vs pinpoint Left Occipital Artery compression."},
+            {"id": "c6", "txt": "Initiate 14-Day CGM (FreeStyle Libre) or 7-pt SMBG inspecting 03:00–09:00 AM glucose dips fueling 36.29% morning PVCs + Endocrinology insulin audit."},
+            {"id": "c7", "txt": "Cardiology Consultation: TTE + Pharmacological Stress Echo/SPECT (NO treadmill!) for -2.1 mm ST depression + approval to switch Angiopress Comp / Inderal / Zatorva 20."},
+            {"id": "c8", "txt": "Neurology In-Person Exam: Off vs On Sinemet MDS-UPDRS Part III testing to separate Essential Tremor/Titubation (Galhom) from Vascular Parkinsonism."},
+            {"id": "c9", "txt": "Fit Bilateral Open-Fit WDRC RIC Hearing Aids (soft vented domes, strict Left OSPL90 <= 95–100 dB SPL) + Start Mometasone 50 mcg spray & 30 deg head-of-bed elevation."},
+            {"id": "c10", "txt": "Begin Daily Non-Visual Somatosensory Balance Physiotherapy (VRT), Home Fall-Proofing, Podiatry Check & Recheck IOP 4–6 wks after starting Mometasone."},
         ],
         "ar": [
-            {"id": "lab_elec", "txt": "تحاليل عاجلة للكهارل والكلى: K+, Mg2+, Na+, Ca2+، الكرياتينين/eGFR، وزلال البول (ومنع Cidamex ووقف الثيازيد لحين المراجعة)"},
-            {"id": "lab_met", "txt": "بدء سنسور سكر CGM 14 يوماً (لفحص فجر 03:00–09:00 ص مع 80 وحدة أنسولين) + التراكمي HbA1c والدهون الصائمة وTSH وصورة الدم وB12 وإنزيمات الكبد"},
-            {"id": "card_img", "txt": "إيكو على القلب (TTE) + إيكو دوائي أو مسح ذري (Pharmacological Stress) لهبوط ST -2.1 مم (يُمنع السير المتحرك تماماً لكف البصر < 1/60)"},
-            {"id": "bed_tin", "txt": "تسمع خلف الأذن بالسماعة + مقارنة الضغط الأمامي اللطيف على الوريد الوداجي مقابل الضغط النقطي الدقيق على الشريان القذالي"},
-            {"id": "ent_vng", "txt": "إيقاف Meclizine و Cetrovit Ginkgo و Brain-Ox فوراً؛ وتسليم تنبيه مكتوب لمعمل VNG بإلغاء اختبارات الضوء والاقتصار على الظلام + السعرات المائية"},
-            {"id": "sinus_ha", "txt": "بخاخ Mometasone + غسول ملحي 6–8 أسابيع + رفع الرأس 30°؛ وتركيب سماعتين Open-Fit WDRC RIC بحد خرج أيسر <= 95–100 dB SPL"},
-            {"id": "mov_updrs", "txt": "إجراء اختبار MDS-UPDRS مع وبدون سينيمت قبل سحب الدواء؛ ومراجعة استبدال إندرال مع قراءات سنسور السكر الصباحية"},
-            {"id": "gate_dsa", "txt": "قاعدة الفرز الآمن: في حال استمرار الاشتباه بعد الفحص الموجه والعلاج -> أشعة 4D-MRA أو مقطعية بالصبغة (بعد إيقاف الميتفورمين 48 ساعة) قبل أي قسطرة مخية"},
+            {"id": "c1", "txt": "تحاليل دم عاجلة اليوم: البوتاسيوم K+، الصوديوم، الماغنيسيوم، الكالسيوم، وظائف الكلى Cr/eGFR، السكر التراكمي، الدهون الكاملة، صورة الدم، الغدة الدرقية TSH، وفيتامين B12."},
+            {"id": "c2", "txt": "إيقاف Meclizine و Cetrovit Ginkgo و Brain-Ox فوراً اليوم؛ ومنع استخدام Cidamex (أسيتازولاميد) بالفم مع مدّر البول الثيازيد."},
+            {"id": "c3", "txt": "فحص عيون عاجل: سونار B-Scan 2026 جديد للعينين + قياس ضغط العين + فحص الزاوية (وعلاج أي ضغط مرتفع بقطرات موضعية فقط)."},
+            {"id": "c4", "txt": "تنبيه كتابي لمعمل الـ VNG: توثيق فقدان البصر &lt; 1/60 لإلغاء تتبع الضوء والاعتماد على الوضعيات والاختبار الحراري في الضلمة فقط."},
+            {"id": "c5", "txt": "اختبار العيادة التفرقي: تسمع بالسماعة خلف الأذن ومقارنة ضغط الوريد الوداجي الأمامي الخفيف مقابل الضغط النقطي على الشريان القذالي."},
+            {"id": "c6", "txt": "تركيب سنسور سكر CGM 14 يوماً (أو 7 قياسات) لفحص فترة 3–9 صباحاً ومراجعة الـ 80 وحدة أنسولين مع طبيب السكر والغدد الصماء."},
+            {"id": "c7", "txt": "استشارة القلب: إيكو TTE + مسح ذري/إيكو دوائي (دون سير كهربائي!) لتقييم هبوط ST -2.1 مم والتحويل لـ Bisoprolol + Perindopril/Telmisartan + Atorvastatin 40-80."},
+            {"id": "c8", "txt": "فحص أعصاب حضوري MDS-UPDRS مع وبدون السينيمت لحسم دوره مقابل رعشة الأساس (أ.د. جلهوم) والرعشة الوعائية."},
+            {"id": "c9", "txt": "تركيب سماعتين رقميتين Open-Fit WDRC RIC بقبة مهواة وسقف خروج &lt;= 95–100 dB للأذن الشمال + بخاخ Mometasone ورفع الرأس 30 درجة وقت النوم."},
+            {"id": "c10", "txt": "بدء علاج طبيعي حسي للاتزان (VRT غير بصري)، تأمين المنزل من السقوط، وإعادة قياس ضغط العين بعد 4–6 أسابيع من بخاخ الجيوب."},
         ],
     }
 
@@ -1344,6 +1661,7 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>MDT Clinical Case Study — Amal Mokhtar Mohamed Ibrahim (63.5y F)</title>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230F172A'/%3E%3Cpath d='M7 16h5l2.5-6 3.5 12 2.5-6H25' stroke='%230284C7' stroke-width='2.6' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800&family=Inter:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@600;700;800&family=Tajawal:wght@500;700;800&display=swap" rel="stylesheet">
@@ -2042,6 +2360,120 @@ tr:last-child td { border-bottom: none; }
   .shell { display: block; padding: 0; }
   body.print-all .tab-panel { display: block !important; page-break-after: always; }
 }
+
+/* 7-Consultant 3-Block, Historical Warning, Pending & Q&A Upgrades */
+.hist-warn-card {
+  border: 2px solid #f59e0b !important;
+  box-shadow: 0 0 0 1px rgba(245, 158, 11, 0.25), var(--glass-shadow);
+  background: linear-gradient(180deg, rgba(245, 158, 11, 0.09), var(--glass-bg) 38%);
+}
+.hist-banner {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 11px;
+  font-weight: 800;
+  padding: 3px 9px;
+  border-radius: 999px;
+  background: rgba(245, 158, 11, 0.16);
+  border: 1px solid #d97706;
+  color: #b45309;
+  margin-bottom: 6px;
+}
+[data-theme="dark"] .hist-banner {
+  color: #fcd34d;
+  background: rgba(245, 158, 11, 0.22);
+}
+.curr-banner {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 10.5px;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: rgba(16, 185, 129, 0.14);
+  border: 1px solid rgba(16, 185, 129, 0.45);
+  color: var(--green);
+  margin-bottom: 6px;
+}
+.pending-box {
+  border: 2px dashed var(--accent);
+  background: var(--blue-bg);
+  border-radius: 14px;
+  padding: 16px;
+  margin-bottom: 18px;
+}
+.pending-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+  margin-top: 10px;
+}
+.pending-item {
+  background: var(--glass-strong);
+  border: 1px solid var(--glass-border);
+  border-radius: 10px;
+  padding: 10px 12px;
+  font-size: 12.6px;
+}
+.qa-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin-bottom: 18px;
+}
+.qa-card {
+  border-radius: 14px;
+  padding: 14px 16px;
+  border: 1px solid var(--glass-border);
+  background: var(--glass-strong);
+  box-shadow: var(--glass-shadow);
+}
+.qa-blue { border-top: 4px solid #0284c7; }
+.qa-red { border-top: 4px solid #dc2626; }
+.qa-amber { border-top: 4px solid #d97706; }
+.qa-card ul { margin: 8px 0 0; padding-inline-start: 18px; font-size: 12.6px; line-height: 1.55; }
+.qa-card li { margin-bottom: 6px; }
+.c-block {
+  border-radius: 10px;
+  padding: 10px 12px;
+  margin-top: 8px;
+  font-size: 13px;
+  line-height: 1.58;
+  border: 1px solid var(--glass-border);
+}
+.c-block-conc { background: var(--blue-bg); border-inline-start: 4px solid #0284c7; }
+.c-block-imm { background: var(--red-bg); border-inline-start: 4px solid #dc2626; }
+.c-block-plan { background: var(--glass-bg); border-inline-start: 4px solid #16a34a; }
+.c-block-lbl { display: block; font-size: 11.5px; text-transform: uppercase; letter-spacing: 0.4px; font-weight: 800; margin-bottom: 4px; color: var(--text); }
+.c-block-plan ul { margin: 4px 0 0; padding-inline-start: 18px; }
+.c-block-plan li { margin-bottom: 5px; }
+.pdf-dl-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 10px;
+}
+.pdf-dl-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 14px;
+  border-radius: 12px;
+  background: var(--glass-strong);
+  border: 1px solid var(--glass-border);
+  text-decoration: none;
+  color: var(--text);
+  transition: transform .15s ease, border-color .15s ease;
+}
+.pdf-dl-card:hover { transform: translateY(-2px); border-color: var(--accent); }
+.tr-hist { background: rgba(245, 158, 11, 0.08); }
+@media (max-width: 980px) {
+  .pending-grid, .qa-grid, .pdf-dl-grid { grid-template-columns: 1fr; }
+}
+
 </style>
 </head>
 <body>
@@ -2077,33 +2509,31 @@ tr:last-child td { border-bottom: none; }
   </aside>
 
   <main>
-    <!-- TAB 1: PATIENT PROFILE & CLINICAL HISTORY -->
+    <!-- TAB 1: 01. PATIENT PROFILE & CLINICAL HISTORY -->
     <section id="tab-profile" class="tab-panel active"></section>
 
-    <!-- TAB 2: NEUROIMAGING VIDEOS & DIAGNOSTIC WORKUP -->
-    <section id="tab-workup" class="tab-panel">
-      <!-- HERO VIDEO SUITE -->
+    <!-- TAB 2: 02. NEUROIMAGING VIDEO SUITE (MRI / MRA / MRV) -->
+    <section id="tab-videos" class="tab-panel">
       <section id="neuroimaging-video-suite" class="video-suite-hero" aria-label="Neuroimaging Video Suite">
         <div class="video-suite-head">
-          <h2 id="videoSuiteHeading">🎥 Neuroimaging Video Suite (Interactive DICOM / MRI / MRV Viewer)</h2>
+          <h2 id="videoSuiteHeading">Neuroimaging Video Suite (Interactive DICOM / MRI / MRV Viewer)</h2>
           <div id="videoBadgesHost" style="display:flex;flex-wrap:wrap;gap:6px;align-items:center;"></div>
         </div>
         <div class="video-grid" id="videoGridHost"></div>
       </section>
-
-      <div id="workupBodyHost"></div>
+      <div id="videoBodyHost"></div>
     </section>
 
-    <!-- TAB 3: PRIOR CONSULTANTS & CLINICAL CONFLICT -->
+    <!-- TAB 3: 03. DIAGNOSTICS, LABS & IMAGING GALLERY -->
+    <section id="tab-diagnostics" class="tab-panel"></section>
+
+    <!-- TAB 4: 04. PRIOR CONSULTANTS & CLINICAL CONFLICT -->
     <section id="tab-prior" class="tab-panel"></section>
 
-    <!-- TAB 4: 6-CONSULTANT MDT BOARD AUDITS -->
+    <!-- TAB 5: 05. 7-CONSULTANT MDT BOARD (CONCLUSIONS & ACTION PLANS) -->
     <section id="tab-board" class="tab-panel"></section>
 
-    <!-- TAB 5: FINAL CONSENSUS & RESOLVED DILEMMAS -->
-    <section id="tab-consensus" class="tab-panel"></section>
-
-    <!-- TAB 6: NEXT WORKUP & MASTER TREATMENT PLAN -->
+    <!-- TAB 6: 06. MASTER TREATMENT & MEDICATION PLAN -->
     <section id="tab-plan" class="tab-panel"></section>
   </main>
 </div>
@@ -2120,7 +2550,8 @@ tr:last-child td { border-bottom: none; }
         <button type="button" class="btn-filter" id="mClose" onclick="closeModal()">Close</button>
       </div>
     </div>
-    <div class="modal-img-wrap"><img id="modalImg" src="" alt="ROI Preview"></div>
+    <div id="modalHistWrap"></div>
+    <div class="modal-img-wrap"><img id="modalImg" src="" alt="Plate Preview"></div>
     <div id="modalCaption" style="font-size:12.6px;color:var(--text-muted);"></div>
   </div>
 </div>
@@ -2130,7 +2561,8 @@ const MDT_DATA = __DATA_JSON__;
 
 let currentLang = "en";
 let activeTabId = "tab-profile";
-let activeBoardFilter = 0; // 0 = all 6, or 1..6
+let activeBoardFilter = 0; // 0 = all 7, or 1..7
+let activeGalleryFilter = "ALL";
 let activeFileFilter = "ALL";
 let activeMedFilter = "ALL";
 let videoCardsBuilt = false;
@@ -2139,21 +2571,23 @@ function getT() { return MDT_DATA.i18n[currentLang]; }
 
 function setLang(lang) {
   currentLang = (lang === "ar") ? "ar" : "en";
-  localStorage.setItem("mdt_lang_strict_v3", currentLang);
+  localStorage.setItem("mdt_lang_strict_v4", currentLang);
   const root = document.documentElement;
   root.setAttribute("lang", currentLang);
   root.setAttribute("dir", currentLang === "ar" ? "rtl" : "ltr");
   document.querySelectorAll(".lang-opt").forEach(b => {
     b.classList.toggle("active", b.getAttribute("data-lang") === currentLang);
   });
+  videoCardsBuilt = false;
   renderAll();
 }
 
 function switchTab(id) {
   activeTabId = id;
   document.querySelectorAll(".tab-panel").forEach(p => p.classList.remove("active"));
-  document.getElementById(id).classList.add("active");
-  if (id === "tab-workup") {
+  const el = document.getElementById(id);
+  if (el) el.classList.add("active");
+  if (id === "tab-videos") {
     document.querySelectorAll("#videoGridHost video").forEach(v => {
       if (v.readyState === 0 && v.networkState === 0) { v.load(); }
     });
@@ -2162,7 +2596,7 @@ function switchTab(id) {
 }
 
 function jumpToVideoSuite() {
-  switchTab("tab-workup");
+  switchTab("tab-videos");
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
@@ -2170,7 +2604,7 @@ function toggleTheme() {
   const root = document.documentElement;
   const next = root.getAttribute("data-theme") === "dark" ? "light" : "dark";
   root.setAttribute("data-theme", next);
-  localStorage.setItem("mdt_theme_v3", next);
+  localStorage.setItem("mdt_theme_v4", next);
   renderHeaderLabels();
 }
 
@@ -2180,20 +2614,20 @@ function renderHeaderLabels() {
   document.getElementById("brandTitle").textContent = t.brandTitle;
   document.getElementById("brandSub").textContent = t.brandSub;
   const isDark = document.documentElement.getAttribute("data-theme") === "dark";
-  document.getElementById("btnTheme").innerHTML = (isDark ? "☀️ " : "🌙 ") + `<span>${isDark ? t.btnThemeLight : t.btnThemeDark}</span>`;
+  document.getElementById("lblTheme").textContent = isDark ? t.btnThemeLight : t.btnThemeDark;
   document.getElementById("lblPrintTab").textContent = t.btnPrintTab;
   document.getElementById("lblPrintAll").textContent = t.btnPrintAll;
   document.getElementById("lblNavHeader").textContent = t.navLabel;
   document.getElementById("lblPdfHeader").textContent = t.pdfLabel;
-  document.getElementById("pdfLinksHost").innerHTML = t.pdfLinks.map(l =>
-    `<a href="${l.href}" target="_blank">📄 ${l.txt}</a>`
+  document.getElementById("pdfLinksHost").innerHTML = t.pdfLinks.map(p =>
+    `<a href="${p.href}" target="_blank" rel="noopener">${p.txt}</a>`
   ).join("");
 }
 
 function renderSidebarNav() {
   const t = getT();
   document.getElementById("tabNavHost").innerHTML = t.tabs.map(tb => `
-    <button type="button" class="nav-btn ${tb.id === activeTabId ? "active" : ""}" data-tab="${tb.id}" onclick="switchTab('${tb.id}')">
+    <button type="button" class="nav-btn ${tb.id === activeTabId ? "active" : ""}" onclick="switchTab('${tb.id}')">
       <span>${tb.label}</span>
       <span class="nav-pill">${tb.count}</span>
     </button>
@@ -2201,20 +2635,21 @@ function renderSidebarNav() {
 }
 
 function renderTab1() {
-  const t1 = getT().t1;
+  const t = getT();
+  const c = t.t1;
   document.getElementById("tab-profile").innerHTML = `
     <div class="jump-banner">
-      <div style="flex:1 1 360px;">
-        <div style="font-size:15px;font-weight:800;margin-bottom:3px;">🎥 ${t1.jumpTitle}</div>
-        <div style="font-size:12.5px;color:#cbd5e1;">${t1.jumpSub}</div>
+      <div>
+        <strong style="font-size:15px;">&#127909; ${c.jumpTitle}</strong>
+        <div style="font-size:12.6px;color:var(--text-muted);margin-top:3px;">${c.jumpSub}</div>
       </div>
-      <button type="button" class="jump-cta" onclick="jumpToVideoSuite()">${t1.jumpBtn} →</button>
+      <button type="button" class="jump-cta" onclick="jumpToVideoSuite()">${c.jumpBtn} &rarr;</button>
     </div>
 
-    <div class="section-head"><h2>${t1.secHead}</h2></div>
-    <div class="grid-4">
-      ${t1.kpis.map(k => `
-        <div class="kpi ${k.cls === 'danger' ? 'danger' : (k.cls === 'warn' ? 'warn' : '')}">
+    <h2 class="section-head">${c.secHead}</h2>
+    <div class="grid-4" style="margin-bottom:14px;">
+      ${c.kpis.map(k => `
+        <div class="kpi ${k.cls}">
           <div class="lbl">${k.lbl}</div>
           <div class="val">${k.val}</div>
           <div class="sub">${k.sub}</div>
@@ -2222,170 +2657,125 @@ function renderTab1() {
       `).join("")}
     </div>
 
-    <div class="alert alert-red">
-      <strong>⚠️ ${t1.safetyTitle}</strong>
-      <ul style="margin:8px 0 0;padding-inline-start:20px;">
-        ${t1.safetyBullets.map(b => `<li style="margin-bottom:4px;">${b}</li>`).join("")}
+    <div class="alert alert-red" style="margin-bottom:16px;">
+      <strong style="font-size:14.2px;">&#9888;&#65039; ${c.safetyTitle}</strong>
+      <ul style="margin:8px 0 0;padding-inline-start:20px;font-size:13px;line-height:1.58;">
+        ${c.safetyBullets.map(b => `<li style="margin-bottom:5px;">${b}</li>`).join("")}
       </ul>
     </div>
 
-    <div class="glass-card" style="margin-bottom:16px;">
-      <h3>${t1.compHead}</h3>
-      <div class="grid-2" style="margin-bottom:0;">
-        ${t1.complaints.map(c => `
-          <div class="glass-card" style="background:var(--glass-strong);padding:14px;">
-            <div style="display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:6px;">
-              <strong style="font-size:14px;">${c.title}</strong>
-              <span class="badge ${c.badge}">${c.tag}</span>
-            </div>
-            <p style="margin:0;font-size:12.8px;color:var(--text-muted);">${c.desc}</p>
+    <h3 class="section-head">${c.compHead}</h3>
+    <div class="grid-2" style="margin-bottom:18px;">
+      ${c.complaints.map(cp => `
+        <div class="glass-card">
+          <div style="display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:6px;">
+            <strong style="font-size:14.5px;">${cp.title}</strong>
+            <span class="badge ${cp.badge}">${cp.tag}</span>
           </div>
-        `).join("")}
-      </div>
+          <p style="margin:0;font-size:13px;color:var(--text-muted);line-height:1.55;">${cp.desc}</p>
+        </div>
+      `).join("")}
     </div>
 
-    <div class="glass-card" style="margin-bottom:16px;">
-      <h3>${t1.timelineHead}</h3>
+    <h3 class="section-head">${c.timelineHead}</h3>
+    <div class="glass-card" style="margin-bottom:18px;">
       <div class="timeline-list">
-        ${t1.timeline.map(ev => `
-          <div class="tl-item">
-            <div class="tl-date">${ev.date}</div>
+        ${c.timeline.map(ev => `
+          <div class="tl-item ${ev.hist ? "hist-warn-card" : ""}" style="padding:10px 12px;border-radius:10px;">
             <div>
-              <div style="font-weight:700;font-size:13px;margin-bottom:2px;">${ev.src}</div>
-              <div style="font-size:12.6px;color:var(--text-muted);">${ev.detail}</div>
+              ${ev.hist ? `<div class="hist-banner">&#9888;&#65039; ${t.histShortBadge}</div><br>` : `<div class="curr-banner">&#9989; ${t.currBadge}</div><br>`}
+              <span class="tl-date">${ev.date}</span>
+            </div>
+            <div>
+              <strong style="font-size:13.2px;">${ev.src}</strong>
+              <p style="margin:4px 0 0;font-size:12.8px;color:var(--text-muted);">${ev.detail}</p>
             </div>
           </div>
         `).join("")}
       </div>
     </div>
 
-    <div class="glass-card">
-      <h3>${t1.medsHead}</h3>
-      <div class="table-wrap">
-        <table>
-          <thead><tr>${t1.medCols.map(c => `<th>${c}</th>`).join("")}</tr></thead>
-          <tbody>
-            ${t1.currentMeds.map(m => `
-              <tr>
-                <td><strong>${m.drug}</strong></td>
-                <td><code>${m.dose}</code></td>
-                <td>${m.src}</td>
-                <td>${m.role}</td>
-                <td><span class="badge ${m.badge}">${m.tag}</span></td>
-              </tr>
-            `).join("")}
-          </tbody>
-        </table>
-      </div>
+    <h3 class="section-head">${c.medsHead}</h3>
+    <div class="table-wrap glass-card">
+      <table>
+        <thead><tr>${c.medCols.map(col => `<th>${col}</th>`).join("")}</tr></thead>
+        <tbody>
+          ${c.currentMeds.map(m => `
+            <tr>
+              <td><strong>${m.drug}</strong></td>
+              <td>${m.dose}</td>
+              <td>${m.src}</td>
+              <td>${m.role}</td>
+              <td><span class="badge ${m.badge}">${m.tag}</span></td>
+            </tr>
+          `).join("")}
+        </tbody>
+      </table>
     </div>
   `;
 }
 
 function buildOrUpdateVideoSuite() {
   const t2 = getT().t2;
-  document.getElementById("videoSuiteHeading").textContent = "🎥 " + t2.videoSuiteTitle;
+  document.getElementById("videoSuiteHeading").innerHTML = "&#127909; " + t2.videoSuiteTitle;
   document.getElementById("videoBadgesHost").innerHTML = t2.videoBadges.map((b, i) =>
     `<span class="badge ${i === 0 ? "b-blue" : "b-green"}">${b}</span>`
   ).join("");
 
   if (!videoCardsBuilt) {
     document.getElementById("videoGridHost").innerHTML = t2.videos.map((v, idx) => `
-      <article class="video-card">
+      <div class="video-card">
         <div class="video-frame-wrap">
-          <video controls preload="metadata" playsinline class="w-full h-64 object-contain rounded-lg shadow-md bg-black" src="${v.src}"></video>
+          <video id="neuroVid${idx}" controls preload="metadata" playsinline>
+            <source src="${v.src}" type="video/mp4">
+          </video>
         </div>
         <div class="video-card-body">
           <div style="display:flex;justify-content:space-between;align-items:center;gap:6px;">
-            <h4 id="vTitle${idx}">${v.title}</h4>
-            <span id="vBadge${idx}" class="badge ${v.badgeCls}">${v.badge}</span>
+            <strong style="font-size:13.8px;">${v.title}</strong>
+            <span class="badge ${v.badgeCls}">${v.badge}</span>
           </div>
-          <p id="vDesc${idx}">${v.desc}</p>
+          <p style="margin:0;font-size:12.4px;color:var(--text-muted);line-height:1.5;">${v.desc}</p>
           <div class="video-actions">
-            <a id="vDl${idx}" href="${v.src}" download class="btn-download">⬇ ${v.dlText}</a>
-            <a id="vSec${idx}" href="${v.secHref}" ${v.secDownload ? "download" : 'target="_blank"'} style="font-size:12px;font-weight:700;">${v.secText} ↗</a>
+            <a href="${v.src}" download class="btn-download" style="flex:1;justify-content:center;">&#11015;&#65039; ${v.dlText}</a>
+            <a href="${v.secHref}" ${v.secDownload ? "download" : 'target="_blank"'} class="btn-filter">${v.secText}</a>
           </div>
         </div>
-      </article>
+      </div>
     `).join("");
     videoCardsBuilt = true;
-  } else {
-    t2.videos.forEach((v, idx) => {
-      document.getElementById(`vTitle${idx}`).textContent = v.title;
-      document.getElementById(`vBadge${idx}`).textContent = v.badge;
-      document.getElementById(`vDesc${idx}`).innerHTML = v.desc;
-      document.getElementById(`vDl${idx}`).textContent = "⬇ " + v.dlText;
-      document.getElementById(`vSec${idx}`).textContent = v.secText + " ↗";
-    });
   }
 }
 
-function renderTab2Body() {
+function renderTab2Videos() {
   const t2 = getT().t2;
-  const counts = { ALL: MDT_DATA.files_index.length };
-  MDT_DATA.files_index.forEach(f => { counts[f.grp] = (counts[f.grp] || 0) + 1; });
-
-  document.getElementById("workupBodyHost").innerHTML = `
-    <div class="glass-card" style="margin-bottom:16px;">
-      <h3>${t2.diagHead}</h3>
-      <div class="grid-3" style="margin-bottom:0;">
-        ${t2.investigations.map(inv => `
-          <div class="glass-card" style="background:var(--glass-strong);padding:14px;">
-            <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:6px;margin-bottom:8px;">
-              <strong style="font-size:13.5px;">${inv.title}</strong>
-              <span class="badge ${inv.badge}">${inv.status}</span>
-            </div>
-            <ul style="margin:0;padding-inline-start:18px;font-size:12.4px;color:var(--text-muted);">
-              ${inv.metrics.map(m => `<li style="margin-bottom:4px;">${m}</li>`).join("")}
-            </ul>
+  buildOrUpdateVideoSuite();
+  document.getElementById("videoBodyHost").innerHTML = `
+    <h3 class="section-head" style="margin-top:16px;">${t2.seqHead}</h3>
+    <div class="grid-3" style="margin-bottom:18px;">
+      ${t2.seqCards.map(s => `
+        <div class="glass-card">
+          <div style="display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:6px;">
+            <strong style="font-size:13.8px;">${s.title}</strong>
+            <span class="badge ${s.badge}">${s.tag}</span>
           </div>
-        `).join("")}
-      </div>
-    </div>
-
-    <div class="glass-card" style="margin-bottom:16px;">
-      <h3>${t2.chartsHead}</h3>
-      <div class="grid-2" style="margin-bottom:0;">
-        <div class="glass-card" style="background:var(--glass-strong);padding:14px;">
-          <h4 style="font-size:13.5px;margin-bottom:8px;">${t2.holterChartTitle}</h4>
-          <div class="svg-wrap" id="holterSvgWrap"></div>
+          <p style="margin:0;font-size:12.8px;color:var(--text-muted);line-height:1.55;">${s.desc}</p>
         </div>
-        <div class="glass-card" style="background:var(--glass-strong);padding:14px;">
-          <h4 style="font-size:13.5px;margin-bottom:8px;">${t2.audioChartTitle}</h4>
-          <div class="svg-wrap" id="audioSvgWrap"></div>
-        </div>
-      </div>
+      `).join("")}
     </div>
 
-    <div class="glass-card" style="margin-bottom:16px;">
-      <h3>${t2.roiHead}</h3>
-      <div class="gallery-grid" id="roiGallery"></div>
-    </div>
-
-    <div class="glass-card">
-      <h3>${t2.filesHead}</h3>
-      <div class="filter-bar">
-        <input id="fileSearch" type="search" class="search-input" placeholder="${t2.searchPh}" oninput="renderFileTable()">
-        ${t2.fileFilters.map(ff => `
-          <button type="button" class="btn-filter ${activeFileFilter === ff.grp ? "active" : ""}" onclick="setFileFilter('${ff.grp}')">${ff.lbl} (${counts[ff.grp] || 0})</button>
-        `).join("")}
+    <div class="jump-banner">
+      <div>
+        <strong style="font-size:15px;">&#128300; ${t2.jumpDiagTitle}</strong>
+        <div style="font-size:12.6px;color:var(--text-muted);margin-top:3px;">${t2.jumpDiagSub}</div>
       </div>
-      <div class="table-wrap">
-        <table>
-          <thead><tr>${t2.fileCols.map(c => `<th>${c}</th>`).join("")}</tr></thead>
-          <tbody id="fileTableBody"></tbody>
-        </table>
-      </div>
-      <p style="font-size:12px;color:var(--text-muted);margin:10px 0 0;">${t2.fileFoot}</p>
+      <button type="button" class="jump-cta" onclick="switchTab('tab-diagnostics'); window.scrollTo({top:0,behavior:'smooth'});">${t2.jumpDiagBtn} &rarr;</button>
     </div>
   `;
-  renderHolterSVG();
-  renderAudioSVG();
-  renderGallery();
-  renderFileTable();
 }
 
 function renderHolterSVG() {
-  const t2 = getT().t2;
+  const t3 = getT().t3;
   const H = MDT_DATA.holter_hours;
   const W = 740, Ht = 278, padL = 42, padR = 42, padT = 32, padB = 46;
   const cw = W - padL - padR, ch = Ht - padT - padB;
@@ -2414,11 +2804,11 @@ function renderHolterSVG() {
   const stX = padL + 4 * barW + barW / 2;
 
   document.getElementById("holterSvgWrap").innerHTML = `
-  <svg viewBox="0 0 ${W} ${Ht}" dir="ltr" role="img" aria-label="${t2.holterChartTitle}">
+  <svg viewBox="0 0 ${W} ${Ht}" dir="ltr" role="img" aria-label="${t3.holterChartTitle}">
     <rect x="${surgeX.toFixed(1)}" y="${padT}" width="${(3 * barW).toFixed(1)}" height="${ch}" fill="#dc2626" opacity="0.10" rx="4"/>
-    <text x="${(surgeX + 1.5 * barW).toFixed(1)}" y="${padT + 12}" text-anchor="middle" font-size="9.5" font-weight="700" fill="#dc2626">${t2.holterSurgeLbl}</text>
+    <text x="${(surgeX + 1.5 * barW).toFixed(1)}" y="${padT + 12}" text-anchor="middle" font-size="9.5" font-weight="700" fill="#dc2626">${t3.holterSurgeLbl}</text>
     <line x1="${stX.toFixed(1)}" y1="${padT + 18}" x2="${stX.toFixed(1)}" y2="${padT + ch}" stroke="#d97706" stroke-dasharray="3,3" stroke-width="1.5"/>
-    <text x="${stX.toFixed(1)}" y="${padT + 14}" text-anchor="middle" font-size="9" font-weight="700" fill="#b45309">${t2.holterStLbl}</text>
+    <text x="${stX.toFixed(1)}" y="${padT + 14}" text-anchor="middle" font-size="9" font-weight="700" fill="#b45309">${t3.holterStLbl}</text>
     <line x1="${padL}" y1="${padT + ch}" x2="${W - padR}" y2="${padT + ch}" stroke="currentColor" opacity="0.3"/>
     <line x1="${padL}" y1="${padT}" x2="${padL}" y2="${padT + ch}" stroke="currentColor" opacity="0.3"/>
     ${[0, 60, 120, 180].map(v => {
@@ -2430,15 +2820,15 @@ function renderHolterSVG() {
     <polyline fill="none" stroke="#16a34a" stroke-width="2.3" points="${hrPts}"/>
     ${xTicks}
     <rect x="${padL}" y="${Ht - 14}" width="10" height="10" rx="2" fill="#0284c7"/>
-    <text x="${padL + 14}" y="${Ht - 5}" font-size="10" fill="currentColor">${t2.holterLegend1}</text>
+    <text x="${padL + 14}" y="${Ht - 5}" font-size="10" fill="currentColor">${t3.holterLegend1}</text>
     <line x1="${W - 295}" y1="${Ht - 9}" x2="${W - 275}" y2="${Ht - 9}" stroke="#16a34a" stroke-width="2.5"/>
-    <text x="${W - 270}" y="${Ht - 5}" font-size="10" fill="currentColor">${t2.holterLegend2}</text>
+    <text x="${W - 270}" y="${Ht - 5}" font-size="10" fill="currentColor">${t3.holterLegend2}</text>
   </svg>
-  <div style="font-size:11.5px;color:var(--text-muted);margin-top:4px;text-align:center;">${t2.holterFoot}</div>`;
+  <div style="font-size:11.5px;color:var(--text-muted);margin-top:4px;text-align:center;">${t3.holterFoot}</div>`;
 }
 
 function renderAudioSVG() {
-  const t2 = getT().t2;
+  const t3 = getT().t3;
   const freqs = [250, 500, 1000, 2000, 4000, 8000];
   const rt = [20, 25, 45, 50, 50, 70];
   const lt = [50, 50, 55, 57.5, 70, 80];
@@ -2479,20 +2869,20 @@ function renderAudioSVG() {
   const ceilY = padT + ch - (3.0 / maxC) * ch;
 
   document.getElementById("audioSvgWrap").innerHTML = `
-  <svg viewBox="0 0 ${W} ${Ht}" dir="ltr" role="img" aria-label="${t2.audioChartTitle}">
+  <svg viewBox="0 0 ${W} ${Ht}" dir="ltr" role="img" aria-label="${t3.audioChartTitle}">
     ${grid}
     <rect x="${padL}" y="${padT}" width="${ptaW}" height="${ch}" fill="none" stroke="currentColor" opacity="0.24"/>
     <polyline fill="none" stroke="#dc2626" stroke-width="2.3" points="${rtPoly}"/>
     <polyline fill="none" stroke="#2563eb" stroke-width="2.3" points="${ltPoly}"/>
     ${markers}
-    <text x="${padL + 10}" y="${padT + 14}" font-size="10" font-weight="700" fill="#dc2626">● ${t2.audioRtLbl}</text>
-    <text x="${padL + 10}" y="${padT + 27}" font-size="10" font-weight="700" fill="#2563eb">✕ ${t2.audioLtLbl}</text>
+    <text x="${padL + 10}" y="${padT + 14}" font-size="10" font-weight="700" fill="#dc2626">&#9679; ${t3.audioRtLbl}</text>
+    <text x="${padL + 10}" y="${padT + 27}" font-size="10" font-weight="700" fill="#2563eb">&#10005; ${t3.audioLtLbl}</text>
 
     <rect x="${bx}" y="${padT}" width="${bw}" height="${ch}" fill="currentColor" fill-opacity="0.03" stroke="currentColor" stroke-opacity="0.22" rx="6"/>
-    <text x="${bx + bw / 2}" y="${padT - 14}" text-anchor="middle" font-size="11" font-weight="700" fill="currentColor">${t2.audioTympHead}</text>
-    <text x="${bx + bw / 2}" y="${padT - 3}" text-anchor="middle" font-size="9.5" fill="currentColor" opacity="0.72">${t2.audioTympSub}</text>
+    <text x="${bx + bw / 2}" y="${padT - 14}" text-anchor="middle" font-size="11" font-weight="700" fill="currentColor">${t3.audioTympHead}</text>
+    <text x="${bx + bw / 2}" y="${padT - 3}" text-anchor="middle" font-size="9.5" fill="currentColor" opacity="0.72">${t3.audioTympSub}</text>
     <line x1="${bx}" y1="${ceilY}" x2="${bx + bw}" y2="${ceilY}" stroke="#d97706" stroke-dasharray="4,3" stroke-width="1.3"/>
-    <text x="${bx + 6}" y="${ceilY - 3}" font-size="8.8" font-weight="700" fill="#d97706">${t2.audioLimitLbl}</text>
+    <text x="${bx + 6}" y="${ceilY - 3}" font-size="8.8" font-weight="700" fill="#d97706">${t3.audioLimitLbl}</text>
     ${tympBars.map((tb, idx) => {
       const h = (tb.val / maxC) * ch;
       const x = bx + idx * barStep + 10;
@@ -2501,22 +2891,35 @@ function renderAudioSVG() {
               <text x="${x + (barStep - 20) / 2}" y="${y - 4}" text-anchor="middle" font-size="10" font-weight="800" fill="${tb.col}">${tb.val}</text>
               <text x="${x + (barStep - 20) / 2}" y="${padT + ch + 13}" text-anchor="middle" font-size="8.8" fill="currentColor">${tb.lbl}</text>`;
     }).join("")}
-    <text x="${bx + bw / 2}" y="${Ht - 6}" text-anchor="middle" font-size="9.8" font-weight="700" fill="#16a34a">${t2.audioRefute}</text>
+    <text x="${bx + bw / 2}" y="${Ht - 6}" text-anchor="middle" font-size="9.8" font-weight="700" fill="#16a34a">${t3.audioRefute}</text>
   </svg>`;
 }
 
-function renderGallery() {
-  const t2 = getT().t2;
-  const list = MDT_DATA.roi_cards[currentLang];
-  document.getElementById("roiGallery").innerHTML = list.map((r, i) => `
-    <div class="roi-card">
-      <div class="roi-img-box" onclick="openModal(${i})">
+function setGalleryFilter(grp) {
+  activeGalleryFilter = grp;
+  renderGallerySection();
+}
+
+function renderGallerySection() {
+  const t = getT();
+  const t3 = t.t3;
+  const all = MDT_DATA.roi_cards[currentLang].map((r, i) => ({ ...r, _idx: i }));
+  const filtered = (activeGalleryFilter === "ALL") ? all : all.filter(r => r.grp === activeGalleryFilter);
+
+  document.getElementById("galleryFilterHost").innerHTML = t3.galFilters.map(f =>
+    `<button type="button" class="btn-filter ${activeGalleryFilter === f.grp ? "active" : ""}" onclick="setGalleryFilter('${f.grp}')">${f.lbl}</button>`
+  ).join("");
+
+  document.getElementById("roiGallery").innerHTML = filtered.map(r => `
+    <div class="roi-card ${r.historical ? "hist-warn-card" : ""}">
+      <div class="roi-img-box" onclick="openModal(${r._idx})">
         <img loading="lazy" src="${r.img}" alt="${r.title}">
       </div>
       <div class="roi-body">
+        ${r.historical ? `<span class="hist-banner">&#9888;&#65039; ${t.histShortBadge}</span>` : `<span class="curr-banner">&#9989; ${t.currBadge}</span>`}
         <h4>${r.title}</h4>
         <p>${r.desc}</p>
-        <button type="button" class="btn-filter" style="width:100%;" onclick="openModal(${i})">🔍 ${t2.roiBtn}</button>
+        <button type="button" class="btn-filter" style="width:100%;" onclick="openModal(${r._idx})">&#128269; ${t3.roiBtn}</button>
       </div>
     </div>
   `).join("");
@@ -2524,267 +2927,387 @@ function renderGallery() {
 
 function setFileFilter(grp) {
   activeFileFilter = grp;
-  renderTab2Body();
+  renderFileFiltersHost();
+  renderFileTable();
+}
+
+function renderFileFiltersHost() {
+  const t3 = getT().t3;
+  document.getElementById("fileFiltersHost").innerHTML = t3.fileFilters.map(f =>
+    `<button type="button" class="btn-filter ${activeFileFilter === f.grp ? "active" : ""}" onclick="setFileFilter('${f.grp}')">${f.lbl}</button>`
+  ).join("");
 }
 
 function renderFileTable() {
-  const el = document.getElementById("fileSearch");
-  const q = el ? el.value.trim().toLowerCase() : "";
-  const isAr = (currentLang === "ar");
-  const rows = MDT_DATA.files_index.filter(f => {
-    const catOk = (activeFileFilter === "ALL") || (f.grp === activeFileFilter);
-    const sum = isAr ? f.summary_ar : f.summary_en;
-    const raw = isAr ? f.raw_ar : f.raw_en;
-    const txtOk = !q || [f.cat, f.date, raw, f.newName, sum].some(s => s.toLowerCase().includes(q));
-    return catOk && txtOk;
+  const t = getT();
+  const q = (document.getElementById("fileSearchInput")?.value || "").toLowerCase().trim();
+  const rows = MDT_DATA.files_index.map((f, idx) => ({ ...f, num: idx + 1 })).filter(f => {
+    if (activeFileFilter !== "ALL" && f.grp !== activeFileFilter) return false;
+    if (!q) return true;
+    return [f.cat, f.date, f.raw_en, f.raw_ar, f.newName, f.summary_en, f.summary_ar].join(" ").toLowerCase().includes(q);
   });
-  document.getElementById("fileTableBody").innerHTML = rows.map((f, idx) => `
-    <tr>
-      <td>${idx + 1}</td>
-      <td><span class="badge b-blue">${f.cat}</span></td>
-      <td><code>${f.date}</code></td>
-      <td><code style="word-break:break-all;">${isAr ? f.raw_ar : f.raw_en}</code></td>
-      <td><a href="${f.href}" target="_blank" style="font-weight:700;word-break:break-all;" dir="ltr">${f.newName}</a></td>
-      <td style="white-space:nowrap;">${isAr ? f.size_ar : f.size_en}</td>
-      <td>${isAr ? f.summary_ar : f.summary_en}</td>
-    </tr>
-  `).join("");
+  document.getElementById("fileTableBody").innerHTML = rows.map(f => {
+    const raw = (currentLang === "ar") ? f.raw_ar : f.raw_en;
+    const sum = (currentLang === "ar") ? f.summary_ar : f.summary_en;
+    const sz = (currentLang === "ar") ? f.size_ar : f.size_en;
+    return `
+      <tr class="${f.is_historical ? "tr-hist" : ""}">
+        <td>${f.num}</td>
+        <td><span class="badge ${f.is_historical ? "b-amber" : "b-blue"}">${f.cat}</span></td>
+        <td style="white-space:nowrap;">
+          <div>${f.date}</div>
+          ${f.is_historical ? `<span class="hist-banner" style="margin-top:2px;">&#9888;&#65039; ${t.histShortBadge}</span>` : ""}
+        </td>
+        <td style="font-size:12px;color:var(--text-muted);">${raw}</td>
+        <td><a href="${f.href}" target="_blank" rel="noopener" style="font-weight:700;color:var(--accent);text-decoration:none;word-break:break-all;">${f.newName}</a></td>
+        <td style="white-space:nowrap;">${sz}</td>
+        <td style="font-size:12.4px;">${sum}</td>
+      </tr>
+    `;
+  }).join("");
 }
 
-function renderTab3() {
-  const t3 = getT().t3;
-  document.getElementById("tab-prior").innerHTML = `
-    <div class="section-head"><h2>${t3.head}</h2></div>
-    <p class="section-sub">${t3.sub}</p>
-    <div class="grid-3">
-      ${t3.priorCards.map(p => `
-        <div class="glass-card" style="background:var(--glass-strong);display:flex;flex-direction:column;">
-          <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:8px;margin-bottom:6px;">
-            <strong style="font-size:14.5px;">${p.role}</strong>
-            <span class="badge ${p.badge}">${p.tag}</span>
-          </div>
-          <div style="font-size:12px;color:var(--accent);font-weight:700;margin-bottom:8px;">${p.doctor}</div>
-          <div class="verdict-box" style="margin-top:0;">${p.stance}</div>
-          <ul style="margin:0;padding-inline-start:18px;font-size:12.6px;color:var(--text-muted);">
-            ${p.points.map(pt => `<li style="margin-bottom:6px;">${pt}</li>`).join("")}
-          </ul>
-        </div>
-      `).join("")}
-    </div>
-    <div class="glass-card">
-      <h3>${t3.bridgeTitle}</h3>
-      <div class="grid-3" style="margin-bottom:0;margin-top:10px;">
-        ${t3.bridgeCards.map(b => `
-          <div class="alert ${b.cls}" style="margin-bottom:0;">
-            <strong style="display:block;margin-bottom:6px;">${b.title}</strong>
-            <div style="font-size:12.6px;">${b.txt}</div>
+function renderTab3Diagnostics() {
+  const t = getT();
+  const t3 = t.t3;
+  document.getElementById("tab-diagnostics").innerHTML = `
+    <div id="pendingWorkup" class="pending-box">
+      <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;">
+        <strong style="font-size:14.5px;color:var(--accent-dark);">&#9203; ${t3.pendingHead}</strong>
+      </div>
+      <div class="pending-grid">
+        ${t3.pendingItems.map(p => `
+          <div class="pending-item">
+            <strong style="display:block;margin-bottom:4px;font-size:13px;">${p.title}</strong>
+            <div style="color:var(--text-muted);line-height:1.5;">${p.txt}</div>
           </div>
         `).join("")}
       </div>
     </div>
-  `;
-}
 
-function renderTab4() {
-  const t4 = getT().t4;
-  const list = MDT_DATA.consultants[currentLang];
-  const visible = activeBoardFilter === 0 ? list : list.filter(c => c.id === activeBoardFilter);
-  document.getElementById("tab-board").innerHTML = `
-    <div class="section-head"><h2>${t4.head}</h2></div>
-    <p class="section-sub">${t4.sub}</p>
-    <div class="filter-bar">
-      <button type="button" class="btn-filter ${activeBoardFilter === 0 ? "active" : ""}" onclick="setBoardFilter(0)">${t4.allBtn}</button>
-      ${list.map(c => `
-        <button type="button" class="btn-filter ${activeBoardFilter === c.id ? "active" : ""}" onclick="setBoardFilter(${c.id})">${c.id}. ${((c.role.split("—")[1]) || c.role).trim()}</button>
+    <h2 class="section-head">${t3.diagHead}</h2>
+    <div class="grid-2" style="margin-bottom:18px;">
+      ${t3.investigations.map(inv => `
+        <div class="glass-card ${inv.hist ? "hist-warn-card" : ""}">
+          ${inv.hist ? `<div class="hist-banner">&#9888;&#65039; ${t.histShortBadge}</div>` : `<div class="curr-banner">&#9989; ${t.currBadge}</div>`}
+          <div style="display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:8px;">
+            <strong style="font-size:14.2px;">${inv.title}</strong>
+            <span class="badge ${inv.badge}">${inv.status}</span>
+          </div>
+          <ul style="margin:0;padding-inline-start:18px;font-size:12.8px;color:var(--text-muted);line-height:1.55;">
+            ${inv.metrics.map(m => `<li style="margin-bottom:4px;">${m}</li>`).join("")}
+          </ul>
+        </div>
       `).join("")}
     </div>
-    ${visible.map(c => `
-      <article class="consultant-card">
-        <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;">
-          <h3 style="margin:0;font-size:15.5px;">${c.role}</h3>
-          <span class="badge ${c.badge}">#${c.id}</span>
+
+    <h3 class="section-head">${t3.chartsHead}</h3>
+    <div class="grid-2" style="margin-bottom:18px;">
+      <div class="glass-card">
+        <strong style="display:block;margin-bottom:8px;font-size:13.8px;">${t3.holterChartTitle}</strong>
+        <div id="holterSvgWrap" class="svg-wrap"></div>
+      </div>
+      <div class="glass-card">
+        <strong style="display:block;margin-bottom:8px;font-size:13.8px;">${t3.audioChartTitle}</strong>
+        <div id="audioSvgWrap" class="svg-wrap"></div>
+      </div>
+    </div>
+
+    <h3 class="section-head">${t3.roiHead}</h3>
+    <div id="galleryFilterHost" class="filter-bar" style="margin-bottom:12px;"></div>
+    <div id="roiGallery" class="gallery-grid" style="margin-bottom:20px;"></div>
+
+    <h3 class="section-head">${t3.filesHead}</h3>
+    <div style="display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:10px;">
+      <input type="text" id="fileSearchInput" class="search-input" style="flex:1;min-width:250px;" placeholder="${t3.searchPh}" oninput="renderFileTable()">
+    </div>
+    <div id="fileFiltersHost" class="filter-bar" style="margin-bottom:10px;"></div>
+    <div class="table-wrap glass-card">
+      <table>
+        <thead><tr>${t3.fileCols.map(c => `<th>${c}</th>`).join("")}</tr></thead>
+        <tbody id="fileTableBody"></tbody>
+      </table>
+    </div>
+    <div style="font-size:12.2px;color:var(--text-muted);margin-top:8px;">${t3.fileFoot}</div>
+  `;
+  renderHolterSVG();
+  renderAudioSVG();
+  renderGallerySection();
+  renderFileFiltersHost();
+  renderFileTable();
+}
+
+function renderTab4Prior() {
+  const t4 = getT().t4;
+  document.getElementById("tab-prior").innerHTML = `
+    <h2 class="section-head">${t4.head}</h2>
+    <p class="section-sub">${t4.sub}</p>
+    <div class="grid-2" style="margin-bottom:18px;">
+      ${t4.priorCards.map(p => `
+        <div class="glass-card">
+          <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:8px;margin-bottom:6px;">
+            <div>
+              <strong style="font-size:14.6px;display:block;">${p.role}</strong>
+              <span style="font-size:12px;color:var(--text-muted);">${p.doctor}</span>
+            </div>
+            <span class="badge ${p.badge}">${p.tag}</span>
+          </div>
+          <div class="verdict-box" style="margin:8px 0;">${p.stance}</div>
+          <ul style="margin:0;padding-inline-start:18px;font-size:12.8px;color:var(--text-muted);line-height:1.55;">
+            ${p.points.map(pt => `<li style="margin-bottom:5px;">${pt}</li>`).join("")}
+          </ul>
         </div>
-        <div class="verdict-box"><strong>${t4.verdictLbl}</strong> ${c.verdict}</div>
-        <ul style="margin:0 0 10px;padding-inline-start:20px;font-size:13px;">
-          ${c.findings.map(f => `<li style="margin-bottom:6px;">${f}</li>`).join("")}
-        </ul>
-        <div style="font-size:12.5px;color:var(--text-muted);padding-top:8px;border-top:1px solid var(--glass-border);">
-          <strong>${t4.tieLbl}</strong> ${c.tie}
+      `).join("")}
+    </div>
+
+    <h3 class="section-head">${t4.bridgeTitle}</h3>
+    <div class="grid-2">
+      ${t4.bridgeCards.map(b => `
+        <div class="alert ${b.cls}">
+          <strong style="display:block;font-size:13.8px;margin-bottom:5px;">${b.title}</strong>
+          <div style="font-size:12.8px;line-height:1.55;">${b.txt}</div>
         </div>
-      </article>
-    `).join("")}
+      `).join("")}
+    </div>
   `;
 }
 
 function setBoardFilter(id) {
   activeBoardFilter = id;
-  renderTab4();
+  renderTab5Board();
 }
 
-function renderTab5() {
+function renderTab5Board() {
   const t5 = getT().t5;
-  const dList = MDT_DATA.dilemmas[currentLang];
-  document.getElementById("tab-consensus").innerHTML = `
-    <div class="section-head"><h2>${t5.head}</h2></div>
-    <div class="glass-card" style="margin-bottom:16px;">
-      <h3>${t5.rankHead}</h3>
-      <div style="margin-top:10px;">
-        ${t5.rankedDx.map(d => `
-          <div class="rank-card">
-            <div class="rank-num">${d.rank}</div>
-            <div>
-              <div style="display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:6px;margin-bottom:4px;">
-                <strong style="font-size:14px;">${d.title}</strong>
-                <span class="badge ${d.cls}">${d.cat}</span>
-              </div>
-              <div style="font-size:12.6px;color:var(--text-muted);">${d.evidence}</div>
-            </div>
+  const list = MDT_DATA.consultants[currentLang];
+  const dilemmas = MDT_DATA.dilemmas[currentLang];
+  const shown = (activeBoardFilter === 0) ? list : list.filter(c => c.id === activeBoardFilter);
+
+  document.getElementById("tab-board").innerHTML = `
+    <h2 class="section-head">${t5.head}</h2>
+    <p class="section-sub">${t5.sub}</p>
+
+    <h3 class="section-head">${t5.qaHead}</h3>
+    <div class="qa-grid">
+      ${t5.qaCards.map(q => `
+        <div class="qa-card ${q.cls}">
+          <div style="display:flex;justify-content:space-between;align-items:center;gap:6px;margin-bottom:6px;">
+            <strong style="font-size:14px;">${q.title}</strong>
+            <span class="badge ${q.badge}">${q.tag}</span>
           </div>
-        `).join("")}
-      </div>
+          <ul>${q.bullets.map(b => `<li>${b}</li>`).join("")}</ul>
+        </div>
+      `).join("")}
     </div>
 
-    <div class="glass-card">
-      <h3>${t5.dilHead}</h3>
-      <div style="margin-top:10px;">
-        ${dList.map(d => `
-          <div class="glass-card" style="background:var(--glass-strong);margin-bottom:12px;">
-            <h4 style="margin-bottom:10px;color:var(--accent);font-size:14.5px;">${d.title}</h4>
-            <div class="grid-2" style="margin-bottom:0;">
-              <div class="alert alert-amber" style="margin-bottom:0;">
-                <strong style="display:block;margin-bottom:4px;">${d.left_lbl}</strong>
-                <div style="font-size:12.6px;">${d.left}</div>
-              </div>
-              <div class="alert alert-green" style="margin-bottom:0;">
-                <strong style="display:block;margin-bottom:4px;">${d.right_lbl}</strong>
-                <div style="font-size:12.6px;">${d.right}</div>
-              </div>
+    <div class="filter-bar" style="margin-bottom:14px;">
+      <button type="button" class="btn-filter ${activeBoardFilter === 0 ? "active" : ""}" onclick="setBoardFilter(0)">${t5.allBtn}</button>
+      ${list.map(c => `<button type="button" class="btn-filter ${activeBoardFilter === c.id ? "active" : ""}" onclick="setBoardFilter(${c.id})">#${c.id} ${c.role.split("—")[0].trim()}</button>`).join("")}
+    </div>
+
+    <div style="display:flex;flex-direction:column;gap:14px;margin-bottom:20px;">
+      ${shown.map(c => `
+        <article class="consultant-card">
+          <div style="display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:8px;">
+            <strong style="font-size:15.2px;">${c.role}</strong>
+            <span class="badge ${c.badge}">#${c.id} / 7</span>
+          </div>
+          <div class="c-block c-block-conc">
+            <span class="c-block-lbl">${t5.blkConcLbl}</span>
+            <div>${c.conclusion}</div>
+          </div>
+          <div class="c-block c-block-imm">
+            <span class="c-block-lbl">${t5.blkImmLbl}</span>
+            <div>${c.immediate_action}</div>
+          </div>
+          <div class="c-block c-block-plan">
+            <span class="c-block-lbl">${t5.blkPlanLbl}</span>
+            <ul>${c.detailed_plan.map(p => `<li>${p}</li>`).join("")}</ul>
+          </div>
+          <div class="verdict-box" style="margin-top:8px;font-size:12.6px;">
+            <strong>${t5.tieLbl}</strong> ${c.tie}
+          </div>
+        </article>
+      `).join("")}
+    </div>
+
+    <h3 class="section-head">${t5.rankHead}</h3>
+    <div style="display:flex;flex-direction:column;gap:10px;margin-bottom:20px;">
+      ${t5.rankedDx.map(d => `
+        <div class="rank-card">
+          <div class="rank-num">${d.rank}</div>
+          <div style="flex:1;">
+            <div style="display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:4px;">
+              <strong style="font-size:14px;">${d.title}</strong>
+              <span class="badge ${d.cls}">${d.cat}</span>
+            </div>
+            <div style="font-size:12.8px;color:var(--text-muted);line-height:1.5;">${d.evidence}</div>
+          </div>
+        </div>
+      `).join("")}
+    </div>
+
+    <h3 class="section-head">${t5.dilHead}</h3>
+    <div style="display:flex;flex-direction:column;gap:12px;">
+      ${dilemmas.map(dl => `
+        <div class="glass-card">
+          <strong style="display:block;font-size:14.6px;margin-bottom:10px;">${dl.title}</strong>
+          <div class="grid-2">
+            <div class="alert alert-amber">
+              <strong style="display:block;font-size:12.5px;margin-bottom:4px;">${dl.left_lbl}</strong>
+              <div style="font-size:12.8px;line-height:1.52;">${dl.left}</div>
+            </div>
+            <div class="alert alert-green">
+              <strong style="display:block;font-size:12.5px;margin-bottom:4px;">${dl.right_lbl}</strong>
+              <div style="font-size:12.8px;line-height:1.52;">${dl.right}</div>
             </div>
           </div>
-        `).join("")}
-      </div>
+        </div>
+      `).join("")}
     </div>
   `;
 }
 
-function renderTab6() {
-  const t6 = getT().t6;
-  const chkList = MDT_DATA.checklist[currentLang];
-  const auditList = MDT_DATA.med_audit[currentLang].filter(m => activeMedFilter === "ALL" || m.tag === activeMedFilter);
+function getSavedChecks() {
+  try { return JSON.parse(localStorage.getItem("mdt_checklist_v4") || "{}"); }
+  catch (e) { return {}; }
+}
+
+function toggleCheck(id, val) {
+  const s = getSavedChecks();
+  s[id] = !!val;
+  localStorage.setItem("mdt_checklist_v4", JSON.stringify(s));
+  renderTab6Plan();
+}
+
+function resetChecklist() {
+  localStorage.removeItem("mdt_checklist_v4");
+  renderTab6Plan();
+}
+
+function setMedFilter(tag) {
+  activeMedFilter = tag;
+  renderTab6Plan();
+}
+
+function renderTab6Plan() {
+  const t = getT();
+  const t6 = t.t6;
+  const saved = getSavedChecks();
+  const checks = MDT_DATA.checklist[currentLang];
+  const doneCount = checks.filter(c => saved[c.id]).length;
+  const auditAll = MDT_DATA.med_audit[currentLang];
+  const auditShown = (activeMedFilter === "ALL") ? auditAll : auditAll.filter(m => m.tag === activeMedFilter);
   const rxList = MDT_DATA.rx_table[currentLang];
-  const saved = JSON.parse(localStorage.getItem("mdt_checklist_v3") || "{}");
-  const doneCount = chkList.filter(c => saved[c.id]).length;
 
   document.getElementById("tab-plan").innerHTML = `
-    <div class="section-head">
-      <h2>${t6.head}</h2>
-      <button type="button" class="btn-filter" onclick="resetChecklist()">${t6.resetBtn}</button>
+    <h2 class="section-head">${t6.head}</h2>
+
+    <div class="glass-card" style="margin-bottom:18px;">
+      <div style="display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
+        <strong style="font-size:14.4px;">${t6.checkHead}</strong>
+        <div style="display:flex;gap:8px;align-items:center;">
+          <span class="badge b-blue">${doneCount}/${checks.length} ${t6.doneWord}</span>
+          <button type="button" class="btn-filter" onclick="resetChecklist()">${t6.resetBtn}</button>
+        </div>
+      </div>
+      ${checks.map(c => `
+        <label class="check-row ${saved[c.id] ? "check-done" : ""}">
+          <input type="checkbox" ${saved[c.id] ? "checked" : ""} onchange="toggleCheck('${c.id}', this.checked)">
+          <span>${c.txt}</span>
+        </label>
+      `).join("")}
     </div>
 
-    <div class="grid-2">
-      <div class="glass-card">
-        <div style="display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:8px;">
-          <h3 style="margin:0;">${t6.checkHead}</h3>
-          <span class="badge b-blue">${doneCount} / ${chkList.length} ${t6.doneWord}</span>
-        </div>
-        <div>
-          ${chkList.map(c => `
-            <label class="check-row">
-              <input type="checkbox" ${saved[c.id] ? "checked" : ""} onchange="toggleCheck('${c.id}', this.checked)">
-              <span class="${saved[c.id] ? "check-done" : ""}" style="font-size:12.8px;">${c.txt}</span>
-            </label>
+    <div class="alert alert-blue" style="margin-bottom:18px;">
+      <strong style="font-size:14.4px;">&#128737;&#65039; ${t6.haHead}</strong>
+      <ul style="margin:8px 0 0;padding-inline-start:20px;font-size:13px;line-height:1.58;">
+        ${t6.haPoints.map(p => `<li style="margin-bottom:5px;">${p}</li>`).join("")}
+      </ul>
+    </div>
+
+    <h3 class="section-head">${t6.auditHead}</h3>
+    <div class="filter-bar" style="margin-bottom:10px;">
+      ${t6.auditFilters.map(f => `<button type="button" class="btn-filter ${activeMedFilter === f.tag ? "active" : ""}" onclick="setMedFilter('${f.tag}')">${f.lbl}</button>`).join("")}
+    </div>
+    <div class="table-wrap glass-card" style="margin-bottom:18px;">
+      <table>
+        <thead><tr>${t6.auditCols.map(c => `<th>${c}</th>`).join("")}</tr></thead>
+        <tbody>
+          ${auditShown.map(m => `
+            <tr>
+              <td><strong>${m.med}</strong></td>
+              <td><span class="badge ${m.badge}">${m.act}</span></td>
+              <td style="font-size:12.4px;">${m.mech}</td>
+              <td style="font-size:12.4px;color:var(--red);">${m.hazard}</td>
+              <td style="font-size:12.4px;">${m.res}</td>
+            </tr>
           `).join("")}
-        </div>
-      </div>
-
-      <div class="glass-card">
-        <h3>${t6.haHead}</h3>
-        <ul style="margin:10px 0 0;padding-inline-start:20px;font-size:13px;">
-          ${t6.haPoints.map(p => `<li style="margin-bottom:8px;">${p}</li>`).join("")}
-        </ul>
-      </div>
+        </tbody>
+      </table>
     </div>
 
-    <div class="glass-card" style="margin-bottom:16px;">
-      <h3>${t6.auditHead}</h3>
-      <div class="filter-bar">
-        ${t6.auditFilters.map(f => `
-          <button type="button" class="btn-filter ${activeMedFilter === f.tag ? "active" : ""}" onclick="setMedFilter('${f.tag}')">${f.lbl}</button>
-        `).join("")}
-      </div>
-      <div class="table-wrap">
-        <table>
-          <thead><tr>${t6.auditCols.map(c => `<th>${c}</th>`).join("")}</tr></thead>
-          <tbody>
-            ${auditList.map(m => `
-              <tr>
-                <td><strong>${m.med}</strong></td>
-                <td><span class="badge ${m.badge}">${m.tagLbl || m.tag}</span></td>
-                <td>${m.mech}</td>
-                <td>${m.hazard}</td>
-                <td>${m.action}</td>
-              </tr>
-            `).join("")}
-          </tbody>
-        </table>
-      </div>
+    <h3 class="section-head">${t6.rxHead}</h3>
+    <div class="table-wrap glass-card" style="margin-bottom:18px;">
+      <table>
+        <thead><tr>${t6.rxCols.map(c => `<th>${c}</th>`).join("")}</tr></thead>
+        <tbody>
+          ${rxList.map(r => `
+            <tr>
+              <td><strong>${r.domain}</strong></td>
+              <td style="font-size:12.6px;">${r.drug}</td>
+              <td style="font-size:12.4px;">${r.timing}</td>
+              <td style="font-size:12.4px;color:var(--text-muted);">${r.rationale}</td>
+            </tr>
+          `).join("")}
+        </tbody>
+      </table>
     </div>
 
-    <div class="glass-card">
-      <h3>${t6.rxHead}</h3>
-      <div class="table-wrap">
-        <table>
-          <thead><tr>${t6.rxCols.map(c => `<th>${c}</th>`).join("")}</tr></thead>
-          <tbody>
-            ${rxList.map(r => `
-              <tr>
-                <td><strong>${r.dom}</strong></td>
-                <td><strong>${r.reg}</strong></td>
-                <td><code>${r.dose}</code></td>
-                <td>${r.note}</td>
-              </tr>
-            `).join("")}
-          </tbody>
-        </table>
-      </div>
+    <h3 class="section-head">${t6.pdfSectionHead}</h3>
+    <p class="section-sub">${t6.pdfSectionSub}</p>
+    <div class="pdf-dl-grid">
+      ${t.pdfLinks.map(p => `
+        <a href="${p.href}" target="_blank" rel="noopener" class="pdf-dl-card">
+          <strong style="font-size:13.8px;color:var(--accent);">&#128196; ${p.txt}</strong>
+          <span style="font-size:11.8px;color:var(--text-muted);word-break:break-all;">${p.href.split("/").pop()}</span>
+        </a>
+      `).join("")}
     </div>
   `;
-}
-
-function setMedFilter(tag) { activeMedFilter = tag; renderTab6(); }
-function toggleCheck(id, val) {
-  const saved = JSON.parse(localStorage.getItem("mdt_checklist_v3") || "{}");
-  saved[id] = val;
-  localStorage.setItem("mdt_checklist_v3", JSON.stringify(saved));
-  renderTab6();
-}
-function resetChecklist() {
-  localStorage.removeItem("mdt_checklist_v3");
-  renderTab6();
 }
 
 function printSection() {
   document.body.classList.remove("print-all");
   window.print();
 }
+
 function printFullDossier() {
   document.body.classList.add("print-all");
   window.print();
-  setTimeout(() => document.body.classList.remove("print-all"), 500);
+  setTimeout(() => document.body.classList.remove("print-all"), 600);
 }
 
 function openModal(idx) {
-  const t2 = getT().t2;
+  const t = getT();
   const r = MDT_DATA.roi_cards[currentLang][idx];
+  const btns = t.t3.modalBtns;
   document.getElementById("modalTitle").textContent = r.title;
+  document.getElementById("modalHistWrap").innerHTML = r.historical
+    ? `<div class="hist-banner">&#9888;&#65039; ${t.histBadge}</div>`
+    : `<div class="curr-banner">&#9989; ${t.currBadge}</div>`;
   document.getElementById("modalImg").src = r.img;
+  document.getElementById("modalImg").style.transform = "scale(1)";
   document.getElementById("modalRawLink").href = r.img;
-  document.getElementById("modalRawLink").textContent = t2.modalBtns.open + " ↗";
-  document.getElementById("mClose").textContent = "✕ " + t2.modalBtns.close;
+  document.getElementById("modalRawLink").textContent = btns.open;
+  document.getElementById("mZ1").textContent = btns.z1;
+  document.getElementById("mZ2").textContent = btns.z2;
+  document.getElementById("mZ3").textContent = btns.z3;
+  document.getElementById("mClose").textContent = btns.close;
   document.getElementById("modalCaption").textContent = r.desc;
-  setZoom(1);
   document.getElementById("imgModal").classList.add("open");
 }
+
 function closeModal() { document.getElementById("imgModal").classList.remove("open"); }
 function setZoom(scale) { document.getElementById("modalImg").style.transform = `scale(${scale})`; }
 
@@ -2792,21 +3315,24 @@ function renderAll() {
   renderHeaderLabels();
   renderSidebarNav();
   renderTab1();
-  buildOrUpdateVideoSuite();
-  renderTab2Body();
-  renderTab3();
-  renderTab4();
-  renderTab5();
-  renderTab6();
+  renderTab2Videos();
+  renderTab3Diagnostics();
+  renderTab4Prior();
+  renderTab5Board();
+  renderTab6Plan();
 }
 
 (function init() {
-  const savedTheme = localStorage.getItem("mdt_theme_v3");
-  if (savedTheme === "dark" || savedTheme === "light") {
-    document.documentElement.setAttribute("data-theme", savedTheme);
-  }
-  const savedLang = localStorage.getItem("mdt_lang_strict_v3");
-  setLang(savedLang === "ar" ? "ar" : "en");
+  const savedTheme = localStorage.getItem("mdt_theme_v4") || "light";
+  document.documentElement.setAttribute("data-theme", savedTheme);
+  const savedLang = localStorage.getItem("mdt_lang_strict_v4");
+  currentLang = (savedLang === "ar") ? "ar" : "en";
+  document.documentElement.setAttribute("lang", currentLang);
+  document.documentElement.setAttribute("dir", currentLang === "ar" ? "rtl" : "ltr");
+  document.querySelectorAll(".lang-opt").forEach(b => {
+    b.classList.toggle("active", b.getAttribute("data-lang") === currentLang);
+  });
+  renderAll();
 })();
 </script>
 </body>
@@ -2819,26 +3345,15 @@ def render_dashboard_html(data_json: str, file_count: int) -> str:
     return HTML_TEMPLATE.replace("__DATA_JSON__", data_json).replace("__FILE_COUNT__", str(file_count))
 
 
-def write_root_redirect() -> None:
-    """Create root index.html redirecting cleanly to 06_Clinical_Dashboard/index.html for web hosting."""
-    html_text = """<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta http-equiv="refresh" content="0; url=./06_Clinical_Dashboard/index.html">
-<title>Redirecting to MDT Clinical Dashboard...</title>
-<script>window.location.replace("./06_Clinical_Dashboard/index.html");</script>
-</head>
-<body style="font-family:Inter,Segoe UI,Arial,sans-serif;background:#0b1120;color:#f1f5f9;display:flex;align-items:center;justify-content:center;min-height:100vh;margin:0;">
-  <div style="text-align:center;padding:28px;border:1px solid #334155;border-radius:16px;background:rgba(17,24,39,0.88);max-width:540px;">
-    <h1 style="margin-top:0;font-size:20px;color:#38bdf8;">Neurovascular &amp; Neuro-Otological MDT Clinical Dashboard</h1>
-    <p style="color:#cbd5e1;">Opening interactive clinical dashboard &amp; Neuroimaging Video Suite...</p>
-    <p><a href="./06_Clinical_Dashboard/index.html" style="display:inline-block;padding:10px 18px;background:#0284c7;color:#fff;border-radius:10px;text-decoration:none;font-weight:700;">Open Clinical Dashboard →</a></p>
-  </div>
-</body>
-</html>
-"""
-    ROOT_REDIRECT_HTML.write_text(html_text, encoding="utf-8")
+def write_root_dashboard(html_out: str) -> None:
+    """Write standalone root index.html rewriting ../ folder refs to ./ for root GitHub Pages serving."""
+    root_html = (
+        html_out.replace("../01_Structured_and_Renamed_Inputs/", "./01_Structured_and_Renamed_Inputs/")
+        .replace("../05_Shareable_PDF_Reports/", "./05_Shareable_PDF_Reports/")
+        .replace("../04_Final_MDT_Deliverables/", "./04_Final_MDT_Deliverables/")
+    )
+    assert "../01_" not in root_html and "../04_" not in root_html and "../05_" not in root_html
+    ROOT_REDIRECT_HTML.write_text(root_html, encoding="utf-8")
 
 
 def main() -> None:
@@ -2861,9 +3376,9 @@ def main() -> None:
     DASH_DIR.mkdir(parents=True, exist_ok=True)
     html_out = render_dashboard_html(data_json, file_count)
     DASH_HTML.write_text(html_out, encoding="utf-8")
-    write_root_redirect()
+    write_root_dashboard(html_out)
     (ROOT / ".nojekyll").write_text("", encoding="utf-8")
-    print(f"[DASHBOARD OK] {DASH_HTML} ({DASH_HTML.stat().st_size:,} bytes, {file_count} manifest files)")
+    print(f"[DASHBOARD OK] {DASH_HTML} ({DASH_HTML.stat().st_size:,} bytes) + Root {ROOT_REDIRECT_HTML} ({ROOT_REDIRECT_HTML.stat().st_size:,} bytes) [{file_count} files]")
 
 
 if __name__ == "__main__":

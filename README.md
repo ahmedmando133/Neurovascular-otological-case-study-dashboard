@@ -1,24 +1,24 @@
 # Neurovascular & Neuro-Otological MDT Clinical Case Study Dashboard
 
-Multidisciplinary Medical Board (6 Consultants) audit, biomedical signal/radiology quantification pipeline, shareable fellowship PDF dossiers, and interactive HTML5 dashboard (**including embedded Neuroimaging Video Suite**) for patient **Amal Mokhtar Mohamed Ibrahim** (Age 63.5).
+Multidisciplinary Medical Board (**7 Senior Consultants**) audit, biomedical signal/radiology quantification pipeline, shareable fellowship PDF dossiers, and interactive EN / Egyptian-AR HTML5 dashboard (**including embedded Neuroimaging Video Suite & Ophthalmology/Doppler plates**) for patient **Amal Mokhtar Mohamed Ibrahim** (Age 63.5).
 
 ## Quick Launch Links
-- **Hosted Web Entry:** [index.html](./index.html) -> auto-redirects to [`06_Clinical_Dashboard/index.html`](./06_Clinical_Dashboard/index.html)
+- **Hosted Web Entry (GitHub Pages Root):** [`index.html`](./index.html) (standalone EN / Egyptian-AR dashboard at site root)
 - **Interactive Dashboard:** [`06_Clinical_Dashboard/index.html`](./06_Clinical_Dashboard/index.html)
 - **2-Page Handover Brief (PDF):** [`05_Shareable_PDF_Reports/01_MDT_Executive_Summary_and_Action_Plan.pdf`](./05_Shareable_PDF_Reports/01_MDT_Executive_Summary_and_Action_Plan.pdf)
-- **6-Consultant Compendium (PDF):** [`05_Shareable_PDF_Reports/02_Consultant_6_Board_Audit_Reports.pdf`](./05_Shareable_PDF_Reports/02_Consultant_6_Board_Audit_Reports.pdf)
+- **7-Consultant Board Audits (PDF):** [`05_Shareable_PDF_Reports/02_Consultant_7_Board_Audit_Reports.pdf`](./05_Shareable_PDF_Reports/02_Consultant_7_Board_Audit_Reports.pdf)
 - **Complete Case Monograph (PDF):** [`05_Shareable_PDF_Reports/03_Patient_Case_Study_Full_Report.pdf`](./05_Shareable_PDF_Reports/03_Patient_Case_Study_Full_Report.pdf)
 - **Master Markdown Report (EN + Egyptian AR):** [`04_Final_MDT_Deliverables/Master_MDT_Case_Study_Report.md`](./04_Final_MDT_Deliverables/Master_MDT_Case_Study_Report.md)
 
 ## Repository Structure
 | Directory | Purpose |
 |---|---|
-| `01_Structured_and_Renamed_Inputs/` | All **37 semantically renamed clinical inputs**, `case_manifest.json`, `FILE_RENAMING_INDEX.md`, CLAHE ROI plates (`ROI1a`–`ROI5b`), and H.264 streaming MP4s in `01_Neuroimaging_MRI_MRA_MRV_Videos/` |
-| `02_Custom_Skills_and_Scripts/` | Reproducible biomedical pipeline scripts (`skill_semantic_organizer_and_renamer.py`, `skill_video_frame_extractor.py`, `skill_radiology_enhancer.py`, `skill_clinical_quantifier.py`, `skill_pdf_generator.py`, `skill_dashboard_builder.py`) |
-| `03_Individual_Consultant_Audits/` | Independent audit reports from all 6 specialist consultants |
-| `04_Final_MDT_Deliverables/` | Consolidated bilingual MDT fellowship report |
+| `01_Structured_and_Renamed_Inputs/` | All **69 semantically renamed clinical inputs (2011–2026)**, `case_manifest.json`, `FILE_RENAMING_INDEX.md`, CLAHE ROI plates (`ROI1a`–`ROI5b`), auto-cropped `09_Ophthalmology_Fundus_and_OpticNerve/` & `10_Peripheral_Vascular_LowerLimb_Doppler/` plates (`HISTORICAL_OLD` vs `CURRENT_2026`), and H.264 streaming MP4s in `01_Neuroimaging_MRI_MRA_MRV_Videos/` |
+| `02_Custom_Skills_and_Scripts/` | Reproducible biomedical pipeline scripts (`skill_semantic_organizer_and_renamer.py`, `skill_ophthalmology_cropper.py`, `skill_video_frame_extractor.py`, `skill_radiology_enhancer.py`, `skill_clinical_quantifier.py`, `skill_pdf_generator.py`, `skill_dashboard_builder.py`) |
+| `03_Individual_Consultant_Audits/` | Independent 3-block audit reports from all 7 specialist consultants |
+| `04_Final_MDT_Deliverables/` | Consolidated bilingual 7-Consultant MDT fellowship report |
 | `05_Shareable_PDF_Reports/` | Publication-grade A4 PDF deliverables |
-| `06_Clinical_Dashboard/` | Standalone responsive clinical command dashboard (`index.html`) |
+| `06_Clinical_Dashboard/` | Standalone responsive EN / Egyptian-AR clinical command dashboard (`index.html`) |
 
 ## Neuroimaging Video Suite (MRI, MRA, MRV)
 The top hero section of `06_Clinical_Dashboard/index.html` embeds 3 responsive HTML5 `<video controls preload="metadata">` players bound via relative paths:

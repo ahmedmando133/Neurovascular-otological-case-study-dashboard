@@ -2,14 +2,14 @@
 """
 Skill 5: Automated Publication-Grade Clinical PDF Generator
 ===========================================================
-Programmatically compiles structured Markdown reports, 6 Consultant Audits,
-quantitative clinical telemetry, SVG vector charts, and CLAHE/ROI neuroimaging
-evidence plates into three shareable, print-ready A4 PDFs stored in:
+Programmatically compiles structured Markdown reports, 7 Consultant Audits,
+quantitative clinical telemetry, SVG vector charts, CLAHE/ROI neuroimaging,
+and cropped Ophthalmology/Vascular plates into three shareable, print-ready A4 PDFs stored in:
   d:\\mum\\05_Shareable_PDF_Reports\\
 
 Outputs:
   1. 01_MDT_Executive_Summary_and_Action_Plan.pdf  (strictly 2-page consultant handover)
-  2. 02_Consultant_6_Board_Audit_Reports.pdf       (complete 6-specialist audits + ROI plates)
+  2. 02_Consultant_7_Board_Audit_Reports.pdf       (complete 7-specialist 3-block audits + evidence plates)
   3. 03_Patient_Case_Study_Full_Report.pdf         (full Fellowship monograph EN + Egyptian AR)
 
 Uses local Chromium/Edge headless rendering (HarfBuzz + ICU BiDi for native
@@ -53,6 +53,16 @@ MRV_DIR = (
     / "01_Structured_and_Renamed_Inputs"
     / "02_Extracted_and_Enhanced_MRI_Frames"
     / "03_MRV_Venous_Sinuses_and_Left_IJV"
+)
+OPHTH_DIR = (
+    WORKSPACE_ROOT
+    / "01_Structured_and_Renamed_Inputs"
+    / "09_Ophthalmology_Fundus_and_OpticNerve"
+)
+VASC_LL_DIR = (
+    WORKSPACE_ROOT
+    / "01_Structured_and_Renamed_Inputs"
+    / "10_Peripheral_Vascular_LowerLimb_Doppler"
 )
 
 PATIENT_HEADER = "Amal Mokhtar Mohamed Ibrahim (63.5yo F) | DOB: 1963-04-09 | ID: 26304090300188"
@@ -837,14 +847,14 @@ def build_executive_summary_html() -> str:
     <span><strong>Patient:</strong> Amal Mokhtar Mohamed Ibrahim (آمال مختار محمد إبراهيم)</span>
     <span><strong>Age/Sex:</strong> 63.5 yrs / Female</span>
     <span><strong>Verified DOB:</strong> 1963-04-09 (ID: 26304090300188; MRI clerical: 1963-03-27)</span>
-    <span><strong>Audit Date:</strong> 2026-11-15</span>
+    <span><strong>Audit Date:</strong> 2026-11-15 | 69 Verified Files (2011–2026) | 7 Consultants</span>
   </div>
 </div>
 
 <div class="alert-red">
   <div class="title">CRITICAL PROCEDURAL &amp; DIAGNOSTIC SAFETY ALERTS (READ BEFORE ORDERING TESTS OR DRUGS)</div>
   <ul>
-    <li><strong>1. Bilateral Legal Blindness (&lt; 1/60 Better Eye — MOH Council 2021) + Persistent Left Intraocular Silicone Oil (2.59x T1FFE, Missed on MRI PDF):</strong> Visually driven VNG calibration/saccade/pursuit/OPK <strong>WILL FAIL</strong>; alert VNG lab to run dark positional + bithermal calorics only! Blindness strips ~95% visual balance reserve ("4-Hit" Vertigo).</li>
+    <li><strong>1. Bilateral Legal Blindness (&lt; 1/60, MOH 2021) + 2026 Eye Synthesis:</strong> Topcon OD clear (<code>RNFL 40 &micro;m</code>) vs OS silicone <code>Qual 2</code> false <code>"90 &micro;m"</code> trap (true 2019 <code>64 &micro;m</code>, CSO OPs <code>0.74 &micro;V</code>), YET <strong>Flash VEP preserved OU (10.29 / 7.99 &micro;V)</strong> -> Do <strong>NOT</strong> remove OS oil blindly; run dark-only VNG + <strong>fresh 2026 B-Scan + IOP</strong>!</li>
     <li><strong>2. Defer Immediate Catheter DSA:</strong> <code>5 mm</code> Left Carotid Bulb Plaque (Carotid IMT <code>0.13 cm</code>) + unverified eGFR on Metformin + <code>-2.1 mm</code> silent myocardial ischemia. Run bedside compression &amp; non-invasive 4D-MRA / Temporal Bone HRCT+CTA/CTV gatekeeper first.</li>
     <li><strong>3. Circadian Morning PVC Surge &amp; Glycemic Link:</strong> <code>36.29%</code> of all PVCs (<code>311/857</code>; peak <code>164/hr = 3.78%</code> &amp; <code>104 bpm</code> V-run @ <code>08:00 AM</code>) cluster at <code>06:00–08:59 AM</code> on <code>80 IU/day</code> insulin; Dr. Galhom prescribed non-selective <code>Inderal 10 mg BID</code> which masks insulin hypoglycemia!</li>
   </ul>
@@ -859,7 +869,7 @@ def build_executive_summary_html() -> str:
       <li><strong>MRA 1.0-mm Source Slices (Video01, 513 slices + CLAHE ROI1b/c):</strong> Clear aerated mastoids; patent Circle of Willis; <strong>NO high-flow dAVF, cortical venous reflux, or dilated occipital feeder</strong> (slow Cognard I below 1.5T TOF threshold not ruled out).</li>
       <li><strong>Brain Parenchyma (ROI3):</strong> Hypertensive-diabetic <strong>CSVD (Fazekas PV 1–2 / DWM 1–2)</strong> + chronic right basal ganglia, Lt frontal &amp; Rt parietal lacunes. <strong>DWI/ADC negative</strong>; <strong>MS excluded</strong> (0 Dawson fingers; spared CC/brainstem).</li>
       <li><strong>Orbits &amp; CT Continuity (ROI2/5b):</strong> Normal IACs/CPAs; bilateral ethmoid sinusitis; <strong>Lt intraocular silicone oil (2.59x)</strong> confirmed persistent since <code>2024-07-27</code> non-contrast CT + thin optic nerves.</li>
-      <li><strong>Carotid Duplex (37 Audited Files Total):</strong> IMT <code>0.13 cm</code> (+44%); non-stenotic plaques, <strong>5 mm Lt carotid bulb plaque</strong>; normal vertebrals.</li>
+      <li><strong>Carotid &amp; Leg Duplex (69 Audited Files, 2011–2026):</strong> Carotid IMT <code>0.13 cm</code> + <strong>5 mm Lt bulb plaque</strong> (2011 leg Doppler <em>[HISTORICAL]</em> confirms no PAD/DVT).</li>
     </ul>
   </div>
   <div class="card">
@@ -885,8 +895,8 @@ def build_executive_summary_html() -> str:
 </table>
 
 <div class="arabic-box" dir="rtl" lang="ar">
-  <div class="ar-title">ملخص تنفيذي سريع للأطباء المعالجين (الورقة 1 — التشخيص المتكامل لـ 37 ملفاً)</div>
-  <strong>الحقائق الحاسمة:</strong> (1) المريضة كفيفة قانونياً بالعينين (<span dir="ltr">&lt; 1/60</span>) بقومسيون 2021 + زيت سيليكون بالشمال (<span dir="ltr">2.59x</span> ومستمر من <span dir="ltr">CT 2024-07-27</span>)، لذا يجب إلغاء تتبع الضوء في <span dir="ltr">VNG</span>. (2) الرنين والـ <span dir="ltr">MRA</span> وتخطيط المخ المطوّل (9 مقاطع: نشاط ألفا <span dir="ltr">9 Hz</span> بدون صرع) نفوا وجود <span dir="ltr">MS</span> أو ناسور عالي التدفق أو بؤر صرعية أو جلطات حادة، وأثبتوا <span dir="ltr">CSVD Fazekas 1–2</span> وجلطة <span dir="ltr">Basal Ganglia</span> وضيق وريدي شمال (<span dir="ltr">L/R 0.48</span>) تضخمه طبلية <span dir="ltr">2026-11-03</span> المرنة (<span dir="ltr">3.2 cm³ Type Ad</span> مقابل <span dir="ltr">1.5 cm³ Type A</span> باليمين؛ <span dir="ltr">0 dB ABG</span>، <span dir="ltr">WRS 84%/76%</span>). (3) الهولتر (<span dir="ltr">-2.1 mm ST</span> و <span dir="ltr">36.29%</span> من الـ <span dir="ltr">857 PVC</span> بين 6–9 ص) يفاقم نقص التروية القوقعية والطنين، والبلاك الـ <span dir="ltr">5 mm</span> بالسباتي الشمال يوجب تأجيل القسطرة <span dir="ltr">DSA</span>.
+  <div class="ar-title">ملخص تنفيذي سريع للسبعة استشاريين (الورقة 1 — التشخيص المتكامل لـ 69 ملفاً 2011–2026)</div>
+  <strong>الحقائق الحاسمة (69 ملفاً):</strong> (1) كف البصر <span dir="ltr">&lt; 1/60</span> مع ضمور اليمين <span dir="ltr">40 &micro;m</span> وزيت الشمال (<span dir="ltr">OPs 0.74 &micro;V</span> مقابل <span dir="ltr">VEP 7.99 &micro;V</span> الحي) يمنع تتبع الضوء بالـ <span dir="ltr">VNG</span>. (2) الرنين والـ <span dir="ltr">MRA</span> وتخطيط المخ المطوّل (9 مقاطع: نشاط ألفا <span dir="ltr">9 Hz</span> بدون صرع) نفوا وجود <span dir="ltr">MS</span> أو ناسور عالي التدفق أو بؤر صرعية أو جلطات حادة، وأثبتوا <span dir="ltr">CSVD Fazekas 1–2</span> وجلطة <span dir="ltr">Basal Ganglia</span> وضيق وريدي شمال (<span dir="ltr">L/R 0.48</span>) تضخمه طبلية <span dir="ltr">2026-11-03</span> المرنة (<span dir="ltr">3.2 cm³ Type Ad</span> مقابل <span dir="ltr">1.5 cm³ Type A</span> باليمين؛ <span dir="ltr">0 dB ABG</span>، <span dir="ltr">WRS 84%/76%</span>). (3) الهولتر (<span dir="ltr">-2.1 mm ST</span> و <span dir="ltr">36.29%</span> من الـ <span dir="ltr">857 PVC</span> بين 6–9 ص) يفاقم نقص التروية القوقعية والطنين، والبلاك الـ <span dir="ltr">5 mm</span> بالسباتي الشمال يوجب تأجيل القسطرة <span dir="ltr">DSA</span>.
 </div>
 
 <div class="page-break"></div>
@@ -922,7 +932,7 @@ def build_executive_summary_html() -> str:
     <ul>
       <li><strong>Deprescribe &amp; Sinus Care:</strong> <strong>STOP Meclizine</strong> &amp; <strong>Cetrovit Ginkgo</strong> immediately. Treat bilateral ethmoidal sinusitis with <strong>Mometasone 50 mcg nasal spray</strong> + isotonic saline x 6–8 wks + elevate head of bed 30 deg.</li>
       <li><strong>Blindness-Adapted VNG &amp; VRT:</strong> Skip saccade/pursuit/OPK; run <strong>dark Dix-Hallpike + bithermal calorics</strong>. Start supervised <strong>non-visual somatosensory VRT</strong> &amp; home fall-proofing.</li>
-      <li><strong>Binaural Hearing Aids:</strong> Bilateral <strong>Open-Fit WDRC RIC</strong> with vented domes, strict Left <strong>OSPL90 &lt;= 95–100 dB SPL</strong> + low-level sound enrichment.</li>
+      <li><strong>Binaural Hearing Aids &amp; Eye Guardrails (C6/C7):</strong> Bilateral <strong>Open-Fit WDRC RIC</strong> (vented domes, Lt <code>OSPL90 &lt;= 95–100 dB</code>). Order <strong>2026 B-Scan OU + IOP</strong>; topical drops ONLY (<strong>NEVER oral Cidamex</strong> atop HCTZ!); keep <code>BP &gt;= 115/70</code> for <code>40 &micro;m</code> nerve &amp; focus low-vision care on <strong>OD</strong>.</li>
     </ul>
   </div>
 </div>
@@ -950,7 +960,7 @@ def build_executive_summary_html() -> str:
   </div>
   <div class="arabic-box" dir="rtl" lang="ar" style="margin:0;">
     <div class="ar-title">خطة التنفيذ وتعديل الأدوية العاجل (الورقة 2)</div>
-    <strong>الأولوية القصوى:</strong> (1) <strong>أوقف فوراً</strong> <bdi dir="ltr">Meclizine</bdi> و <bdi dir="ltr">Cetrovit Ginkgo</bdi> و <bdi dir="ltr">Brain-Ox</bdi> وامنع <bdi dir="ltr">Cidamex</bdi>. (2) حلل <bdi dir="ltr">K+, Mg2+, Cr/eGFR, CBC, TSH, HbA1c, B12</bdi> وركب سنسور سكر (<bdi dir="ltr">CGM</bdi>). (3) بعد تقييم القلب (<bdi dir="ltr">Echo + Dobutamine/SPECT</bdi>)، استبدل <bdi dir="ltr">Angiopress Comp</bdi> بـ <bdi dir="ltr">Perindopril/Telmisartan</bdi> + <bdi dir="ltr">Bisoprolol</bdi> (أو تثبيت الإندرال تحت حماية <bdi dir="ltr">CGM</bdi>) وارفع <bdi dir="ltr">Atorvastatin</bdi> لـ <bdi dir="ltr">40–80 mg</bdi>. (4) بخاخ <bdi dir="ltr">Mometasone</bdi> للجيوب، رفع الرأس <bdi dir="ltr">30°</bdi>، تأهيل اتزان لا بصري، وسماعتين <bdi dir="ltr">Open-Fit WDRC (OSPL90 &lt;= 100 dB)</bdi> للسمع.
+    <strong>الأولوية القصوى:</strong> (1) <strong>أوقف فوراً</strong> <bdi dir="ltr">Meclizine</bdi> و <bdi dir="ltr">Cetrovit Ginkgo</bdi> و <bdi dir="ltr">Brain-Ox</bdi> وامنع <bdi dir="ltr">Cidamex</bdi>. (2) حلل <bdi dir="ltr">K+, Mg2+, Cr/eGFR, CBC, TSH, HbA1c, B12</bdi> وركب سنسور سكر (<bdi dir="ltr">CGM</bdi>). (3) بعد تقييم القلب (<bdi dir="ltr">Echo + Dobutamine/SPECT</bdi>)، استبدل <bdi dir="ltr">Angiopress Comp</bdi> بـ <bdi dir="ltr">Perindopril/Telmisartan</bdi> + <bdi dir="ltr">Bisoprolol</bdi> (أو تثبيت الإندرال تحت حماية <bdi dir="ltr">CGM</bdi>) وارفع <bdi dir="ltr">Atorvastatin</bdi> لـ <bdi dir="ltr">40–80 mg</bdi>. (4) بخاخ <bdi dir="ltr">Mometasone</bdi> للجيوب، رفع الرأس <bdi dir="ltr">30°</bdi>، تأهيل اتزان لا بصري، وسماعتين <bdi dir="ltr">Open-Fit WDRC (&lt;= 100 dB)</bdi>، وسونار عيون <bdi dir="ltr">2026 + IOP</bdi> مع حماية تروية اليمين وقطرات موضعية عند اللزوم فقط.
   </div>
 </div>
 
@@ -959,14 +969,22 @@ def build_executive_summary_html() -> str:
 
 
 def build_consultant_compendium_html() -> str:
-    """Compile all 6 individual specialist audit files + clinical ROI evidence plates into one HTML document."""
+    """Compile all 7 individual specialist 3-block audit files + clinical/ophthalmology plates into one HTML document."""
     audit_files = [
         ("Consultant 1 — Diagnostic Head, Neck & Neuroradiology", AUDITS_DIR / "Consultant_1_Diagnostic_Head_Neck_Neuroradiology.md", ["ROI1a_MRV_Left_Transverse_Sigmoid_IJV_CLAHE_Zoom.png", "ROI1b_MRA_3D_TOF_SourceSlices_SkullBase_Mastoid_Occipital_CLAHE.png", "ROI1c_Left_Mastoid_Sigmoid_Occipital_MicroZoom_dAVF_Audit.png"]),
         ("Consultant 2 — Multiple Sclerosis (MS) & White Matter Disorders", AUDITS_DIR / "Consultant_2_MS_and_White_Matter_Disorders.md", ["ROI3_BasalGanglia_WhiteMatter_LacunarInfarcts_CLAHE.png"]),
-        ("Consultant 3 — Medical Neurology, Vascular & Movement Disorders", AUDITS_DIR / "Consultant_3_Medical_Neurology_Vascular_and_Movement_Disorders.md", ["ROI4_Clinical_Handwriting_and_Holter_KeyStrips_Zoom.png", "ROI5b_2024_CT_Brain_and_ProlongedEEG_TremorArtifacts.png"]),
+        ("Consultant 3 — Medical Neurology, Vascular & Movement Disorders", AUDITS_DIR / "Consultant_3_Medical_Neurology_Vascular_and_Movement_Disorders.md", ["ROI4_Clinical_Handwriting_and_Holter_KeyStrips_Zoom.png", "ROI5b_2024_CT_Brain_and_ProlongedEEG_TremorArtifacts.png", VASC_LL_DIR / "VASC_2011-06-21_LowerLimb_ColorDoppler_Report_DrHelmyRashad_LtCalfPerforatorIncompetence.png"]),
         ("Consultant 4 — Senior Consultant in Neurosurgery", AUDITS_DIR / "Consultant_4_Neurosurgery.md", []),
         ("Consultant 5 — Neuro-Interventional Radiology (DSA Decision Resolution)", AUDITS_DIR / "Consultant_5_Neuro_Interventional_Radiology.md", []),
         ("Consultant 6 — ENT, Neurotology & Clinical Audiology", AUDITS_DIR / "Consultant_6_ENT_Neurotology_and_Clinical_Audiology.md", ["ROI2_NeuroOtological_IAC_CPA_Orbits_Ethmoid_CLAHE.png", "ROI5a_Audiology_2026-11-03_MaskedPTA_and_GSI39_Tymp_Zoom.png"]),
+        ("Consultant 7 — Ophthalmology (Vitreoretinal & Neuro-Ophthalmology)", AUDITS_DIR / "Consultant_7_Ophthalmology_Vitreoretinal_and_NeuroOphthalmology.md", [
+            OPHTH_DIR / "2026_06_Topcon_OCT_and_VisualField" / "OPHTH_2026-06-01_Topcon_OCT_OpticNerve_3DDisc_OD_RNFL40um_SevereAtrophy_Qual9.png",
+            OPHTH_DIR / "2026_06_Topcon_OCT_and_VisualField" / "OPHTH_2026-06-01_Topcon_OCT_OpticNerve_3DDisc_OS_Qual2_MediaArtifact.png",
+            OPHTH_DIR / "2026_06_Topcon_OCT_and_VisualField" / "OPHTH_2026-06-27_Zeiss_VisualField_HFA_VFI18pct_UnreliableTest_DrAlaaKhaled.png",
+            OPHTH_DIR / "2026_07_CSO_VEP_and_ERG" / "OPHTH_2026-07-08_CSO_Flash_VEP_OS_Present_N1P1_7.99uV_P2_132.42ms.png",
+            OPHTH_DIR / "2026_07_CSO_VEP_and_ERG" / "OPHTH_2026-07-08_CSO_ERG_OscillatoryPotentials_OD10.0uV_OS0.74uV_SevereOSIschemia.png",
+            OPHTH_DIR / "2019_Historical_OCT_Referral_BScan" / "OPHTH_2019-08-20_Optopol_OCT_OS_SevereRNFLThinning_MeanTSNIT64_HISTORICAL.png",
+        ]),
     ]
 
     sections: list[str] = []
@@ -982,33 +1000,41 @@ def build_consultant_compendium_html() -> str:
 
         roi_blocks = []
         for rname in roi_names:
-            rpath = ROI_DIR / rname
+            rpath = rname if isinstance(rname, Path) else (ROI_DIR / rname)
+            rlabel = rpath.name
+            is_hist = ("HISTORICAL" in rlabel) or rlabel.startswith("VASC_2011") or rlabel.startswith("ROI5b_2024")
+            box_style = ' style="border:2px solid #f59e0b;background:#fffbeb;"' if is_hist else ""
+            cap_prefix = (
+                '<span class="badge b-amber">HISTORICAL / OLD EXAM (2011–2024)</span> '
+                if is_hist
+                else '<span class="badge b-blue">CURRENT 2026 EVIDENCE PLATE</span> '
+            )
             if rpath.exists():
                 b64 = img_to_data_uri(rpath)
                 roi_blocks.append(
-                    f'<div class="figure-box"><img src="{b64}" alt="{html.escape(rname)}">'
-                    f'<div class="figure-caption"><strong>Enhanced Forensic Evidence Plate:</strong> <code>{html.escape(rname)}</code></div></div>'
+                    f'<div class="figure-box"{box_style}><img src="{b64}" alt="{html.escape(rlabel)}">'
+                    f'<div class="figure-caption">{cap_prefix}<code>{html.escape(rlabel)}</code></div></div>'
                 )
 
         sections.append(
             f'<div class="page-break"></div>'
-            f'<div class="consultant-banner"><div class="num">Independent Specialist Audit {idx} of 6</div><h2>{html.escape(label)}</h2></div>'
+            f'<div class="consultant-banner"><div class="num">Independent Specialist Audit {idx} of 7</div><h2>{html.escape(label)}</h2></div>'
             f'{body_html}\n{"".join(roi_blocks)}'
         )
 
     cover_html = f"""
 <div class="masthead" style="padding:9px 12px;margin-bottom:6px;">
-  <h1 style="font-size:13.2pt;">6-CONSULTANT MULTIDISCIPLINARY BOARD — COMPLETE SPECIALIST AUDIT COMPENDIUM</h1>
-  <div class="sub">Blinded Primary-Source Audit of All 37 Files: 1.5T MRI/MRA/MRV (513 Slices), 2024 CT, 2h EEG (9 Epochs), Duplex, 29-p Holter &amp; 2026-11-03 Audiology</div>
+  <h1 style="font-size:13.2pt;">7-CONSULTANT MULTIDISCIPLINARY BOARD — COMPLETE 3-BLOCK AUDIT COMPENDIUM</h1>
+  <div class="sub">Blinded Primary-Source Audit of All 69 Files (2011–2026): MRI/MRA/MRV (513 Slices), 2026 Topcon OCT, Zeiss HFA, CSO VEP/ERG, 2014–2021 Eye Archive, 2011 Leg Doppler, Holter &amp; 2026-11-03 Audiology</div>
   <div class="meta">
     <span><strong>Patient:</strong> Amal Mokhtar Mohamed Ibrahim (آمال مختار محمد إبراهيم)</span>
     <span><strong>DOB:</strong> 1963-04-09 (ID: 26304090300188)</span>
-    <span><strong>Audit Date:</strong> 2026-11-15</span>
+    <span><strong>Audit Date:</strong> 2026-11-15 | 69 Verified Files (2011–2026) | 7 Consultants</span>
   </div>
 </div>
 
 <div class="alert-blue" style="padding:5px 8px;margin:4px 0 6px 0;font-size:8.6pt;">
-  <strong>Methodological Principle:</strong> Every consultant independently audited all 37 deduplicated primary image frames, CLAHE/ROI micro-zoom panels, 29-page Holter disclosure, 2026-11-03 Masked PTA &amp; GSI-39 baseline, 2024-07-17/27 CT &amp; EEG, and handwritten clinical records in <code>01_Structured_and_Renamed_Inputs/</code> without blindly trusting prior written radiology summaries.
+  <strong>Methodological Principle:</strong> Every consultant independently audited all 69 semantically organized files in <code>01_Structured_and_Renamed_Inputs/</code> (strictly distinguishing <em>HISTORICAL 2011–2024</em> exams from <em>CURRENT 2026</em> tests) using standardized <strong>1. Conclusion | 2. Immediate Action | 3. Detailed Action Plan</strong> deliverables.
 </div>
 
 <h2 style="margin-top:6px;margin-bottom:4px;padding:4px 8px;font-size:11pt;">Inter-Consultant Consensus &amp; Conflict Resolution Matrix</h2>
@@ -1022,14 +1048,15 @@ def build_consultant_compendium_html() -> str:
     <tr><td><strong>3. Medical Neurology &amp; Movement</strong></td><td>Mixed Tremor: <strong>Essential Tremor + Head Titubation</strong> (Dr. Galhom) + Vascular BG vulnerability + <strong>06–09 AM insulin adrenergic dips</strong> (<code>36.29%</code> PVC cluster).</td><td>Prior PD/Sinemet clashed with Dr. Galhom's Rx (<code>Essential tremor, Titubation, لا lower</code>); <strong>2024-07-17 2h EEG (9 epochs)</strong> proved 9 Hz alpha + EMG tremor bursts only (0 spikes); <strong>Inderal masks hypoglycemia</strong>.</td><td>Formal off/on Sinemet <strong>MDS-UPDRS</strong> + 14d CGM; stop Ginkgo; switch Captopril/HCTZ; Atorvastatin 40–80 mg.</td></tr>
     <tr><td><strong>4. Neurosurgery</strong></td><td>Zero tumor, aneurysm, Chiari, hydrocephalus, or high-grade Cognard IIb–IV dAVF with cortical venous reflux across 2024 CT and 2026 MRI.</td><td>Validates referring surgeon's dAVF vigilance while proving immediate surgical/hemorrhage urgency is absent; 2024 EEG confirms non-epileptic movement.</td><td>Defer invasive DSA to avoid crossing <code>5 mm</code> bulb plaque; preserve dominant Rt Transverse-Sigmoid-IJV.</td></tr>
     <tr><td><strong>5. Neuro-Interventional Radiology</strong></td><td>Resolves DSA controversy: 1.5T TOF can miss Cognard I, but blind DSA carries high thromboembolic/CA-AKI/cardiac risk.</td><td><code>5 mm</code> Lt Carotid Bulb plaque sits directly in left ECA catheter path + pending eGFR on Metformin + <code>-2.1 mm</code> ST ischemia &amp; <code>3.78%</code> AM PVC burden.</td><td>Enforce <strong>3-Step Gatekeeper</strong> (Bedside selective IJV vs Occipital -&gt; 4D-MRA/CTA after eGFR -&gt; Conditional DSA).</td></tr>
-    <tr><td><strong>6. ENT, Neurotology &amp; Audiology</strong></td><td>Definitive <strong>2026-11-03 Baseline</strong>: Stable pure SNHL (0 dB ABG, Rt 20–70 dB WRS 84%, Lt 50–80 dB WRS 76%) + <strong>Extreme Lt Type Ad (3.2 cm³)</strong> + <strong>4-Hit Vertigo</strong>.</td><td><strong>Rt 1.5 cm³ Type A refutes handwritten 'Rt As'</strong>; Lt 3.2 cm³ (&gt;3.0 ceiling, I 1000 Hz NT) amplifies venous tinnitus/PVC beat variations; <strong>&lt;1/60 blindness invalidates visual VNG</strong>.</td><td><strong>STOP Meclizine</strong>; adapted dark VNG; non-visual VRT; treat ethmoiditis; bilateral <strong>Open-Fit WDRC RIC (OSPL90 &lt;= 100 dB)</strong>.</td></tr>
+    <tr><td><strong>6. ENT, Neurotology &amp; Audiology</strong></td><td>Definitive <strong>2026-11-03 Baseline</strong>: Stable pure SNHL (0 dB ABG, Rt WRS 84%, Lt WRS 76%) + <strong>Extreme Lt Type Ad (3.2 cm³)</strong> + <strong>4-Hit Vertigo</strong>.</td><td><strong>Rt 1.5 cm³ Type A refutes handwritten 'Rt As'</strong>; Lt 3.2 cm³ amplifies venous tinnitus/PVCs; <strong>&lt;1/60 blindness invalidates optical VNG</strong>.</td><td><strong>STOP Meclizine</strong>; dark-only VNG; non-visual VRT; bilateral <strong>Open-Fit WDRC RIC (&lt;= 95–100 dB SPL)</strong>.</td></tr>
+    <tr><td><strong>7. Ophthalmology (Vitreoretinal &amp; Neuro-Ophth)</strong></td><td>12-yr diabetic/glaucomatous progression (2014–2021 oil OU): <strong>OD Qual 10 clear (40 &micro;m RNFL)</strong>; <strong>OS Qual 2 trap &amp; ERG OPs 0.74 &micro;V</strong>, yet <strong>VEP present OU (10.29 / 7.99 &micro;V)</strong>.</td><td>Functional OS reading recovery very unlikely &amp; ~7-yr oil removal hazardous; yet preserved VEP + normal MRI chiasm require IOP &amp; perfusion protection!</td><td>Urgent <strong>2026 B-Scan OU + IOP + Gonioscopy</strong>; topical drops ONLY (NO oral Cidamex!); <code>BP &gt;= 115/70</code>; OD low-vision aids.</td></tr>
   </tbody>
 </table>
 
 <div style="max-width:595px;margin:0 auto;">{build_audiology_svg()}</div>
 
 <div class="arabic-box" dir="rtl" lang="ar" style="margin:5px 0 0 0;padding:6px 10px;font-size:8.7pt;line-height:1.45;">
-  <div class="ar-title" style="margin-bottom:2px;font-size:9.3pt;">خلاصة اجتماع اللجنة الطبية السداسية (<bdi dir="ltr">MDT Board</bdi>)</div>
+  <div class="ar-title" style="margin-bottom:2px;font-size:9.3pt;">خلاصة اجتماع اللجنة الطبية السباعية (<bdi dir="ltr">7-Consultant MDT Board</bdi>) — إجمالي 69 ملفاً موثقاً</div>
   تم تجميع الآراء العلمية المستقلة للاستشاريين الستة بالكامل في الصفحات التالية مع لوحات الزوم الميكروسكوبية (<bdi dir="ltr">CLAHE &amp; ROI Panels</bdi>) لتقديم مرجع تخصصي موثق يغطي الأشعة العصبية، التصلب المتعدد، الأعصاب والحركة، جراحة المخ، القسطرة التداخلية، والأنف والأذن والسمعيات.
 </div>
 """
@@ -1069,14 +1096,22 @@ def build_full_case_study_html() -> str:
         ("Plate F — Prof. Dr. Ayman Galhom Clinical Notes/Rx & Holter -2.1 mm ST / Morning Surge", ROI_DIR / "ROI4_Clinical_Handwriting_and_Holter_KeyStrips_Zoom.png"),
         ("Plate G — 48-Slice Z-Stack Reconstruction from 513 Deduplicated 3D TOF Source Frames", MRA_DIR / "MRA_2026-11-05_Video01_48Slice_ZStack_ContactSheet.png"),
         ("Plate H — Definitive 2026-11-03 Masked Pure-Tone Audiometry & GSI-39 Tympanometry", ROI_DIR / "ROI5a_Audiology_2026-11-03_MaskedPTA_and_GSI39_Tymp_Zoom.png"),
-        ("Plate I — 2024-07-27 Non-Contrast Brain CT & 2024-07-17 Prolonged 2h EEG (Tremor EMG Artifacts)", ROI_DIR / "ROI5b_2024_CT_Brain_and_ProlongedEEG_TremorArtifacts.png"),
+        ("Plate I [HISTORICAL — 2024] — Non-Contrast Brain CT & 2024-07-17 Prolonged 2h EEG (Tremor EMG Artifacts)", ROI_DIR / "ROI5b_2024_CT_Brain_and_ProlongedEEG_TremorArtifacts.png"),
+        ("Plate J [CURRENT 2026-06-01] — Topcon 3D Disc OD Severe Optic Atrophy (RNFL 40 um, Qual 9)", OPHTH_DIR / "2026_06_Topcon_OCT_and_VisualField" / "OPHTH_2026-06-01_Topcon_OCT_OpticNerve_3DDisc_OD_RNFL40um_SevereAtrophy_Qual9.png"),
+        ("Plate K [CURRENT 2026-06-01 & 06-27] — Topcon OS Qual 2 Artifact ('90 um' Noise Trap)", OPHTH_DIR / "2026_06_Topcon_OCT_and_VisualField" / "OPHTH_2026-06-01_Topcon_OCT_OpticNerve_3DDisc_OS_Qual2_MediaArtifact.png"),
+        ("Plate L [CURRENT 2026-07-08] — CSO ERG Oscillatory Potentials OS Collapse (0.74 vs 10.0 uV OD)", OPHTH_DIR / "2026_07_CSO_VEP_and_ERG" / "OPHTH_2026-07-08_CSO_ERG_OscillatoryPotentials_OD10.0uV_OS0.74uV_SevereOSIschemia.png"),
+        ("Plate M [CURRENT 2026-07-08] — CSO Flash VEP OS Preserved Conduction (7.99 uV, P2 132.4 ms)", OPHTH_DIR / "2026_07_CSO_VEP_and_ERG" / "OPHTH_2026-07-08_CSO_Flash_VEP_OS_Present_N1P1_7.99uV_P2_132.42ms.png"),
+        ("Plate N [HISTORICAL — 2019-08-20] — Optopol OS Severe RNFL Thinning (64 um Red, Pre-Op)", OPHTH_DIR / "2019_Historical_OCT_Referral_BScan" / "OPHTH_2019-08-20_Optopol_OCT_OS_SevereRNFLThinning_MeanTSNIT64_HISTORICAL.png"),
+        ("Plate O [HISTORICAL — 2011-06-21] — Lower Limb Color Doppler Report (PAD/DVT Excluded)", VASC_LL_DIR / "VASC_2011-06-21_LowerLimb_ColorDoppler_Report_DrHelmyRashad_LtCalfPerforatorIncompetence.png"),
     ]
     plates_html: list[str] = []
     for caption, ppath in plate_specs:
         if ppath.exists():
             b64 = img_to_data_uri(ppath)
+            is_hist = "[HISTORICAL" in caption
+            box_style = ' style="border:2px solid #f59e0b;background:#fffbeb;"' if is_hist else ""
             plates_html.append(
-                f'<div class="figure-box"><img src="{b64}" alt="{html.escape(caption)}">'
+                f'<div class="figure-box"{box_style}><img src="{b64}" alt="{html.escape(caption)}">'
                 f'<div class="figure-caption"><strong>{html.escape(caption)}</strong> — Source: <code>{html.escape(ppath.name)}</code></div></div>'
             )
 
@@ -1090,7 +1125,7 @@ def build_full_case_study_html() -> str:
 
 <div class="masthead">
   <h1>FELLOWSHIP-LEVEL MULTIDISCIPLINARY CASE STUDY &amp; BIOMEDICAL AUDIT MONOGRAPH</h1>
-  <div class="sub">Multi-System Neuro-Vascular, Movement Disorder, Cardiac-Arrhythmic &amp; Neuro-Otological Synthesis (English + Egyptian Arabic)</div>
+  <div class="sub">7-Consultant Multi-System Neuro-Vascular, Movement Disorder, Cardiac, Neuro-Otological &amp; Vitreoretinal Synthesis Across 69 Verified Files (2011–2026)</div>
   <div class="meta">
     <span><strong>Patient:</strong> Amal Mokhtar Mohamed Ibrahim (آمال مختار محمد إبراهيم)</span>
     <span><strong>Age/Sex:</strong> 63.5 yrs / Female</span>
@@ -1111,7 +1146,7 @@ def build_full_case_study_html() -> str:
 {core_html}
 
 <div class="page-break"></div>
-<h2>SECTION 9: ENHANCED NEUROIMAGING, CLAHE ROI &amp; HOLTER VISUAL EVIDENCE APPENDIX</h2>
+<h2>SECTION 9: ENHANCED NEUROIMAGING, OPHTHALMOLOGY, DOPPLER &amp; HOLTER VISUAL APPENDIX (2011–2026)</h2>
 {"".join(plates_html)}
 
 </body>
@@ -1135,14 +1170,14 @@ def main() -> None:
     )
     print(f"[OK] {pdf1.name}: {p1_pages} pages ({pdf1.stat().st_size:,} bytes)")
 
-    # 2. 6-Consultant Compendium PDF
-    pdf2 = OUTPUT_DIR / "02_Consultant_6_Board_Audit_Reports.pdf"
+    # 2. 7-Consultant Compendium PDF
+    pdf2 = OUTPUT_DIR / "02_Consultant_7_Board_Audit_Reports.pdf"
     p2_pages = render_html_to_pdf(
         build_consultant_compendium_html(),
         pdf2,
         browser,
-        "6-Consultant Medical Board Audit Compendium — Amal Mokhtar Mohamed Ibrahim",
-        "Independent 6-Specialist Audit Reports",
+        "7-Consultant Medical Board Audit Compendium — Amal Mokhtar Mohamed Ibrahim",
+        "Independent 7-Specialist 3-Block Audit Reports",
         expected_pages=None,
     )
     print(f"[OK] {pdf2.name}: {p2_pages} pages ({pdf2.stat().st_size:,} bytes)")
