@@ -1,0 +1,254 @@
+{
+  "audiology": {
+    "definitive_baseline_2026_11_03": {
+      "is_definitive_primary_baseline": true,
+      "source_scans": [
+        "01_Structured_and_Renamed_Inputs/04_Audiology_PTA_and_Tympanometry/2026_11_03_FollowUp/AUD_2026-11-03_PTA_Masked_AC_BC_FollowUp_RtWRS84_LtWRS76_PureSNHL.jpg",
+        "01_Structured_and_Renamed_Inputs/04_Audiology_PTA_and_Tympanometry/2026_11_03_FollowUp/AUD_2026-11-03_Tympanometry_GSI39_FollowUp_Rt1.5cm3_Lt3.2cm3_ExtremeTypeAd.jpg"
+      ],
+      "examiner": "Dr. Shahenda el-KHamesy (Al-Hayah Port Fouad Hospital)",
+      "right_ear": {
+        "ac_bc_thresholds_db_hl": {
+          "250_hz": 20,
+          "500_hz": 25,
+          "1000_hz": 45,
+          "2000_hz": 50,
+          "4000_hz": 50,
+          "8000_hz": 70
+        },
+        "ac_bc_range_db_hl": [
+          20,
+          70
+        ],
+        "computed_pta_500_1k_2k_db_hl": 40.0,
+        "air_bone_gap_db": 0,
+        "srt_db_hl": 25,
+        "wrs_percent": 84,
+        "presentation_level_db": 65,
+        "srt_masking_db": 55,
+        "ecv_cm3": 1.3,
+        "gr_dapa": 25,
+        "peak_compliance_cm3": 1.5,
+        "peak_pressure_dapa": -5,
+        "tymp_type": "Normal Type A (upper normal; contradicts handwritten 'Rt As' chart note)",
+        "ipsi_1khz_reflex": "NT (Not Tested on 2026-11-03)"
+      },
+      "left_ear": {
+        "ac_bc_thresholds_db_hl": {
+          "250_hz": 50,
+          "500_hz": 50,
+          "1000_hz": 55,
+          "2000_hz": 57.5,
+          "4000_hz": 70,
+          "8000_hz": 80
+        },
+        "ac_bc_range_db_hl": [
+          50,
+          80
+        ],
+        "note_2khz": "Between 55 and 60 dB HL on audiogram grid",
+        "computed_pta_500_1k_2k_db_hl": 54.2,
+        "air_bone_gap_db": 0,
+        "srt_db_hl": 50,
+        "wrs_percent": 76,
+        "presentation_level_db": 90,
+        "srt_masking_db": 80,
+        "ecv_cm3": 1.2,
+        "gr_dapa": 10,
+        "peak_compliance_cm3": 3.2,
+        "peak_pressure_dapa": 0,
+        "tymp_type": "Extreme Type Ad (>3.0 cm3 GSI-39 chart ceiling)",
+        "ipsi_1khz_reflex": "NT (Not Tested on 2026-11-03)"
+      },
+      "interaural_pta_asymmetry_db": 14.2,
+      "interaural_srt_asymmetry_db": 25,
+      "wrs_interaural_diff_percent": 8,
+      "forensic_chart_discrepancy": {
+        "handwritten_note": "Rt As Lt (Ad) tymp",
+        "objective_gsi39_thermal_printout": "RIGHT: ECV 1.3 cm3, GR 25 daPa, Peak 1.5 cm3 @ -5 daPa (normal/upper-normal Type A, NOT Type As); LEFT: ECV 1.2 cm3, GR 10 daPa, Peak 3.2 cm3 @ 0 daPa (Extreme Type Ad exceeding 3.0 cm3 plot ceiling); Reflexes I 1000 Hz NT bilaterally."
+      }
+    },
+    "historical_2024_11_02_narrative_superseded": {
+      "status": "Superseded by verified 2026-11-03 primary scans; retained for longitudinal delta and prior Metz reflex reference",
+      "right_ear": {
+        "ac_range_db_hl": [
+          20,
+          60
+        ],
+        "reported_pta_3freq_db_hl": 35,
+        "srt_db_hl": 30,
+        "ecv_cm3": 1.1,
+        "peak_compliance_cm3": 0.3,
+        "peak_pressure_dapa": 10,
+        "tymp_type": "Borderline As (stiff)",
+        "ipsi_1khz_reflex": "Not Tested"
+      },
+      "left_ear": {
+        "ac_range_db_hl": [
+          40,
+          70
+        ],
+        "reported_pta_3freq_db_hl": 55,
+        "srt_db_hl": 55,
+        "ecv_cm3": 1.3,
+        "peak_compliance_cm3": 1.7,
+        "peak_pressure_dapa": -5,
+        "tymp_type": "Type Ad (hypercompliant)",
+        "ipsi_1khz_reflex_db_hl": 105.0
+      },
+      "interaural_pta_asymmetry_db": 20,
+      "interaural_srt_asymmetry_db": 25,
+      "metz_recruitment_analysis": {
+        "reflex_threshold_db_hl": 105.0,
+        "pure_tone_1khz_threshold_db_hl": 60.0,
+        "sensation_level_db_sl": 45.0,
+        "normal_sl_cutoff_db": 60.0,
+        "positive_metz_recruitment": true,
+        "interpretation": "Positive Metz recruitment (45 dB SL < 60 dB SL) documented on 2024-11-02 (2026-11-03 reflexes marked NT), proving cochlear outer hair cell localization alongside 2026-11-03 WRS 76%."
+      }
+    },
+    "longitudinal_progression_2024_to_2026": {
+      "right_tymp_compliance_delta_cm3": 1.2,
+      "right_tymp_compliance_fold_change": 5.0,
+      "right_tymp_compliance_pct_change": 400.0,
+      "left_tymp_compliance_delta_cm3": 1.5,
+      "left_tymp_compliance_fold_change": 1.88,
+      "left_tymp_compliance_pct_change": 88.2,
+      "left_srt_change_db": -5,
+      "right_srt_change_db": -5
+    }
+  },
+  "holter": {
+    "summary_page1_reported": {
+      "analyzed_beats": 95454,
+      "hrv_page5_total_beats": 95758,
+      "hrv_page5_qualified_beats": 91622,
+      "monitoring_duration": "24 hours 26 minutes",
+      "avg_hr_bpm": 65,
+      "min_hr_4_intervals": "51 bpm at 02:06",
+      "max_hr_4_intervals": "99 bpm at 12:32",
+      "ve_total": 857,
+      "ve_single": 800,
+      "v_pairs": 22,
+      "v_runs": 4,
+      "v_run_total_beats": 13,
+      "longest_v_run": "4 beats @ 73 bpm (23:26:38)",
+      "fastest_v_run": "3 beats @ 104 bpm (08:00:07)",
+      "v_bigeminy": 1,
+      "v_trigeminy": 1,
+      "ve_burden_percent": 0.898,
+      "ve_per_1000_beats_avg": 8.95,
+      "ve_per_hour_avg": 35.76,
+      "sve_total": 153,
+      "sve_single": 125,
+      "sv_pairs": 14,
+      "sv_runs": 0,
+      "sve_burden_percent": 0.16,
+      "pauses_gt_2_5_sec": 0,
+      "sdnn_24h_ms": 101,
+      "sdnn_awake_ms": 88,
+      "sdnn_asleep_ms": 99,
+      "rmssd_24h_ms": 50,
+      "pnn50_24h_percent": 17,
+      "max_qt_ms": 287,
+      "max_qtc_ms": 326,
+      "qtc_gt_450_percent": 0.0,
+      "st_minutes_ch1_ch2_ch3": [
+        3,
+        53,
+        160
+      ],
+      "max_abs_st_depression_ch3_mm": -2.1,
+      "max_abs_st_depression_time": "13:11",
+      "max_abs_st_elevation_ch3_mm": 6.2,
+      "max_abs_st_elevation_time": "21:08 / 21:27 (artifact step)"
+    },
+    "hourly_table_verification": {
+      "sum_beats": 95454,
+      "sum_ve": 857,
+      "sum_v_pairs": 22,
+      "sum_v_runs": 4,
+      "sum_sve": 153,
+      "sum_sv_pairs": 14,
+      "sum_st2_minutes": 90,
+      "sum_st3_minutes": 114
+    },
+    "circadian_pvc_distribution": {
+      "morning_0600_to_0859": {
+        "ve_count": 311,
+        "beats": 12789,
+        "ve_burden_percent": 2.432,
+        "share_of_24h_pvcs_percent": 36.29,
+        "avg_hr_mean": 70.7
+      },
+      "daytime_0900_to_2159": {
+        "ve_count": 354,
+        "beats": 52895,
+        "ve_burden_percent": 0.669,
+        "share_of_24h_pvcs_percent": 41.31,
+        "avg_hr_mean": 67.0
+      },
+      "nocturnal_2200_to_0559": {
+        "ve_count": 192,
+        "beats": 29770,
+        "ve_burden_percent": 0.645,
+        "share_of_24h_pvcs_percent": 22.4,
+        "avg_hr_mean": 61.2
+      },
+      "peak_pvc_hour": {
+        "hour": "08:00",
+        "ve_count": 164,
+        "beats": 4339,
+        "hourly_burden_percent": 3.78,
+        "v_pairs": 6,
+        "v_runs": 1,
+        "idiov_count": 8
+      }
+    }
+  },
+  "vascular_and_metabolic": {
+    "carotid_imt_cm": 0.13,
+    "carotid_imt_mm": 1.3,
+    "normal_upper_limit_mm": 0.9,
+    "imt_excess_percent": 44.4,
+    "largest_plaque": "5 mm in Left Carotid Bulb (hemodynamically non-stenotic)",
+    "insulin_regimen": {
+      "basal_toujeo_u300_iu_per_day": 30,
+      "bolus_apidra_u100_iu_per_day": 50,
+      "total_daily_insulin_iu": 80,
+      "basal_bolus_ratio": "37.5% basal / 62.5% prandial",
+      "oral_adjunct": "Gliptus Plus (Vildagliptin 50 mg / Metformin 1000 mg)"
+    }
+  },
+  "neuroimaging_metrics": {
+    "orbital_silicone_oil_t1ffe_signal": {
+      "source_slice": "MRA_2026-11-05_Video01_3D_TOF_Frame_0268_Axial_SourceSlice.png",
+      "right_vitreous_mean_intensity": 50.3,
+      "left_vitreous_mean_intensity": 130.4,
+      "left_to_right_vitreous_ratio": 2.59
+    },
+    "mrv_pa_mip_venous_projection_asymmetry": {
+      "source_film": "MRV_2026-11-05_Film06_3D_PCA_Venography_Attenuated_Lt_Transverse_Sigmoid_IJV_Upright.png (SI 19 PA view, R on viewer-right)",
+      "right_sinus_ijv_dark_vessel_pixels": 220,
+      "left_sinus_ijv_dark_vessel_pixels": 105,
+      "left_to_right_projected_caliber_ratio": 0.48
+    }
+  },
+  "cardio_neuro_otologic_coupling": {
+    "shared_endothelial_microangiopathy_axis": {
+      "systemic_drivers": "T2DM on 80 IU/d insulin + HTN + Carotid IMT 0.13 cm (+44.4%) + 5 mm in Left Carotid Bulb (hemodynamically non-stenotic)",
+      "cerebral_target": "CSVD (Fazekas PV 1-2 / DWM 1-2) + chronic right basal ganglia & deep WM lacunar infarcts (normal DWI)",
+      "cochlear_target": "Asymmetric cochlear end-artery ischemia (Lt PTA 54.2 dB vs Rt 40.0 dB; 0 dB ABG; Lt WRS 76%)",
+      "coronary_target": "Silent demand/microvascular myocardial ischemia (CH3 -2.1 mm ST depression @ 13:11; 160 CH3 ST min)"
+    },
+    "pulsatile_tinnitus_mechanical_cardiac_amplifier": {
+      "arrhythmic_impulse_load": "857 PVCs (22 couplets, 4 V-runs up to 104 bpm) + 153 SVEs -> post-ectopic compensatory-pause stroke-volume surges",
+      "morning_surge_concentration_pct": 36.29,
+      "peak_hour_ectopy": "08:00 (164 PVCs / 3.78% burden)",
+      "venous_conduit_ratio_l_to_r": 0.48,
+      "tympanic_acoustic_amplifier_cm3": 3.2,
+      "tympanic_fold_above_ceiling_ratio": 2.13,
+      "synthesis": "Post-extrasystolic stroke-volume/pulse-pressure surges (PVCs/SVEs) and transient ischemic autonomic instability traverse a hypoplastic Left Transverse-Sigmoid-IJV conduit (0.48 L/R ratio) adjacent to a hypermobile 3.2 cm3 Type Ad tympanic membrane (2.13x contralateral compliance), acoustically amplifying irregular thumping/venous pulsatility while comorbid -2.1 mm ST ischemia & 5 mm carotid bulb plaque mandate deferring immediate DSA."
+    }
+  }
+}

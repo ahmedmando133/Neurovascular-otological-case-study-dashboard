@@ -1,0 +1,3737 @@
+{
+  "video_extraction": {
+    "total_raw_frames": 842,
+    "fps": 29.96,
+    "unique_slices_extracted": 513,
+    "slices": [
+      {
+        "unique_index": 1,
+        "raw_frame_index": 1,
+        "timestamp_sec": 0.0,
+        "mad_from_prev": 999.0,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0001_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 2,
+        "raw_frame_index": 2,
+        "timestamp_sec": 0.033,
+        "mad_from_prev": 8.16,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0002_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 3,
+        "raw_frame_index": 3,
+        "timestamp_sec": 0.067,
+        "mad_from_prev": 2.98,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0003_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 4,
+        "raw_frame_index": 4,
+        "timestamp_sec": 0.1,
+        "mad_from_prev": 4.45,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0004_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 5,
+        "raw_frame_index": 5,
+        "timestamp_sec": 0.133,
+        "mad_from_prev": 6.99,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0005_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 6,
+        "raw_frame_index": 7,
+        "timestamp_sec": 0.2,
+        "mad_from_prev": 3.33,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0006_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 7,
+        "raw_frame_index": 8,
+        "timestamp_sec": 0.234,
+        "mad_from_prev": 5.64,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0007_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 8,
+        "raw_frame_index": 10,
+        "timestamp_sec": 0.3,
+        "mad_from_prev": 2.81,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0008_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 9,
+        "raw_frame_index": 11,
+        "timestamp_sec": 0.334,
+        "mad_from_prev": 5.63,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0009_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 10,
+        "raw_frame_index": 13,
+        "timestamp_sec": 0.4,
+        "mad_from_prev": 3.13,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0010_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 11,
+        "raw_frame_index": 14,
+        "timestamp_sec": 0.434,
+        "mad_from_prev": 5.42,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0011_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 12,
+        "raw_frame_index": 16,
+        "timestamp_sec": 0.501,
+        "mad_from_prev": 3.62,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0012_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 13,
+        "raw_frame_index": 17,
+        "timestamp_sec": 0.534,
+        "mad_from_prev": 7.07,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0013_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 14,
+        "raw_frame_index": 19,
+        "timestamp_sec": 0.601,
+        "mad_from_prev": 4.54,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0014_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 15,
+        "raw_frame_index": 20,
+        "timestamp_sec": 0.634,
+        "mad_from_prev": 5.78,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0015_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 16,
+        "raw_frame_index": 22,
+        "timestamp_sec": 0.701,
+        "mad_from_prev": 2.95,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0016_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 17,
+        "raw_frame_index": 23,
+        "timestamp_sec": 0.734,
+        "mad_from_prev": 4.98,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0017_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 18,
+        "raw_frame_index": 25,
+        "timestamp_sec": 0.801,
+        "mad_from_prev": 3.48,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0018_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 19,
+        "raw_frame_index": 26,
+        "timestamp_sec": 0.834,
+        "mad_from_prev": 6.66,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0019_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 20,
+        "raw_frame_index": 27,
+        "timestamp_sec": 0.868,
+        "mad_from_prev": 2.9,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0020_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 21,
+        "raw_frame_index": 28,
+        "timestamp_sec": 0.901,
+        "mad_from_prev": 3.05,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0021_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 22,
+        "raw_frame_index": 29,
+        "timestamp_sec": 0.934,
+        "mad_from_prev": 5.26,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0022_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 23,
+        "raw_frame_index": 31,
+        "timestamp_sec": 1.001,
+        "mad_from_prev": 3.59,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0023_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 24,
+        "raw_frame_index": 32,
+        "timestamp_sec": 1.035,
+        "mad_from_prev": 5.95,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0024_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 25,
+        "raw_frame_index": 33,
+        "timestamp_sec": 1.068,
+        "mad_from_prev": 4.17,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0025_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 26,
+        "raw_frame_index": 34,
+        "timestamp_sec": 1.101,
+        "mad_from_prev": 5.44,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0026_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 27,
+        "raw_frame_index": 35,
+        "timestamp_sec": 1.135,
+        "mad_from_prev": 8.22,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0027_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 28,
+        "raw_frame_index": 36,
+        "timestamp_sec": 1.168,
+        "mad_from_prev": 4.41,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0028_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 29,
+        "raw_frame_index": 37,
+        "timestamp_sec": 1.201,
+        "mad_from_prev": 4.5,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0029_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 30,
+        "raw_frame_index": 38,
+        "timestamp_sec": 1.235,
+        "mad_from_prev": 6.12,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0030_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 31,
+        "raw_frame_index": 40,
+        "timestamp_sec": 1.302,
+        "mad_from_prev": 4.45,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0031_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 32,
+        "raw_frame_index": 41,
+        "timestamp_sec": 1.335,
+        "mad_from_prev": 5.27,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0032_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 33,
+        "raw_frame_index": 42,
+        "timestamp_sec": 1.368,
+        "mad_from_prev": 3.48,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0033_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 34,
+        "raw_frame_index": 43,
+        "timestamp_sec": 1.402,
+        "mad_from_prev": 2.86,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0034_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 35,
+        "raw_frame_index": 44,
+        "timestamp_sec": 1.435,
+        "mad_from_prev": 5.43,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0035_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 36,
+        "raw_frame_index": 46,
+        "timestamp_sec": 1.502,
+        "mad_from_prev": 3.33,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0036_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 37,
+        "raw_frame_index": 47,
+        "timestamp_sec": 1.535,
+        "mad_from_prev": 6.43,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0037_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 38,
+        "raw_frame_index": 49,
+        "timestamp_sec": 1.602,
+        "mad_from_prev": 5.06,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0038_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 39,
+        "raw_frame_index": 50,
+        "timestamp_sec": 1.635,
+        "mad_from_prev": 6.59,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0039_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 40,
+        "raw_frame_index": 51,
+        "timestamp_sec": 1.669,
+        "mad_from_prev": 3.3,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0040_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 41,
+        "raw_frame_index": 52,
+        "timestamp_sec": 1.702,
+        "mad_from_prev": 4.36,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0041_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 42,
+        "raw_frame_index": 53,
+        "timestamp_sec": 1.735,
+        "mad_from_prev": 7.44,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0042_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 43,
+        "raw_frame_index": 55,
+        "timestamp_sec": 1.802,
+        "mad_from_prev": 4.91,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0043_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 44,
+        "raw_frame_index": 56,
+        "timestamp_sec": 1.836,
+        "mad_from_prev": 6.19,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0044_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 45,
+        "raw_frame_index": 58,
+        "timestamp_sec": 1.902,
+        "mad_from_prev": 3.16,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0045_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 46,
+        "raw_frame_index": 59,
+        "timestamp_sec": 1.936,
+        "mad_from_prev": 6.9,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0046_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 47,
+        "raw_frame_index": 61,
+        "timestamp_sec": 2.002,
+        "mad_from_prev": 3.83,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0047_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 48,
+        "raw_frame_index": 62,
+        "timestamp_sec": 2.036,
+        "mad_from_prev": 7.03,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0048_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 49,
+        "raw_frame_index": 63,
+        "timestamp_sec": 2.069,
+        "mad_from_prev": 3.75,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0049_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 50,
+        "raw_frame_index": 64,
+        "timestamp_sec": 2.102,
+        "mad_from_prev": 3.59,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0050_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 51,
+        "raw_frame_index": 65,
+        "timestamp_sec": 2.136,
+        "mad_from_prev": 6.1,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0051_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 52,
+        "raw_frame_index": 68,
+        "timestamp_sec": 2.236,
+        "mad_from_prev": 7.23,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0052_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 53,
+        "raw_frame_index": 70,
+        "timestamp_sec": 2.303,
+        "mad_from_prev": 3.97,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0053_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 54,
+        "raw_frame_index": 71,
+        "timestamp_sec": 2.336,
+        "mad_from_prev": 7.12,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0054_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 55,
+        "raw_frame_index": 73,
+        "timestamp_sec": 2.403,
+        "mad_from_prev": 4.82,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0055_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 56,
+        "raw_frame_index": 74,
+        "timestamp_sec": 2.436,
+        "mad_from_prev": 6.71,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0056_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 57,
+        "raw_frame_index": 77,
+        "timestamp_sec": 2.536,
+        "mad_from_prev": 6.84,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0057_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 58,
+        "raw_frame_index": 79,
+        "timestamp_sec": 2.603,
+        "mad_from_prev": 3.58,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0058_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 59,
+        "raw_frame_index": 80,
+        "timestamp_sec": 2.636,
+        "mad_from_prev": 5.5,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0059_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 60,
+        "raw_frame_index": 82,
+        "timestamp_sec": 2.703,
+        "mad_from_prev": 3.65,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0060_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 61,
+        "raw_frame_index": 83,
+        "timestamp_sec": 2.737,
+        "mad_from_prev": 5.11,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0061_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 62,
+        "raw_frame_index": 85,
+        "timestamp_sec": 2.803,
+        "mad_from_prev": 4.41,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0062_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 63,
+        "raw_frame_index": 86,
+        "timestamp_sec": 2.837,
+        "mad_from_prev": 5.55,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0063_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 64,
+        "raw_frame_index": 88,
+        "timestamp_sec": 2.903,
+        "mad_from_prev": 3.92,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0064_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 65,
+        "raw_frame_index": 89,
+        "timestamp_sec": 2.937,
+        "mad_from_prev": 6.28,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0065_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 66,
+        "raw_frame_index": 91,
+        "timestamp_sec": 3.004,
+        "mad_from_prev": 4.29,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0066_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 67,
+        "raw_frame_index": 92,
+        "timestamp_sec": 3.037,
+        "mad_from_prev": 6.11,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0067_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 68,
+        "raw_frame_index": 93,
+        "timestamp_sec": 3.07,
+        "mad_from_prev": 3.6,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0068_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 69,
+        "raw_frame_index": 94,
+        "timestamp_sec": 3.104,
+        "mad_from_prev": 2.9,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0069_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 70,
+        "raw_frame_index": 95,
+        "timestamp_sec": 3.137,
+        "mad_from_prev": 5.93,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0070_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 71,
+        "raw_frame_index": 96,
+        "timestamp_sec": 3.17,
+        "mad_from_prev": 3.13,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0071_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 72,
+        "raw_frame_index": 98,
+        "timestamp_sec": 3.237,
+        "mad_from_prev": 5.6,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0072_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 73,
+        "raw_frame_index": 100,
+        "timestamp_sec": 3.304,
+        "mad_from_prev": 4.1,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0073_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 74,
+        "raw_frame_index": 101,
+        "timestamp_sec": 3.337,
+        "mad_from_prev": 7.32,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0074_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 75,
+        "raw_frame_index": 102,
+        "timestamp_sec": 3.371,
+        "mad_from_prev": 7.04,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0075_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 76,
+        "raw_frame_index": 103,
+        "timestamp_sec": 3.404,
+        "mad_from_prev": 7.54,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0076_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 77,
+        "raw_frame_index": 104,
+        "timestamp_sec": 3.437,
+        "mad_from_prev": 10.17,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0077_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 78,
+        "raw_frame_index": 105,
+        "timestamp_sec": 3.471,
+        "mad_from_prev": 7.98,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0078_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 79,
+        "raw_frame_index": 106,
+        "timestamp_sec": 3.504,
+        "mad_from_prev": 12.05,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0079_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 80,
+        "raw_frame_index": 107,
+        "timestamp_sec": 3.538,
+        "mad_from_prev": 13.13,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0080_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 81,
+        "raw_frame_index": 108,
+        "timestamp_sec": 3.571,
+        "mad_from_prev": 63.92,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0081_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 82,
+        "raw_frame_index": 110,
+        "timestamp_sec": 3.638,
+        "mad_from_prev": 4.39,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0082_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 83,
+        "raw_frame_index": 111,
+        "timestamp_sec": 3.671,
+        "mad_from_prev": 45.21,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0083_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 84,
+        "raw_frame_index": 112,
+        "timestamp_sec": 3.704,
+        "mad_from_prev": 9.45,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0084_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 85,
+        "raw_frame_index": 114,
+        "timestamp_sec": 3.771,
+        "mad_from_prev": 8.35,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0085_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 86,
+        "raw_frame_index": 117,
+        "timestamp_sec": 3.871,
+        "mad_from_prev": 9.69,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0086_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 87,
+        "raw_frame_index": 118,
+        "timestamp_sec": 3.905,
+        "mad_from_prev": 3.0,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0087_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 88,
+        "raw_frame_index": 120,
+        "timestamp_sec": 3.971,
+        "mad_from_prev": 9.53,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0088_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 89,
+        "raw_frame_index": 122,
+        "timestamp_sec": 4.038,
+        "mad_from_prev": 4.07,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0089_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 90,
+        "raw_frame_index": 123,
+        "timestamp_sec": 4.071,
+        "mad_from_prev": 7.28,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0090_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 91,
+        "raw_frame_index": 125,
+        "timestamp_sec": 4.138,
+        "mad_from_prev": 3.48,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0091_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 92,
+        "raw_frame_index": 126,
+        "timestamp_sec": 4.172,
+        "mad_from_prev": 4.69,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0092_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 93,
+        "raw_frame_index": 127,
+        "timestamp_sec": 4.205,
+        "mad_from_prev": 4.77,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0093_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 94,
+        "raw_frame_index": 128,
+        "timestamp_sec": 4.238,
+        "mad_from_prev": 3.09,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0094_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 95,
+        "raw_frame_index": 129,
+        "timestamp_sec": 4.272,
+        "mad_from_prev": 6.27,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0095_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 96,
+        "raw_frame_index": 130,
+        "timestamp_sec": 4.305,
+        "mad_from_prev": 6.01,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0096_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 97,
+        "raw_frame_index": 131,
+        "timestamp_sec": 4.338,
+        "mad_from_prev": 4.42,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0097_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 98,
+        "raw_frame_index": 132,
+        "timestamp_sec": 4.372,
+        "mad_from_prev": 6.55,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0098_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 99,
+        "raw_frame_index": 133,
+        "timestamp_sec": 4.405,
+        "mad_from_prev": 5.11,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0099_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 100,
+        "raw_frame_index": 135,
+        "timestamp_sec": 4.472,
+        "mad_from_prev": 5.14,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0100_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 101,
+        "raw_frame_index": 136,
+        "timestamp_sec": 4.505,
+        "mad_from_prev": 6.79,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0101_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 102,
+        "raw_frame_index": 138,
+        "timestamp_sec": 4.572,
+        "mad_from_prev": 5.0,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0102_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 103,
+        "raw_frame_index": 139,
+        "timestamp_sec": 4.605,
+        "mad_from_prev": 5.68,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0103_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 104,
+        "raw_frame_index": 141,
+        "timestamp_sec": 4.672,
+        "mad_from_prev": 5.31,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0104_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 105,
+        "raw_frame_index": 142,
+        "timestamp_sec": 4.706,
+        "mad_from_prev": 7.44,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0105_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 106,
+        "raw_frame_index": 144,
+        "timestamp_sec": 4.772,
+        "mad_from_prev": 5.58,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0106_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 107,
+        "raw_frame_index": 145,
+        "timestamp_sec": 4.806,
+        "mad_from_prev": 5.99,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0107_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 108,
+        "raw_frame_index": 146,
+        "timestamp_sec": 4.839,
+        "mad_from_prev": 2.95,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0108_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 109,
+        "raw_frame_index": 147,
+        "timestamp_sec": 4.872,
+        "mad_from_prev": 4.22,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0109_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 110,
+        "raw_frame_index": 148,
+        "timestamp_sec": 4.906,
+        "mad_from_prev": 5.97,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0110_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 111,
+        "raw_frame_index": 150,
+        "timestamp_sec": 4.973,
+        "mad_from_prev": 3.42,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0111_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 112,
+        "raw_frame_index": 151,
+        "timestamp_sec": 5.006,
+        "mad_from_prev": 7.37,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0112_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 113,
+        "raw_frame_index": 152,
+        "timestamp_sec": 5.039,
+        "mad_from_prev": 3.66,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0113_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 114,
+        "raw_frame_index": 153,
+        "timestamp_sec": 5.073,
+        "mad_from_prev": 4.98,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0114_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 115,
+        "raw_frame_index": 154,
+        "timestamp_sec": 5.106,
+        "mad_from_prev": 7.01,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0115_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 116,
+        "raw_frame_index": 155,
+        "timestamp_sec": 5.139,
+        "mad_from_prev": 2.85,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0116_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 117,
+        "raw_frame_index": 156,
+        "timestamp_sec": 5.173,
+        "mad_from_prev": 3.1,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0117_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 118,
+        "raw_frame_index": 157,
+        "timestamp_sec": 5.206,
+        "mad_from_prev": 5.8,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0118_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 119,
+        "raw_frame_index": 159,
+        "timestamp_sec": 5.273,
+        "mad_from_prev": 5.41,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0119_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 120,
+        "raw_frame_index": 160,
+        "timestamp_sec": 5.306,
+        "mad_from_prev": 5.93,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0120_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 121,
+        "raw_frame_index": 162,
+        "timestamp_sec": 5.373,
+        "mad_from_prev": 4.73,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0121_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 122,
+        "raw_frame_index": 163,
+        "timestamp_sec": 5.406,
+        "mad_from_prev": 7.78,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0122_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 123,
+        "raw_frame_index": 165,
+        "timestamp_sec": 5.473,
+        "mad_from_prev": 5.56,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0123_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 124,
+        "raw_frame_index": 166,
+        "timestamp_sec": 5.507,
+        "mad_from_prev": 6.04,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0124_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 125,
+        "raw_frame_index": 168,
+        "timestamp_sec": 5.573,
+        "mad_from_prev": 5.05,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0125_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 126,
+        "raw_frame_index": 169,
+        "timestamp_sec": 5.607,
+        "mad_from_prev": 5.9,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0126_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 127,
+        "raw_frame_index": 170,
+        "timestamp_sec": 5.64,
+        "mad_from_prev": 2.93,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0127_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 128,
+        "raw_frame_index": 171,
+        "timestamp_sec": 5.673,
+        "mad_from_prev": 5.06,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0128_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 129,
+        "raw_frame_index": 172,
+        "timestamp_sec": 5.707,
+        "mad_from_prev": 7.36,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0129_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 130,
+        "raw_frame_index": 173,
+        "timestamp_sec": 5.74,
+        "mad_from_prev": 4.89,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0130_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 131,
+        "raw_frame_index": 174,
+        "timestamp_sec": 5.774,
+        "mad_from_prev": 5.3,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0131_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 132,
+        "raw_frame_index": 175,
+        "timestamp_sec": 5.807,
+        "mad_from_prev": 8.74,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0132_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 133,
+        "raw_frame_index": 176,
+        "timestamp_sec": 5.84,
+        "mad_from_prev": 3.58,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0133_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 134,
+        "raw_frame_index": 177,
+        "timestamp_sec": 5.874,
+        "mad_from_prev": 4.05,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0134_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 135,
+        "raw_frame_index": 178,
+        "timestamp_sec": 5.907,
+        "mad_from_prev": 6.83,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0135_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 136,
+        "raw_frame_index": 180,
+        "timestamp_sec": 5.974,
+        "mad_from_prev": 4.62,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0136_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 137,
+        "raw_frame_index": 181,
+        "timestamp_sec": 6.007,
+        "mad_from_prev": 5.15,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0137_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 138,
+        "raw_frame_index": 183,
+        "timestamp_sec": 6.074,
+        "mad_from_prev": 3.55,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0138_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 139,
+        "raw_frame_index": 184,
+        "timestamp_sec": 6.107,
+        "mad_from_prev": 6.44,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0139_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 140,
+        "raw_frame_index": 186,
+        "timestamp_sec": 6.174,
+        "mad_from_prev": 4.89,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0140_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 141,
+        "raw_frame_index": 187,
+        "timestamp_sec": 6.207,
+        "mad_from_prev": 6.54,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0141_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 142,
+        "raw_frame_index": 189,
+        "timestamp_sec": 6.274,
+        "mad_from_prev": 3.47,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0142_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 143,
+        "raw_frame_index": 190,
+        "timestamp_sec": 6.307,
+        "mad_from_prev": 6.64,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0143_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 144,
+        "raw_frame_index": 191,
+        "timestamp_sec": 6.341,
+        "mad_from_prev": 2.99,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0144_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 145,
+        "raw_frame_index": 192,
+        "timestamp_sec": 6.374,
+        "mad_from_prev": 4.01,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0145_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 146,
+        "raw_frame_index": 193,
+        "timestamp_sec": 6.408,
+        "mad_from_prev": 5.87,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0146_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 147,
+        "raw_frame_index": 195,
+        "timestamp_sec": 6.474,
+        "mad_from_prev": 5.29,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0147_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 148,
+        "raw_frame_index": 196,
+        "timestamp_sec": 6.508,
+        "mad_from_prev": 6.0,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0148_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 149,
+        "raw_frame_index": 198,
+        "timestamp_sec": 6.574,
+        "mad_from_prev": 3.39,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0149_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 150,
+        "raw_frame_index": 199,
+        "timestamp_sec": 6.608,
+        "mad_from_prev": 5.0,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0150_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 151,
+        "raw_frame_index": 202,
+        "timestamp_sec": 6.708,
+        "mad_from_prev": 8.17,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0151_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 152,
+        "raw_frame_index": 204,
+        "timestamp_sec": 6.775,
+        "mad_from_prev": 3.52,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0152_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 153,
+        "raw_frame_index": 205,
+        "timestamp_sec": 6.808,
+        "mad_from_prev": 4.85,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0153_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 154,
+        "raw_frame_index": 207,
+        "timestamp_sec": 6.875,
+        "mad_from_prev": 3.96,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0154_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 155,
+        "raw_frame_index": 208,
+        "timestamp_sec": 6.908,
+        "mad_from_prev": 4.91,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0155_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 156,
+        "raw_frame_index": 211,
+        "timestamp_sec": 7.008,
+        "mad_from_prev": 6.7,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0156_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 157,
+        "raw_frame_index": 214,
+        "timestamp_sec": 7.108,
+        "mad_from_prev": 7.32,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0157_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 158,
+        "raw_frame_index": 217,
+        "timestamp_sec": 7.209,
+        "mad_from_prev": 6.92,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0158_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 159,
+        "raw_frame_index": 219,
+        "timestamp_sec": 7.275,
+        "mad_from_prev": 3.27,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0159_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 160,
+        "raw_frame_index": 220,
+        "timestamp_sec": 7.309,
+        "mad_from_prev": 5.3,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0160_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 161,
+        "raw_frame_index": 223,
+        "timestamp_sec": 7.409,
+        "mad_from_prev": 6.4,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0161_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 162,
+        "raw_frame_index": 226,
+        "timestamp_sec": 7.509,
+        "mad_from_prev": 7.28,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0162_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 163,
+        "raw_frame_index": 228,
+        "timestamp_sec": 7.576,
+        "mad_from_prev": 2.83,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0163_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 164,
+        "raw_frame_index": 229,
+        "timestamp_sec": 7.609,
+        "mad_from_prev": 5.57,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0164_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 165,
+        "raw_frame_index": 231,
+        "timestamp_sec": 7.676,
+        "mad_from_prev": 3.0,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0165_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 166,
+        "raw_frame_index": 232,
+        "timestamp_sec": 7.709,
+        "mad_from_prev": 5.32,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0166_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 167,
+        "raw_frame_index": 233,
+        "timestamp_sec": 7.743,
+        "mad_from_prev": 3.03,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0167_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 168,
+        "raw_frame_index": 235,
+        "timestamp_sec": 7.809,
+        "mad_from_prev": 7.01,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0168_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 169,
+        "raw_frame_index": 238,
+        "timestamp_sec": 7.909,
+        "mad_from_prev": 7.19,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0169_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 170,
+        "raw_frame_index": 241,
+        "timestamp_sec": 8.01,
+        "mad_from_prev": 7.44,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0170_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 171,
+        "raw_frame_index": 243,
+        "timestamp_sec": 8.076,
+        "mad_from_prev": 3.15,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0171_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 172,
+        "raw_frame_index": 244,
+        "timestamp_sec": 8.11,
+        "mad_from_prev": 6.99,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0172_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 173,
+        "raw_frame_index": 246,
+        "timestamp_sec": 8.176,
+        "mad_from_prev": 3.41,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0173_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 174,
+        "raw_frame_index": 247,
+        "timestamp_sec": 8.21,
+        "mad_from_prev": 6.35,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0174_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 175,
+        "raw_frame_index": 250,
+        "timestamp_sec": 8.31,
+        "mad_from_prev": 7.36,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0175_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 176,
+        "raw_frame_index": 252,
+        "timestamp_sec": 8.377,
+        "mad_from_prev": 4.18,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0176_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 177,
+        "raw_frame_index": 253,
+        "timestamp_sec": 8.41,
+        "mad_from_prev": 6.09,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0177_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 178,
+        "raw_frame_index": 254,
+        "timestamp_sec": 8.443,
+        "mad_from_prev": 2.97,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0178_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 179,
+        "raw_frame_index": 256,
+        "timestamp_sec": 8.51,
+        "mad_from_prev": 6.7,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0179_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 180,
+        "raw_frame_index": 259,
+        "timestamp_sec": 8.61,
+        "mad_from_prev": 7.73,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0180_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 181,
+        "raw_frame_index": 262,
+        "timestamp_sec": 8.71,
+        "mad_from_prev": 8.26,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0181_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 182,
+        "raw_frame_index": 265,
+        "timestamp_sec": 8.81,
+        "mad_from_prev": 7.73,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0182_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 183,
+        "raw_frame_index": 267,
+        "timestamp_sec": 8.877,
+        "mad_from_prev": 3.15,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0183_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 184,
+        "raw_frame_index": 268,
+        "timestamp_sec": 8.911,
+        "mad_from_prev": 6.06,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0184_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 185,
+        "raw_frame_index": 270,
+        "timestamp_sec": 8.977,
+        "mad_from_prev": 3.26,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0185_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 186,
+        "raw_frame_index": 271,
+        "timestamp_sec": 9.011,
+        "mad_from_prev": 7.36,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0186_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 187,
+        "raw_frame_index": 273,
+        "timestamp_sec": 9.077,
+        "mad_from_prev": 3.13,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0187_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 188,
+        "raw_frame_index": 274,
+        "timestamp_sec": 9.111,
+        "mad_from_prev": 6.37,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0188_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 189,
+        "raw_frame_index": 276,
+        "timestamp_sec": 9.178,
+        "mad_from_prev": 3.43,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0189_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 190,
+        "raw_frame_index": 277,
+        "timestamp_sec": 9.211,
+        "mad_from_prev": 6.08,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0190_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 191,
+        "raw_frame_index": 280,
+        "timestamp_sec": 9.311,
+        "mad_from_prev": 7.86,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0191_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 192,
+        "raw_frame_index": 283,
+        "timestamp_sec": 9.411,
+        "mad_from_prev": 7.87,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0192_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 193,
+        "raw_frame_index": 286,
+        "timestamp_sec": 9.511,
+        "mad_from_prev": 7.22,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0193_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 194,
+        "raw_frame_index": 288,
+        "timestamp_sec": 9.578,
+        "mad_from_prev": 2.95,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0194_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 195,
+        "raw_frame_index": 289,
+        "timestamp_sec": 9.611,
+        "mad_from_prev": 5.65,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0195_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 196,
+        "raw_frame_index": 291,
+        "timestamp_sec": 9.678,
+        "mad_from_prev": 4.96,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0196_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 197,
+        "raw_frame_index": 292,
+        "timestamp_sec": 9.712,
+        "mad_from_prev": 6.2,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0197_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 198,
+        "raw_frame_index": 293,
+        "timestamp_sec": 9.745,
+        "mad_from_prev": 3.13,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0198_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 199,
+        "raw_frame_index": 295,
+        "timestamp_sec": 9.812,
+        "mad_from_prev": 7.1,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0199_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 200,
+        "raw_frame_index": 298,
+        "timestamp_sec": 9.912,
+        "mad_from_prev": 7.34,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0200_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 201,
+        "raw_frame_index": 300,
+        "timestamp_sec": 9.979,
+        "mad_from_prev": 3.02,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0201_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 202,
+        "raw_frame_index": 301,
+        "timestamp_sec": 10.012,
+        "mad_from_prev": 5.24,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0202_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 203,
+        "raw_frame_index": 303,
+        "timestamp_sec": 10.079,
+        "mad_from_prev": 4.85,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0203_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 204,
+        "raw_frame_index": 304,
+        "timestamp_sec": 10.112,
+        "mad_from_prev": 6.46,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0204_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 205,
+        "raw_frame_index": 306,
+        "timestamp_sec": 10.179,
+        "mad_from_prev": 3.15,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0205_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 206,
+        "raw_frame_index": 307,
+        "timestamp_sec": 10.212,
+        "mad_from_prev": 4.6,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0206_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 207,
+        "raw_frame_index": 309,
+        "timestamp_sec": 10.279,
+        "mad_from_prev": 3.06,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0207_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 208,
+        "raw_frame_index": 310,
+        "timestamp_sec": 10.312,
+        "mad_from_prev": 5.25,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0208_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 209,
+        "raw_frame_index": 313,
+        "timestamp_sec": 10.412,
+        "mad_from_prev": 6.44,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0209_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 210,
+        "raw_frame_index": 315,
+        "timestamp_sec": 10.479,
+        "mad_from_prev": 3.0,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0210_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 211,
+        "raw_frame_index": 316,
+        "timestamp_sec": 10.512,
+        "mad_from_prev": 5.6,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0211_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 212,
+        "raw_frame_index": 319,
+        "timestamp_sec": 10.613,
+        "mad_from_prev": 6.21,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0212_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 213,
+        "raw_frame_index": 320,
+        "timestamp_sec": 10.646,
+        "mad_from_prev": 3.25,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0213_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 214,
+        "raw_frame_index": 322,
+        "timestamp_sec": 10.713,
+        "mad_from_prev": 5.0,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0214_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 215,
+        "raw_frame_index": 325,
+        "timestamp_sec": 10.813,
+        "mad_from_prev": 7.0,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0215_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 216,
+        "raw_frame_index": 327,
+        "timestamp_sec": 10.88,
+        "mad_from_prev": 2.94,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0216_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 217,
+        "raw_frame_index": 328,
+        "timestamp_sec": 10.913,
+        "mad_from_prev": 4.86,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0217_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 218,
+        "raw_frame_index": 330,
+        "timestamp_sec": 10.98,
+        "mad_from_prev": 3.45,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0218_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 219,
+        "raw_frame_index": 331,
+        "timestamp_sec": 11.013,
+        "mad_from_prev": 5.41,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0219_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 220,
+        "raw_frame_index": 333,
+        "timestamp_sec": 11.08,
+        "mad_from_prev": 3.68,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0220_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 221,
+        "raw_frame_index": 334,
+        "timestamp_sec": 11.113,
+        "mad_from_prev": 5.16,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0221_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 222,
+        "raw_frame_index": 335,
+        "timestamp_sec": 11.147,
+        "mad_from_prev": 2.81,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0222_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 223,
+        "raw_frame_index": 337,
+        "timestamp_sec": 11.213,
+        "mad_from_prev": 4.79,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0223_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 224,
+        "raw_frame_index": 339,
+        "timestamp_sec": 11.28,
+        "mad_from_prev": 3.17,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0224_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 225,
+        "raw_frame_index": 340,
+        "timestamp_sec": 11.313,
+        "mad_from_prev": 2.95,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0225_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 226,
+        "raw_frame_index": 341,
+        "timestamp_sec": 11.347,
+        "mad_from_prev": 4.03,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0226_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 227,
+        "raw_frame_index": 343,
+        "timestamp_sec": 11.414,
+        "mad_from_prev": 4.4,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0227_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 228,
+        "raw_frame_index": 344,
+        "timestamp_sec": 11.447,
+        "mad_from_prev": 4.13,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0228_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 229,
+        "raw_frame_index": 346,
+        "timestamp_sec": 11.514,
+        "mad_from_prev": 3.04,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0229_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 230,
+        "raw_frame_index": 347,
+        "timestamp_sec": 11.547,
+        "mad_from_prev": 5.04,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0230_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 231,
+        "raw_frame_index": 349,
+        "timestamp_sec": 11.614,
+        "mad_from_prev": 3.83,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0231_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 232,
+        "raw_frame_index": 350,
+        "timestamp_sec": 11.647,
+        "mad_from_prev": 5.29,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0232_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 233,
+        "raw_frame_index": 352,
+        "timestamp_sec": 11.714,
+        "mad_from_prev": 4.19,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0233_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 234,
+        "raw_frame_index": 353,
+        "timestamp_sec": 11.747,
+        "mad_from_prev": 5.3,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0234_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 235,
+        "raw_frame_index": 355,
+        "timestamp_sec": 11.814,
+        "mad_from_prev": 3.11,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0235_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 236,
+        "raw_frame_index": 356,
+        "timestamp_sec": 11.847,
+        "mad_from_prev": 4.99,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0236_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 237,
+        "raw_frame_index": 358,
+        "timestamp_sec": 11.914,
+        "mad_from_prev": 3.32,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0237_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 238,
+        "raw_frame_index": 359,
+        "timestamp_sec": 11.948,
+        "mad_from_prev": 5.5,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0238_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 239,
+        "raw_frame_index": 362,
+        "timestamp_sec": 12.048,
+        "mad_from_prev": 7.32,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0239_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 240,
+        "raw_frame_index": 364,
+        "timestamp_sec": 12.114,
+        "mad_from_prev": 3.28,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0240_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 241,
+        "raw_frame_index": 365,
+        "timestamp_sec": 12.148,
+        "mad_from_prev": 5.28,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0241_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 242,
+        "raw_frame_index": 367,
+        "timestamp_sec": 12.214,
+        "mad_from_prev": 2.96,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0242_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 243,
+        "raw_frame_index": 368,
+        "timestamp_sec": 12.248,
+        "mad_from_prev": 6.59,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0243_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 244,
+        "raw_frame_index": 371,
+        "timestamp_sec": 12.348,
+        "mad_from_prev": 7.63,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0244_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 245,
+        "raw_frame_index": 374,
+        "timestamp_sec": 12.448,
+        "mad_from_prev": 6.85,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0245_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 246,
+        "raw_frame_index": 377,
+        "timestamp_sec": 12.548,
+        "mad_from_prev": 6.49,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0246_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 247,
+        "raw_frame_index": 379,
+        "timestamp_sec": 12.615,
+        "mad_from_prev": 3.17,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0247_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 248,
+        "raw_frame_index": 380,
+        "timestamp_sec": 12.648,
+        "mad_from_prev": 6.29,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0248_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 249,
+        "raw_frame_index": 383,
+        "timestamp_sec": 12.748,
+        "mad_from_prev": 7.04,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0249_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 250,
+        "raw_frame_index": 386,
+        "timestamp_sec": 12.849,
+        "mad_from_prev": 7.12,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0250_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 251,
+        "raw_frame_index": 389,
+        "timestamp_sec": 12.949,
+        "mad_from_prev": 7.32,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0251_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 252,
+        "raw_frame_index": 392,
+        "timestamp_sec": 13.049,
+        "mad_from_prev": 7.02,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0252_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 253,
+        "raw_frame_index": 395,
+        "timestamp_sec": 13.149,
+        "mad_from_prev": 7.48,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0253_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 254,
+        "raw_frame_index": 398,
+        "timestamp_sec": 13.249,
+        "mad_from_prev": 6.9,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0254_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 255,
+        "raw_frame_index": 401,
+        "timestamp_sec": 13.349,
+        "mad_from_prev": 6.58,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0255_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 256,
+        "raw_frame_index": 404,
+        "timestamp_sec": 13.449,
+        "mad_from_prev": 7.31,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0256_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 257,
+        "raw_frame_index": 407,
+        "timestamp_sec": 13.549,
+        "mad_from_prev": 7.74,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0257_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 258,
+        "raw_frame_index": 410,
+        "timestamp_sec": 13.65,
+        "mad_from_prev": 6.5,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0258_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 259,
+        "raw_frame_index": 413,
+        "timestamp_sec": 13.75,
+        "mad_from_prev": 6.98,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0259_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 260,
+        "raw_frame_index": 415,
+        "timestamp_sec": 13.816,
+        "mad_from_prev": 3.01,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0260_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 261,
+        "raw_frame_index": 416,
+        "timestamp_sec": 13.85,
+        "mad_from_prev": 5.81,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0261_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 262,
+        "raw_frame_index": 419,
+        "timestamp_sec": 13.95,
+        "mad_from_prev": 6.77,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0262_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 263,
+        "raw_frame_index": 422,
+        "timestamp_sec": 14.05,
+        "mad_from_prev": 7.03,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0263_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 264,
+        "raw_frame_index": 424,
+        "timestamp_sec": 14.117,
+        "mad_from_prev": 3.11,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0264_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 265,
+        "raw_frame_index": 425,
+        "timestamp_sec": 14.15,
+        "mad_from_prev": 6.01,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0265_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 266,
+        "raw_frame_index": 428,
+        "timestamp_sec": 14.25,
+        "mad_from_prev": 7.86,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0266_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 267,
+        "raw_frame_index": 431,
+        "timestamp_sec": 14.35,
+        "mad_from_prev": 7.53,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0267_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 268,
+        "raw_frame_index": 433,
+        "timestamp_sec": 14.417,
+        "mad_from_prev": 3.25,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0268_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 269,
+        "raw_frame_index": 434,
+        "timestamp_sec": 14.45,
+        "mad_from_prev": 6.77,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0269_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 270,
+        "raw_frame_index": 436,
+        "timestamp_sec": 14.517,
+        "mad_from_prev": 3.45,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0270_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 271,
+        "raw_frame_index": 437,
+        "timestamp_sec": 14.551,
+        "mad_from_prev": 6.07,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0271_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 272,
+        "raw_frame_index": 440,
+        "timestamp_sec": 14.651,
+        "mad_from_prev": 7.97,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0272_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 273,
+        "raw_frame_index": 443,
+        "timestamp_sec": 14.751,
+        "mad_from_prev": 7.47,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0273_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 274,
+        "raw_frame_index": 445,
+        "timestamp_sec": 14.818,
+        "mad_from_prev": 3.2,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0274_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 275,
+        "raw_frame_index": 446,
+        "timestamp_sec": 14.851,
+        "mad_from_prev": 6.93,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0275_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 276,
+        "raw_frame_index": 448,
+        "timestamp_sec": 14.918,
+        "mad_from_prev": 3.29,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0276_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 277,
+        "raw_frame_index": 449,
+        "timestamp_sec": 14.951,
+        "mad_from_prev": 6.62,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0277_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 278,
+        "raw_frame_index": 452,
+        "timestamp_sec": 15.051,
+        "mad_from_prev": 6.94,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0278_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 279,
+        "raw_frame_index": 455,
+        "timestamp_sec": 15.151,
+        "mad_from_prev": 6.81,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0279_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 280,
+        "raw_frame_index": 457,
+        "timestamp_sec": 15.218,
+        "mad_from_prev": 3.31,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0280_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 281,
+        "raw_frame_index": 458,
+        "timestamp_sec": 15.251,
+        "mad_from_prev": 5.48,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0281_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 282,
+        "raw_frame_index": 460,
+        "timestamp_sec": 15.318,
+        "mad_from_prev": 3.25,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0282_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 283,
+        "raw_frame_index": 461,
+        "timestamp_sec": 15.352,
+        "mad_from_prev": 5.61,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0283_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 284,
+        "raw_frame_index": 463,
+        "timestamp_sec": 15.418,
+        "mad_from_prev": 3.05,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0284_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 285,
+        "raw_frame_index": 464,
+        "timestamp_sec": 15.452,
+        "mad_from_prev": 4.64,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0285_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 286,
+        "raw_frame_index": 465,
+        "timestamp_sec": 15.485,
+        "mad_from_prev": 3.81,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0286_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 287,
+        "raw_frame_index": 467,
+        "timestamp_sec": 15.552,
+        "mad_from_prev": 5.63,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0287_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 288,
+        "raw_frame_index": 469,
+        "timestamp_sec": 15.619,
+        "mad_from_prev": 2.84,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0288_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 289,
+        "raw_frame_index": 470,
+        "timestamp_sec": 15.652,
+        "mad_from_prev": 4.88,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0289_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 290,
+        "raw_frame_index": 472,
+        "timestamp_sec": 15.719,
+        "mad_from_prev": 3.1,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0290_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 291,
+        "raw_frame_index": 473,
+        "timestamp_sec": 15.752,
+        "mad_from_prev": 3.38,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0291_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 292,
+        "raw_frame_index": 474,
+        "timestamp_sec": 15.785,
+        "mad_from_prev": 3.59,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0292_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 293,
+        "raw_frame_index": 476,
+        "timestamp_sec": 15.852,
+        "mad_from_prev": 4.39,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0293_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 294,
+        "raw_frame_index": 477,
+        "timestamp_sec": 15.886,
+        "mad_from_prev": 2.87,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0294_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 295,
+        "raw_frame_index": 479,
+        "timestamp_sec": 15.952,
+        "mad_from_prev": 4.21,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0295_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 296,
+        "raw_frame_index": 480,
+        "timestamp_sec": 15.986,
+        "mad_from_prev": 3.67,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0296_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 297,
+        "raw_frame_index": 482,
+        "timestamp_sec": 16.052,
+        "mad_from_prev": 5.2,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0297_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 298,
+        "raw_frame_index": 484,
+        "timestamp_sec": 16.119,
+        "mad_from_prev": 3.81,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0298_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 299,
+        "raw_frame_index": 485,
+        "timestamp_sec": 16.152,
+        "mad_from_prev": 2.85,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0299_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 300,
+        "raw_frame_index": 486,
+        "timestamp_sec": 16.186,
+        "mad_from_prev": 3.47,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0300_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 301,
+        "raw_frame_index": 488,
+        "timestamp_sec": 16.253,
+        "mad_from_prev": 3.43,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0301_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 302,
+        "raw_frame_index": 489,
+        "timestamp_sec": 16.286,
+        "mad_from_prev": 3.01,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0302_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 303,
+        "raw_frame_index": 491,
+        "timestamp_sec": 16.353,
+        "mad_from_prev": 4.33,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0303_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 304,
+        "raw_frame_index": 492,
+        "timestamp_sec": 16.386,
+        "mad_from_prev": 3.5,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0304_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 305,
+        "raw_frame_index": 494,
+        "timestamp_sec": 16.453,
+        "mad_from_prev": 5.26,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0305_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 306,
+        "raw_frame_index": 495,
+        "timestamp_sec": 16.486,
+        "mad_from_prev": 3.47,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0306_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 307,
+        "raw_frame_index": 497,
+        "timestamp_sec": 16.553,
+        "mad_from_prev": 4.41,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0307_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 308,
+        "raw_frame_index": 498,
+        "timestamp_sec": 16.586,
+        "mad_from_prev": 3.3,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0308_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 309,
+        "raw_frame_index": 500,
+        "timestamp_sec": 16.653,
+        "mad_from_prev": 2.94,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0309_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 310,
+        "raw_frame_index": 501,
+        "timestamp_sec": 16.686,
+        "mad_from_prev": 3.25,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0310_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 311,
+        "raw_frame_index": 503,
+        "timestamp_sec": 16.753,
+        "mad_from_prev": 4.12,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0311_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 312,
+        "raw_frame_index": 504,
+        "timestamp_sec": 16.787,
+        "mad_from_prev": 3.22,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0312_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 313,
+        "raw_frame_index": 506,
+        "timestamp_sec": 16.853,
+        "mad_from_prev": 4.42,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0313_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 314,
+        "raw_frame_index": 507,
+        "timestamp_sec": 16.887,
+        "mad_from_prev": 3.5,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0314_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 315,
+        "raw_frame_index": 509,
+        "timestamp_sec": 16.953,
+        "mad_from_prev": 4.34,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0315_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 316,
+        "raw_frame_index": 510,
+        "timestamp_sec": 16.987,
+        "mad_from_prev": 3.07,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0316_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 317,
+        "raw_frame_index": 512,
+        "timestamp_sec": 17.054,
+        "mad_from_prev": 4.83,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0317_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 318,
+        "raw_frame_index": 513,
+        "timestamp_sec": 17.087,
+        "mad_from_prev": 2.91,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0318_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 319,
+        "raw_frame_index": 515,
+        "timestamp_sec": 17.154,
+        "mad_from_prev": 4.75,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0319_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 320,
+        "raw_frame_index": 516,
+        "timestamp_sec": 17.187,
+        "mad_from_prev": 3.54,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0320_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 321,
+        "raw_frame_index": 518,
+        "timestamp_sec": 17.254,
+        "mad_from_prev": 4.62,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0321_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 322,
+        "raw_frame_index": 519,
+        "timestamp_sec": 17.287,
+        "mad_from_prev": 3.58,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0322_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 323,
+        "raw_frame_index": 521,
+        "timestamp_sec": 17.354,
+        "mad_from_prev": 4.59,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0323_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 324,
+        "raw_frame_index": 522,
+        "timestamp_sec": 17.387,
+        "mad_from_prev": 3.68,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0324_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 325,
+        "raw_frame_index": 523,
+        "timestamp_sec": 17.421,
+        "mad_from_prev": 3.11,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0325_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 326,
+        "raw_frame_index": 524,
+        "timestamp_sec": 17.454,
+        "mad_from_prev": 3.7,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0326_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 327,
+        "raw_frame_index": 525,
+        "timestamp_sec": 17.487,
+        "mad_from_prev": 3.48,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0327_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 328,
+        "raw_frame_index": 527,
+        "timestamp_sec": 17.554,
+        "mad_from_prev": 4.11,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0328_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 329,
+        "raw_frame_index": 528,
+        "timestamp_sec": 17.588,
+        "mad_from_prev": 3.95,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0329_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 330,
+        "raw_frame_index": 530,
+        "timestamp_sec": 17.654,
+        "mad_from_prev": 4.03,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0330_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 331,
+        "raw_frame_index": 532,
+        "timestamp_sec": 17.721,
+        "mad_from_prev": 4.03,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0331_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 332,
+        "raw_frame_index": 534,
+        "timestamp_sec": 17.788,
+        "mad_from_prev": 5.25,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0332_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 333,
+        "raw_frame_index": 536,
+        "timestamp_sec": 17.855,
+        "mad_from_prev": 4.36,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0333_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 334,
+        "raw_frame_index": 537,
+        "timestamp_sec": 17.888,
+        "mad_from_prev": 3.06,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0334_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 335,
+        "raw_frame_index": 539,
+        "timestamp_sec": 17.955,
+        "mad_from_prev": 3.97,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0335_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 336,
+        "raw_frame_index": 540,
+        "timestamp_sec": 17.988,
+        "mad_from_prev": 3.81,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0336_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 337,
+        "raw_frame_index": 542,
+        "timestamp_sec": 18.055,
+        "mad_from_prev": 3.88,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0337_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 338,
+        "raw_frame_index": 543,
+        "timestamp_sec": 18.088,
+        "mad_from_prev": 3.44,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0338_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 339,
+        "raw_frame_index": 545,
+        "timestamp_sec": 18.155,
+        "mad_from_prev": 4.52,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0339_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 340,
+        "raw_frame_index": 546,
+        "timestamp_sec": 18.188,
+        "mad_from_prev": 3.74,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0340_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 341,
+        "raw_frame_index": 548,
+        "timestamp_sec": 18.255,
+        "mad_from_prev": 4.89,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0341_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 342,
+        "raw_frame_index": 549,
+        "timestamp_sec": 18.288,
+        "mad_from_prev": 3.65,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0342_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 343,
+        "raw_frame_index": 551,
+        "timestamp_sec": 18.355,
+        "mad_from_prev": 4.4,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0343_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 344,
+        "raw_frame_index": 552,
+        "timestamp_sec": 18.388,
+        "mad_from_prev": 4.25,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0344_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 345,
+        "raw_frame_index": 554,
+        "timestamp_sec": 18.455,
+        "mad_from_prev": 4.43,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0345_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 346,
+        "raw_frame_index": 555,
+        "timestamp_sec": 18.489,
+        "mad_from_prev": 3.39,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0346_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 347,
+        "raw_frame_index": 557,
+        "timestamp_sec": 18.555,
+        "mad_from_prev": 3.64,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0347_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 348,
+        "raw_frame_index": 558,
+        "timestamp_sec": 18.589,
+        "mad_from_prev": 3.19,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0348_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 349,
+        "raw_frame_index": 560,
+        "timestamp_sec": 18.655,
+        "mad_from_prev": 4.73,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0349_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 350,
+        "raw_frame_index": 561,
+        "timestamp_sec": 18.689,
+        "mad_from_prev": 3.76,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0350_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 351,
+        "raw_frame_index": 563,
+        "timestamp_sec": 18.756,
+        "mad_from_prev": 3.33,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0351_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 352,
+        "raw_frame_index": 565,
+        "timestamp_sec": 18.822,
+        "mad_from_prev": 4.01,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0352_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 353,
+        "raw_frame_index": 567,
+        "timestamp_sec": 18.889,
+        "mad_from_prev": 4.09,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0353_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 354,
+        "raw_frame_index": 569,
+        "timestamp_sec": 18.956,
+        "mad_from_prev": 3.52,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0354_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 355,
+        "raw_frame_index": 570,
+        "timestamp_sec": 18.989,
+        "mad_from_prev": 4.07,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0355_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 356,
+        "raw_frame_index": 573,
+        "timestamp_sec": 19.089,
+        "mad_from_prev": 5.28,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0356_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 357,
+        "raw_frame_index": 575,
+        "timestamp_sec": 19.156,
+        "mad_from_prev": 2.85,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0357_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 358,
+        "raw_frame_index": 576,
+        "timestamp_sec": 19.189,
+        "mad_from_prev": 3.44,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0358_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 359,
+        "raw_frame_index": 578,
+        "timestamp_sec": 19.256,
+        "mad_from_prev": 4.09,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0359_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 360,
+        "raw_frame_index": 579,
+        "timestamp_sec": 19.29,
+        "mad_from_prev": 4.68,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0360_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 361,
+        "raw_frame_index": 581,
+        "timestamp_sec": 19.356,
+        "mad_from_prev": 4.36,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0361_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 362,
+        "raw_frame_index": 582,
+        "timestamp_sec": 19.39,
+        "mad_from_prev": 4.6,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0362_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 363,
+        "raw_frame_index": 584,
+        "timestamp_sec": 19.456,
+        "mad_from_prev": 3.0,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0363_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 364,
+        "raw_frame_index": 585,
+        "timestamp_sec": 19.49,
+        "mad_from_prev": 4.59,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0364_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 365,
+        "raw_frame_index": 588,
+        "timestamp_sec": 19.59,
+        "mad_from_prev": 5.22,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0365_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 366,
+        "raw_frame_index": 590,
+        "timestamp_sec": 19.657,
+        "mad_from_prev": 3.07,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0366_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 367,
+        "raw_frame_index": 591,
+        "timestamp_sec": 19.69,
+        "mad_from_prev": 4.41,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0367_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 368,
+        "raw_frame_index": 594,
+        "timestamp_sec": 19.79,
+        "mad_from_prev": 5.2,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0368_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 369,
+        "raw_frame_index": 597,
+        "timestamp_sec": 19.89,
+        "mad_from_prev": 5.59,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0369_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 370,
+        "raw_frame_index": 600,
+        "timestamp_sec": 19.99,
+        "mad_from_prev": 6.49,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0370_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 371,
+        "raw_frame_index": 603,
+        "timestamp_sec": 20.09,
+        "mad_from_prev": 5.81,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0371_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 372,
+        "raw_frame_index": 606,
+        "timestamp_sec": 20.191,
+        "mad_from_prev": 5.94,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0372_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 373,
+        "raw_frame_index": 608,
+        "timestamp_sec": 20.257,
+        "mad_from_prev": 3.64,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0373_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 374,
+        "raw_frame_index": 609,
+        "timestamp_sec": 20.291,
+        "mad_from_prev": 4.55,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0374_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 375,
+        "raw_frame_index": 610,
+        "timestamp_sec": 20.324,
+        "mad_from_prev": 3.21,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0375_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 376,
+        "raw_frame_index": 612,
+        "timestamp_sec": 20.391,
+        "mad_from_prev": 5.77,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0376_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 377,
+        "raw_frame_index": 614,
+        "timestamp_sec": 20.458,
+        "mad_from_prev": 3.26,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0377_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 378,
+        "raw_frame_index": 615,
+        "timestamp_sec": 20.491,
+        "mad_from_prev": 4.97,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0378_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 379,
+        "raw_frame_index": 618,
+        "timestamp_sec": 20.591,
+        "mad_from_prev": 6.27,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0379_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 380,
+        "raw_frame_index": 620,
+        "timestamp_sec": 20.658,
+        "mad_from_prev": 3.13,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0380_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 381,
+        "raw_frame_index": 621,
+        "timestamp_sec": 20.691,
+        "mad_from_prev": 5.54,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0381_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 382,
+        "raw_frame_index": 623,
+        "timestamp_sec": 20.758,
+        "mad_from_prev": 2.85,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0382_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 383,
+        "raw_frame_index": 624,
+        "timestamp_sec": 20.791,
+        "mad_from_prev": 4.81,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0383_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 384,
+        "raw_frame_index": 627,
+        "timestamp_sec": 20.891,
+        "mad_from_prev": 6.65,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0384_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 385,
+        "raw_frame_index": 630,
+        "timestamp_sec": 20.992,
+        "mad_from_prev": 6.45,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0385_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 386,
+        "raw_frame_index": 632,
+        "timestamp_sec": 21.058,
+        "mad_from_prev": 2.94,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0386_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 387,
+        "raw_frame_index": 633,
+        "timestamp_sec": 21.092,
+        "mad_from_prev": 5.76,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0387_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 388,
+        "raw_frame_index": 636,
+        "timestamp_sec": 21.192,
+        "mad_from_prev": 5.45,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0388_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 389,
+        "raw_frame_index": 637,
+        "timestamp_sec": 21.225,
+        "mad_from_prev": 3.38,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0389_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 390,
+        "raw_frame_index": 639,
+        "timestamp_sec": 21.292,
+        "mad_from_prev": 5.5,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0390_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 391,
+        "raw_frame_index": 642,
+        "timestamp_sec": 21.392,
+        "mad_from_prev": 5.68,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0391_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 392,
+        "raw_frame_index": 645,
+        "timestamp_sec": 21.492,
+        "mad_from_prev": 5.41,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0392_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 393,
+        "raw_frame_index": 647,
+        "timestamp_sec": 21.559,
+        "mad_from_prev": 3.37,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0393_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 394,
+        "raw_frame_index": 648,
+        "timestamp_sec": 21.592,
+        "mad_from_prev": 5.4,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0394_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 395,
+        "raw_frame_index": 650,
+        "timestamp_sec": 21.659,
+        "mad_from_prev": 3.71,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0395_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 396,
+        "raw_frame_index": 651,
+        "timestamp_sec": 21.692,
+        "mad_from_prev": 5.25,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0396_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 397,
+        "raw_frame_index": 652,
+        "timestamp_sec": 21.726,
+        "mad_from_prev": 2.89,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0397_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 398,
+        "raw_frame_index": 653,
+        "timestamp_sec": 21.759,
+        "mad_from_prev": 3.23,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0398_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 399,
+        "raw_frame_index": 654,
+        "timestamp_sec": 21.793,
+        "mad_from_prev": 7.01,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0399_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 400,
+        "raw_frame_index": 656,
+        "timestamp_sec": 21.859,
+        "mad_from_prev": 3.58,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0400_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 401,
+        "raw_frame_index": 657,
+        "timestamp_sec": 21.893,
+        "mad_from_prev": 4.62,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0401_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 402,
+        "raw_frame_index": 660,
+        "timestamp_sec": 21.993,
+        "mad_from_prev": 6.53,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0402_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 403,
+        "raw_frame_index": 662,
+        "timestamp_sec": 22.06,
+        "mad_from_prev": 4.43,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0403_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 404,
+        "raw_frame_index": 663,
+        "timestamp_sec": 22.093,
+        "mad_from_prev": 6.3,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0404_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 405,
+        "raw_frame_index": 664,
+        "timestamp_sec": 22.126,
+        "mad_from_prev": 5.85,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0405_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 406,
+        "raw_frame_index": 665,
+        "timestamp_sec": 22.16,
+        "mad_from_prev": 6.44,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0406_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 407,
+        "raw_frame_index": 666,
+        "timestamp_sec": 22.193,
+        "mad_from_prev": 8.51,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0407_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 408,
+        "raw_frame_index": 667,
+        "timestamp_sec": 22.226,
+        "mad_from_prev": 4.42,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0408_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 409,
+        "raw_frame_index": 668,
+        "timestamp_sec": 22.26,
+        "mad_from_prev": 3.7,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0409_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 410,
+        "raw_frame_index": 669,
+        "timestamp_sec": 22.293,
+        "mad_from_prev": 5.84,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0410_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 411,
+        "raw_frame_index": 670,
+        "timestamp_sec": 22.326,
+        "mad_from_prev": 3.76,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0411_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 412,
+        "raw_frame_index": 671,
+        "timestamp_sec": 22.36,
+        "mad_from_prev": 3.59,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0412_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 413,
+        "raw_frame_index": 672,
+        "timestamp_sec": 22.393,
+        "mad_from_prev": 5.11,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0413_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 414,
+        "raw_frame_index": 674,
+        "timestamp_sec": 22.46,
+        "mad_from_prev": 4.26,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0414_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 415,
+        "raw_frame_index": 675,
+        "timestamp_sec": 22.493,
+        "mad_from_prev": 6.11,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0415_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 416,
+        "raw_frame_index": 676,
+        "timestamp_sec": 22.527,
+        "mad_from_prev": 3.23,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0416_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 417,
+        "raw_frame_index": 677,
+        "timestamp_sec": 22.56,
+        "mad_from_prev": 4.0,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0417_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 418,
+        "raw_frame_index": 678,
+        "timestamp_sec": 22.593,
+        "mad_from_prev": 5.0,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0418_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 419,
+        "raw_frame_index": 680,
+        "timestamp_sec": 22.66,
+        "mad_from_prev": 3.48,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0419_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 420,
+        "raw_frame_index": 681,
+        "timestamp_sec": 22.694,
+        "mad_from_prev": 5.46,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0420_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 421,
+        "raw_frame_index": 682,
+        "timestamp_sec": 22.727,
+        "mad_from_prev": 4.09,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0421_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 422,
+        "raw_frame_index": 683,
+        "timestamp_sec": 22.76,
+        "mad_from_prev": 4.55,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0422_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 423,
+        "raw_frame_index": 684,
+        "timestamp_sec": 22.794,
+        "mad_from_prev": 5.81,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0423_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 424,
+        "raw_frame_index": 685,
+        "timestamp_sec": 22.827,
+        "mad_from_prev": 3.45,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0424_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 425,
+        "raw_frame_index": 686,
+        "timestamp_sec": 22.86,
+        "mad_from_prev": 3.38,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0425_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 426,
+        "raw_frame_index": 687,
+        "timestamp_sec": 22.894,
+        "mad_from_prev": 5.16,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0426_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 427,
+        "raw_frame_index": 688,
+        "timestamp_sec": 22.927,
+        "mad_from_prev": 3.49,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0427_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 428,
+        "raw_frame_index": 689,
+        "timestamp_sec": 22.961,
+        "mad_from_prev": 2.9,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0428_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 429,
+        "raw_frame_index": 690,
+        "timestamp_sec": 22.994,
+        "mad_from_prev": 4.4,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0429_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 430,
+        "raw_frame_index": 691,
+        "timestamp_sec": 23.027,
+        "mad_from_prev": 3.06,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0430_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 431,
+        "raw_frame_index": 693,
+        "timestamp_sec": 23.094,
+        "mad_from_prev": 7.09,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0431_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 432,
+        "raw_frame_index": 694,
+        "timestamp_sec": 23.127,
+        "mad_from_prev": 3.5,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0432_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 433,
+        "raw_frame_index": 695,
+        "timestamp_sec": 23.161,
+        "mad_from_prev": 3.52,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0433_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 434,
+        "raw_frame_index": 696,
+        "timestamp_sec": 23.194,
+        "mad_from_prev": 3.94,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0434_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 435,
+        "raw_frame_index": 698,
+        "timestamp_sec": 23.261,
+        "mad_from_prev": 3.68,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0435_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 436,
+        "raw_frame_index": 699,
+        "timestamp_sec": 23.294,
+        "mad_from_prev": 3.17,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0436_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 437,
+        "raw_frame_index": 700,
+        "timestamp_sec": 23.328,
+        "mad_from_prev": 4.56,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0437_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 438,
+        "raw_frame_index": 702,
+        "timestamp_sec": 23.394,
+        "mad_from_prev": 4.21,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0438_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 439,
+        "raw_frame_index": 703,
+        "timestamp_sec": 23.428,
+        "mad_from_prev": 3.49,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0439_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 440,
+        "raw_frame_index": 705,
+        "timestamp_sec": 23.495,
+        "mad_from_prev": 5.64,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0440_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 441,
+        "raw_frame_index": 706,
+        "timestamp_sec": 23.528,
+        "mad_from_prev": 6.18,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0441_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 442,
+        "raw_frame_index": 707,
+        "timestamp_sec": 23.561,
+        "mad_from_prev": 3.93,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0442_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 443,
+        "raw_frame_index": 708,
+        "timestamp_sec": 23.595,
+        "mad_from_prev": 4.39,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0443_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 444,
+        "raw_frame_index": 709,
+        "timestamp_sec": 23.628,
+        "mad_from_prev": 5.37,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0444_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 445,
+        "raw_frame_index": 711,
+        "timestamp_sec": 23.695,
+        "mad_from_prev": 4.5,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0445_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 446,
+        "raw_frame_index": 712,
+        "timestamp_sec": 23.728,
+        "mad_from_prev": 4.55,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0446_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 447,
+        "raw_frame_index": 714,
+        "timestamp_sec": 23.795,
+        "mad_from_prev": 3.99,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0447_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 448,
+        "raw_frame_index": 715,
+        "timestamp_sec": 23.828,
+        "mad_from_prev": 4.85,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0448_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 449,
+        "raw_frame_index": 716,
+        "timestamp_sec": 23.862,
+        "mad_from_prev": 2.95,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0449_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 450,
+        "raw_frame_index": 717,
+        "timestamp_sec": 23.895,
+        "mad_from_prev": 3.35,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0450_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 451,
+        "raw_frame_index": 718,
+        "timestamp_sec": 23.928,
+        "mad_from_prev": 5.85,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0451_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 452,
+        "raw_frame_index": 719,
+        "timestamp_sec": 23.962,
+        "mad_from_prev": 3.7,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0452_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 453,
+        "raw_frame_index": 720,
+        "timestamp_sec": 23.995,
+        "mad_from_prev": 4.37,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0453_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 454,
+        "raw_frame_index": 721,
+        "timestamp_sec": 24.029,
+        "mad_from_prev": 5.13,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0454_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 455,
+        "raw_frame_index": 723,
+        "timestamp_sec": 24.095,
+        "mad_from_prev": 3.33,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0455_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 456,
+        "raw_frame_index": 724,
+        "timestamp_sec": 24.129,
+        "mad_from_prev": 5.06,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0456_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 457,
+        "raw_frame_index": 726,
+        "timestamp_sec": 24.195,
+        "mad_from_prev": 4.41,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0457_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 458,
+        "raw_frame_index": 727,
+        "timestamp_sec": 24.229,
+        "mad_from_prev": 4.48,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0458_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 459,
+        "raw_frame_index": 729,
+        "timestamp_sec": 24.295,
+        "mad_from_prev": 5.83,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0459_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 460,
+        "raw_frame_index": 730,
+        "timestamp_sec": 24.329,
+        "mad_from_prev": 6.64,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0460_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 461,
+        "raw_frame_index": 732,
+        "timestamp_sec": 24.396,
+        "mad_from_prev": 3.93,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0461_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 462,
+        "raw_frame_index": 733,
+        "timestamp_sec": 24.429,
+        "mad_from_prev": 4.32,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0462_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 463,
+        "raw_frame_index": 735,
+        "timestamp_sec": 24.496,
+        "mad_from_prev": 3.9,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0463_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 464,
+        "raw_frame_index": 736,
+        "timestamp_sec": 24.529,
+        "mad_from_prev": 4.86,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0464_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 465,
+        "raw_frame_index": 737,
+        "timestamp_sec": 24.562,
+        "mad_from_prev": 3.12,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0465_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 466,
+        "raw_frame_index": 738,
+        "timestamp_sec": 24.596,
+        "mad_from_prev": 3.39,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0466_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 467,
+        "raw_frame_index": 739,
+        "timestamp_sec": 24.629,
+        "mad_from_prev": 5.95,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0467_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 468,
+        "raw_frame_index": 741,
+        "timestamp_sec": 24.696,
+        "mad_from_prev": 3.71,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0468_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 469,
+        "raw_frame_index": 742,
+        "timestamp_sec": 24.729,
+        "mad_from_prev": 5.12,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0469_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 470,
+        "raw_frame_index": 744,
+        "timestamp_sec": 24.796,
+        "mad_from_prev": 4.06,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0470_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 471,
+        "raw_frame_index": 745,
+        "timestamp_sec": 24.829,
+        "mad_from_prev": 5.72,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0471_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 472,
+        "raw_frame_index": 747,
+        "timestamp_sec": 24.896,
+        "mad_from_prev": 3.33,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0472_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 473,
+        "raw_frame_index": 748,
+        "timestamp_sec": 24.93,
+        "mad_from_prev": 4.3,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0473_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 474,
+        "raw_frame_index": 750,
+        "timestamp_sec": 24.996,
+        "mad_from_prev": 3.91,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0474_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 475,
+        "raw_frame_index": 751,
+        "timestamp_sec": 25.03,
+        "mad_from_prev": 5.32,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0475_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 476,
+        "raw_frame_index": 752,
+        "timestamp_sec": 25.063,
+        "mad_from_prev": 3.07,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0476_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 477,
+        "raw_frame_index": 753,
+        "timestamp_sec": 25.096,
+        "mad_from_prev": 3.65,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0477_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 478,
+        "raw_frame_index": 754,
+        "timestamp_sec": 25.13,
+        "mad_from_prev": 4.99,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0478_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 479,
+        "raw_frame_index": 757,
+        "timestamp_sec": 25.23,
+        "mad_from_prev": 6.26,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0479_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 480,
+        "raw_frame_index": 759,
+        "timestamp_sec": 25.297,
+        "mad_from_prev": 3.53,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0480_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 481,
+        "raw_frame_index": 760,
+        "timestamp_sec": 25.33,
+        "mad_from_prev": 4.92,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0481_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 482,
+        "raw_frame_index": 763,
+        "timestamp_sec": 25.43,
+        "mad_from_prev": 7.0,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0482_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 483,
+        "raw_frame_index": 766,
+        "timestamp_sec": 25.53,
+        "mad_from_prev": 7.32,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0483_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 484,
+        "raw_frame_index": 769,
+        "timestamp_sec": 25.63,
+        "mad_from_prev": 6.61,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0484_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 485,
+        "raw_frame_index": 772,
+        "timestamp_sec": 25.731,
+        "mad_from_prev": 7.01,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0485_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 486,
+        "raw_frame_index": 775,
+        "timestamp_sec": 25.831,
+        "mad_from_prev": 6.64,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0486_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 487,
+        "raw_frame_index": 778,
+        "timestamp_sec": 25.931,
+        "mad_from_prev": 6.81,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0487_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 488,
+        "raw_frame_index": 781,
+        "timestamp_sec": 26.031,
+        "mad_from_prev": 6.69,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0488_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 489,
+        "raw_frame_index": 784,
+        "timestamp_sec": 26.131,
+        "mad_from_prev": 7.28,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0489_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 490,
+        "raw_frame_index": 786,
+        "timestamp_sec": 26.198,
+        "mad_from_prev": 4.21,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0490_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 491,
+        "raw_frame_index": 787,
+        "timestamp_sec": 26.231,
+        "mad_from_prev": 5.69,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0491_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 492,
+        "raw_frame_index": 790,
+        "timestamp_sec": 26.331,
+        "mad_from_prev": 6.22,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0492_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 493,
+        "raw_frame_index": 793,
+        "timestamp_sec": 26.431,
+        "mad_from_prev": 6.6,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0493_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 494,
+        "raw_frame_index": 796,
+        "timestamp_sec": 26.531,
+        "mad_from_prev": 7.03,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0494_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 495,
+        "raw_frame_index": 799,
+        "timestamp_sec": 26.632,
+        "mad_from_prev": 6.94,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0495_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 496,
+        "raw_frame_index": 802,
+        "timestamp_sec": 26.732,
+        "mad_from_prev": 7.36,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0496_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 497,
+        "raw_frame_index": 805,
+        "timestamp_sec": 26.832,
+        "mad_from_prev": 7.88,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0497_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 498,
+        "raw_frame_index": 808,
+        "timestamp_sec": 26.932,
+        "mad_from_prev": 7.35,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0498_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 499,
+        "raw_frame_index": 811,
+        "timestamp_sec": 27.032,
+        "mad_from_prev": 6.99,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0499_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 500,
+        "raw_frame_index": 814,
+        "timestamp_sec": 27.132,
+        "mad_from_prev": 7.04,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0500_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 501,
+        "raw_frame_index": 816,
+        "timestamp_sec": 27.199,
+        "mad_from_prev": 3.51,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0501_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 502,
+        "raw_frame_index": 817,
+        "timestamp_sec": 27.232,
+        "mad_from_prev": 6.66,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0502_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 503,
+        "raw_frame_index": 820,
+        "timestamp_sec": 27.332,
+        "mad_from_prev": 7.68,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0503_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 504,
+        "raw_frame_index": 823,
+        "timestamp_sec": 27.433,
+        "mad_from_prev": 7.87,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0504_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 505,
+        "raw_frame_index": 825,
+        "timestamp_sec": 27.499,
+        "mad_from_prev": 3.44,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0505_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 506,
+        "raw_frame_index": 826,
+        "timestamp_sec": 27.533,
+        "mad_from_prev": 44.23,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0506_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 507,
+        "raw_frame_index": 827,
+        "timestamp_sec": 27.566,
+        "mad_from_prev": 4.76,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0507_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 508,
+        "raw_frame_index": 829,
+        "timestamp_sec": 27.633,
+        "mad_from_prev": 7.46,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0508_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 509,
+        "raw_frame_index": 832,
+        "timestamp_sec": 27.733,
+        "mad_from_prev": 9.04,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0509_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 510,
+        "raw_frame_index": 835,
+        "timestamp_sec": 27.833,
+        "mad_from_prev": 8.93,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0510_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 511,
+        "raw_frame_index": 838,
+        "timestamp_sec": 27.933,
+        "mad_from_prev": 8.7,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0511_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 512,
+        "raw_frame_index": 840,
+        "timestamp_sec": 28.0,
+        "mad_from_prev": 3.9,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0512_Axial_SourceSlice.png"
+      },
+      {
+        "unique_index": 513,
+        "raw_frame_index": 841,
+        "timestamp_sec": 28.033,
+        "mad_from_prev": 7.18,
+        "filename": "MRA_2026-11-05_Video01_3D_TOF_Frame_0513_Axial_SourceSlice.png"
+      }
+    ]
+  },
+  "upright_films_exported": [
+    {
+      "source": "MRI_2026-11-05_Film01_Sagittal_T1W_SE_Brain_Midline_NormalBrainstem.jpg",
+      "output_png": "01_Structured_and_Renamed_Inputs\\02_Extracted_and_Enhanced_MRI_Frames\\01_Axial_T1_T2_FLAIR_Brain_and_BasalGanglia\\MRI_2026-11-05_Film01_Sagittal_T1W_SE_Brain_Midline_NormalBrainstem_Upright.png",
+      "rotation_ccw_applied_deg": 0,
+      "size": [
+        720,
+        1280
+      ]
+    },
+    {
+      "source": "MRI_2026-11-05_Film05_Axial_DWI_ADC_NoAcuteRestrictedDiffusion.jpg",
+      "output_png": "01_Structured_and_Renamed_Inputs\\02_Extracted_and_Enhanced_MRI_Frames\\01_Axial_T1_T2_FLAIR_Brain_and_BasalGanglia\\MRI_2026-11-05_Film05_Axial_DWI_ADC_NoAcuteRestrictedDiffusion_Upright.png",
+      "rotation_ccw_applied_deg": 0,
+      "size": [
+        720,
+        1280
+      ]
+    },
+    {
+      "source": "MRI_2026-11-05_Film07_Axial_eFLAIR_CSVD_LacunarInfarcts_EthmoidSinusitis.jpg",
+      "output_png": "01_Structured_and_Renamed_Inputs\\02_Extracted_and_Enhanced_MRI_Frames\\01_Axial_T1_T2_FLAIR_Brain_and_BasalGanglia\\MRI_2026-11-05_Film07_Axial_eFLAIR_CSVD_LacunarInfarcts_EthmoidSinusitis_Upright.png",
+      "rotation_ccw_applied_deg": 0,
+      "size": [
+        720,
+        1280
+      ]
+    },
+    {
+      "source": "MRI_2026-11-05_Film08_Axial_T1W_SE_SulcalProminence_LtEyeSiliconeOil.jpg",
+      "output_png": "01_Structured_and_Renamed_Inputs\\02_Extracted_and_Enhanced_MRI_Frames\\01_Axial_T1_T2_FLAIR_Brain_and_BasalGanglia\\MRI_2026-11-05_Film08_Axial_T1W_SE_SulcalProminence_LtEyeSiliconeOil_Upright.png",
+      "rotation_ccw_applied_deg": 0,
+      "size": [
+        720,
+        1280
+      ]
+    },
+    {
+      "source": "MRI_2026-11-05_Film09_Axial_eT2W_TSE_Lacunes_IAC_EthmoidSinusitis.jpg",
+      "output_png": "01_Structured_and_Renamed_Inputs\\02_Extracted_and_Enhanced_MRI_Frames\\01_Axial_T1_T2_FLAIR_Brain_and_BasalGanglia\\MRI_2026-11-05_Film09_Axial_eT2W_TSE_Lacunes_IAC_EthmoidSinusitis_Upright.png",
+      "rotation_ccw_applied_deg": 180,
+      "size": [
+        720,
+        1280
+      ]
+    },
+    {
+      "source": "MRI_2026-11-05_Film10_Coronal_T2W_and_T1W_TSE_BasalGanglia_IAC_EthmoidSinusitis.jpg",
+      "output_png": "01_Structured_and_Renamed_Inputs\\02_Extracted_and_Enhanced_MRI_Frames\\01_Axial_T1_T2_FLAIR_Brain_and_BasalGanglia\\MRI_2026-11-05_Film10_Coronal_T2W_and_T1W_TSE_BasalGanglia_IAC_EthmoidSinusitis_Upright.png",
+      "rotation_ccw_applied_deg": 0,
+      "size": [
+        720,
+        1280
+      ]
+    },
+    {
+      "source": "MRA_2026-11-05_Film02_3D_TOF_Coronal_MIP_Intracranial_Arteries_Unremarkable.jpg",
+      "output_png": "01_Structured_and_Renamed_Inputs\\02_Extracted_and_Enhanced_MRI_Frames\\02_MRA_Intracranial_Arteries\\MRA_2026-11-05_Film02_3D_TOF_Coronal_MIP_Intracranial_Arteries_Unremarkable_Upright.png",
+      "rotation_ccw_applied_deg": 0,
+      "size": [
+        720,
+        1280
+      ]
+    },
+    {
+      "source": "MRA_2026-11-05_Film03_3D_TOF_Axial_MIP_CircleOfWillis_Unremarkable.jpg",
+      "output_png": "01_Structured_and_Renamed_Inputs\\02_Extracted_and_Enhanced_MRI_Frames\\02_MRA_Intracranial_Arteries\\MRA_2026-11-05_Film03_3D_TOF_Axial_MIP_CircleOfWillis_Unremarkable_Upright.png",
+      "rotation_ccw_applied_deg": -90,
+      "size": [
+        720,
+        1280
+      ]
+    },
+    {
+      "source": "MRA_2026-11-05_Film04a_3D_TOF_SagittalOblique_MIP_Intracranial_Arteries_Take1.jpg",
+      "output_png": "01_Structured_and_Renamed_Inputs\\02_Extracted_and_Enhanced_MRI_Frames\\02_MRA_Intracranial_Arteries\\MRA_2026-11-05_Film04a_3D_TOF_SagittalOblique_MIP_Intracranial_Arteries_Take1_Upright.png",
+      "rotation_ccw_applied_deg": 0,
+      "size": [
+        720,
+        1280
+      ]
+    },
+    {
+      "source": "MRA_2026-11-05_Film04b_3D_TOF_SagittalOblique_MIP_Intracranial_Arteries_Take2.jpg",
+      "output_png": "01_Structured_and_Renamed_Inputs\\02_Extracted_and_Enhanced_MRI_Frames\\02_MRA_Intracranial_Arteries\\MRA_2026-11-05_Film04b_3D_TOF_SagittalOblique_MIP_Intracranial_Arteries_Take2_Upright.png",
+      "rotation_ccw_applied_deg": 0,
+      "size": [
+        720,
+        1280
+      ]
+    },
+    {
+      "source": "MRV_2026-11-05_Film06_3D_PCA_Venography_Attenuated_Lt_Transverse_Sigmoid_IJV.jpg",
+      "output_png": "01_Structured_and_Renamed_Inputs\\02_Extracted_and_Enhanced_MRI_Frames\\03_MRV_Venous_Sinuses_and_Left_IJV\\MRV_2026-11-05_Film06_3D_PCA_Venography_Attenuated_Lt_Transverse_Sigmoid_IJV_Upright.png",
+      "rotation_ccw_applied_deg": 90,
+      "size": [
+        720,
+        1280
+      ]
+    }
+  ],
+  "radiology_report_pages": [
+    "01_Structured_and_Renamed_Inputs\\01_Neuroimaging_MRI_MRA_MRV_Videos\\Report_Pages\\RAD_2026-11-05_Report_Page01_MRI_Brain.png",
+    "01_Structured_and_Renamed_Inputs\\01_Neuroimaging_MRI_MRA_MRV_Videos\\Report_Pages\\RAD_2026-11-05_Report_Page02_MRA_Cerebral.png",
+    "01_Structured_and_Renamed_Inputs\\01_Neuroimaging_MRI_MRA_MRV_Videos\\Report_Pages\\RAD_2026-11-05_Report_Page03_MRV_Cerebral.png"
+  ],
+  "holter_pages": [
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page01_ReportSummary.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page02_24HourTrends.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page03_AbsoluteSTAnalysis.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page04_QTc_QT_3CH_Analysis.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page05_HeartRateVariability_HRV.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page06_FullDisclosure_Hour0900.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page07_FullDisclosure_Hour1000.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page08_FullDisclosure_Hour1100.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page09_FullDisclosure_Hour1200.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page10_FullDisclosure_Hour1300.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page11_FullDisclosure_Hour1400.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page12_FullDisclosure_Hour1500.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page13_FullDisclosure_Hour1600.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page14_FullDisclosure_Hour1700.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page15_FullDisclosure_Hour1800.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page16_FullDisclosure_Hour1900.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page17_FullDisclosure_Hour2000.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page18_FullDisclosure_Hour2100.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page19_FullDisclosure_Hour2200.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page20_FullDisclosure_Hour2300.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page21_FullDisclosure_Hour0000.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page22_FullDisclosure_Hour0100.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page23_FullDisclosure_Hour0200.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page24_FullDisclosure_Hour0300.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page25_FullDisclosure_Hour0400.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page26_FullDisclosure_Hour0500.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page27_FullDisclosure_Hour0600.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page28_FullDisclosure_Hour0700.png",
+    "01_Structured_and_Renamed_Inputs\\06_Cardiology_24h_Holter_ECG\\Extracted_Pages\\CARD_2026-11-05_Holter24h_Page29_FullDisclosure_Hour0800.png"
+  ]
+}

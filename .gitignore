@@ -1,0 +1,13 @@
+# Regenerable extracted video/PDF frame dumps & raw hash duplicate backup archive
+# (All 37 semantic inputs, 3 streaming MP4 videos, 11 ROI gallery plates,
+#  3 shareable PDFs, and scripts remain tracked so the web dashboard works 100% live.)
+01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/02_MRA_Intracranial_Arteries/Video01_Source_Slices/
+01_Structured_and_Renamed_Inputs/02_Extracted_and_Enhanced_MRI_Frames/04_CLAHE_ROI_Zoom_Left_Mastoid_Sigmoid_and_CPA/Full_Sheets_CLAHE/
+01_Structured_and_Renamed_Inputs/06_Cardiology_24h_Holter_ECG/Extracted_Pages/
+00_Raw_Backup_Archive/
+
+# Python / OS caches
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
